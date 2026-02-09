@@ -1,4 +1,5 @@
 no,category,subcategory,arxiv_url,title,citations,source
+1017,Scene Graph,Scene Graph Generation,http://arxiv.org/abs/2602.00637 ,VIZOR: Viewpoint-Invariant Zero-Shot Scene Graph Generation for 3D Scene Reasoning,0,manual
 1016,Reasoning,Reasoning,http://arxiv.org/abs/2602.00414 ,Toward Autonomous Laboratory Safety Monitoring with Vision Language Models: Learning to See Hazards Through Scene Structure,0,manual
 1015,Scene Graph,Synthesis,http://arxiv.org/abs/2601.21498 ,SimGraph: A Unified Framework for Scene Graph-Based Image Generation and Editing,0,manual
 1014,Scene Graph,Representation,http://arxiv.org/abs/2601.20355 ,CURVE: Learning Causality-Inspired Invariant Representations for Robust Scene Understanding via Uncertainty-Guided Regularization,0,manual

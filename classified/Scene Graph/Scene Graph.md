@@ -2,6 +2,7 @@
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1017 | 26.02 | Scene Graph | Scene Graph Generation | 👤 | [📎](http://arxiv.org/abs/2602.00637) | VIZOR: Viewpoint-Invariant Zero-Shot Scene Graph Generation for 3D Scene Reasoning | 0 |
 | 1015 | 26.01 | Scene Graph | Synthesis | 👤 | [📎](http://arxiv.org/abs/2601.21498) | SimGraph: A Unified Framework for Scene Graph-Based Image Generation and Editing | 0 |
 | 1014 | 26.01 | Scene Graph | Representation | 👤 | [📎](http://arxiv.org/abs/2601.20355) | CURVE: Learning Causality-Inspired Invariant Representations for Robust Scene Understanding via Uncertainty-Guided Regularization | 0 |
 | 1012 | 26.01 | Scene Graph | Synthesis | 👤 | [📎](http://arxiv.org/abs/2601.19433) | RoamScene3D: Immersive Text-to-3D Scene Generation via Adaptive Object-aware Roaming | 0 |

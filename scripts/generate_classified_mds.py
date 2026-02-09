@@ -56,15 +56,28 @@ def update_readme_categories(tree_md):
     with open(README_PATH, 'r', encoding='utf-8') as f:
         content = f.read()
 
-    category_header = "## 📚 Categories"
-    if category_header in content:
-        # Keep everything before the header, plus the header itself
-        prefix = content.split(category_header)[0] + category_header + "\n\n"
-        new_content = prefix + tree_md
+    header = "## 📚 Categories"
+    if header in content:
+        # split by header
+        prefix, rest = content.split(header, 1)
+        
+        # Determine where the category section ends
+        # Look for the next major separator like "---" or next "## "
+        # But specifically the prompt shows a "---" after the category list
+        suffix = ""
+        
+        # Look for the next separator after some content
+        marker = "\n---"
+        if marker in rest:
+            # We found a separator, keep it and everything after it
+            actual_rest = rest.split(marker, 1)[1]
+            suffix = marker + actual_rest
+        
+        new_content = prefix + header + "\n\n" + tree_md + "\n" + suffix
     else:
         # Append to the end if not found
-        new_content = content.rstrip() + "\n\n---\n\n" + category_header + "\n\n" + tree_md
-        print("Warning: '## 📚 Categories' header not found. Appending to the end of README.md.")
+        new_content = content.rstrip() + "\n\n---\n\n" + header + "\n\n" + tree_md
+        print(f"Warning: '{header}' header not found. Appending to the end of README.md.")
     
     with open(README_PATH, 'w', encoding='utf-8') as f:
         f.write(new_content)
@@ -117,7 +130,15 @@ def main():
         # 2. Subcategory-specific MDs
         # Sort subcategories: alphabetical but "Others" always last
         raw_subs = cat_df['subcategory'].unique()
-        subcategories = sorted(raw_subs, key=lambda x: (str(x).lower() == "others", str(x).lower() == "uncategorized", x))
+        def sub_sort_key(x):
+            x_str = str(x).strip()
+            x_lower = x_str.lower()
+            tail = ["others", "weakly related", "not related", "uncategorized"]
+            if x_lower in tail:
+                return (1, tail.index(x_lower), x_str)
+            return (0, 0, x_str)
+        
+        subcategories = sorted(raw_subs, key=sub_sort_key)
         
         for sub in subcategories:
             if pd.isna(sub): continue
