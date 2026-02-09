@@ -1,0 +1,11 @@
+{
+  "name": "paper-classifier",
+  "version": "1.0.0",
+  "scripts": {
+    "setup": "node setup.js",
+    "sync": "cd backend && node -e \"const child = require('child_process'); const python = process.platform === 'win32' ? 'venv/Scripts/python' : './venv/bin/python'; child.spawnSync(python, ['sync_papers.py'], { stdio: 'inherit' });\"",
+    "start": "npm run sync && npx concurrently \"npm run start-backend\" \"npm run start-frontend\"",
+    "start-backend": "cd backend && node -e \"const child = require('child_process'); const python = process.platform === 'win32' ? 'venv/Scripts/python' : './venv/bin/python'; child.spawnSync(python, ['main.py'], { stdio: 'inherit' });\"",
+    "start-frontend": "cd frontend && npm start"
+  }
+}
