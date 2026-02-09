@@ -1,0 +1,98 @@
+{
+  "version": "1.0",
+  "last_updated": "2026-02-09",
+  "categories": {
+    "Scene Graph": {
+      "description": "Scene graph generation, representation, and manipulation",
+      "subcategories": {
+        "Scene Graph Generation": {
+          "description": "Methods for generating scene graphs from images or videos"
+        },
+        "Dynamic Scene Graph": {
+          "description": "Temporal or dynamic scene graph construction and tracking"
+        },
+        "3D Scene Graph": {
+          "description": "3D scene understanding and spatial scene graphs"
+        },
+        "Representation": {
+          "description": "Scene graph representation methods and formats"
+        },
+        "General": {
+          "description": "General scene graph topics not fitting specific subcategories"
+        },
+        "Synthesis": {
+          "description": "Image generation from scene graphs"
+        },
+        "Dataset": {
+          "description": "Dataset"
+        },
+        "Others": {
+          "description": "Others"
+        }
+      }
+    },
+    "Reasoning": {
+      "description": "Reasoning tasks using scene graphs",
+      "subcategories": {
+        "Relationship": {
+          "description": "Relationship detection and reasoning"
+        },
+        "VQA": {
+          "description": "Visual Question Answering using scene graphs"
+        },
+        "Reasoning": {
+          "description": "General reasoning tasks and inference"
+        },
+        "VPR": {
+          "description": "Visual place recognition"
+        },
+        "Retrieval": {
+          "description": "Retrieval using scene graphs"
+        },
+        "Prediction": {
+          "description": "prediction using scene graphs"
+        },
+        "Others": {
+          "description": "Others"
+        }
+      }
+    },
+    "Robotics": {
+      "description": "Robotics applications using scene graphs",
+      "subcategories": {
+        "Navigation": {
+          "description": "Robot navigation and path planning"
+        },
+        "Manipulation": {
+          "description": "Object manipulation and grasping"
+        },
+        "Task-planning": {
+          "description": "Task planning and execution"
+        },
+        "General": {
+          "description": "General robotics applications"
+        }
+      }
+    },
+    "Others": {
+      "description": "Domain-specific applications",
+      "subcategories": {
+        "Medical": {
+          "description": "Medical imaging and healthcare applications"
+        },
+        "Autonomous Driving": {
+          "description": "Autonomous vehicles and traffic scenes"
+        },
+        "Not Related": {
+          "description": "not related to scene graph"
+        },
+        "Weakly Related": {
+          "description": "weakly related to scene graph"
+        },
+        "Uncategorized": {
+          "description": "Uncategorized"
+        }
+      }
+    }
+  }
+}
