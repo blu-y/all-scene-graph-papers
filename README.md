@@ -4,35 +4,6 @@
 
 ---
 
-## 🌟 paper_classifier
-
-논문 초록(Abstract)과 PDF 원본을 읽고 카테고리별로 분류할 수 있는 웹 기반 도구입니다.
-
-- 모든 분류 결과는 `scene_graph_papers_minimal.csv`에 저장
-- 한글 번역은 google 번역 서비스를 이용.
-
-#### 📋 필요 조건 (Requirements)
-
-- **Node.js**: v16.14.0 이상 (v18+ 권장)
-- **Python**: v3.8 이상 (`python3` 명령어가 터미널에서 실행 가능해야 합니다)
-- **npm**: Node.js 설치 시 함께 설치됩니다.
-
-#### 🚀 빠른 시작 (Quick Start)
-
-```bash
-cd paper_classifier
-npm run setup # 최초 1회
-npm start # 실행
-```
-
-#### [🛠 상세 설정 가이드](./paper_classifier/README.md) (수동 설치 시)
-
-#### 📂 새 논문 추가 방법
-
-ArXiv ID가 포함된 PDF 파일(예: `2601.12345v1.pdf`)을 `pdfs/` 폴더에 넣고, `npm start`를 실행합니다.
-
----
-
 ## 📚 Categories
 
 - [**Scene Graph**](./classified/Scene%20Graph/Scene%20Graph.md)
@@ -61,5 +32,35 @@ ArXiv ID가 포함된 PDF 파일(예: `2601.12345v1.pdf`)을 `pdfs/` 폴더에 �
 - [**Others**](./classified/Others/Others.md)
   - [Autonomous Driving](./classified/Others/Others-Autonomous%20Driving.md)
   - [Medical](./classified/Others/Others-Medical.md)
-  - [Not Related](./classified/Others/Others-Not%20Related.md)
   - [Weakly Related](./classified/Others/Others-Weakly%20Related.md)
+  - [Not Related](./classified/Others/Others-Not%20Related.md)
+
+
+---
+
+## 🌟 paper_classifier
+
+논문 초록(Abstract)과 PDF 원본을 읽고 카테고리별로 분류할 수 있는 웹 기반 도구입니다.
+
+- 모든 분류 결과는 `scene_graph_papers_minimal.csv`에 저장
+- 한글 번역은 google 번역 서비스를 이용.
+
+#### 📋 필요 조건 (Requirements)
+
+- **Node.js**: v16.14.0 이상 (v18+ 권장)
+- **Python**: v3.8 이상 (`python3` 명령어가 터미널에서 실행 가능해야 합니다)
+- **npm**: Node.js 설치 시 함께 설치됩니다.
+
+#### 🚀 빠른 시작 (Quick Start)
+
+```bash
+cd paper_classifier
+npm run setup # 최초 1회
+npm start # 실행
+```
+
+#### [🛠 상세 설정 가이드](./paper_classifier/README.md) (수동 설치 시)
+
+#### 📂 새 논문 추가 방법
+
+ArXiv ID가 포함된 PDF 파일(예: `2601.12345v1.pdf`)을 `pdfs/` 폴더에 넣고, `npm start`를 실행합니다.

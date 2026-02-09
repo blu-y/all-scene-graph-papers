@@ -2,6 +2,7 @@
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1017 | 26.02 | Scene Graph | Scene Graph Generation | 👤 | [📎](http://arxiv.org/abs/2602.00637) | VIZOR: Viewpoint-Invariant Zero-Shot Scene Graph Generation for 3D Scene Reasoning | 0 |
 | 1003 | 26.01 | Scene Graph | Scene Graph Generation | 👤 | [📎](http://arxiv.org/abs/2601.08728) | Salience-SGG: Enhancing Unbiased Scene Graph Generation with Iterative Salience Estimation | 0 |
 | 992 | 25.12 | Scene Graph | Scene Graph Generation | 👤 | [📎](http://arxiv.org/abs/2512.23024) | With Great Context Comes Great Prediction Power: Classifying Objects via Geo-Semantic Scene Graphs | 0 |
 | 988 | 25.12 | Scene Graph | Scene Graph Generation | 👤 | [📎](http://arxiv.org/abs/2512.19221) | From Pixels to Predicates Structuring urban perception with scene graphs | 0 |
