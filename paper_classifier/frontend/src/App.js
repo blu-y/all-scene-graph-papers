@@ -18,6 +18,7 @@ function App() {
   const [loading, setLoading] = useState(false);
   const [message, setMessage] = useState('');
   const [jumpNo, setJumpNo] = useState('');
+  const [isAscending, setIsAscending] = useState(false);
 
   const showMessage = (text, type = 'info') => {
     setMessage({ text, type });
@@ -66,6 +67,11 @@ function App() {
     }
   };
 
+  const getNextEndpoint = (paperNo, ascending) => {
+    const direction = ascending ? 'next-asc' : 'next';
+    return `${API_BASE}/api/papers/${paperNo}/${direction}`;
+  };
+
   // Load initial data
   useEffect(() => {
     const loadInitialPaper = async () => {
@@ -112,7 +118,9 @@ function App() {
       showMessage('Classification saved!', 'success');
       
       // Load next paper
-      const nextResponse = await axios.get(`${API_BASE}/api/papers/${currentPaper.no}/next`);
+      const nextResponse = await axios.get(
+        getNextEndpoint(currentPaper.no, isAscending)
+      );
       
       if (nextResponse.data.next_no) {
         await loadPaper(nextResponse.data.next_no);
@@ -137,7 +145,9 @@ function App() {
 
     try {
       setLoading(true);
-      const response = await axios.get(`${API_BASE}/api/papers/${currentPaper.no}/next`);
+      const response = await axios.get(
+        getNextEndpoint(currentPaper.no, isAscending)
+      );
       
       if (response.data.next_no) {
         await loadPaper(response.data.next_no);
@@ -241,6 +251,31 @@ function App() {
     await loadPaper(no);
   };
 
+  const handleToggleDirection = async () => {
+    if (!stats) return;
+
+    const nextAscending = !isAscending;
+    setIsAscending(nextAscending);
+
+    try {
+      setLoading(true);
+      const startNo = nextAscending ? 1 : stats.total;
+      const response = await axios.get(
+        getNextEndpoint(startNo, nextAscending)
+      );
+
+      if (response.data.next_no) {
+        await loadPaper(response.data.next_no);
+      } else {
+        showMessage('No more papers to classify', 'info');
+      }
+    } catch (error) {
+      showMessage(`Error loading next paper: ${error.message}`, 'error');
+    } finally {
+      setLoading(false);
+    }
+  };
+
   const handleAddCategory = async (categoryData) => {
     try {
       await axios.post(`${API_BASE}/api/categories`, categoryData);
@@ -250,6 +285,11 @@ function App() {
       showMessage(`Error adding category: ${error.message}`, 'error');
     }
   };
+
+  const canGoDown = !!currentPaper && currentPaper.no > 1;
+  const canGoUp = !!currentPaper && !!stats && currentPaper.no < stats.total;
+  const previousDisabled = loading || (isAscending ? !canGoDown : !canGoUp);
+  const nextDisabled = loading || (isAscending ? !canGoUp : !canGoDown);
 
   return (
     <div className="App">
@@ -306,16 +346,16 @@ function App() {
         <div className="footer-left">
           <button
             type="button"
-            onClick={handlePrevious}
-            disabled={loading || !currentPaper || !stats || currentPaper.no >= stats.total}
+            onClick={isAscending ? handleNext : handlePrevious}
+            disabled={previousDisabled}
             className="btn btn-secondary"
           >
             ← Previous
           </button>
           <button
             type="button"
-            onClick={handleNext}
-            disabled={loading || !currentPaper || currentPaper.no <= 1}
+            onClick={isAscending ? handlePrevious : handleNext}
+            disabled={nextDisabled}
             className="btn btn-secondary"
           >
             Next →
@@ -329,6 +369,16 @@ function App() {
               className="jump-input"
             />
             <button type="submit" className="btn btn-secondary btn-small">Go</button>
+            <button
+              type="button"
+              onClick={handleToggleDirection}
+              disabled={loading || !stats}
+              className={`btn btn-small btn-toggle${isAscending ? ' active' : ''}`}
+              aria-label={isAscending ? 'Ascending order' : 'Descending order'}
+              title={isAscending ? 'Ascending (1 to up)' : `Descending (${stats?.total || '?'})`}
+            >
+              {isAscending ? '↑' : '↓'}
+            </button>
           </form>
         </div>
         <div className="footer-right">

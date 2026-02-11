@@ -34,7 +34,12 @@ app.add_middleware(
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
-    expose_headers=["Content-Range", "Content-Length", "Accept-Ranges", "Content-Disposition"],
+    expose_headers=[
+        "Content-Range",
+        "Content-Length",
+        "Accept-Ranges",
+        "Content-Disposition",
+    ],
 )
 
 # Paths
@@ -123,16 +128,16 @@ def load_classifications():
             category = row.get("category", "").strip()
             subcategory = row.get("subcategory", "").strip()
             source = row.get("source", "").strip()
-            
+
             if category and subcategory:
                 classifications[no] = {
                     "paper_no": no,
                     "category": category,
                     "subcategory": subcategory,
                     "source": source or "ai_generated",
-                    "timestamp": None # CSV doesn't store timestamps currently
+                    "timestamp": None,  # CSV doesn't store timestamps currently
                 }
-    
+
     classifications_cache = classifications
     print(f"Loaded {len(classifications_cache)} classifications from CSV")
 
@@ -191,9 +196,12 @@ def translate_abstract(text: str):
     """Translate abstract to Korean using deep-translator or placeholder"""
     try:
         from deep_translator import GoogleTranslator
+
         return GoogleTranslator(source="en", target="ko").translate(text)
     except ImportError:
-        print("Warning: deep-translator not installed. Please run 'pip install deep-translator'")
+        print(
+            "Warning: deep-translator not installed. Please run 'pip install deep-translator'"
+        )
         return "SEOUL (번역 대기 중): " + text[:100] + "..."
     except Exception as e:
         print(f"Translation error: {e}")
@@ -230,7 +238,9 @@ def sync_new_pdfs():
         arxiv_url = f"http://arxiv.org/abs/{arxiv_id}"
 
         if arxiv_url in existing_urls:
-            print(f"Paper {arxiv_id} already exists in CSV, deleting redundant PDF file.")
+            print(
+                f"Paper {arxiv_id} already exists in CSV, deleting redundant PDF file."
+            )
             pdf_path.unlink()
             continue
 
@@ -239,9 +249,9 @@ def sync_new_pdfs():
         if not metadata:
             print(f"Failed to fetch metadata for {arxiv_id}, skipping.")
             continue
-            
+
         citations = get_openalex_citations(arxiv_id)
-        time.sleep(0.5) # Be polite to APIs
+        time.sleep(0.5)  # Be polite to APIs
 
         print(f"Translating abstract for {arxiv_id}...")
         abstract_kor = translate_abstract(metadata["abstract"])
@@ -373,7 +383,7 @@ async def get_paper_classification(no: int):
 async def get_next_paper(no: int):
     """Get next unclassified or AI-classified paper"""
     target_sources = {"ai_generated", "uncategorized"}
-    
+
     unclassified_nos = {
         paper_no
         for paper_no, c in classifications_cache.items()
@@ -381,6 +391,30 @@ async def get_next_paper(no: int):
     }
 
     all_nos = sorted(papers_cache.keys(), reverse=True)
+    current_idx = all_nos.index(no) if no in all_nos else -1
+
+    for next_no in all_nos[current_idx + 1 :]:
+        if next_no in unclassified_nos:
+            return {"next_no": next_no}
+
+    for next_no in all_nos:
+        if next_no in unclassified_nos:
+            return {"next_no": next_no}
+
+    return {"next_no": None, "message": "All papers manually classified!"}
+
+
+@app.get("/api/papers/{no}/next-asc")
+async def get_next_paper_ascending(no: int):
+    target_sources = {"ai_generated", "uncategorized"}
+
+    unclassified_nos = {
+        paper_no
+        for paper_no, c in classifications_cache.items()
+        if c.get("source") in target_sources
+    }
+
+    all_nos = sorted(papers_cache.keys())
     current_idx = all_nos.index(no) if no in all_nos else -1
 
     for next_no in all_nos[current_idx + 1 :]:
@@ -485,7 +519,10 @@ async def classify_paper(classification: Classification):
 
     # Determine source: if set to Others-Uncategorized, treat as uncategorized
     source = "manual"
-    if classification.category == "Others" and classification.subcategory == "Uncategorized":
+    if (
+        classification.category == "Others"
+        and classification.subcategory == "Uncategorized"
+    ):
         source = "uncategorized"
 
     # Update cache
@@ -567,9 +604,9 @@ async def finish_classification():
     try:
         # Run the generation script
         script_path = BASE_DIR.parent / "scripts" / "generate_classified_mds.py"
-        
+
         # Determine python executable (backend venv)
-        if os.name == 'nt':
+        if os.name == "nt":
             python_executable = BASE_DIR / "backend" / "venv" / "Scripts" / "python.exe"
         else:
             python_executable = BASE_DIR / "backend" / "venv" / "bin" / "python3"
@@ -583,7 +620,7 @@ async def finish_classification():
         print(f"Running generation script: {script_path}")
         subprocess.run([python_executable, str(script_path)], check=True)
         print("Generation script completed successfully.")
-        
+
         # Shutdown signal
         # We'll use a delayed shutdown to allow the response to reach the client
         def shutdown():
@@ -598,7 +635,9 @@ async def finish_classification():
 
         threading.Thread(target=shutdown).start()
 
-        return {"message": "Classification complete. Markdown files generated. Shutting down..."}
+        return {
+            "message": "Classification complete. Markdown files generated. Shutting down..."
+        }
     except Exception as e:
         print(f"Error in finish_classification: {e}")
         raise HTTPException(status_code=500, detail=str(e))
