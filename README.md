@@ -1,6 +1,6 @@
 # All arXiv Scene Graph Papers Classified
 
-Reposity for classifying all arXiv scene graph papers.
+Reposity for classifying all arXiv scene graph papers.  
 장면 그래프(Scene Graph) 관련 arXiv 논문을 분류하기 위한 저장소입니다.
 
 ---
