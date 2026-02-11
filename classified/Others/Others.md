@@ -9,7 +9,7 @@
 | 989 | 25.12 | Others | Autonomous Driving | 👤 | [📎](http://arxiv.org/abs/2512.21133) | SparScene: Efficient Traffic Scene Representation via Sparse Graph Learning for Large-Scale Trajectory Generation | 0 |
 | 984 | 25.12 | Others | Autonomous Driving | 👤 | [📎](http://arxiv.org/abs/2512.17445) | LangDriveCTRL: Natural Language Controllable Driving Scene Editing with Multi-modal Agents | 0 |
 | 979 | 25.12 | Others | Medical | 👤 | [📎](http://arxiv.org/abs/2512.14092) | ProtoFlow: Interpretable and Robust Surgical Workflow Modeling with Learned Dynamic Scene Graph Prototypes | 0 |
-| 957 | 25.11 | Others | Autonomous Driving | 🤖 | [📎](http://arxiv.org/abs/2511.14430) | Abstract Scene Graphs: Formalizing and Monitoring Spatial Properties of Automated Driving Functions | 0 |
+| 957 | 25.11 | Others | Autonomous Driving | 👤 | [📎](http://arxiv.org/abs/2511.14430) | Abstract Scene Graphs: Formalizing and Monitoring Spatial Properties of Automated Driving Functions | 0 |
 | 953 | 25.11 | Others | Autonomous Driving | 🤖 | [📎](http://arxiv.org/abs/2511.11266) | GraphPilot: Grounded Scene Graph Conditioning for Language-Based Autonomous Driving | 0 |
 | 910 | 25.09 | Others | Medical | 🤖 | [📎](http://arxiv.org/abs/2509.22014) | Lightweight Structured Multimodal Reasoning for Clinical Scene Understanding in Robotics | 0 |
 | 906 | 25.09 | Others | Medical | 🤖 | [📎](http://arxiv.org/abs/2509.20941) | Decoding the Surgical Scene: A Scoping Review of Scene Graphs in Surgery | 0 |
@@ -51,5 +51,21 @@
 | 148 | 20.11 | Others | Autonomous Driving | 🤖 | [📎](http://arxiv.org/abs/2011.13588) | Road Scene Graph: A Semantic Graph-Based Scene Representation Dataset for Intelligent Vehicles | 20 |
 | 127 | 20.09 | Others | Autonomous Driving | 🤖 | [📎](http://arxiv.org/abs/2009.06435) | Scene-Graph Augmented Data-Driven Risk Assessment of Autonomous Vehicle Decisions | 5 |
 | 114 | 20.07 | Others | Medical | 🤖 | [📎](http://arxiv.org/abs/2007.03357) | Learning and Reasoning with the Graph Structure Representation in Robotic Surgery | 0 |
+| 83 | 19.11 | Others | Not Related | 👤 | [📎](http://arxiv.org/abs/1911.07527) | SOGNet: Scene Overlap Graph Network for Panoptic Segmentation | 6 |
+| 77 | 19.10 | Others | Weakly Related | 👤 | [📎](http://arxiv.org/abs/1910.01198) | Using Image Priors to Improve Scene Understanding | 0 |
+| 66 | 19.08 | Others | Weakly Related | 👤 | [📎](http://arxiv.org/abs/1908.02436) | Continuous Graph Flow | 3 |
+| 64 | 19.06 | Others | Not Related | 👤 | [📎](http://arxiv.org/abs/1906.08707) | The Limited Multi-Label Projection Layer | 13 |
+| 60 | 19.05 | Others | Not Related | 👤 | [📎](http://arxiv.org/abs/1905.09891) | Adding Intuitive Physics to Neural-Symbolic Capsules Using Interaction Networks | 1 |
+| 59 | 19.05 | Others | Not Related | 👤 | [📎](http://arxiv.org/abs/1905.05143) | VideoGraph: Recognizing Minutes-Long Human Activities in Videos | 46 |
+| 55 | 19.04 | Others | Weakly Related | 👤 | [📎](http://arxiv.org/abs/1904.11621) | Meta-Sim: Learning to Generate Synthetic Datasets | - |
+| 54 | 19.04 | Others | Not Related | 👤 | [📎](http://arxiv.org/abs/1904.09626) | Deep Metric Learning Beyond Binary Supervision | 10 |
+| 53 | 19.04 | Others | Not Related | 👤 | [📎](http://arxiv.org/abs/1904.09447) | An Unsupervised Joint System for Text Generation from Knowledge Graphs and Semantic Parsing | - |
+| 51 | 19.04 | Others | Weakly Related | 👤 | [📎](http://arxiv.org/abs/1904.03177) | Structured agents for physical construction | 2 |
+| 46 | 19.03 | Others | Weakly Related | 👤 | [📎](http://arxiv.org/abs/1903.05434) | Visual Semantic Information Pursuit: A Survey | 3 |
+| 38 | 19.01 | Others | Not Related | 👤 | [📎](http://arxiv.org/abs/1901.10124) | Adversarial Adaptation of Scene Graph Models for Understanding Civic Issues | 2 |
+| 35 | 18.12 | Others | Weakly Related | 👤 | [📎](http://arxiv.org/abs/1812.08434) | Graph Neural Networks: A Review of Methods and Applications | 1450 |
+| 24 | 18.10 | Others | Active Learning | 👤 | [📎](http://arxiv.org/abs/1810.00912) | Visual Curiosity: Learning to Ask Questions to Learn Visual Recognition | 2 |
+| 9 | 17.05 | Others | Weakly Related | 👤 | [📎](http://arxiv.org/abs/1705.01661) | Learning Hierarchical Shape Segmentation and Labeling from Online Repositories | 0 |
+| 3 | 14.08 | Others | Not Related | 👤 | [📎](http://arxiv.org/abs/1408.0200) | Towards a Domain Specific Language for a Scene Graph based Robotic World Model | 12 |
 | 2 | 13.08 | Others | Not Related | 👤 | [📎](http://arxiv.org/abs/1308.5843) | Affordable Virtual Reality System Architecture for Representation of Implicit Object Properties | 9 |
 | 1 | 11.05 | Others | Not Related | 👤 | [📎](http://arxiv.org/abs/1105.2890) | Improving Usability of Interactive Graphics Specification and Implementation with Picking Views and Inverse Transformations | 3 |

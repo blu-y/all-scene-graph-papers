@@ -2,7 +2,6 @@
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
-| 965 | 25.11 | Robotics | Robotic Perception | 🤖 | [📎](http://arxiv.org/abs/2511.20937) | ENACT: Evaluating Embodied Cognition with World Modeling of Egocentric Interaction | 0 |
 | 954 | 25.11 | Robotics | Robotic Perception | 🤖 | [📎](http://arxiv.org/abs/2511.12676) | BridgeEQA: Virtual Embodied Agents for Real Bridge Inspections | 0 |
 | 941 | 25.10 | Robotics | Robotic Perception | 🤖 | [📎](http://arxiv.org/abs/2510.27033) | A Multi-Modal Neuro-Symbolic Approach for Spatial Reasoning-Based Visual Grounding in Robotics | 0 |
 | 934 | 25.10 | Robotics | Robotic Perception | 🤖 | [📎](http://arxiv.org/abs/2510.18697) | Event-Grounding Graph: Unified Spatio-Temporal Scene Graph from Robotic Observations | 0 |
@@ -36,4 +35,3 @@
 | 222 | 21.09 | Robotics | Robotic Perception | 🤖 | [📎](http://arxiv.org/abs/2109.07872) | Knowledge-based Embodied Question Answering | - |
 | 206 | 21.08 | Robotics | Robotic Perception | 🤖 | [📎](http://arxiv.org/abs/2108.03554) | Semantic-Based Explainable AI: Leveraging Semantic Scene Graphs and Pairwise Ranking to Explain Robot Failures | 0 |
 | 147 | 20.11 | Robotics | Robotic Perception | 🤖 | [📎](http://arxiv.org/abs/2011.11397) | Imagination-enabled Robot Perception | - |
-| 3 | 14.08 | Robotics | Robotic Perception | 🤖 | [📎](http://arxiv.org/abs/1408.0200) | Towards a Domain Specific Language for a Scene Graph based Robotic World Model | 12 |

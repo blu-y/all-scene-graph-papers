@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-02-09",
+  "last_updated": "2026-02-11",
   "categories": {
     "Scene Graph": {
       "description": "Scene graph generation, representation, and manipulation",
@@ -23,11 +23,14 @@
         "Synthesis": {
           "description": "Image generation from scene graphs"
         },
-        "Dataset": {
-          "description": "Dataset"
+        "Dataset/Benchmark": {
+          "description": "Dataset/Benchmark"
         },
         "Others": {
           "description": "Others"
+        },
+        "Scene Graph Parsing": {
+          "description": "Parsing description to scene graph"
         }
       }
     },
@@ -54,6 +57,12 @@
         },
         "Others": {
           "description": "Others"
+        },
+        "Scene understanding": {
+          "description": "Scene understanding using scene graphs"
+        },
+        "Captioning": {
+          "description": "Image captioning using scene graphs"
         }
       }
     },
@@ -84,13 +93,16 @@
           "description": "Autonomous vehicles and traffic scenes"
         },
         "Not Related": {
-          "description": "not related to scene graph"
+          "description": "not related to scene graph itself. peripheral, minor applications"
         },
         "Weakly Related": {
           "description": "weakly related to scene graph"
         },
         "Uncategorized": {
           "description": "Uncategorized"
+        },
+        "Active Learning": {
+          "description": "Active/interactive learning using scene graphs"
         }
       }
     }
