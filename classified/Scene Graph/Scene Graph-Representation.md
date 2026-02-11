@@ -31,11 +31,9 @@
 | 138 | 20.10 | Scene Graph | Representation | 🤖 | [📎](http://arxiv.org/abs/2010.03182) | VICTR: Visual Information Captured Text Representation for Text-to-Image Multimodal Tasks | 3 |
 | 112 | 20.06 | Scene Graph | Representation | 🤖 | [📎](http://arxiv.org/abs/2006.16934) | ERNIE-ViL: Knowledge Enhanced Vision-Language Representations Through Scene Graph | 118 |
 | 111 | 20.06 | Scene Graph | Representation | 🤖 | [📎](http://arxiv.org/abs/2006.12373) | Learning Physical Graph Representations from Visual Scenes | 44 |
-| 87 | 19.12 | Scene Graph | Representation | 🤖 | [📎](http://arxiv.org/abs/1912.07414) | Learning Canonical Representations for Scene Graph to Image Generation | - |
-| 84 | 19.11 | Scene Graph | Representation | 🤖 | [📎](http://arxiv.org/abs/1911.10115) | TPsgtR: Neural-Symbolic Tensor Product Scene-Graph-Triplet Representation for Image Captioning | 10 |
-| 74 | 19.09 | Scene Graph | Representation | 🤖 | [📎](http://arxiv.org/abs/1909.09256) | Triplet-Aware Scene Graph Embeddings | 3 |
-| 68 | 19.08 | Scene Graph | Representation | 🤖 | [📎](http://arxiv.org/abs/1908.04929) | 3-D Scene Graph: A Sparse and Semantic Representation of Physical Environments for Intelligent Agents | 0 |
-| 61 | 19.05 | Scene Graph | Representation | 🤖 | [📎](http://arxiv.org/abs/1905.11624) | Contextual Translation Embedding for Visual Relationship Detection and Scene Graph Generation | 0 |
-| 26 | 18.11 | Scene Graph | Representation | 🤖 | [📎](http://arxiv.org/abs/1811.06410) | LinkNet: Relational Embedding for Scene Graph | 6 |
-| 25 | 18.11 | Scene Graph | Representation | 🤖 | [📎](http://arxiv.org/abs/1811.03830) | Image-Level Attentional Context Modeling Using Nested-Graph Neural Networks | 2 |
-| 10 | 17.06 | Scene Graph | Representation | 🤖 | [📎](http://arxiv.org/abs/1706.07365) | Pixels to Graphs by Associative Embedding | 100 |
+| 80 | 19.10 | Scene Graph | Representation | 👤 | [📎](http://arxiv.org/abs/1910.09119) | Generative Hierarchical Models for Parts, Objects, and Scenes | 2 |
+| 74 | 19.09 | Scene Graph | Representation | 👤 | [📎](http://arxiv.org/abs/1909.09256) | Triplet-Aware Scene Graph Embeddings | 3 |
+| 61 | 19.05 | Scene Graph | Representation | 👤 | [📎](http://arxiv.org/abs/1905.11624) | Contextual Translation Embedding for Visual Relationship Detection and Scene Graph Generation | 0 |
+| 52 | 19.04 | Scene Graph | Representation | 👤 | [📎](http://arxiv.org/abs/1904.09348) | Compact Scene Graphs for Layout Composition and Patch Retrieval | 0 |
+| 42 | 19.02 | Scene Graph | Representation | 👤 | [📎](http://arxiv.org/abs/1902.10200) | Differentiable Scene Graphs | - |
+| 31 | 18.12 | Scene Graph | Representation | 👤 | [📎](http://arxiv.org/abs/1812.01880) | Learning to Compose Dynamic Tree Structures for Visual Contexts | 31 |

@@ -30,4 +30,4 @@
 | 212 | 21.08 | Robotics | Manipulation | 🤖 | [📎](http://arxiv.org/abs/2108.08841) | Graph-to-3D: End-to-End Generation and Manipulation of 3D Scenes Using Scene Graphs | - |
 | 154 | 20.12 | Robotics | Manipulation | 🤖 | [📎](http://arxiv.org/abs/2012.07277) | Hierarchical Planning for Long-Horizon Manipulation with Geometric and Symbolic Scene Graphs | 13 |
 | 99 | 20.04 | Robotics | Manipulation | 🤖 | [📎](http://arxiv.org/abs/2004.03677) | Semantic Image Manipulation Using Scene Graphs | 2 |
-| 8 | 17.04 | Robotics | Manipulation | 🤖 | [📎](http://arxiv.org/abs/1704.01189) | Semantic Robot Programming for Goal-Directed Manipulation in Cluttered Scenes | 0 |
+| 8 | 17.04 | Robotics | Manipulation | 👤 | [📎](http://arxiv.org/abs/1704.01189) | Semantic Robot Programming for Goal-Directed Manipulation in Cluttered Scenes | 0 |

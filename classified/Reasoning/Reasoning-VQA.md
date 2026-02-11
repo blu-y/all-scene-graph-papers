@@ -5,8 +5,8 @@
 | 1010 | 26.01 | Reasoning | VQA | 👤 | [📎](http://arxiv.org/abs/2601.18157) | Agentic Very Long Video Understanding | 0 |
 | 1004 | 26.01 | Reasoning | VQA | 👤 | [📎](http://arxiv.org/abs/2601.11632) | KG-ViP: Bridging Knowledge Grounding and Visual Perception in Multi-modal LLMs for Visual Question Answering | 0 |
 | 994 | 26.01 | Reasoning | VQA | 👤 | [📎](http://arxiv.org/abs/2601.06097) | Semantic Event Graphs for Long-Form Video Question Answering | 0 |
-| 966 | 25.11 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2511.23304) | Multi-Modal Scene Graph with Kolmogorov-Arnold Experts for Audio-Visual Question Answering | 0 |
-| 964 | 25.11 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2511.20201) | GHR-VQA: Graph-guided Hierarchical Relational Reasoning for Video Question Answering | 0 |
+| 966 | 25.11 | Reasoning | VQA | 👤 | [📎](http://arxiv.org/abs/2511.23304) | Multi-Modal Scene Graph with Kolmogorov-Arnold Experts for Audio-Visual Question Answering | 0 |
+| 964 | 25.11 | Reasoning | VQA | 👤 | [📎](http://arxiv.org/abs/2511.20201) | GHR-VQA: Graph-guided Hierarchical Relational Reasoning for Video Question Answering | 0 |
 | 893 | 25.09 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2509.11862) | Bridging Vision Language Models and Symbolic Grounding for Video Question Answering | 0 |
 | 880 | 25.08 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2508.07023) | MV-CoRe: Multimodal Visual-Conceptual Reasoning for Complex Visual Question Answering | 0 |
 | 838 | 25.06 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2506.08553) | From Pixels to Graphs: using Scene and Knowledge Graphs for HD-EPIC VQA Challenge | 0 |
@@ -39,10 +39,9 @@
 | 140 | 20.10 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2010.04913) | Interpretable Neural Computation for Real-World Compositional Visual Question Answering | 0 |
 | 120 | 20.07 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2007.13262) | REXUP: I REason, I EXtract, I UPdate with Structured Compositional Reasoning for Visual Question Answering | 0 |
 | 113 | 20.07 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2007.01072) | Scene Graph Reasoning for Visual Question Answering | 11 |
-| 76 | 19.09 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/1909.10128) | Explainable High-order Visual Question Reasoning: A New Benchmark and Knowledge-routed Network | 9 |
-| 67 | 19.08 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/1908.02962) | CRIC: A VQA Dataset for Compositional Reasoning on Vision and Commonsense | 3 |
-| 65 | 19.07 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/1907.12133) | An Empirical Study on Leveraging Scene Graphs for Visual Question Answering | 31 |
-| 41 | 19.02 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/1902.09506) | GQA: A New Dataset for Real-World Visual Reasoning and Compositional Question Answering | - |
-| 40 | 19.02 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/1902.05715) | Generating Natural Language Explanations for Visual Question Answering using Scene Graphs and Visual Attention | 23 |
-| 36 | 18.12 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/1812.09681) | Scene Graph Reasoning with Prior Visual Relationship for Visual Question Answering | 26 |
-| 4 | 16.07 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/1607.05910) | Visual Question Answering: A Survey of Methods and Datasets | 44 |
+| 67 | 19.08 | Reasoning | VQA | 👤 | [📎](http://arxiv.org/abs/1908.02962) | CRIC: A VQA Dataset for Compositional Reasoning on Vision and Commonsense | 3 |
+| 65 | 19.07 | Reasoning | VQA | 👤 | [📎](http://arxiv.org/abs/1907.12133) | An Empirical Study on Leveraging Scene Graphs for Visual Question Answering | 31 |
+| 41 | 19.02 | Reasoning | VQA | 👤 | [📎](http://arxiv.org/abs/1902.09506) | GQA: A New Dataset for Real-World Visual Reasoning and Compositional Question Answering | - |
+| 40 | 19.02 | Reasoning | VQA | 👤 | [📎](http://arxiv.org/abs/1902.05715) | Generating Natural Language Explanations for Visual Question Answering using Scene Graphs and Visual Attention | 23 |
+| 36 | 18.12 | Reasoning | VQA | 👤 | [📎](http://arxiv.org/abs/1812.09681) | Scene Graph Reasoning with Prior Visual Relationship for Visual Question Answering | 26 |
+| 4 | 16.07 | Reasoning | VQA | 👤 | [📎](http://arxiv.org/abs/1607.05910) | Visual Question Answering: A Survey of Methods and Datasets | 44 |

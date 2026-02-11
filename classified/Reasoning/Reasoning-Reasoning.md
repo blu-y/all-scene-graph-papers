@@ -20,4 +20,6 @@
 | 241 | 21.12 | Reasoning | Reasoning | 🤖 | [📎](http://arxiv.org/abs/2112.08587) | SGEITL: Scene Graph Enhanced Image-Text Learning for Visual Commonsense Reasoning | 0 |
 | 155 | 20.12 | Reasoning | Reasoning | 🤖 | [📎](http://arxiv.org/abs/2012.11587) | Object-Centric Diagnosis of Visual Reasoning | 10 |
 | 110 | 20.06 | Reasoning | Reasoning | 🤖 | [📎](http://arxiv.org/abs/2006.11524) | Neuro-Symbolic Visual Reasoning: Disentangling "Visual" from "Reasoning" | 26 |
-| 30 | 18.12 | Reasoning | Reasoning | 🤖 | [📎](http://arxiv.org/abs/1812.01855) | Explainable and Explicit Visual Reasoning over Scene Graphs | - |
+| 76 | 19.09 | Reasoning | Reasoning | 👤 | [📎](http://arxiv.org/abs/1909.10128) | Explainable High-order Visual Question Reasoning: A New Benchmark and Knowledge-routed Network | 9 |
+| 70 | 19.08 | Reasoning | Reasoning | 👤 | [📎](http://arxiv.org/abs/1908.10700) | Explainable Video Action Reasoning via Prior Knowledge and State Transitions | 2 |
+| 30 | 18.12 | Reasoning | Reasoning | 👤 | [📎](http://arxiv.org/abs/1812.01855) | Explainable and Explicit Visual Reasoning over Scene Graphs | - |

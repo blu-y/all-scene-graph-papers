@@ -7,3 +7,12 @@
 | 1002 | 26.01 | Scene Graph | Synthesis | 👤 | [📎](http://arxiv.org/abs/2601.07219) | VENUS: Visual Editing with Noise Inversion Using Scene Graphs | 0 |
 | 978 | 25.12 | Scene Graph | Synthesis | 👤 | [📎](http://arxiv.org/abs/2512.13290) | LINA: Learning INterventions Adaptively for Physical Alignment and Generalization in Diffusion Models | 0 |
 | 970 | 25.12 | Scene Graph | Synthesis | 👤 | [📎](http://arxiv.org/abs/2512.01975) | SGDiff: Scene Graph Guided Diffusion Model for Image Collaborative SegCaptioning | 0 |
+| 962 | 25.11 | Scene Graph | Synthesis | 👤 | [📎](http://arxiv.org/abs/2511.18734) | Yo'City: Personalized and Boundless 3D Realistic City Scene Generation via Self-Critic Expansion | 0 |
+| 961 | 25.11 | Scene Graph | Synthesis | 👤 | [📎](http://arxiv.org/abs/2511.18378) | Synthetic Curriculum Reinforces Compositional Text-to-Image Generation | 0 |
+| 958 | 25.11 | Scene Graph | Synthesis | 👤 | [📎](http://arxiv.org/abs/2511.14884) | GeoSceneGraph: Geometric Scene Graph Diffusion Model for Text-guided 3D Indoor Scene Synthesis | 0 |
+| 87 | 19.12 | Scene Graph | Synthesis | 👤 | [📎](http://arxiv.org/abs/1912.07414) | Learning Canonical Representations for Scene Graph to Image Generation | - |
+| 72 | 19.09 | Scene Graph | Synthesis | 👤 | [📎](http://arxiv.org/abs/1909.05379) | Specifying Object Attributes and Relations in Interactive Scene Generation | - |
+| 58 | 19.05 | Scene Graph | Synthesis | 👤 | [📎](http://arxiv.org/abs/1905.03743) | Interactive Image Generation Using Scene Graphs | 28 |
+| 57 | 19.05 | Scene Graph | Synthesis | 👤 | [📎](http://arxiv.org/abs/1905.01608) | PasteGAN: A Semi-Parametric Method to Generate Image from Scene Graph | 42 |
+| 37 | 19.01 | Scene Graph | Synthesis | 👤 | [📎](http://arxiv.org/abs/1901.03762) | Using Scene Graph Context to Improve Image Generation | 20 |
+| 18 | 18.04 | Scene Graph | Synthesis | 👤 | [📎](http://arxiv.org/abs/1804.01622) | Image Generation from Scene Graphs | 47 |

@@ -12,7 +12,6 @@
 | 980 | 25.12 | Robotics | Navigation | 👤 | [📎](http://arxiv.org/abs/2512.15047) | HERO: Hierarchical Traversable 3D Scene Graphs for Embodied Navigation Among Movable Obstacles | 0 |
 | 977 | 25.12 | Robotics | Task-planning | 👤 | [📎](http://arxiv.org/abs/2512.10342) | CoSPlan: Corrective Sequential Planning via Scene Graph Incremental Updates | 0 |
 | 973 | 25.12 | Robotics | Manipulation | 👤 | [📎](http://arxiv.org/abs/2512.03913) | Hierarchical Vision Language Action Model Using Success and Failure Demonstrations | 0 |
-| 965 | 25.11 | Robotics | Robotic Perception | 🤖 | [📎](http://arxiv.org/abs/2511.20937) | ENACT: Evaluating Embodied Cognition with World Modeling of Egocentric Interaction | 0 |
 | 954 | 25.11 | Robotics | Robotic Perception | 🤖 | [📎](http://arxiv.org/abs/2511.12676) | BridgeEQA: Virtual Embodied Agents for Real Bridge Inspections | 0 |
 | 952 | 25.11 | Robotics | Navigation | 🤖 | [📎](http://arxiv.org/abs/2511.10376) | MSGNav: Unleashing the Power of Multi-modal 3D Scene Graph for Zero-Shot Embodied Navigation | 0 |
 | 946 | 25.11 | Robotics | Manipulation | 🤖 | [📎](http://arxiv.org/abs/2511.04357) | GraSP-VLA: Graph-based Symbolic Action Representation for Long-Horizon Planning with VLA Policies | 0 |
@@ -152,7 +151,5 @@
 | 154 | 20.12 | Robotics | Manipulation | 🤖 | [📎](http://arxiv.org/abs/2012.07277) | Hierarchical Planning for Long-Horizon Manipulation with Geometric and Symbolic Scene Graphs | 13 |
 | 147 | 20.11 | Robotics | Robotic Perception | 🤖 | [📎](http://arxiv.org/abs/2011.11397) | Imagination-enabled Robot Perception | - |
 | 99 | 20.04 | Robotics | Manipulation | 🤖 | [📎](http://arxiv.org/abs/2004.03677) | Semantic Image Manipulation Using Scene Graphs | 2 |
-| 29 | 18.11 | Robotics | Navigation | 🤖 | [📎](http://arxiv.org/abs/1811.10696) | Attentive Relational Networks for Mapping Images to Scene Graphs | 11 |
-| 15 | 18.02 | Robotics | Navigation | 🤖 | [📎](http://arxiv.org/abs/1802.05451) | Mapping Images to Scene Graphs with Permutation-Invariant Structured Prediction | 68 |
-| 8 | 17.04 | Robotics | Manipulation | 🤖 | [📎](http://arxiv.org/abs/1704.01189) | Semantic Robot Programming for Goal-Directed Manipulation in Cluttered Scenes | 0 |
-| 3 | 14.08 | Robotics | Robotic Perception | 🤖 | [📎](http://arxiv.org/abs/1408.0200) | Towards a Domain Specific Language for a Scene Graph based Robotic World Model | 12 |
+| 29 | 18.11 | Robotics | Navigation | 👤 | [📎](http://arxiv.org/abs/1811.10696) | Attentive Relational Networks for Mapping Images to Scene Graphs | 11 |
+| 8 | 17.04 | Robotics | Manipulation | 👤 | [📎](http://arxiv.org/abs/1704.01189) | Semantic Robot Programming for Goal-Directed Manipulation in Cluttered Scenes | 0 |

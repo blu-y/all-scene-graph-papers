@@ -5,7 +5,7 @@
 | 991 | 25.12 | Others | Autonomous Driving | 👤 | [📎](http://arxiv.org/abs/2512.22693) | Instance Communication System for Intelligent Connected Vehicles: Bridging the Gap from Semantic to Instance-Level Transmission | 0 |
 | 989 | 25.12 | Others | Autonomous Driving | 👤 | [📎](http://arxiv.org/abs/2512.21133) | SparScene: Efficient Traffic Scene Representation via Sparse Graph Learning for Large-Scale Trajectory Generation | 0 |
 | 984 | 25.12 | Others | Autonomous Driving | 👤 | [📎](http://arxiv.org/abs/2512.17445) | LangDriveCTRL: Natural Language Controllable Driving Scene Editing with Multi-modal Agents | 0 |
-| 957 | 25.11 | Others | Autonomous Driving | 🤖 | [📎](http://arxiv.org/abs/2511.14430) | Abstract Scene Graphs: Formalizing and Monitoring Spatial Properties of Automated Driving Functions | 0 |
+| 957 | 25.11 | Others | Autonomous Driving | 👤 | [📎](http://arxiv.org/abs/2511.14430) | Abstract Scene Graphs: Formalizing and Monitoring Spatial Properties of Automated Driving Functions | 0 |
 | 953 | 25.11 | Others | Autonomous Driving | 🤖 | [📎](http://arxiv.org/abs/2511.11266) | GraphPilot: Grounded Scene Graph Conditioning for Language-Based Autonomous Driving | 0 |
 | 847 | 25.06 | Others | Autonomous Driving | 🤖 | [📎](http://arxiv.org/abs/2506.17590) | DRAMA-X: A Fine-grained Intent Prediction and Risk Reasoning Benchmark For Driving | 0 |
 | 788 | 25.04 | Others | Autonomous Driving | 🤖 | [📎](http://arxiv.org/abs/2504.03164) | NuScenes-SpatialQA: A Spatial Understanding and Reasoning Benchmark for Vision-Language Models in Autonomous Driving | 0 |

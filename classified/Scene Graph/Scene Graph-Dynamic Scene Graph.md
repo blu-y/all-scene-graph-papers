@@ -2,7 +2,6 @@
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
-| 960 | 25.11 | Scene Graph | Dynamic Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2511.15948) | Click2Graph: Interactive Panoptic Video Scene Graphs from a Single Click | 0 |
 | 951 | 25.11 | Scene Graph | Dynamic Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2511.08651) | RS-Net: Context-Aware Relation Scoring for Dynamic Scene Graph Generation | 0 |
 | 944 | 25.11 | Scene Graph | Dynamic Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2511.03819) | SILVI: Simple Interface for Labeling Video Interactions | 0 |
 | 942 | 25.11 | Scene Graph | Dynamic Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2511.00107) | AI Powered High Quality Text to Video Generation with Enhanced Temporal Consistency | 0 |
@@ -92,7 +91,4 @@
 | 144 | 20.11 | Scene Graph | Dynamic Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2011.10379) | Neural Scene Graphs for Dynamic Scenes | - |
 | 115 | 20.07 | Scene Graph | Dynamic Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2007.03848) | Dynamic Graph Representation Learning for Video Dialog via Multi-Modal Shuffled Transformers | 4 |
 | 92 | 20.02 | Scene Graph | Dynamic Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2002.06289) | 3D Dynamic Scene Graphs: Actionable Spatial Perception with Places, Objects, and Humans | - |
-| 86 | 19.12 | Scene Graph | Dynamic Scene Graph | 🤖 | [📎](http://arxiv.org/abs/1912.06992) | Action Genome: Actions as Composition of Spatio-temporal Scene Graphs | 17 |
-| 70 | 19.08 | Scene Graph | Dynamic Scene Graph | 🤖 | [📎](http://arxiv.org/abs/1908.10700) | Explainable Video Action Reasoning via Prior Knowledge and State Transitions | 2 |
-| 59 | 19.05 | Scene Graph | Dynamic Scene Graph | 🤖 | [📎](http://arxiv.org/abs/1905.05143) | VideoGraph: Recognizing Minutes-Long Human Activities in Videos | 46 |
-| 31 | 18.12 | Scene Graph | Dynamic Scene Graph | 🤖 | [📎](http://arxiv.org/abs/1812.01880) | Learning to Compose Dynamic Tree Structures for Visual Contexts | 31 |
+| 86 | 19.12 | Scene Graph | Dynamic Scene Graph | 👤 | [📎](http://arxiv.org/abs/1912.06992) | Action Genome: Actions as Composition of Spatio-temporal Scene Graphs | 17 |

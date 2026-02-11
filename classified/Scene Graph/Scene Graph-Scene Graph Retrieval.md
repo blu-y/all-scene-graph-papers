@@ -22,8 +22,3 @@
 | 156 | 20.12 | Scene Graph | Scene Graph Retrieval | 🤖 | [📎](http://arxiv.org/abs/2012.14700) | Image-to-Image Retrieval by Learning Similarity between Scene Graphs | 0 |
 | 152 | 20.12 | Scene Graph | Scene Graph Retrieval | 🤖 | [📎](http://arxiv.org/abs/2012.04329) | StacMR: Scene-Text Aware Cross-Modal Retrieval | - |
 | 104 | 20.05 | Scene Graph | Scene Graph Retrieval | 🤖 | [📎](http://arxiv.org/abs/2005.06653) | Structured Query-Based Image Retrieval Using Scene Graphs | - |
-| 79 | 19.10 | Scene Graph | Scene Graph Retrieval | 🤖 | [📎](http://arxiv.org/abs/1910.05134) | Cross-modal Scene Graph Matching for Relationship-aware Image-Text Retrieval | 11 |
-| 75 | 19.09 | Scene Graph | Scene Graph Retrieval | 🤖 | [📎](http://arxiv.org/abs/1909.09953) | Learning Visual Relation Priors for Image-Text Matching and Image Captioning with Neural Scene Graph Generators | 33 |
-| 52 | 19.04 | Scene Graph | Scene Graph Retrieval | 🤖 | [📎](http://arxiv.org/abs/1904.09348) | Compact Scene Graphs for Layout Composition and Patch Retrieval | 0 |
-| 16 | 18.03 | Scene Graph | Scene Graph Retrieval | 🤖 | [📎](http://arxiv.org/abs/1803.05401) | Approximate Query Matching for Image Retrieval | 1 |
-| 12 | 17.11 | Scene Graph | Scene Graph Retrieval | 🤖 | [📎](http://arxiv.org/abs/1711.00088) | Semantic Image Retrieval via Active Grounding of Visual Situations | - |

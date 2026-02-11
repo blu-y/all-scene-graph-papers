@@ -68,5 +68,4 @@
 | 218 | 21.09 | Robotics | Navigation | 🤖 | [📎](http://arxiv.org/abs/2109.04569) | Open-World Distributed Robot Self-Localization with Transferable Visual Vocabulary and Both Absolute and Relative Features | 0 |
 | 204 | 21.08 | Robotics | Navigation | 🤖 | [📎](http://arxiv.org/abs/2108.01176) | Hierarchical Representations and Explicit Memory: Learning Effective Navigation Policies on 3D Scene Graphs using Graph Neural Networks | 0 |
 | 158 | 21.01 | Robotics | Navigation | 🤖 | [📎](http://arxiv.org/abs/2101.06894) | Kimera: from SLAM to Spatial Perception with 3D Dynamic Scene Graphs | - |
-| 29 | 18.11 | Robotics | Navigation | 🤖 | [📎](http://arxiv.org/abs/1811.10696) | Attentive Relational Networks for Mapping Images to Scene Graphs | 11 |
-| 15 | 18.02 | Robotics | Navigation | 🤖 | [📎](http://arxiv.org/abs/1802.05451) | Mapping Images to Scene Graphs with Permutation-Invariant Structured Prediction | 68 |
+| 29 | 18.11 | Robotics | Navigation | 👤 | [📎](http://arxiv.org/abs/1811.10696) | Attentive Relational Networks for Mapping Images to Scene Graphs | 11 |

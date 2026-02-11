@@ -7,5 +7,3 @@
 | 185 | 21.05 | Scene Graph | Survey | 🤖 | [📎](http://arxiv.org/abs/2105.07391) | Survey of Visual-Semantic Embedding Methods for Zero-Shot Image Retrieval | 0 |
 | 167 | 21.04 | Scene Graph | Survey | 🤖 | [📎](http://arxiv.org/abs/2104.01111) | A Comprehensive Survey of Scene Graphs: Generation and Application | 1 |
 | 105 | 20.05 | Scene Graph | Survey | 🤖 | [📎](http://arxiv.org/abs/2005.08045) | Visual Relationship Detection using Scene Graphs: A Survey | 13 |
-| 46 | 19.03 | Scene Graph | Survey | 🤖 | [📎](http://arxiv.org/abs/1903.05434) | Visual Semantic Information Pursuit: A Survey | 3 |
-| 35 | 18.12 | Scene Graph | Survey | 🤖 | [📎](http://arxiv.org/abs/1812.08434) | Graph Neural Networks: A Review of Methods and Applications | 1450 |
