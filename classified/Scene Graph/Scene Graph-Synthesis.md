@@ -10,6 +10,11 @@
 | 962 | 25.11 | Scene Graph | Synthesis | 👤 | [📎](http://arxiv.org/abs/2511.18734) | Yo'City: Personalized and Boundless 3D Realistic City Scene Generation via Self-Critic Expansion | 0 |
 | 961 | 25.11 | Scene Graph | Synthesis | 👤 | [📎](http://arxiv.org/abs/2511.18378) | Synthetic Curriculum Reinforces Compositional Text-to-Image Generation | 0 |
 | 958 | 25.11 | Scene Graph | Synthesis | 👤 | [📎](http://arxiv.org/abs/2511.14884) | GeoSceneGraph: Geometric Scene Graph Diffusion Model for Text-guided 3D Indoor Scene Synthesis | 0 |
+| 942 | 25.11 | Scene Graph | Synthesis | 👤 | [📎](http://arxiv.org/abs/2511.00107) | AI Powered High Quality Text to Video Generation with Enhanced Temporal Consistency | 0 |
+| 119 | 20.07 | Scene Graph | Synthesis | 👤 | [📎](http://arxiv.org/abs/2007.11744) | End-to-End Optimization of Scene Layout | 1 |
+| 116 | 20.07 | Scene Graph | Synthesis | 👤 | [📎](http://arxiv.org/abs/2007.05756) | Generative Compositional Augmentations for Scene Graph Prediction | 0 |
+| 99 | 20.04 | Scene Graph | Synthesis | 👤 | [📎](http://arxiv.org/abs/2004.03677) | Semantic Image Manipulation Using Scene Graphs | 2 |
+| 97 | 20.03 | Scene Graph | Synthesis | 👤 | [📎](http://arxiv.org/abs/2003.07449) | Object-Centric Image Generation from Layouts | - |
 | 87 | 19.12 | Scene Graph | Synthesis | 👤 | [📎](http://arxiv.org/abs/1912.07414) | Learning Canonical Representations for Scene Graph to Image Generation | - |
 | 72 | 19.09 | Scene Graph | Synthesis | 👤 | [📎](http://arxiv.org/abs/1909.05379) | Specifying Object Attributes and Relations in Interactive Scene Generation | - |
 | 58 | 19.05 | Scene Graph | Synthesis | 👤 | [📎](http://arxiv.org/abs/1905.03743) | Interactive Image Generation Using Scene Graphs | 28 |

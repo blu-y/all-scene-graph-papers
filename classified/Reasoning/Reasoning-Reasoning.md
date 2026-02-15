@@ -6,7 +6,7 @@
 | 999 | 26.01 | Reasoning | Reasoning | 👤 | [📎](http://arxiv.org/abs/2601.05600) | SceneAlign: Aligning Multimodal Reasoning to Scene Graphs in Complex Visual Scenes | 0 |
 | 975 | 25.12 | Reasoning | Reasoning | 👤 | [📎](http://arxiv.org/abs/2512.09215) | View-on-Graph: Zero-shot 3D Visual Grounding via Vision-Language Reasoning on Scene Graphs | 0 |
 | 968 | 25.12 | Reasoning | Reasoning | 👤 | [📎](http://arxiv.org/abs/2512.00565) | Describe Anything Anywhere At Any Moment | 0 |
-| 950 | 25.11 | Reasoning | Reasoning | 🤖 | [📎](http://arxiv.org/abs/2511.07813) | Sparse3DPR: Training-Free 3D Hierarchical Scene Parsing and Task-Adaptive Subgraph Reasoning from Sparse RGB Views | 0 |
+| 949 | 25.11 | Reasoning | Reasoning | 👤 | [📎](http://arxiv.org/abs/2511.07403) | SpatialThinker: Reinforcing 3D Reasoning in Multimodal LLMs via Spatial Rewards | 0 |
 | 911 | 25.09 | Reasoning | Reasoning | 🤖 | [📎](http://arxiv.org/abs/2509.22281) | MesaTask: Towards Task-Driven Tabletop Scene Generation via 3D Spatial Reasoning | 0 |
 | 858 | 25.07 | Reasoning | Reasoning | 🤖 | [📎](http://arxiv.org/abs/2507.13362) | Enhancing Spatial Reasoning in Vision-Language Models via Chain-of-Thought Prompting and Reinforcement Learning | 0 |
 | 828 | 25.06 | Reasoning | Reasoning | 🤖 | [📎](http://arxiv.org/abs/2506.03135) | OmniSpatial: Towards Comprehensive Spatial Reasoning Benchmark for Vision Language Models | 1 |
@@ -19,7 +19,8 @@
 | 259 | 22.02 | Reasoning | Reasoning | 🤖 | [📎](http://arxiv.org/abs/2202.11337) | Commonsense Reasoning for Identifying and Understanding the Implicit Need of Help and Synthesizing Assistive Actions | 0 |
 | 241 | 21.12 | Reasoning | Reasoning | 🤖 | [📎](http://arxiv.org/abs/2112.08587) | SGEITL: Scene Graph Enhanced Image-Text Learning for Visual Commonsense Reasoning | 0 |
 | 155 | 20.12 | Reasoning | Reasoning | 🤖 | [📎](http://arxiv.org/abs/2012.11587) | Object-Centric Diagnosis of Visual Reasoning | 10 |
-| 110 | 20.06 | Reasoning | Reasoning | 🤖 | [📎](http://arxiv.org/abs/2006.11524) | Neuro-Symbolic Visual Reasoning: Disentangling "Visual" from "Reasoning" | 26 |
+| 112 | 20.06 | Reasoning | Reasoning | 👤 | [📎](http://arxiv.org/abs/2006.16934) | ERNIE-ViL: Knowledge Enhanced Vision-Language Representations Through Scene Graph | 118 |
+| 103 | 20.04 | Reasoning | Reasoning | 👤 | [📎](http://arxiv.org/abs/2004.08814) | Graph-Structured Referring Expression Reasoning in The Wild | 7 |
 | 76 | 19.09 | Reasoning | Reasoning | 👤 | [📎](http://arxiv.org/abs/1909.10128) | Explainable High-order Visual Question Reasoning: A New Benchmark and Knowledge-routed Network | 9 |
 | 70 | 19.08 | Reasoning | Reasoning | 👤 | [📎](http://arxiv.org/abs/1908.10700) | Explainable Video Action Reasoning via Prior Knowledge and State Transitions | 2 |
 | 30 | 18.12 | Reasoning | Reasoning | 👤 | [📎](http://arxiv.org/abs/1812.01855) | Explainable and Explicit Visual Reasoning over Scene Graphs | - |

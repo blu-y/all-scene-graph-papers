@@ -17,7 +17,9 @@
 | 967 | 25.12 | Reasoning | Retrieval | 👤 | [📎](http://arxiv.org/abs/2512.00294) | Words into World: A Task-Adaptive Agent for Language-Guided Spatial Retrieval in AR | 0 |
 | 966 | 25.11 | Reasoning | VQA | 👤 | [📎](http://arxiv.org/abs/2511.23304) | Multi-Modal Scene Graph with Kolmogorov-Arnold Experts for Audio-Visual Question Answering | 0 |
 | 964 | 25.11 | Reasoning | VQA | 👤 | [📎](http://arxiv.org/abs/2511.20201) | GHR-VQA: Graph-guided Hierarchical Relational Reasoning for Video Question Answering | 0 |
-| 950 | 25.11 | Reasoning | Reasoning | 🤖 | [📎](http://arxiv.org/abs/2511.07813) | Sparse3DPR: Training-Free 3D Hierarchical Scene Parsing and Task-Adaptive Subgraph Reasoning from Sparse RGB Views | 0 |
+| 956 | 25.11 | Reasoning | Retrieval | 👤 | [📎](http://arxiv.org/abs/2511.14004) | Searching in Space and Time: Unified Memory-Action Loops for Open-World Object Retrieval | 0 |
+| 950 | 25.11 | Reasoning | Scene Understanding | 👤 | [📎](http://arxiv.org/abs/2511.07813) | Sparse3DPR: Training-Free 3D Hierarchical Scene Parsing and Task-Adaptive Subgraph Reasoning from Sparse RGB Views | 0 |
+| 949 | 25.11 | Reasoning | Reasoning | 👤 | [📎](http://arxiv.org/abs/2511.07403) | SpatialThinker: Reinforcing 3D Reasoning in Multimodal LLMs via Spatial Rewards | 0 |
 | 911 | 25.09 | Reasoning | Reasoning | 🤖 | [📎](http://arxiv.org/abs/2509.22281) | MesaTask: Towards Task-Driven Tabletop Scene Generation via 3D Spatial Reasoning | 0 |
 | 893 | 25.09 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2509.11862) | Bridging Vision Language Models and Symbolic Grounding for Video Question Answering | 0 |
 | 880 | 25.08 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2508.07023) | MV-CoRe: Multimodal Visual-Conceptual Reasoning for Complex Visual Question Answering | 0 |
@@ -61,11 +63,18 @@
 | 153 | 20.12 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2012.07192) | Knowledge-Routed Visual Question Reasoning: Challenges for Deep Representation Embedding | 5 |
 | 146 | 20.11 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2011.10731) | LRTA: A Transparent Neural-Symbolic Reasoning Framework with Modular Supervision for Visual Question Answering | 11 |
 | 140 | 20.10 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2010.04913) | Interpretable Neural Computation for Real-World Compositional Visual Question Answering | 0 |
-| 120 | 20.07 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2007.13262) | REXUP: I REason, I EXtract, I UPdate with Structured Compositional Reasoning for Visual Question Answering | 0 |
-| 113 | 20.07 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2007.01072) | Scene Graph Reasoning for Visual Question Answering | 11 |
-| 110 | 20.06 | Reasoning | Reasoning | 🤖 | [📎](http://arxiv.org/abs/2006.11524) | Neuro-Symbolic Visual Reasoning: Disentangling "Visual" from "Reasoning" | 26 |
-| 94 | 20.02 | Reasoning | Relationship | 🤖 | [📎](http://arxiv.org/abs/2002.08945) | Spatiotemporal Relationship Reasoning for Pedestrian Intent Prediction | 10 |
-| 85 | 19.12 | Reasoning | Scene understanding | 👤 | [📎](http://arxiv.org/abs/1912.00501) | Interpreting Context of Images using Scene Graphs | - |
+| 120 | 20.07 | Reasoning | VQA | 👤 | [📎](http://arxiv.org/abs/2007.13262) | REXUP: I REason, I EXtract, I UPdate with Structured Compositional Reasoning for Visual Question Answering | 0 |
+| 118 | 20.07 | Reasoning | Captioning | 👤 | [📎](http://arxiv.org/abs/2007.11731) | Comprehensive Image Captioning via Scene Graph Decomposition | 14 |
+| 113 | 20.07 | Reasoning | VQA | 👤 | [📎](http://arxiv.org/abs/2007.01072) | Scene Graph Reasoning for Visual Question Answering | 11 |
+| 112 | 20.06 | Reasoning | Reasoning | 👤 | [📎](http://arxiv.org/abs/2006.16934) | ERNIE-ViL: Knowledge Enhanced Vision-Language Representations Through Scene Graph | 118 |
+| 110 | 20.06 | Reasoning | VQA | 👤 | [📎](http://arxiv.org/abs/2006.11524) | Neuro-Symbolic Visual Reasoning: Disentangling "Visual" from "Reasoning" | 26 |
+| 105 | 20.05 | Reasoning | Relationship | 👤 | [📎](http://arxiv.org/abs/2005.08045) | Visual Relationship Detection using Scene Graphs: A Survey | 13 |
+| 104 | 20.05 | Reasoning | Retrieval | 👤 | [📎](http://arxiv.org/abs/2005.06653) | Structured Query-Based Image Retrieval Using Scene Graphs | - |
+| 103 | 20.04 | Reasoning | Reasoning | 👤 | [📎](http://arxiv.org/abs/2004.08814) | Graph-Structured Referring Expression Reasoning in The Wild | 7 |
+| 100 | 20.04 | Reasoning | Captioning | 👤 | [📎](http://arxiv.org/abs/2004.03708) | Context-Aware Group Captioning via Self-Attention and Contrastive Features | 3 |
+| 96 | 20.03 | Reasoning | Captioning | 👤 | [📎](http://arxiv.org/abs/2003.00387) | Say As You Wish: Fine-grained Control of Image Caption Generation with Abstract Scene Graphs | 21 |
+| 90 | 20.01 | Reasoning | Scene Understanding | 👤 | [📎](http://arxiv.org/abs/2001.04735) | NODIS: Neural Ordinary Differential Scene Understanding | 5 |
+| 85 | 19.12 | Reasoning | Scene Understanding | 👤 | [📎](http://arxiv.org/abs/1912.00501) | Interpreting Context of Images using Scene Graphs | - |
 | 84 | 19.11 | Reasoning | Captioning | 👤 | [📎](http://arxiv.org/abs/1911.10115) | TPsgtR: Neural-Symbolic Tensor Product Scene-Graph-Triplet Representation for Image Captioning | 10 |
 | 82 | 19.11 | Reasoning | Retrieval | 👤 | [📎](http://arxiv.org/abs/1911.00850) | Scene Graph based Image Retrieval -- A case study on the CLEVR Dataset | 9 |
 | 79 | 19.10 | Reasoning | Retrieval | 👤 | [📎](http://arxiv.org/abs/1910.05134) | Cross-modal Scene Graph Matching for Relationship-aware Image-Text Retrieval | 11 |
@@ -80,7 +89,7 @@
 | 41 | 19.02 | Reasoning | VQA | 👤 | [📎](http://arxiv.org/abs/1902.09506) | GQA: A New Dataset for Real-World Visual Reasoning and Compositional Question Answering | - |
 | 40 | 19.02 | Reasoning | VQA | 👤 | [📎](http://arxiv.org/abs/1902.05715) | Generating Natural Language Explanations for Visual Question Answering using Scene Graphs and Visual Attention | 23 |
 | 36 | 18.12 | Reasoning | VQA | 👤 | [📎](http://arxiv.org/abs/1812.09681) | Scene Graph Reasoning with Prior Visual Relationship for Visual Question Answering | 26 |
-| 34 | 18.12 | Reasoning | Scene understanding | 👤 | [📎](http://arxiv.org/abs/1812.07524) | Learning Direct Optimization for Scene Understanding | 0 |
+| 34 | 18.12 | Reasoning | Scene Understanding | 👤 | [📎](http://arxiv.org/abs/1812.07524) | Learning Direct Optimization for Scene Understanding | 0 |
 | 33 | 18.12 | Reasoning | Captioning | 👤 | [📎](http://arxiv.org/abs/1812.02378) | Auto-Encoding Scene Graphs for Image Captioning | 26 |
 | 30 | 18.12 | Reasoning | Reasoning | 👤 | [📎](http://arxiv.org/abs/1812.01855) | Explainable and Explicit Visual Reasoning over Scene Graphs | - |
 | 16 | 18.03 | Reasoning | Retrieval | 👤 | [📎](http://arxiv.org/abs/1803.05401) | Approximate Query Matching for Image Retrieval | 1 |

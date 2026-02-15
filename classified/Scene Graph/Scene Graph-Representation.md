@@ -29,8 +29,8 @@
 | 177 | 21.04 | Scene Graph | Representation | 🤖 | [📎](http://arxiv.org/abs/2104.06008) | Disentangled Motif-aware Graph Learning for Phrase Grounding | 2 |
 | 176 | 21.04 | Scene Graph | Representation | 🤖 | [📎](http://arxiv.org/abs/2104.02381) | Scene Graph Embeddings Using Relative Similarity Supervision | - |
 | 138 | 20.10 | Scene Graph | Representation | 🤖 | [📎](http://arxiv.org/abs/2010.03182) | VICTR: Visual Information Captured Text Representation for Text-to-Image Multimodal Tasks | 3 |
-| 112 | 20.06 | Scene Graph | Representation | 🤖 | [📎](http://arxiv.org/abs/2006.16934) | ERNIE-ViL: Knowledge Enhanced Vision-Language Representations Through Scene Graph | 118 |
-| 111 | 20.06 | Scene Graph | Representation | 🤖 | [📎](http://arxiv.org/abs/2006.12373) | Learning Physical Graph Representations from Visual Scenes | 44 |
+| 115 | 20.07 | Scene Graph | Representation | 👤 | [📎](http://arxiv.org/abs/2007.03848) | Dynamic Graph Representation Learning for Video Dialog via Multi-Modal Shuffled Transformers | 4 |
+| 111 | 20.06 | Scene Graph | Representation | 👤 | [📎](http://arxiv.org/abs/2006.12373) | Learning Physical Graph Representations from Visual Scenes | 44 |
 | 80 | 19.10 | Scene Graph | Representation | 👤 | [📎](http://arxiv.org/abs/1910.09119) | Generative Hierarchical Models for Parts, Objects, and Scenes | 2 |
 | 74 | 19.09 | Scene Graph | Representation | 👤 | [📎](http://arxiv.org/abs/1909.09256) | Triplet-Aware Scene Graph Embeddings | 3 |
 | 61 | 19.05 | Scene Graph | Representation | 👤 | [📎](http://arxiv.org/abs/1905.11624) | Contextual Translation Embedding for Visual Relationship Detection and Scene Graph Generation | 0 |

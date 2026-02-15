@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-02-11",
+  "last_updated": "2026-02-15",
   "categories": {
     "Scene Graph": {
       "description": "Scene graph generation, representation, and manipulation",
@@ -58,7 +58,7 @@
         "Others": {
           "description": "Others"
         },
-        "Scene understanding": {
+        "Scene Understanding": {
           "description": "Scene understanding using scene graphs"
         },
         "Captioning": {
@@ -80,6 +80,9 @@
         },
         "General": {
           "description": "General robotics applications"
+        },
+        "Robotic Perception": {
+          "description": "Robotic perception"
         }
       }
     },
@@ -103,6 +106,9 @@
         },
         "Active Learning": {
           "description": "Active/interactive learning using scene graphs"
+        },
+        "Other Applications": {
+          "description": "Other applications"
         }
       }
     }

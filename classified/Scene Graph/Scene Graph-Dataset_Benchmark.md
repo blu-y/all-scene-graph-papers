@@ -30,6 +30,7 @@
 | 403 | 23.05 | Scene Graph | Dataset/Benchmark | 🤖 | [📎](http://arxiv.org/abs/2305.02519) | ANetQA: A Large-scale Benchmark for Fine-grained Compositional Reasoning over Untrimmed Videos | 1 |
 | 216 | 21.09 | Scene Graph | Dataset/Benchmark | 🤖 | [📎](http://arxiv.org/abs/2109.02226) | GeneAnnotator: A Semi-automatic Annotation Tool for Visual Scene Graph | 6 |
 | 201 | 21.07 | Scene Graph | Dataset/Benchmark | 🤖 | [📎](http://arxiv.org/abs/2107.12604) | Image Scene Graph Generation (SGG) Benchmark | 17 |
+| 107 | 20.06 | Scene Graph | Dataset/Benchmark | 👤 | [📎](http://arxiv.org/abs/2006.02174) | CompGuessWhat?!: A Multi-task Evaluation Framework for Grounded Language Learning | 1 |
 | 44 | 19.03 | Scene Graph | Dataset/Benchmark | 👤 | [📎](http://arxiv.org/abs/1903.03166) | CLEVR-Dialog: A Diagnostic Dataset for Multi-Round Reasoning in Visual Dialog | 49 |
 | 39 | 19.02 | Scene Graph | Dataset/Benchmark | 👤 | [📎](http://arxiv.org/abs/1902.00313) | VrR-VG: Refocusing Visually-Relevant Relationships | 11 |
 | 5 | 16.07 | Scene Graph | Dataset/Benchmark | 👤 | [📎](http://arxiv.org/abs/1607.08822) | SPICE: Semantic Propositional Image Caption Evaluation | 1 |

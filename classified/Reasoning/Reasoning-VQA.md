@@ -37,8 +37,9 @@
 | 153 | 20.12 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2012.07192) | Knowledge-Routed Visual Question Reasoning: Challenges for Deep Representation Embedding | 5 |
 | 146 | 20.11 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2011.10731) | LRTA: A Transparent Neural-Symbolic Reasoning Framework with Modular Supervision for Visual Question Answering | 11 |
 | 140 | 20.10 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2010.04913) | Interpretable Neural Computation for Real-World Compositional Visual Question Answering | 0 |
-| 120 | 20.07 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2007.13262) | REXUP: I REason, I EXtract, I UPdate with Structured Compositional Reasoning for Visual Question Answering | 0 |
-| 113 | 20.07 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2007.01072) | Scene Graph Reasoning for Visual Question Answering | 11 |
+| 120 | 20.07 | Reasoning | VQA | 👤 | [📎](http://arxiv.org/abs/2007.13262) | REXUP: I REason, I EXtract, I UPdate with Structured Compositional Reasoning for Visual Question Answering | 0 |
+| 113 | 20.07 | Reasoning | VQA | 👤 | [📎](http://arxiv.org/abs/2007.01072) | Scene Graph Reasoning for Visual Question Answering | 11 |
+| 110 | 20.06 | Reasoning | VQA | 👤 | [📎](http://arxiv.org/abs/2006.11524) | Neuro-Symbolic Visual Reasoning: Disentangling "Visual" from "Reasoning" | 26 |
 | 67 | 19.08 | Reasoning | VQA | 👤 | [📎](http://arxiv.org/abs/1908.02962) | CRIC: A VQA Dataset for Compositional Reasoning on Vision and Commonsense | 3 |
 | 65 | 19.07 | Reasoning | VQA | 👤 | [📎](http://arxiv.org/abs/1907.12133) | An Empirical Study on Leveraging Scene Graphs for Visual Question Answering | 31 |
 | 41 | 19.02 | Reasoning | VQA | 👤 | [📎](http://arxiv.org/abs/1902.09506) | GQA: A New Dataset for Real-World Visual Reasoning and Compositional Question Answering | - |

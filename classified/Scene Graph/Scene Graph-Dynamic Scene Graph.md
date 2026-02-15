@@ -2,10 +2,7 @@
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
-| 951 | 25.11 | Scene Graph | Dynamic Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2511.08651) | RS-Net: Context-Aware Relation Scoring for Dynamic Scene Graph Generation | 0 |
-| 944 | 25.11 | Scene Graph | Dynamic Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2511.03819) | SILVI: Simple Interface for Labeling Video Interactions | 0 |
-| 942 | 25.11 | Scene Graph | Dynamic Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2511.00107) | AI Powered High Quality Text to Video Generation with Enhanced Temporal Consistency | 0 |
-| 940 | 25.10 | Scene Graph | Dynamic Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2510.23190) | Evaluation of Vision-LLMs in Surveillance Video | 0 |
+| 951 | 25.11 | Scene Graph | Dynamic Scene Graph | 👤 | [📎](http://arxiv.org/abs/2511.08651) | RS-Net: Context-Aware Relation Scoring for Dynamic Scene Graph Generation | 0 |
 | 925 | 25.10 | Scene Graph | Dynamic Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2510.09483) | FOGMACHINE -- Leveraging Discrete-Event Simulation and Scene Graphs for Modeling Hierarchical, Interconnected Environments under Partial Observations from Mobile Agents | 0 |
 | 900 | 25.09 | Scene Graph | Dynamic Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2509.16336) | Neural Atlas Graphs for Dynamic Scene Decomposition and Editing | 0 |
 | 892 | 25.09 | Scene Graph | Dynamic Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2509.11796) | FineQuest: Adaptive Knowledge-Assisted Sports Video Understanding via Agent-of-Thoughts Reasoning | 0 |
@@ -89,6 +86,4 @@
 | 178 | 21.04 | Scene Graph | Dynamic Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2104.08194) | Spatiotemporal Deformable Scene Graphs for Complex Activity Detection | 0 |
 | 171 | 21.03 | Scene Graph | Dynamic Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2103.15662) | Unified Graph Structured Models for Video Understanding | - |
 | 144 | 20.11 | Scene Graph | Dynamic Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2011.10379) | Neural Scene Graphs for Dynamic Scenes | - |
-| 115 | 20.07 | Scene Graph | Dynamic Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2007.03848) | Dynamic Graph Representation Learning for Video Dialog via Multi-Modal Shuffled Transformers | 4 |
-| 92 | 20.02 | Scene Graph | Dynamic Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2002.06289) | 3D Dynamic Scene Graphs: Actionable Spatial Perception with Places, Objects, and Humans | - |
 | 86 | 19.12 | Scene Graph | Dynamic Scene Graph | 👤 | [📎](http://arxiv.org/abs/1912.06992) | Action Genome: Actions as Composition of Spatio-temporal Scene Graphs | 17 |

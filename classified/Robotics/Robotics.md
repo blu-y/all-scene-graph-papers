@@ -12,11 +12,10 @@
 | 980 | 25.12 | Robotics | Navigation | 👤 | [📎](http://arxiv.org/abs/2512.15047) | HERO: Hierarchical Traversable 3D Scene Graphs for Embodied Navigation Among Movable Obstacles | 0 |
 | 977 | 25.12 | Robotics | Task-planning | 👤 | [📎](http://arxiv.org/abs/2512.10342) | CoSPlan: Corrective Sequential Planning via Scene Graph Incremental Updates | 0 |
 | 973 | 25.12 | Robotics | Manipulation | 👤 | [📎](http://arxiv.org/abs/2512.03913) | Hierarchical Vision Language Action Model Using Success and Failure Demonstrations | 0 |
-| 954 | 25.11 | Robotics | Robotic Perception | 🤖 | [📎](http://arxiv.org/abs/2511.12676) | BridgeEQA: Virtual Embodied Agents for Real Bridge Inspections | 0 |
-| 952 | 25.11 | Robotics | Navigation | 🤖 | [📎](http://arxiv.org/abs/2511.10376) | MSGNav: Unleashing the Power of Multi-modal 3D Scene Graph for Zero-Shot Embodied Navigation | 0 |
-| 946 | 25.11 | Robotics | Manipulation | 🤖 | [📎](http://arxiv.org/abs/2511.04357) | GraSP-VLA: Graph-based Symbolic Action Representation for Long-Horizon Planning with VLA Policies | 0 |
-| 943 | 25.10 | Robotics | Manipulation | 🤖 | [📎](http://arxiv.org/abs/2510.27558) | Toward Accurate Long-Horizon Robotic Manipulation: Language-to-Action with Foundation Models via Scene Graphs | 0 |
-| 941 | 25.10 | Robotics | Robotic Perception | 🤖 | [📎](http://arxiv.org/abs/2510.27033) | A Multi-Modal Neuro-Symbolic Approach for Spatial Reasoning-Based Visual Grounding in Robotics | 0 |
+| 952 | 25.11 | Robotics | Navigation | 👤 | [📎](http://arxiv.org/abs/2511.10376) | MSGNav: Unleashing the Power of Multi-modal 3D Scene Graph for Zero-Shot Embodied Navigation | 0 |
+| 946 | 25.11 | Robotics | Manipulation | 👤 | [📎](http://arxiv.org/abs/2511.04357) | GraSP-VLA: Graph-based Symbolic Action Representation for Long-Horizon Planning with VLA Policies | 0 |
+| 943 | 25.10 | Robotics | Manipulation | 👤 | [📎](http://arxiv.org/abs/2510.27558) | Toward Accurate Long-Horizon Robotic Manipulation: Language-to-Action with Foundation Models via Scene Graphs | 0 |
+| 941 | 25.10 | Robotics | Robotic Perception | 👤 | [📎](http://arxiv.org/abs/2510.27033) | A Multi-Modal Neuro-Symbolic Approach for Spatial Reasoning-Based Visual Grounding in Robotics | 0 |
 | 934 | 25.10 | Robotics | Robotic Perception | 🤖 | [📎](http://arxiv.org/abs/2510.18697) | Event-Grounding Graph: Unified Spatio-Temporal Scene Graph from Robotic Observations | 0 |
 | 930 | 25.10 | Robotics | Navigation | 🤖 | [📎](http://arxiv.org/abs/2510.15319) | Traversability-aware Consistent Situational Graphs for Indoor Localization and Mapping | 0 |
 | 929 | 25.10 | Robotics | Navigation | 🤖 | [📎](http://arxiv.org/abs/2510.12101) | Gaussian Semantic Field for One-shot LiDAR Global Localization | 0 |
@@ -150,6 +149,5 @@
 | 158 | 21.01 | Robotics | Navigation | 🤖 | [📎](http://arxiv.org/abs/2101.06894) | Kimera: from SLAM to Spatial Perception with 3D Dynamic Scene Graphs | - |
 | 154 | 20.12 | Robotics | Manipulation | 🤖 | [📎](http://arxiv.org/abs/2012.07277) | Hierarchical Planning for Long-Horizon Manipulation with Geometric and Symbolic Scene Graphs | 13 |
 | 147 | 20.11 | Robotics | Robotic Perception | 🤖 | [📎](http://arxiv.org/abs/2011.11397) | Imagination-enabled Robot Perception | - |
-| 99 | 20.04 | Robotics | Manipulation | 🤖 | [📎](http://arxiv.org/abs/2004.03677) | Semantic Image Manipulation Using Scene Graphs | 2 |
 | 29 | 18.11 | Robotics | Navigation | 👤 | [📎](http://arxiv.org/abs/1811.10696) | Attentive Relational Networks for Mapping Images to Scene Graphs | 11 |
 | 8 | 17.04 | Robotics | Manipulation | 👤 | [📎](http://arxiv.org/abs/1704.01189) | Semantic Robot Programming for Goal-Directed Manipulation in Cluttered Scenes | 0 |

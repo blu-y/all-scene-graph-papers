@@ -5,7 +5,7 @@
 | 1001 | 26.01 | Robotics | Navigation | 👤 | [📎](http://arxiv.org/abs/2601.06806) | SpatialNav: Leveraging Spatial Scene Graphs for Zero-Shot Vision-and-Language Navigation | 0 |
 | 996 | 26.01 | Robotics | Navigation | 👤 | [📎](http://arxiv.org/abs/2601.01872) | CausalNav: A Long-term Embodied Navigation System for Autonomous Mobile Robots in Dynamic Outdoor Scenarios | 0 |
 | 980 | 25.12 | Robotics | Navigation | 👤 | [📎](http://arxiv.org/abs/2512.15047) | HERO: Hierarchical Traversable 3D Scene Graphs for Embodied Navigation Among Movable Obstacles | 0 |
-| 952 | 25.11 | Robotics | Navigation | 🤖 | [📎](http://arxiv.org/abs/2511.10376) | MSGNav: Unleashing the Power of Multi-modal 3D Scene Graph for Zero-Shot Embodied Navigation | 0 |
+| 952 | 25.11 | Robotics | Navigation | 👤 | [📎](http://arxiv.org/abs/2511.10376) | MSGNav: Unleashing the Power of Multi-modal 3D Scene Graph for Zero-Shot Embodied Navigation | 0 |
 | 930 | 25.10 | Robotics | Navigation | 🤖 | [📎](http://arxiv.org/abs/2510.15319) | Traversability-aware Consistent Situational Graphs for Indoor Localization and Mapping | 0 |
 | 929 | 25.10 | Robotics | Navigation | 🤖 | [📎](http://arxiv.org/abs/2510.12101) | Gaussian Semantic Field for One-shot LiDAR Global Localization | 0 |
 | 913 | 25.09 | Robotics | Navigation | 🤖 | [📎](http://arxiv.org/abs/2509.23563) | RAVEN: Resilient Aerial Navigation via Open-Set Semantic Memory and Behavior Adaptation | 0 |

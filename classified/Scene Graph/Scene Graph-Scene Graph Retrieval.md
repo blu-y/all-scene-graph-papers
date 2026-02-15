@@ -2,7 +2,6 @@
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
-| 956 | 25.11 | Scene Graph | Scene Graph Retrieval | 🤖 | [📎](http://arxiv.org/abs/2511.14004) | Searching in Space and Time: Unified Memory-Action Loops for Open-World Object Retrieval | 0 |
 | 939 | 25.10 | Scene Graph | Scene Graph Retrieval | 🤖 | [📎](http://arxiv.org/abs/2510.22897) | Charting the Design Space of Neural Graph Representations for Subgraph Matching | 0 |
 | 938 | 25.10 | Scene Graph | Scene Graph Retrieval | 🤖 | [📎](http://arxiv.org/abs/2510.22538) | Iteratively Refined Early Interaction Alignment for Subgraph Matching based Graph Retrieval | 0 |
 | 814 | 25.05 | Scene Graph | Scene Graph Retrieval | 🤖 | [📎](http://arxiv.org/abs/2505.16237) | Align-GRAG: Anchor and Rationale Guided Dual Alignment for Graph Retrieval-Augmented Generation | 0 |
@@ -21,4 +20,3 @@
 | 188 | 21.06 | Scene Graph | Scene Graph Retrieval | 🤖 | [📎](http://arxiv.org/abs/2106.02400) | A Deep Local and Global Scene-Graph Matching for Image-Text Retrieval | - |
 | 156 | 20.12 | Scene Graph | Scene Graph Retrieval | 🤖 | [📎](http://arxiv.org/abs/2012.14700) | Image-to-Image Retrieval by Learning Similarity between Scene Graphs | 0 |
 | 152 | 20.12 | Scene Graph | Scene Graph Retrieval | 🤖 | [📎](http://arxiv.org/abs/2012.04329) | StacMR: Scene-Text Aware Cross-Modal Retrieval | - |
-| 104 | 20.05 | Scene Graph | Scene Graph Retrieval | 🤖 | [📎](http://arxiv.org/abs/2005.06653) | Structured Query-Based Image Retrieval Using Scene Graphs | - |

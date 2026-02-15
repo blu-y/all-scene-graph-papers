@@ -29,7 +29,7 @@ Reposity for classifying all arXiv scene graph papers.
   - [Reasoning](./classified/Reasoning/Reasoning-Reasoning.md)
   - [Relationship](./classified/Reasoning/Reasoning-Relationship.md)
   - [Retrieval](./classified/Reasoning/Reasoning-Retrieval.md)
-  - [Scene understanding](./classified/Reasoning/Reasoning-Scene%20understanding.md)
+  - [Scene Understanding](./classified/Reasoning/Reasoning-Scene%20Understanding.md)
   - [VPR](./classified/Reasoning/Reasoning-VPR.md)
   - [VQA](./classified/Reasoning/Reasoning-VQA.md)
   - [Others](./classified/Reasoning/Reasoning-Others.md)
@@ -37,6 +37,7 @@ Reposity for classifying all arXiv scene graph papers.
   - [Active Learning](./classified/Others/Others-Active%20Learning.md)
   - [Autonomous Driving](./classified/Others/Others-Autonomous%20Driving.md)
   - [Medical](./classified/Others/Others-Medical.md)
+  - [Other Applications](./classified/Others/Others-Other%20Applications.md)
   - [Weakly Related](./classified/Others/Others-Weakly%20Related.md)
   - [Not Related](./classified/Others/Others-Not%20Related.md)
 

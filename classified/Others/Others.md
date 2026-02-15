@@ -10,7 +10,12 @@
 | 984 | 25.12 | Others | Autonomous Driving | 👤 | [📎](http://arxiv.org/abs/2512.17445) | LangDriveCTRL: Natural Language Controllable Driving Scene Editing with Multi-modal Agents | 0 |
 | 979 | 25.12 | Others | Medical | 👤 | [📎](http://arxiv.org/abs/2512.14092) | ProtoFlow: Interpretable and Robust Surgical Workflow Modeling with Learned Dynamic Scene Graph Prototypes | 0 |
 | 957 | 25.11 | Others | Autonomous Driving | 👤 | [📎](http://arxiv.org/abs/2511.14430) | Abstract Scene Graphs: Formalizing and Monitoring Spatial Properties of Automated Driving Functions | 0 |
-| 953 | 25.11 | Others | Autonomous Driving | 🤖 | [📎](http://arxiv.org/abs/2511.11266) | GraphPilot: Grounded Scene Graph Conditioning for Language-Based Autonomous Driving | 0 |
+| 955 | 25.11 | Others | Other Applications | 👤 | [📎](http://arxiv.org/abs/2511.13970) | Scene Graph-Guided Generative AI Framework for Synthesizing and Evaluating Industrial Hazard Scenarios | 0 |
+| 954 | 25.11 | Others | Other Applications | 👤 | [📎](http://arxiv.org/abs/2511.12676) | BridgeEQA: Virtual Embodied Agents for Real Bridge Inspections | 0 |
+| 953 | 25.11 | Others | Autonomous Driving | 👤 | [📎](http://arxiv.org/abs/2511.11266) | GraphPilot: Grounded Scene Graph Conditioning for Language-Based Autonomous Driving | 0 |
+| 945 | 25.11 | Others | Not Related | 👤 | [📎](http://arxiv.org/abs/2511.08609) | Case Study: Transformer-Based Solution for the Automatic Digitization of Gas Plants | 0 |
+| 944 | 25.11 | Others | Other Applications | 👤 | [📎](http://arxiv.org/abs/2511.03819) | SILVI: Simple Interface for Labeling Video Interactions | 0 |
+| 940 | 25.10 | Others | Other Applications | 👤 | [📎](http://arxiv.org/abs/2510.23190) | Evaluation of Vision-LLMs in Surveillance Video | 0 |
 | 910 | 25.09 | Others | Medical | 🤖 | [📎](http://arxiv.org/abs/2509.22014) | Lightweight Structured Multimodal Reasoning for Clinical Scene Understanding in Robotics | 0 |
 | 906 | 25.09 | Others | Medical | 🤖 | [📎](http://arxiv.org/abs/2509.20941) | Decoding the Surgical Scene: A Scoping Review of Scene Graphs in Surgery | 0 |
 | 865 | 25.07 | Others | Medical | 🤖 | [📎](http://arxiv.org/abs/2507.15541) | Towards Holistic Surgical Scene Graph | 0 |
@@ -50,7 +55,8 @@
 | 183 | 21.05 | Others | Autonomous Driving | 🤖 | [📎](http://arxiv.org/abs/2105.01610) | Reliving the Dataset: Combining the Visualization of Road Users' Interactions with Scenario Reconstruction in Virtual Reality | - |
 | 148 | 20.11 | Others | Autonomous Driving | 🤖 | [📎](http://arxiv.org/abs/2011.13588) | Road Scene Graph: A Semantic Graph-Based Scene Representation Dataset for Intelligent Vehicles | 20 |
 | 127 | 20.09 | Others | Autonomous Driving | 🤖 | [📎](http://arxiv.org/abs/2009.06435) | Scene-Graph Augmented Data-Driven Risk Assessment of Autonomous Vehicle Decisions | 5 |
-| 114 | 20.07 | Others | Medical | 🤖 | [📎](http://arxiv.org/abs/2007.03357) | Learning and Reasoning with the Graph Structure Representation in Robotic Surgery | 0 |
+| 114 | 20.07 | Others | Medical | 👤 | [📎](http://arxiv.org/abs/2007.03357) | Learning and Reasoning with the Graph Structure Representation in Robotic Surgery | 0 |
+| 94 | 20.02 | Others | Autonomous Driving | 👤 | [📎](http://arxiv.org/abs/2002.08945) | Spatiotemporal Relationship Reasoning for Pedestrian Intent Prediction | 10 |
 | 83 | 19.11 | Others | Not Related | 👤 | [📎](http://arxiv.org/abs/1911.07527) | SOGNet: Scene Overlap Graph Network for Panoptic Segmentation | 6 |
 | 77 | 19.10 | Others | Weakly Related | 👤 | [📎](http://arxiv.org/abs/1910.01198) | Using Image Priors to Improve Scene Understanding | 0 |
 | 66 | 19.08 | Others | Weakly Related | 👤 | [📎](http://arxiv.org/abs/1908.02436) | Continuous Graph Flow | 3 |

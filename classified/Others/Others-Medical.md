@@ -19,4 +19,4 @@
 | 317 | 22.09 | Others | Medical | 🤖 | [📎](http://arxiv.org/abs/2209.07118) | Align, Reason and Learn: Enhancing Medical Vision-and-Language Pre-training with Knowledge | 0 |
 | 203 | 21.08 | Others | Medical | 🤖 | [📎](http://arxiv.org/abs/2108.00316) | Chest ImaGenome Dataset for Clinical Reasoning | 26 |
 | 190 | 21.06 | Others | Medical | 🤖 | [📎](http://arxiv.org/abs/2106.15309) | Multimodal Semantic Scene Graphs for Holistic Modeling of Surgical Procedures | 2 |
-| 114 | 20.07 | Others | Medical | 🤖 | [📎](http://arxiv.org/abs/2007.03357) | Learning and Reasoning with the Graph Structure Representation in Robotic Surgery | 0 |
+| 114 | 20.07 | Others | Medical | 👤 | [📎](http://arxiv.org/abs/2007.03357) | Learning and Reasoning with the Graph Structure Representation in Robotic Surgery | 0 |

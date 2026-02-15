@@ -3,6 +3,7 @@
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
 | 997 | 26.01 | Others | Not Related | 👤 | [📎](http://arxiv.org/abs/2601.02792) | Textile IR: A Bidirectional Intermediate Representation for Physics-Aware Fashion CAD | 0 |
+| 945 | 25.11 | Others | Not Related | 👤 | [📎](http://arxiv.org/abs/2511.08609) | Case Study: Transformer-Based Solution for the Automatic Digitization of Gas Plants | 0 |
 | 83 | 19.11 | Others | Not Related | 👤 | [📎](http://arxiv.org/abs/1911.07527) | SOGNet: Scene Overlap Graph Network for Panoptic Segmentation | 6 |
 | 64 | 19.06 | Others | Not Related | 👤 | [📎](http://arxiv.org/abs/1906.08707) | The Limited Multi-Label Projection Layer | 13 |
 | 60 | 19.05 | Others | Not Related | 👤 | [📎](http://arxiv.org/abs/1905.09891) | Adding Intuitive Physics to Neural-Symbolic Capsules Using Interaction Networks | 1 |
