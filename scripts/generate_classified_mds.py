@@ -49,7 +49,7 @@ def generate_markdown_table(df):
     
     return header + separator + "\n".join(rows)
 
-def update_readme_categories(tree_md):
+def update_readme_categories(stats_msg, tree_md):
     if not os.path.exists(README_PATH):
         return
 
@@ -62,26 +62,23 @@ def update_readme_categories(tree_md):
         prefix, rest = content.split(header, 1)
         
         # Determine where the category section ends
-        # Look for the next major separator like "---" or next "## "
-        # But specifically the prompt shows a "---" after the category list
-        suffix = ""
-        
-        # Look for the next separator after some content
         marker = "\n---"
         if marker in rest:
-            # We found a separator, keep it and everything after it
             actual_rest = rest.split(marker, 1)[1]
             suffix = marker + actual_rest
+        else:
+            suffix = ""
         
-        new_content = prefix + header + "\n\n" + tree_md + "\n" + suffix
+        # stats_msg added here
+        new_content = prefix + header + "\n\n" + stats_msg + "\n\n" + tree_md + "\n" + suffix
     else:
         # Append to the end if not found
-        new_content = content.rstrip() + "\n\n---\n\n" + header + "\n\n" + tree_md
+        new_content = content.rstrip() + "\n\n---\n\n" + header + "\n\n" + stats_msg + "\n\n" + tree_md
         print(f"Warning: '{header}' header not found. Appending to the end of README.md.")
     
     with open(README_PATH, 'w', encoding='utf-8') as f:
         f.write(new_content)
-    print("Updated README.md with new category tree.")
+    print("Updated README.md with new category tree and classification percentage.")
 
 def main():
     # Load data
@@ -91,6 +88,12 @@ def main():
     
     df = pd.read_csv(CSV_PATH)
     
+    # Calculate classification statistics (source == 'manual' only)
+    total_count = len(df)
+    classified_count = len(df[df['source'] == 'manual'])
+    percent = (classified_count / total_count * 100) if total_count > 0 else 0
+    stats_msg = f"Classified {percent:.1f}%({classified_count}/{total_count})"
+
     # Remove existing classified directory to start fresh
     if os.path.exists(OUTPUT_DIR):
         shutil.rmtree(OUTPUT_DIR)
@@ -159,7 +162,7 @@ def main():
                 f.write(generate_markdown_table(sub_df))
 
     # Update README.md
-    update_readme_categories("\n".join(tree_lines) + "\n")
+    update_readme_categories(stats_msg, "\n".join(tree_lines) + "\n")
     print(f"Successfully generated markdown files in {OUTPUT_DIR}")
 
 if __name__ == "__main__":
