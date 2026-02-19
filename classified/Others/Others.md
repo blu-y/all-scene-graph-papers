@@ -16,6 +16,7 @@
 | 945 | 25.11 | Others | Not Related | 👤 | [📎](http://arxiv.org/abs/2511.08609) | Case Study: Transformer-Based Solution for the Automatic Digitization of Gas Plants | 0 |
 | 944 | 25.11 | Others | Other Applications | 👤 | [📎](http://arxiv.org/abs/2511.03819) | SILVI: Simple Interface for Labeling Video Interactions | 0 |
 | 940 | 25.10 | Others | Other Applications | 👤 | [📎](http://arxiv.org/abs/2510.23190) | Evaluation of Vision-LLMs in Surveillance Video | 0 |
+| 939 | 25.10 | Others | Weakly Related | 👤 | [📎](http://arxiv.org/abs/2510.22897) | Charting the Design Space of Neural Graph Representations for Subgraph Matching | 0 |
 | 910 | 25.09 | Others | Medical | 🤖 | [📎](http://arxiv.org/abs/2509.22014) | Lightweight Structured Multimodal Reasoning for Clinical Scene Understanding in Robotics | 0 |
 | 906 | 25.09 | Others | Medical | 🤖 | [📎](http://arxiv.org/abs/2509.20941) | Decoding the Surgical Scene: A Scoping Review of Scene Graphs in Surgery | 0 |
 | 865 | 25.07 | Others | Medical | 🤖 | [📎](http://arxiv.org/abs/2507.15541) | Towards Holistic Surgical Scene Graph | 0 |

@@ -20,47 +20,64 @@
 | 956 | 25.11 | Reasoning | Retrieval | 👤 | [📎](http://arxiv.org/abs/2511.14004) | Searching in Space and Time: Unified Memory-Action Loops for Open-World Object Retrieval | 0 |
 | 950 | 25.11 | Reasoning | Scene Understanding | 👤 | [📎](http://arxiv.org/abs/2511.07813) | Sparse3DPR: Training-Free 3D Hierarchical Scene Parsing and Task-Adaptive Subgraph Reasoning from Sparse RGB Views | 0 |
 | 949 | 25.11 | Reasoning | Reasoning | 👤 | [📎](http://arxiv.org/abs/2511.07403) | SpatialThinker: Reinforcing 3D Reasoning in Multimodal LLMs via Spatial Rewards | 0 |
+| 938 | 25.10 | Reasoning | Retrieval | 🤖 | [📎](http://arxiv.org/abs/2510.22538) | Iteratively Refined Early Interaction Alignment for Subgraph Matching based Graph Retrieval | 0 |
 | 911 | 25.09 | Reasoning | Reasoning | 🤖 | [📎](http://arxiv.org/abs/2509.22281) | MesaTask: Towards Task-Driven Tabletop Scene Generation via 3D Spatial Reasoning | 0 |
 | 893 | 25.09 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2509.11862) | Bridging Vision Language Models and Symbolic Grounding for Video Question Answering | 0 |
 | 880 | 25.08 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2508.07023) | MV-CoRe: Multimodal Visual-Conceptual Reasoning for Complex Visual Question Answering | 0 |
 | 858 | 25.07 | Reasoning | Reasoning | 🤖 | [📎](http://arxiv.org/abs/2507.13362) | Enhancing Spatial Reasoning in Vision-Language Models via Chain-of-Thought Prompting and Reinforcement Learning | 0 |
 | 838 | 25.06 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2506.08553) | From Pixels to Graphs: using Scene and Knowledge Graphs for HD-EPIC VQA Challenge | 0 |
 | 828 | 25.06 | Reasoning | Reasoning | 🤖 | [📎](http://arxiv.org/abs/2506.03135) | OmniSpatial: Towards Comprehensive Spatial Reasoning Benchmark for Vision Language Models | 1 |
+| 814 | 25.05 | Reasoning | Retrieval | 🤖 | [📎](http://arxiv.org/abs/2505.16237) | Align-GRAG: Anchor and Rationale Guided Dual Alignment for Graph Retrieval-Augmented Generation | 0 |
+| 813 | 25.05 | Reasoning | Retrieval | 🤖 | [📎](http://arxiv.org/abs/2505.15867) | SCENIR: Visual Semantic Clarity through Unsupervised Scene Graph Retrieval | 0 |
 | 803 | 25.04 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2504.20091) | VideoMultiAgents: A Multi-Agent Framework for Video Question Answering | 0 |
 | 789 | 25.04 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2504.05463) | REVEAL: Relation-based Video Representation Learning for Video-Question-Answering | 0 |
 | 754 | 25.03 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2503.06820) | Towards Fine-Grained Video Question Answering | 0 |
 | 734 | 25.02 | Reasoning | Reasoning | 🤖 | [📎](http://arxiv.org/abs/2502.03450) | Schema-Guided Scene-Graph Reasoning based on Multi-Agent Large Language Model System | 0 |
 | 723 | 25.01 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2501.04303) | Graph-Based Multimodal Contrastive Learning for Chart Question Answering | 0 |
 | 721 | 24.12 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2412.20927) | Enhanced Multimodal RAG-LLM for Accurate Visual Question Answering | 2 |
+| 710 | 24.12 | Reasoning | Retrieval | 🤖 | [📎](http://arxiv.org/abs/2412.12788) | RA-SGG: Retrieval-Augmented Scene Graph Generation Framework via Multi-Prototype Learning | 0 |
+| 709 | 24.12 | Reasoning | Retrieval | 🤖 | [📎](http://arxiv.org/abs/2412.11396) | Leveraging Retrieval-Augmented Tags for Large Vision-Language Understanding in Complex Scenes | 0 |
 | 699 | 24.12 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2412.05722) | Evaluating Hallucination in Text-to-Image Diffusion Models with Scene-Graph based Question-Answering Agent | 0 |
 | 676 | 24.11 | Reasoning | Reasoning | 🤖 | [📎](http://arxiv.org/abs/2411.06048) | An Empirical Analysis on Spatial Reasoning Capabilities of Large Multimodal Models | 2 |
 | 673 | 24.11 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2411.02452) | Goal-Oriented Semantic Communication for Wireless Visual Question Answering | 0 |
 | 627 | 24.07 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2407.17398) | 3D Question Answering for City Scene Understanding | 0 |
 | 614 | 24.06 | Reasoning | Reasoning | 🤖 | [📎](http://arxiv.org/abs/2406.12736) | Beyond Visual Appearances: Privacy-sensitive Objects Identification via Hybrid Graph Reasoning | 0 |
+| 613 | 24.06 | Reasoning | Retrieval | 🤖 | [📎](http://arxiv.org/abs/2406.11820) | Composing Object Relations and Attributes for Image-Text Matching | 1 |
+| 606 | 24.06 | Reasoning | Retrieval | 🤖 | [📎](http://arxiv.org/abs/2406.18579) | Hire: Hybrid-modal Interaction with Multiple Relational Enhancements for Image-Text Matching | 0 |
 | 603 | 24.06 | Reasoning | Reasoning | 🤖 | [📎](http://arxiv.org/abs/2406.01584) | SpatialRGPT: Grounded Spatial Reasoning in Vision Language Models | 1 |
+| 582 | 24.04 | Reasoning | Retrieval | 🤖 | [📎](http://arxiv.org/abs/2404.14565) | "Where am I?" Scene Retrieval with Language | 0 |
+| 561 | 24.03 | Reasoning | Retrieval | 🤖 | [📎](http://arxiv.org/abs/2403.17995) | Semi-Supervised Image Captioning Considering Wasserstein Graph Matching | 1 |
 | 543 | 24.03 | Reasoning | Reasoning | 🤖 | [📎](http://arxiv.org/abs/2403.10534) | VISREAS: Complex Visual Reasoning with Unanswerable Questions | 0 |
 | 539 | 24.02 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2402.12728) | Modality-Aware Integration with Large Language Models for Knowledge-based Visual Question Answering | 0 |
 | 537 | 24.02 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2402.07630) | G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding and Question Answering | 22 |
 | 502 | 23.10 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2310.20159) | Language Guided Visual Question Answering: Elevate Your Multimodal Language Model Using Knowledge-Enriched Prompts | 0 |
 | 488 | 23.10 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2310.01842) | SelfGraphVQA: A Self-Supervised Graph Neural Network for Scene-based Question Answering | 0 |
+| 382 | 23.03 | Reasoning | Retrieval | 🤖 | [📎](http://arxiv.org/abs/2303.11090) | Scene Graph Based Fusion Network For Image-Text Retrieval | 0 |
 | 377 | 23.03 | Reasoning | Relationship | 🤖 | [📎](http://arxiv.org/abs/2303.09410) | Narrator: Towards Natural Control of Human-Scene Interaction Generation via Relationship Reasoning | 0 |
 | 356 | 22.12 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2212.08283) | SceneGATE: Scene-Graph based co-Attention networks for TExt visual question answering | 1 |
 | 341 | 22.11 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2211.08086) | Visually Grounded VQA by Lattice-based Retrieval | 2 |
+| 327 | 22.10 | Reasoning | Retrieval | 🤖 | [📎](http://arxiv.org/abs/2210.08908) | Cross-modal Semantic Enhanced Interaction for Image-Sentence Retrieval | 0 |
 | 311 | 22.08 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2208.12037) | Symbolic Replay: Scene Graph as Prompt for Continual Learning on VQA Task | 4 |
 | 285 | 22.05 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2205.11501) | VQA-GNN: Reasoning with Multimodal Knowledge via Graph Neural Networks for Visual Question Answering | 4 |
 | 282 | 22.05 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2205.04188) | Joint learning of object graph and relation graph for visual question answering | 1 |
 | 275 | 22.04 | Reasoning | Reasoning | 🤖 | [📎](http://arxiv.org/abs/2204.02380) | CLEVR-X: A Visual Reasoning Dataset for Natural Language Explanations | 0 |
 | 259 | 22.02 | Reasoning | Reasoning | 🤖 | [📎](http://arxiv.org/abs/2202.11337) | Commonsense Reasoning for Identifying and Understanding the Implicit Need of Help and Synthesizing Assistive Actions | 0 |
+| 254 | 22.02 | Reasoning | Retrieval | 🤖 | [📎](http://arxiv.org/abs/2202.09459) | Interactive Visual Pattern Search on Graph Data via Graph Representation Learning | 0 |
 | 253 | 22.02 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2202.09277) | (2.5+1)D Spatio-Temporal Scene Graphs for Video Question Answering | 1 |
 | 241 | 21.12 | Reasoning | Reasoning | 🤖 | [📎](http://arxiv.org/abs/2112.08587) | SGEITL: Scene Graph Enhanced Image-Text Learning for Visual Commonsense Reasoning | 0 |
 | 232 | 21.11 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2111.04785) | Visual Question Answering based on Formal Logic | - |
+| 227 | 21.10 | Reasoning | Retrieval | 🤖 | [📎](http://arxiv.org/abs/2110.04494) | SGMNet: Scene Graph Matching Network for Few-Shot Remote Sensing Scene Classification | 5 |
+| 220 | 21.09 | Reasoning | Retrieval | 🤖 | [📎](http://arxiv.org/abs/2109.05523) | Constructing Phrase-level Semantic Labels to Form Multi-Grained Supervision for Image-Text Retrieval | 1 |
 | 199 | 21.07 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2107.06325) | Graphhopper: Multi-Hop Scene Graph Reasoning for Visual Question Answering | - |
 | 194 | 21.06 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2106.14476) | Adventurer's Treasure Hunt: A Transparent System for Visually Grounded Compositional Visual Question Answering based on Scene Graphs | 0 |
+| 188 | 21.06 | Reasoning | Retrieval | 🤖 | [📎](http://arxiv.org/abs/2106.02400) | A Deep Local and Global Scene-Graph Matching for Image-Text Retrieval | - |
 | 180 | 21.04 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2104.10283) | GraghVQA: Language-Guided Graph Neural Networks for Graph-based Visual Question Answering | 2 |
 | 168 | 21.03 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2103.11537) | How to Design Sample and Computationally Efficient VQA Models | 4 |
 | 157 | 21.01 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2101.05479) | Understanding the Role of Scene Graphs in Visual Question Answering | 22 |
+| 156 | 20.12 | Reasoning | Retrieval | 🤖 | [📎](http://arxiv.org/abs/2012.14700) | Image-to-Image Retrieval by Learning Similarity between Scene Graphs | 0 |
 | 155 | 20.12 | Reasoning | Reasoning | 🤖 | [📎](http://arxiv.org/abs/2012.11587) | Object-Centric Diagnosis of Visual Reasoning | 10 |
 | 153 | 20.12 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2012.07192) | Knowledge-Routed Visual Question Reasoning: Challenges for Deep Representation Embedding | 5 |
+| 152 | 20.12 | Reasoning | Retrieval | 🤖 | [📎](http://arxiv.org/abs/2012.04329) | StacMR: Scene-Text Aware Cross-Modal Retrieval | - |
 | 146 | 20.11 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2011.10731) | LRTA: A Transparent Neural-Symbolic Reasoning Framework with Modular Supervision for Visual Question Answering | 11 |
 | 140 | 20.10 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2010.04913) | Interpretable Neural Computation for Real-World Compositional Visual Question Answering | 0 |
 | 120 | 20.07 | Reasoning | VQA | 👤 | [📎](http://arxiv.org/abs/2007.13262) | REXUP: I REason, I EXtract, I UPdate with Structured Compositional Reasoning for Visual Question Answering | 0 |

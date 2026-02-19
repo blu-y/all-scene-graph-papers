@@ -7,17 +7,16 @@ Reposity for classifying all arXiv scene graph papers.
 
 ## 📚 Categories
 
-Classified 19.5%(198/1017)
+Classified 19.6%(199/1017)
 
 - [**Scene Graph**](./classified/Scene%20Graph/Scene%20Graph.md)
   - [3D Scene Graph](./classified/Scene%20Graph/Scene%20Graph-3D%20Scene%20Graph.md)
   - [Dataset/Benchmark](./classified/Scene%20Graph/Scene%20Graph-Dataset_Benchmark.md)
   - [Dynamic Scene Graph](./classified/Scene%20Graph/Scene%20Graph-Dynamic%20Scene%20Graph.md)
+  - [General](./classified/Scene%20Graph/Scene%20Graph-General.md)
   - [Representation](./classified/Scene%20Graph/Scene%20Graph-Representation.md)
   - [Scene Graph Generation](./classified/Scene%20Graph/Scene%20Graph-Scene%20Graph%20Generation.md)
   - [Scene Graph Parsing](./classified/Scene%20Graph/Scene%20Graph-Scene%20Graph%20Parsing.md)
-  - [Scene Graph Retrieval](./classified/Scene%20Graph/Scene%20Graph-Scene%20Graph%20Retrieval.md)
-  - [Survey](./classified/Scene%20Graph/Scene%20Graph-Survey.md)
   - [Synthesis](./classified/Scene%20Graph/Scene%20Graph-Synthesis.md)
   - [Others](./classified/Scene%20Graph/Scene%20Graph-Others.md)
 - [**Robotics**](./classified/Robotics/Robotics.md)

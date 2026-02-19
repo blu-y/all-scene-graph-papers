@@ -4,6 +4,7 @@
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
 | 1009 | 26.01 | Others | Weakly Related | 👤 | [📎](http://arxiv.org/abs/2601.16093) | SAMTok: Representing Any Mask with Two Words | 0 |
 | 1005 | 26.01 | Others | Weakly Related | 👤 | [📎](http://arxiv.org/abs/2601.11644) | Predicting When to Trust Vision-Language Models for Spatial Reasoning | 0 |
+| 939 | 25.10 | Others | Weakly Related | 👤 | [📎](http://arxiv.org/abs/2510.22897) | Charting the Design Space of Neural Graph Representations for Subgraph Matching | 0 |
 | 77 | 19.10 | Others | Weakly Related | 👤 | [📎](http://arxiv.org/abs/1910.01198) | Using Image Priors to Improve Scene Understanding | 0 |
 | 66 | 19.08 | Others | Weakly Related | 👤 | [📎](http://arxiv.org/abs/1908.02436) | Continuous Graph Flow | 3 |
 | 55 | 19.04 | Others | Weakly Related | 👤 | [📎](http://arxiv.org/abs/1904.11621) | Meta-Sim: Learning to Generate Synthetic Datasets | - |
