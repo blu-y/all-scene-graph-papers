@@ -29,7 +29,7 @@ no,category,subcategory,arxiv_url,title,citations,source,additional_doi
 990,Robotics,Task-planning,http://arxiv.org/abs/2512.21243 ,LookPlanGraph: Embodied Instruction Following Method with VLM Graph Augmentation,0,manual,
 989,Others,Autonomous Driving,http://arxiv.org/abs/2512.21133 ,SparScene: Efficient Traffic Scene Representation via Sparse Graph Learning for Large-Scale Trajectory Generation,0,manual,
 988,Scene Graph,Scene Graph Generation,http://arxiv.org/abs/2512.19221 ,From Pixels to Predicates Structuring urban perception with scene graphs,0,manual,
-987,Reasoning,VPR,http://arxiv.org/abs/2512.18613 ,Text2Graph VPR: A Text-to-Graph Expert System for Explainable Place Recognition in Changing Environments,0,manual,
+987,Reasoning,Others,http://arxiv.org/abs/2512.18613 ,Text2Graph VPR: A Text-to-Graph Expert System for Explainable Place Recognition in Changing Environments,0,manual,
 986,Reasoning,Retrieval,http://arxiv.org/abs/2512.18448 ,Object-Centric Framework for Video Moment Retrieval,0,manual,
 985,Reasoning,Retrieval,http://arxiv.org/abs/2512.18407 ,Through the PRISm: Importance-Aware Scene Graphs for Image Retrieval,0,manual,
 984,Others,Autonomous Driving,http://arxiv.org/abs/2512.17445 ,LangDriveCTRL: Natural Language Controllable Driving Scene Editing with Multi-modal Agents,0,manual,
@@ -856,18 +856,18 @@ no,category,subcategory,arxiv_url,title,citations,source,additional_doi
 163,Scene Graph,Scene Graph Generation,http://arxiv.org/abs/2103.05271 ,Probabilistic Modeling of Semantic Ambiguity for Scene Graph Generation,5,ai_generated,10.1109/cvpr46437.2021.01234
 162,Scene Graph,Scene Graph Generation,http://arxiv.org/abs/2103.02221 ,Energy-Based Learning for Scene Graph Generation,-1,ai_generated,10.1109/cvpr46437.2021.01372
 161,Scene Graph,Scene Graph Generation,http://arxiv.org/abs/2102.04990 ,In Defense of Scene Graphs for Image Captioning,-1,ai_generated,10.1109/iccv48922.2021.00144
-160,Scene Graph,Scene Graph Generation,http://arxiv.org/abs/2102.04760 ,Improving Scene Graph Classification by Exploiting Knowledge from Texts,0,ai_generated,10.1609/aaai.v36i2.20116
-159,Scene Graph,Scene Graph Generation,http://arxiv.org/abs/2102.04035 ,In-game Residential Home Planning via Visual Context-aware Global Relation Learning,0,ai_generated,10.1609/aaai.v35i1.16109
-158,Robotics,Navigation,http://arxiv.org/abs/2101.06894 ,Kimera: from SLAM to Spatial Perception with 3D Dynamic Scene Graphs,-1,ai_generated,10.1177/02783649211056674
-157,Reasoning,VQA,http://arxiv.org/abs/2101.05479 ,Understanding the Role of Scene Graphs in Visual Question Answering,22,ai_generated,
-156,Reasoning,Retrieval,http://arxiv.org/abs/2012.14700 ,Image-to-Image Retrieval by Learning Similarity between Scene Graphs,0,ai_generated,10.1609/aaai.v35i12.17281
-155,Reasoning,Reasoning,http://arxiv.org/abs/2012.11587 ,Object-Centric Diagnosis of Visual Reasoning,10,ai_generated,
-154,Robotics,Manipulation,http://arxiv.org/abs/2012.07277 ,Hierarchical Planning for Long-Horizon Manipulation with Geometric and Symbolic Scene Graphs,13,ai_generated,10.1109/icra48506.2021.9561548
-153,Reasoning,VQA,http://arxiv.org/abs/2012.07192 ,Knowledge-Routed Visual Question Reasoning: Challenges for Deep Representation Embedding,5,ai_generated,10.1109/tnnls.2020.3045034
-152,Reasoning,Retrieval,http://arxiv.org/abs/2012.04329 ,StacMR: Scene-Text Aware Cross-Modal Retrieval,-1,ai_generated,10.1109/wacv48630.2021.00227
-151,Scene Graph,3D Scene Graph,http://arxiv.org/abs/2012.04060 ,Semantic and Geometric Modeling with Neural Message Passing in 3D Scene Graphs for Hierarchical Mechanical Search,-1,ai_generated,10.1109/icra48506.2021.9560736
-150,Scene Graph,Scene Graph Generation,http://arxiv.org/abs/2012.04027 ,Generating unseen complex scenes: are we there yet?,13,ai_generated,
-149,Scene Graph,Scene Graph Generation,http://arxiv.org/abs/2011.14488 ,Self-Supervised Real-to-Sim Scene Generation,-1,ai_generated,10.1109/iccv48922.2021.01574
+160,Scene Graph,Others,http://arxiv.org/abs/2102.04760 ,Improving Scene Graph Classification by Exploiting Knowledge from Texts,0,manual,10.1609/aaai.v36i2.20116
+159,Others,Other Applications,http://arxiv.org/abs/2102.04035 ,In-game Residential Home Planning via Visual Context-aware Global Relation Learning,0,manual,10.1609/aaai.v35i1.16109
+158,Scene Graph,Dynamic Scene Graph,http://arxiv.org/abs/2101.06894 ,Kimera: from SLAM to Spatial Perception with 3D Dynamic Scene Graphs,-1,manual,10.1177/02783649211056674
+157,Reasoning,VQA,http://arxiv.org/abs/2101.05479 ,Understanding the Role of Scene Graphs in Visual Question Answering,22,manual,
+156,Reasoning,Retrieval,http://arxiv.org/abs/2012.14700 ,Image-to-Image Retrieval by Learning Similarity between Scene Graphs,0,manual,10.1609/aaai.v35i12.17281
+155,Reasoning,Reasoning,http://arxiv.org/abs/2012.11587 ,Object-Centric Diagnosis of Visual Reasoning,10,manual,
+154,Robotics,Manipulation,http://arxiv.org/abs/2012.07277 ,Hierarchical Planning for Long-Horizon Manipulation with Geometric and Symbolic Scene Graphs,13,manual,10.1109/icra48506.2021.9561548
+153,Reasoning,VQA,http://arxiv.org/abs/2012.07192 ,Knowledge-Routed Visual Question Reasoning: Challenges for Deep Representation Embedding,5,manual,10.1109/tnnls.2020.3045034
+152,Reasoning,Retrieval,http://arxiv.org/abs/2012.04329 ,StacMR: Scene-Text Aware Cross-Modal Retrieval,-1,manual,10.1109/wacv48630.2021.00227
+151,Scene Graph,3D Scene Graph,http://arxiv.org/abs/2012.04060 ,Semantic and Geometric Modeling with Neural Message Passing in 3D Scene Graphs for Hierarchical Mechanical Search,-1,manual,10.1109/icra48506.2021.9560736
+150,Scene Graph,Synthesis,http://arxiv.org/abs/2012.04027 ,Generating unseen complex scenes: are we there yet?,13,manual,
+149,Scene Graph,Scene Graph Generation,http://arxiv.org/abs/2011.14488 ,Self-Supervised Real-to-Sim Scene Generation,-1,manual,10.1109/iccv48922.2021.01574
 148,Others,Autonomous Driving,http://arxiv.org/abs/2011.13588 ,Road Scene Graph: A Semantic Graph-Based Scene Representation Dataset for Intelligent Vehicles,20,manual,
 147,Robotics,Robotic Perception,http://arxiv.org/abs/2011.11397 ,Imagination-enabled Robot Perception,-1,manual,10.1109/iros51168.2021.9636359
 146,Reasoning,VQA,http://arxiv.org/abs/2011.10731 ,LRTA: A Transparent Neural-Symbolic Reasoning Framework with Modular Supervision for Visual Question Answering,11,manual,
