@@ -94,14 +94,14 @@ def translate_abstract(text: str):
 
 def download_pdf(arxiv_id: str):
     """Download PDF for the paper and put it in PDFs folder."""
-    if not PDF_OLD_DIR.exists():
-        PDF_OLD_DIR.mkdir(parents=True, exist_ok=True)
+    if not PDFS_DIR.exists():
+        PDFS_DIR.mkdir(parents=True, exist_ok=True)
         
     pdf_url = f"https://arxiv.org/pdf/{arxiv_id}.pdf"
-    pdf_path = PDF_OLD_DIR / f"{arxiv_id}.pdf"
+    pdf_path = PDFS_DIR / f"{arxiv_id}.pdf"
     
     if pdf_path.exists():
-        print(f"PDF {arxiv_id}.pdf already exists in old directory.")
+        print(f"PDF {arxiv_id}.pdf already exists in directory.")
         return
         
     try:
