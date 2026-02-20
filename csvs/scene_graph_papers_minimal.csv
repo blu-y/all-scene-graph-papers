@@ -79,7 +79,7 @@ no,category,subcategory,arxiv_url,title,citations,source,additional_doi
 940,Others,Other Applications,http://arxiv.org/abs/2510.23190 ,Evaluation of Vision-LLMs in Surveillance Video,0,manual,
 939,Others,Weakly Related,http://arxiv.org/abs/2510.22897 ,Charting the Design Space of Neural Graph Representations for Subgraph Matching,0,manual,
 938,Reasoning,Retrieval,http://arxiv.org/abs/2510.22538 ,Iteratively Refined Early Interaction Alignment for Subgraph Matching based Graph Retrieval,0,ai_generated,
-937,Scene Graph,Scene Graph Generation,http://arxiv.org/abs/2510.22204 ,Bridging Perception and Reasoning: Dual-Pipeline Neuro-Symbolic Landing for UAVs in Cluttered Environments,0,ai_generated,
+937,Scene Graph,Scene Graph Generation,http://arxiv.org/abs/2510.22204 ,Human-Inspired Neuro-Symbolic World Modeling and Logic Reasoning for Interpretable Safe UAV Landing Site Assessment,0,ai_generated,
 936,Scene Graph,3D Scene Graph,http://arxiv.org/abs/2510.21069 ,ZING-3D: Zero-shot Incremental 3D Scene Graphs via Vision-Language Models,0,ai_generated,
 935,Scene Graph,Scene Graph Generation,http://arxiv.org/abs/2510.19060 ,PoSh: Using Scene Graphs To Guide LLMs-as-a-Judge For Detailed Image Descriptions,0,ai_generated,
 934,Robotics,Robotic Perception,http://arxiv.org/abs/2510.18697 ,Event-Grounding Graph: Unified Spatio-Temporal Scene Graph from Robotic Observations,0,ai_generated,
@@ -208,7 +208,7 @@ no,category,subcategory,arxiv_url,title,citations,source,additional_doi
 811,Scene Graph,Scene Graph Generation,http://arxiv.org/abs/2505.07815 ,"Imagine, Verify, Execute: Memory-guided Agentic Exploration with Vision-Language Models",0,ai_generated,
 810,Scene Graph,3D Scene Graph,http://arxiv.org/abs/2505.04058 ,LSVG: Language-Guided Scene Graphs with 2D-Assisted Multi-Modal Encoding for 3D Visual Grounding,0,ai_generated,10.1016/j.patcog.2025.112926
 809,Scene Graph,Dynamic Scene Graph,http://arxiv.org/abs/2505.03581 ,DyGEnc: Encoding a Sequence of Textual Scene Graphs to Reason and Answer Questions in Dynamic Scenes,0,ai_generated,
-808,Robotics,Navigation,http://arxiv.org/abs/2505.03128 ,HCOA\*: Hierarchical Class-ordered A\* for Navigation in Semantic Environments,0,ai_generated,
+808,Robotics,Navigation,http://arxiv.org/abs/2505.03128 ,HCOA*: Hierarchical Class-ordered A* for Navigation in Semantic Environments,0,ai_generated,
 807,Robotics,Manipulation,http://arxiv.org/abs/2505.03035 ,MORE: Mobile Manipulation Rearrangement Through Grounded Language Reasoning,0,ai_generated,
 806,Scene Graph,Scene Graph Generation,http://arxiv.org/abs/2505.02405 ,Estimating Commonsense Scene Composition on Belief Scene Graphs,0,ai_generated,10.1109/icra55743.2025.11127920
 805,Scene Graph,Scene Graph Generation,http://arxiv.org/abs/2505.00831 ,"SmallPlan: Leverage Small Language Models for Sequential Path Planning with Simulation-Powered, LLM-Guided Distillation",0,ai_generated,
@@ -366,7 +366,7 @@ no,category,subcategory,arxiv_url,title,citations,source,additional_doi
 653,Robotics,Robotic Perception,http://arxiv.org/abs/2409.15684 ,SYNERGAI: Perception Alignment for Human-Robot Collaboration,1,ai_generated,
 652,Robotics,Robotic Perception,http://arxiv.org/abs/2409.14908 ,KARMA: Augmenting Embodied AI Agents with Long-and-short Term Memory Systems,2,ai_generated,
 651,Scene Graph,Scene Graph Generation,http://arxiv.org/abs/2409.13612 ,FIHA: Autonomous Hallucination Evaluation in Vision-Language Models with Davidson Scene Graphs,1,ai_generated,
-650,Scene Graph,3D Scene Graph,http://arxiv.org/abs/2409.11972 ,Generation of Uncertainty-Aware Emergent Concepts in Factorized 3D Scene Graphs via Graph Neural Networks,0,ai_generated,
+650,Scene Graph,3D Scene Graph,http://arxiv.org/abs/2409.11972 ,Generation of Uncertainty-Aware High-Level Spatial Concepts in Factorized 3D Scene Graphs via Graph Neural Networks,0,ai_generated,
 649,Robotics,Robotic Perception,http://arxiv.org/abs/2409.11870 ,SpotLight: Robotic Scene Understanding through Interaction and Affordance Detection,0,ai_generated,
 648,Robotics,Navigation,http://arxiv.org/abs/2409.10350 ,Point2Graph: An End-to-end Point Cloud-based 3D Open-Vocabulary Scene Graph for Robot Navigation,0,ai_generated,10.1109/icra55743.2025.11127471
 647,Scene Graph,Scene Graph Generation,http://arxiv.org/abs/2409.10262 ,Hydra-SGG: Hybrid Relation Assignment for One-stage Scene Graph Generation,0,ai_generated,
