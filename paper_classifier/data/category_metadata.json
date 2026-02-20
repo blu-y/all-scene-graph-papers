@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-02-15",
+  "last_updated": "2026-02-20",
   "categories": {
     "Scene Graph": {
       "description": "Scene graph generation, representation, and manipulation",
@@ -46,9 +46,6 @@
         "Reasoning": {
           "description": "General reasoning tasks and inference"
         },
-        "VPR": {
-          "description": "Visual place recognition"
-        },
         "Retrieval": {
           "description": "Retrieval using scene graphs"
         },
@@ -63,6 +60,9 @@
         },
         "Captioning": {
           "description": "Image captioning using scene graphs"
+        },
+        "Grounding": {
+          "description": "Image, object grounding using scene graphs"
         }
       }
     },
@@ -109,6 +109,9 @@
         },
         "Other Applications": {
           "description": "Other applications"
+        },
+        "AR/VR": {
+          "description": "Augmented reality & virtual reality "
         }
       }
     }

@@ -27,7 +27,6 @@
 | 234 | 21.11 | Others | Autonomous Driving | 🤖 | [📎](http://arxiv.org/abs/2111.10196) | Towards Traffic Scene Description: The Semantic Scene Graph | 0 |
 | 233 | 21.11 | Others | Autonomous Driving | 🤖 | [📎](http://arxiv.org/abs/2111.06123) | Spatio-Temporal Scene-Graph Embedding for Autonomous Vehicle Collision Prediction | - |
 | 215 | 21.09 | Others | Autonomous Driving | 🤖 | [📎](http://arxiv.org/abs/2109.01183) | roadscene2vec: A Tool for Extracting and Embedding Road Scene-Graphs | 0 |
-| 183 | 21.05 | Others | Autonomous Driving | 🤖 | [📎](http://arxiv.org/abs/2105.01610) | Reliving the Dataset: Combining the Visualization of Road Users' Interactions with Scenario Reconstruction in Virtual Reality | - |
-| 148 | 20.11 | Others | Autonomous Driving | 🤖 | [📎](http://arxiv.org/abs/2011.13588) | Road Scene Graph: A Semantic Graph-Based Scene Representation Dataset for Intelligent Vehicles | 20 |
-| 127 | 20.09 | Others | Autonomous Driving | 🤖 | [📎](http://arxiv.org/abs/2009.06435) | Scene-Graph Augmented Data-Driven Risk Assessment of Autonomous Vehicle Decisions | 5 |
+| 148 | 20.11 | Others | Autonomous Driving | 👤 | [📎](http://arxiv.org/abs/2011.13588) | Road Scene Graph: A Semantic Graph-Based Scene Representation Dataset for Intelligent Vehicles | 20 |
+| 127 | 20.09 | Others | Autonomous Driving | 👤 | [📎](http://arxiv.org/abs/2009.06435) | Scene-Graph Augmented Data-Driven Risk Assessment of Autonomous Vehicle Decisions | 5 |
 | 94 | 20.02 | Others | Autonomous Driving | 👤 | [📎](http://arxiv.org/abs/2002.08945) | Spatiotemporal Relationship Reasoning for Pedestrian Intent Prediction | 10 |

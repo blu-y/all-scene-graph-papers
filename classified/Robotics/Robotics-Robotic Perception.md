@@ -3,8 +3,7 @@
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
 | 941 | 25.10 | Robotics | Robotic Perception | 👤 | [📎](http://arxiv.org/abs/2510.27033) | A Multi-Modal Neuro-Symbolic Approach for Spatial Reasoning-Based Visual Grounding in Robotics | 0 |
-| 934 | 25.10 | Robotics | Robotic Perception | 🤖 | [📎](http://arxiv.org/abs/2510.18697) | Event-Grounding Graph: Unified Spatio-Temporal Scene Graph from Robotic Observations | 0 |
-| 927 | 25.10 | Robotics | Robotic Perception | 🤖 | [📎](http://arxiv.org/abs/2510.15963) | ESCA: Contextualizing Embodied Agents via Scene-Graph Generation | 0 |
+| 928 | 25.10 | Robotics | Robotic Perception | 👤 | [📎](http://arxiv.org/abs/2510.10778) | Real2USD: Scene Representations in Universal Scene Description Language | 0 |
 | 882 | 25.08 | Robotics | Robotic Perception | 🤖 | [📎](http://arxiv.org/abs/2508.12916) | RoboRetriever: Single-Camera Robot Object Retrieval via Active and Interactive Perception with Dynamic Scene Graph | 0 |
 | 881 | 25.08 | Robotics | Robotic Perception | 🤖 | [📎](http://arxiv.org/abs/2508.11286) | Scene Graph-Guided Proactive Replanning for Failure-Resilient Embodied Agent | - |
 | 876 | 25.08 | Robotics | Robotic Perception | 🤖 | [📎](http://arxiv.org/abs/2508.05342) | Information-Theoretic Graph Fusion with Vision-Language-Action Model for Policy Reasoning and Dual Robotic Control | 0 |
@@ -33,4 +32,4 @@
 | 255 | 22.02 | Robotics | Robotic Perception | 🤖 | [📎](http://arxiv.org/abs/2202.10201) | OG-SGG: Ontology-Guided Scene Graph Generation. A Case Study in Transfer Learning for Telepresence Robotics | 0 |
 | 222 | 21.09 | Robotics | Robotic Perception | 🤖 | [📎](http://arxiv.org/abs/2109.07872) | Knowledge-based Embodied Question Answering | - |
 | 206 | 21.08 | Robotics | Robotic Perception | 🤖 | [📎](http://arxiv.org/abs/2108.03554) | Semantic-Based Explainable AI: Leveraging Semantic Scene Graphs and Pairwise Ranking to Explain Robot Failures | 0 |
-| 147 | 20.11 | Robotics | Robotic Perception | 🤖 | [📎](http://arxiv.org/abs/2011.11397) | Imagination-enabled Robot Perception | - |
+| 147 | 20.11 | Robotics | Robotic Perception | 👤 | [📎](http://arxiv.org/abs/2011.11397) | Imagination-enabled Robot Perception | - |

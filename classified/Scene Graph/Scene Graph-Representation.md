@@ -4,9 +4,7 @@
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
 | 1014 | 26.01 | Scene Graph | Representation | 👤 | [📎](http://arxiv.org/abs/2601.20355) | CURVE: Learning Causality-Inspired Invariant Representations for Robust Scene Understanding via Uncertainty-Guided Regularization | 0 |
 | 971 | 25.12 | Scene Graph | Representation | 👤 | [📎](http://arxiv.org/abs/2512.03422) | What Is The Best 3D Scene Representation for Robotics? From Geometric to Foundation Models | 0 |
-| 928 | 25.10 | Scene Graph | Representation | 🤖 | [📎](http://arxiv.org/abs/2510.10778) | Real2USD: Scene Representations in Universal Scene Description Language | 0 |
-| 915 | 25.09 | Scene Graph | Representation | 🤖 | [📎](http://arxiv.org/abs/2509.26457) | Attention over Scene Graphs: Indoor Scene Representations Toward CSAI Classification | 0 |
-| 908 | 25.09 | Scene Graph | Representation | 🤖 | [📎](http://arxiv.org/abs/2509.21783) | Prompt-guided Disentangled Representation for Action Recognition | 0 |
+| 900 | 25.09 | Scene Graph | Representation | 👤 | [📎](http://arxiv.org/abs/2509.16336) | Neural Atlas Graphs for Dynamic Scene Decomposition and Editing | 0 |
 | 719 | 24.12 | Scene Graph | Representation | 🤖 | [📎](http://arxiv.org/abs/2412.19582) | An Actionable Hierarchical Scene Representation Enhancing Autonomous Inspection Missions in Unknown Environments | 1 |
 | 718 | 24.12 | Scene Graph | Representation | 🤖 | [📎](http://arxiv.org/abs/2412.19571) | xFLIE: Leveraging Actionable Hierarchical Scene Representations for Autonomous Semantic-Aware Inspection Missions | 0 |
 | 667 | 24.10 | Scene Graph | Representation | 🤖 | [📎](http://arxiv.org/abs/2410.16770) | The Scene Language: Representing Scenes with Programs, Words, and Embeddings | 0 |
@@ -26,9 +24,9 @@
 | 326 | 22.10 | Scene Graph | Representation | 🤖 | [📎](http://arxiv.org/abs/2210.08675) | SGRAM: Improving Scene Graph Parsing via Abstract Meaning Representation | 0 |
 | 238 | 21.12 | Scene Graph | Representation | 🤖 | [📎](http://arxiv.org/abs/2112.00974) | Consensus Graph Representation Learning for Better Grounded Image Captioning | 2 |
 | 205 | 21.08 | Scene Graph | Representation | 🤖 | [📎](http://arxiv.org/abs/2108.03541) | OSCAR-Net: Object-centric Scene Graph Attention for Image Attribution | 0 |
-| 177 | 21.04 | Scene Graph | Representation | 🤖 | [📎](http://arxiv.org/abs/2104.06008) | Disentangled Motif-aware Graph Learning for Phrase Grounding | 2 |
-| 176 | 21.04 | Scene Graph | Representation | 🤖 | [📎](http://arxiv.org/abs/2104.02381) | Scene Graph Embeddings Using Relative Similarity Supervision | - |
-| 138 | 20.10 | Scene Graph | Representation | 🤖 | [📎](http://arxiv.org/abs/2010.03182) | VICTR: Visual Information Captured Text Representation for Text-to-Image Multimodal Tasks | 3 |
+| 184 | 21.05 | Scene Graph | Representation | 👤 | [📎](http://arxiv.org/abs/2105.07264) | Neural Trees for Learning on Graphs | 1 |
+| 176 | 21.04 | Scene Graph | Representation | 👤 | [📎](http://arxiv.org/abs/2104.02381) | Scene Graph Embeddings Using Relative Similarity Supervision | - |
+| 138 | 20.10 | Scene Graph | Representation | 👤 | [📎](http://arxiv.org/abs/2010.03182) | VICTR: Visual Information Captured Text Representation for Text-to-Image Multimodal Tasks | 3 |
 | 115 | 20.07 | Scene Graph | Representation | 👤 | [📎](http://arxiv.org/abs/2007.03848) | Dynamic Graph Representation Learning for Video Dialog via Multi-Modal Shuffled Transformers | 4 |
 | 111 | 20.06 | Scene Graph | Representation | 👤 | [📎](http://arxiv.org/abs/2006.12373) | Learning Physical Graph Representations from Visual Scenes | 44 |
 | 80 | 19.10 | Scene Graph | Representation | 👤 | [📎](http://arxiv.org/abs/1910.09119) | Generative Hierarchical Models for Parts, Objects, and Scenes | 2 |

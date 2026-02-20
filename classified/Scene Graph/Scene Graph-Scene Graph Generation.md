@@ -9,16 +9,6 @@
 | 974 | 25.12 | Scene Graph | Scene Graph Generation | 👤 | [📎](http://arxiv.org/abs/2512.05524) | VOST-SGG: VLM-Aided One-Stage Spatio-Temporal Scene Graph Generation | 0 |
 | 960 | 25.11 | Scene Graph | Scene Graph Generation | 👤 | [📎](http://arxiv.org/abs/2511.15948) | Click2Graph: Interactive Panoptic Video Scene Graphs from a Single Click | 0 |
 | 948 | 25.11 | Scene Graph | Scene Graph Generation | 👤 | [📎](http://arxiv.org/abs/2511.05935) | Interaction-Centric Knowledge Infusion and Transfer for Open-Vocabulary Scene Graph Generation | 0 |
-| 937 | 25.10 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2510.22204) | Bridging Perception and Reasoning: Dual-Pipeline Neuro-Symbolic Landing for UAVs in Cluttered Environments | 0 |
-| 935 | 25.10 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2510.19060) | PoSh: Using Scene Graphs To Guide LLMs-as-a-Judge For Detailed Image Descriptions | 0 |
-| 933 | 25.10 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2510.17363) | M2H: Multi-Task Learning with Efficient Window-Based Cross-Task Attention for Monocular Spatial Perception | 0 |
-| 923 | 25.10 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2510.07053) | Introspection in Learned Semantic Scene Graph Localisation | 0 |
-| 921 | 25.10 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2510.05742) | Vipera: Blending Visual and LLM-Driven Guidance for Systematic Auditing of Text-to-Image Generative AI | 0 |
-| 919 | 25.10 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2510.05430) | Active Semantic Perception | 0 |
-| 917 | 25.10 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2510.03727) | Bridging the Gap Between Multimodal Foundation Models and World Models | 0 |
-| 907 | 25.09 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2509.21576) | Vision Language Models Cannot Plan, but Can They Formalize? | 0 |
-| 905 | 25.09 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2509.22720) | LayoutAgent: A Vision-Language Agent Guided Compositional Diffusion for Spatial Layout Planning | 0 |
-| 899 | 25.09 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2509.16053) | Compose by Focus: Scene Graph-based Atomic Skills | 0 |
 | 896 | 25.09 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2509.12901) | MSGFusion: Multimodal Scene Graph-Guided Infrared and Visible Image Fusion | 0 |
 | 891 | 25.09 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2509.09658) | Measuring Epistemic Humility in Multimodal Large Language Models | 0 |
 | 887 | 25.09 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2509.05661) | Language-Driven Object-Oriented Two-Stage Method for Scene Graph Anticipation | 0 |
@@ -308,52 +298,28 @@
 | 208 | 21.08 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2108.07073) | ROSITA: Enhancing Vision-and-Language Semantic Alignments via Cross- and Intra-modal Knowledge Integration | 4 |
 | 207 | 21.08 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2108.05884) | Unconditional Scene Graph Generation | - |
 | 202 | 21.07 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2107.14178) | ReFormer: The Relational Transformer for Image Captioning | 8 |
-| 198 | 21.07 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2107.05448) | Scenes and Surroundings: Scene Graph Generation using Relation Transformer | 3 |
-| 197 | 21.07 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2107.05080) | Zero-Shot Scene Graph Relation Prediction through Commonsense Knowledge Integration | 1 |
-| 196 | 21.07 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2107.02713) | Predicate correlation learning for scene graph generation | 0 |
-| 195 | 21.07 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2107.02112) | Recovering the Unbiased Scene Graphs from the Biased Ones | 2 |
-| 193 | 21.06 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2106.10936) | TCIC: Theme Concepts Learning Cross Language and Vision for Image Captioning | 2 |
-| 192 | 21.06 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2106.10815) | Structured Sparse R-CNN for Direct Scene Graph Generation | 3 |
-| 191 | 21.06 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2106.08543) | Tackling the Challenges in Scene Graph Generation with Local-to-Global Interactions | 0 |
-| 189 | 21.06 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2106.03128) | MOC-GAN: Mixing Objects and Captions to Generate Realistic Images | 0 |
-| 187 | 21.06 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2106.01607) | Grounding Complex Navigational Instructions Using Scene Graphs | 0 |
-| 186 | 21.05 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2105.13994) | Linguistic Structures as Weak Supervision for Visual Scene Graph Generation | 2 |
-| 184 | 21.05 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2105.07264) | Neural Trees for Learning on Graphs | 1 |
-| 182 | 21.04 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2104.14207) | Segmentation-grounded Scene Graph Generation | - |
-| 181 | 21.04 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2104.11934) | RelTransformer: A Transformer-Based Long-Tail Visual Relationship Recognition | 1 |
-| 179 | 21.04 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2104.08541) | TransVG: End-to-End Visual Grounding with Transformers | - |
-| 175 | 21.04 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2104.00356) | Exploiting Relationship for Complex-scene Image Generation | 0 |
-| 174 | 21.04 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2104.00308) | Bipartite Graph Network with Adaptive Message Passing for Unbiased Scene Graph Generation | 14 |
-| 172 | 21.03 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2103.16083) | Fully Convolutional Scene Graph Generation | 1 |
-| 170 | 21.03 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2103.15365) | Visual Distant Supervision for Scene Graph Generation | - |
-| 166 | 21.03 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2103.09591) | Automatic Generation of Contrast Sets from Scene Graphs: Probing the Compositional Consistency of GQA | - |
-| 163 | 21.03 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2103.05271) | Probabilistic Modeling of Semantic Ambiguity for Scene Graph Generation | 5 |
-| 162 | 21.03 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2103.02221) | Energy-Based Learning for Scene Graph Generation | - |
-| 161 | 21.02 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2102.04990) | In Defense of Scene Graphs for Image Captioning | - |
-| 160 | 21.02 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2102.04760) | Improving Scene Graph Classification by Exploiting Knowledge from Texts | 0 |
-| 159 | 21.02 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2102.04035) | In-game Residential Home Planning via Visual Context-aware Global Relation Learning | 0 |
-| 150 | 20.12 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2012.04027) | Generating unseen complex scenes: are we there yet? | 13 |
-| 149 | 20.11 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2011.14488) | Self-Supervised Real-to-Sim Scene Generation | - |
-| 145 | 20.11 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2011.10452) | Bridging Scene Understanding and Task Execution with Flexible Simulation Environments | 2 |
-| 143 | 20.11 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2011.10084) | Classification by Attention: Scene Graph Classification with Prior Knowledge | 4 |
-| 142 | 20.11 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2011.04779) | After All, Only The Last Neuron Matters: Comparing Multi-modal Fusion Functions for Scene Graph Generation | 0 |
-| 141 | 20.11 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2011.04234) | Dual ResGCN for Balanced Scene GraphGeneration | 8 |
-| 139 | 20.10 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2010.03855) | Dense Relational Image Captioning via Multi-task Triple-Stream Networks | 4 |
-| 137 | 20.10 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2010.02591) | Scene Graph Modification Based on Natural Language Commands | 1 |
-| 136 | 20.10 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2010.01288) | UNISON: Unpaired Cross-lingual Image Captioning | 0 |
-| 135 | 20.09 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2009.14558) | Learning Object Detection from Captions via Textual Scene Attributes | 6 |
-| 134 | 20.09 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2009.13331) | Addressing Class Imbalance in Scene Graph Parsing by Learning to Contrast and Score | 0 |
-| 133 | 20.09 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2009.12395) | SceneGen: Generative Contextual Scene Augmentation using Scene Graph Priors | 13 |
-| 132 | 20.09 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2009.12313) | Are scene graphs good enough to improve Image Captioning? | - |
-| 131 | 20.09 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2009.10939) | Scene Graph to Image Generation with Contextualized Object Layout Refinement | - |
-| 130 | 20.09 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2009.07526) | CogTree: Cognition Tree Loss for Unbiased Scene Graph Generation | 7 |
-| 129 | 20.09 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2009.05834) | Exploring the Hierarchy in Relation Labels for Scene Graph Generation | 6 |
-| 128 | 20.09 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2009.00893) | PCPL: Predicate-Correlation Perception Learning for Unbiased Scene Graph Generation | 0 |
-| 126 | 20.08 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2008.11932) | Attribute-guided image generation from layout | 3 |
-| 125 | 20.08 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2008.07832) | Tackling the Unannotated: Scene Graph Generation with Bias-Reduced Models | 20 |
-| 123 | 20.08 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2008.06651) | Graph Edit Distance Reward: Learning to Edit Scene Graph | 4 |
-| 122 | 20.08 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2008.05156) | HOSE-Net: Higher Order Structure Embedded Network for Scene Graph Generation | 2 |
-| 121 | 20.08 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2008.03555) | Assisting Scene Graph Generation with Self-Supervision | 1 |
+| 198 | 21.07 | Scene Graph | Scene Graph Generation | 👤 | [📎](http://arxiv.org/abs/2107.05448) | Scenes and Surroundings: Scene Graph Generation using Relation Transformer | 3 |
+| 197 | 21.07 | Scene Graph | Scene Graph Generation | 👤 | [📎](http://arxiv.org/abs/2107.05080) | Zero-Shot Scene Graph Relation Prediction through Commonsense Knowledge Integration | 1 |
+| 196 | 21.07 | Scene Graph | Scene Graph Generation | 👤 | [📎](http://arxiv.org/abs/2107.02713) | Predicate correlation learning for scene graph generation | 0 |
+| 195 | 21.07 | Scene Graph | Scene Graph Generation | 👤 | [📎](http://arxiv.org/abs/2107.02112) | Recovering the Unbiased Scene Graphs from the Biased Ones | 2 |
+| 192 | 21.06 | Scene Graph | Scene Graph Generation | 👤 | [📎](http://arxiv.org/abs/2106.10815) | Structured Sparse R-CNN for Direct Scene Graph Generation | 3 |
+| 191 | 21.06 | Scene Graph | Scene Graph Generation | 👤 | [📎](http://arxiv.org/abs/2106.08543) | Tackling the Challenges in Scene Graph Generation with Local-to-Global Interactions | 0 |
+| 186 | 21.05 | Scene Graph | Scene Graph Generation | 👤 | [📎](http://arxiv.org/abs/2105.13994) | Linguistic Structures as Weak Supervision for Visual Scene Graph Generation | 2 |
+| 182 | 21.04 | Scene Graph | Scene Graph Generation | 👤 | [📎](http://arxiv.org/abs/2104.14207) | Segmentation-grounded Scene Graph Generation | - |
+| 174 | 21.04 | Scene Graph | Scene Graph Generation | 👤 | [📎](http://arxiv.org/abs/2104.00308) | Bipartite Graph Network with Adaptive Message Passing for Unbiased Scene Graph Generation | 14 |
+| 172 | 21.03 | Scene Graph | Scene Graph Generation | 👤 | [📎](http://arxiv.org/abs/2103.16083) | Fully Convolutional Scene Graph Generation | 1 |
+| 170 | 21.03 | Scene Graph | Scene Graph Generation | 👤 | [📎](http://arxiv.org/abs/2103.15365) | Visual Distant Supervision for Scene Graph Generation | - |
+| 163 | 21.03 | Scene Graph | Scene Graph Generation | 👤 | [📎](http://arxiv.org/abs/2103.05271) | Probabilistic Modeling of Semantic Ambiguity for Scene Graph Generation | 5 |
+| 162 | 21.03 | Scene Graph | Scene Graph Generation | 👤 | [📎](http://arxiv.org/abs/2103.02221) | Energy-Based Learning for Scene Graph Generation | - |
+| 149 | 20.11 | Scene Graph | Scene Graph Generation | 👤 | [📎](http://arxiv.org/abs/2011.14488) | Self-Supervised Real-to-Sim Scene Generation | - |
+| 142 | 20.11 | Scene Graph | Scene Graph Generation | 👤 | [📎](http://arxiv.org/abs/2011.04779) | After All, Only The Last Neuron Matters: Comparing Multi-modal Fusion Functions for Scene Graph Generation | 0 |
+| 141 | 20.11 | Scene Graph | Scene Graph Generation | 👤 | [📎](http://arxiv.org/abs/2011.04234) | Dual ResGCN for Balanced Scene GraphGeneration | 8 |
+| 130 | 20.09 | Scene Graph | Scene Graph Generation | 👤 | [📎](http://arxiv.org/abs/2009.07526) | CogTree: Cognition Tree Loss for Unbiased Scene Graph Generation | 7 |
+| 129 | 20.09 | Scene Graph | Scene Graph Generation | 👤 | [📎](http://arxiv.org/abs/2009.05834) | Exploring the Hierarchy in Relation Labels for Scene Graph Generation | 6 |
+| 128 | 20.09 | Scene Graph | Scene Graph Generation | 👤 | [📎](http://arxiv.org/abs/2009.00893) | PCPL: Predicate-Correlation Perception Learning for Unbiased Scene Graph Generation | 0 |
+| 125 | 20.08 | Scene Graph | Scene Graph Generation | 👤 | [📎](http://arxiv.org/abs/2008.07832) | Tackling the Unannotated: Scene Graph Generation with Bias-Reduced Models | 20 |
+| 122 | 20.08 | Scene Graph | Scene Graph Generation | 👤 | [📎](http://arxiv.org/abs/2008.05156) | HOSE-Net: Higher Order Structure Embedded Network for Scene Graph Generation | 2 |
+| 121 | 20.08 | Scene Graph | Scene Graph Generation | 👤 | [📎](http://arxiv.org/abs/2008.03555) | Assisting Scene Graph Generation with Self-Supervision | 1 |
 | 117 | 20.07 | Scene Graph | Scene Graph Generation | 👤 | [📎](http://arxiv.org/abs/2007.08760) | Sketching Image Gist: Human-Mimetic Hierarchical Scene Graph Generation | 10 |
 | 109 | 20.06 | Scene Graph | Scene Graph Generation | 👤 | [📎](http://arxiv.org/abs/2006.09623) | Learning Visual Commonsense for Robust Scene Graph Generation | 10 |
 | 108 | 20.06 | Scene Graph | Scene Graph Generation | 👤 | [📎](http://arxiv.org/abs/2006.07585) | Learning from the Scene and Borrowing from the Rich: Tackling the Long Tail in Scene Graph Generation | 4 |

@@ -11,6 +11,14 @@
 | 961 | 25.11 | Scene Graph | Synthesis | 👤 | [📎](http://arxiv.org/abs/2511.18378) | Synthetic Curriculum Reinforces Compositional Text-to-Image Generation | 0 |
 | 958 | 25.11 | Scene Graph | Synthesis | 👤 | [📎](http://arxiv.org/abs/2511.14884) | GeoSceneGraph: Geometric Scene Graph Diffusion Model for Text-guided 3D Indoor Scene Synthesis | 0 |
 | 942 | 25.11 | Scene Graph | Synthesis | 👤 | [📎](http://arxiv.org/abs/2511.00107) | AI Powered High Quality Text to Video Generation with Enhanced Temporal Consistency | 0 |
+| 931 | 25.10 | Scene Graph | Synthesis | 👤 | [📎](http://arxiv.org/abs/2510.15564) | Imaginarium: Vision-guided High-Quality 3D Scene Layout Generation | 0 |
+| 921 | 25.10 | Scene Graph | Synthesis | 👤 | [📎](http://arxiv.org/abs/2510.05742) | Vipera: Blending Visual and LLM-Driven Guidance for Systematic Auditing of Text-to-Image Generative AI | 0 |
+| 905 | 25.09 | Scene Graph | Synthesis | 👤 | [📎](http://arxiv.org/abs/2509.22720) | LayoutAgent: A Vision-Language Agent Guided Compositional Diffusion for Spatial Layout Planning | 0 |
+| 189 | 21.06 | Scene Graph | Synthesis | 👤 | [📎](http://arxiv.org/abs/2106.03128) | MOC-GAN: Mixing Objects and Captions to Generate Realistic Images | 0 |
+| 175 | 21.04 | Scene Graph | Synthesis | 👤 | [📎](http://arxiv.org/abs/2104.00356) | Exploiting Relationship for Complex-scene Image Generation | 0 |
+| 150 | 20.12 | Scene Graph | Synthesis | 👤 | [📎](http://arxiv.org/abs/2012.04027) | Generating unseen complex scenes: are we there yet? | 13 |
+| 131 | 20.09 | Scene Graph | Synthesis | 👤 | [📎](http://arxiv.org/abs/2009.10939) | Scene Graph to Image Generation with Contextualized Object Layout Refinement | - |
+| 123 | 20.08 | Scene Graph | Synthesis | 👤 | [📎](http://arxiv.org/abs/2008.06651) | Graph Edit Distance Reward: Learning to Edit Scene Graph | 4 |
 | 119 | 20.07 | Scene Graph | Synthesis | 👤 | [📎](http://arxiv.org/abs/2007.11744) | End-to-End Optimization of Scene Layout | 1 |
 | 116 | 20.07 | Scene Graph | Synthesis | 👤 | [📎](http://arxiv.org/abs/2007.05756) | Generative Compositional Augmentations for Scene Graph Prediction | 0 |
 | 99 | 20.04 | Scene Graph | Synthesis | 👤 | [📎](http://arxiv.org/abs/2004.03677) | Semantic Image Manipulation Using Scene Graphs | 2 |

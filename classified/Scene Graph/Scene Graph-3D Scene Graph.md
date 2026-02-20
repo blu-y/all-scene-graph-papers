@@ -11,16 +11,18 @@
 | 976 | 25.12 | Scene Graph | 3D Scene Graph | 👤 | [📎](http://arxiv.org/abs/2512.11903) | Aion: Towards Hierarchical 4D Scene Graphs with Temporal Flow Dynamics | 0 |
 | 959 | 25.11 | Scene Graph | 3D Scene Graph | 👤 | [📎](http://arxiv.org/abs/2511.15288) | Edge-Centric Relational Reasoning for 3D Scene Graph Prediction | 0 |
 | 947 | 25.11 | Scene Graph | 3D Scene Graph | 👤 | [📎](http://arxiv.org/abs/2511.05894) | Open-World 3D Scene Graph Generation for Retrieval-Augmented Reasoning | 0 |
-| 936 | 25.10 | Scene Graph | 3D Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2510.21069) | ZING-3D: Zero-shot Incremental 3D Scene Graphs via Vision-Language Models | 0 |
-| 932 | 25.10 | Scene Graph | 3D Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2510.16643) | Structured Interfaces for Automated Reasoning with 3D Scene Graphs | 0 |
-| 931 | 25.10 | Scene Graph | 3D Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2510.15564) | Imaginarium: Vision-guided High-Quality 3D Scene Layout Generation | 0 |
-| 926 | 25.10 | Scene Graph | 3D Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2510.10194) | B2N3D: Progressive Learning from Binary to N-ary Relationships for 3D Object Grounding | 0 |
-| 924 | 25.10 | Scene Graph | 3D Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2510.08512) | Have We Scene It All? Scene Graph-Aware Deep Point Cloud Compression | 0 |
-| 920 | 25.10 | Scene Graph | 3D Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2510.05560) | HoloScene: Simulation-Ready Interactive 3D Worlds from a Single Video | 0 |
-| 918 | 25.10 | Scene Graph | 3D Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2510.04714) | Object-Centric Representation Learning for Enhanced 3D Scene Graph Prediction | 0 |
-| 916 | 25.10 | Scene Graph | 3D Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2510.01049) | KeySG: Hierarchical Keyframe-Based 3D Scene Graphs | 0 |
-| 914 | 25.09 | Scene Graph | 3D Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2509.24966) | Social 3D Scene Graphs: Modeling Human Actions and Relations for Interactive Service Robots | 0 |
-| 903 | 25.09 | Scene Graph | 3D Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2509.20401) | SGAligner++: Cross-Modal Language-Aided 3D Scene Graph Alignment | 0 |
+| 936 | 25.10 | Scene Graph | 3D Scene Graph | 👤 | [📎](http://arxiv.org/abs/2510.21069) | ZING-3D: Zero-shot Incremental 3D Scene Graphs via Vision-Language Models | 0 |
+| 932 | 25.10 | Scene Graph | 3D Scene Graph | 👤 | [📎](http://arxiv.org/abs/2510.16643) | Structured Interfaces for Automated Reasoning with 3D Scene Graphs | 0 |
+| 930 | 25.10 | Scene Graph | 3D Scene Graph | 👤 | [📎](http://arxiv.org/abs/2510.15319) | Traversability-aware Consistent Situational Graphs for Indoor Localization and Mapping | 0 |
+| 929 | 25.10 | Scene Graph | 3D Scene Graph | 👤 | [📎](http://arxiv.org/abs/2510.12101) | Gaussian Semantic Field for One-shot LiDAR Global Localization | 0 |
+| 920 | 25.10 | Scene Graph | 3D Scene Graph | 👤 | [📎](http://arxiv.org/abs/2510.05560) | HoloScene: Simulation-Ready Interactive 3D Worlds from a Single Video | 0 |
+| 919 | 25.10 | Scene Graph | 3D Scene Graph | 👤 | [📎](http://arxiv.org/abs/2510.05430) | Active Semantic Perception | 0 |
+| 918 | 25.10 | Scene Graph | 3D Scene Graph | 👤 | [📎](http://arxiv.org/abs/2510.04714) | Object-Centric Representation Learning for Enhanced 3D Scene Graph Prediction | 0 |
+| 916 | 25.10 | Scene Graph | 3D Scene Graph | 👤 | [📎](http://arxiv.org/abs/2510.01049) | KeySG: Hierarchical Keyframe-Based 3D Scene Graphs | 0 |
+| 914 | 25.09 | Scene Graph | 3D Scene Graph | 👤 | [📎](http://arxiv.org/abs/2509.24966) | Social 3D Scene Graphs: Modeling Human Actions and Relations for Interactive Service Robots | 0 |
+| 903 | 25.09 | Scene Graph | 3D Scene Graph | 👤 | [📎](http://arxiv.org/abs/2509.20401) | SGAligner++: Cross-Modal Language-Aided 3D Scene Graph Alignment | 0 |
+| 902 | 25.09 | Scene Graph | 3D Scene Graph | 👤 | [📎](http://arxiv.org/abs/2509.19579) | Terra: Hierarchical Terrain-Aware 3D Scene Graph for Task-Agnostic Outdoor Mapping | 0 |
+| 898 | 25.09 | Scene Graph | 3D Scene Graph | 👤 | [📎](http://arxiv.org/abs/2509.14949) | Human Interaction for Collaborative Semantic SLAM using Extended Reality | 0 |
 | 895 | 25.09 | Scene Graph | 3D Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2509.11959) | Learning to Generate 4D LiDAR Sequences | 0 |
 | 894 | 25.09 | Scene Graph | 3D Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2509.11895) | Integrating Prior Observations for Incremental 3D Scene Graph Prediction | 0 |
 | 878 | 25.08 | Scene Graph | 3D Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2508.06283) | Situationally-aware Path Planning Exploiting 3D Scene Graphs | 0 |
@@ -63,7 +65,7 @@
 | 678 | 24.11 | Scene Graph | 3D Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2411.10509) | TESGNN: Temporal Equivariant Scene Graph Neural Networks for Efficient and Robust Multi-View 3D Scene Understanding | 0 |
 | 674 | 24.11 | Scene Graph | 3D Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2411.02938) | Multi-Modal 3D Scene Graph Updater for Shared and Dynamic Environments | 0 |
 | 672 | 24.11 | Scene Graph | 3D Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2411.00578) | Federated Voxel Scene Graph for Intracranial Hemorrhage | 0 |
-| 650 | 24.09 | Scene Graph | 3D Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2409.11972) | Generation of Uncertainty-Aware Emergent Concepts in Factorized 3D Scene Graphs via Graph Neural Networks | 0 |
+| 650 | 24.09 | Scene Graph | 3D Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2409.11972) | Generation of Uncertainty-Aware High-Level Spatial Concepts in Factorized 3D Scene Graphs via Graph Neural Networks | 0 |
 | 646 | 24.09 | Scene Graph | 3D Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2409.06625) | Towards Localizing Structural Elements: Merging Geometrical Detection with Semantic Verification in RGB-D Data | 0 |
 | 645 | 24.09 | Scene Graph | 3D Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2409.05392) | Leveraging Computation of Expectation Models for Commonsense Affordance Estimation on 3D Scene Graphs | 0 |
 | 644 | 24.09 | Scene Graph | 3D Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2409.02389) | Multi-modal Situated Reasoning in 3D Scenes | 3 |
@@ -109,12 +111,11 @@
 | 272 | 22.03 | Scene Graph | 3D Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2203.11937) | 4D-OR: Semantic Scene Graphs for OR Domain Modeling | 6 |
 | 251 | 22.01 | Scene Graph | 3D Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2201.13360) | Hydra: A Real-time Spatial Perception System for 3D Scene Graph Construction and Optimization | 0 |
 | 231 | 21.11 | Scene Graph | 3D Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2111.00312) | 3DP3: 3D Scene Perception via Probabilistic Programming | 5 |
-| 173 | 21.03 | Scene Graph | 3D Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2103.16381) | Free-form Description Guided 3D Visual Graph Network for Object Grounding in Point Cloud | 9 |
-| 169 | 21.03 | Scene Graph | 3D Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2103.14898) | SceneGraphFusion: Incremental 3D Scene Graph Prediction from RGB-D Sequences | 8 |
-| 165 | 21.03 | Scene Graph | 3D Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2103.06422) | Holistic 3D Scene Understanding from a Single Image with Implicit Representation | 2 |
-| 164 | 21.03 | Scene Graph | 3D Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2103.05558) | Exploiting Edge-Oriented Reasoning for 3D Point-based Scene Graph Analysis | 5 |
-| 151 | 20.12 | Scene Graph | 3D Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2012.04060) | Semantic and Geometric Modeling with Neural Message Passing in 3D Scene Graphs for Hierarchical Mechanical Search | - |
-| 124 | 20.08 | Scene Graph | 3D Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2008.07817) | Retargetable AR: Context-aware Augmented Reality in Indoor Scenes based on 3D Scene Graph | 3 |
+| 173 | 21.03 | Scene Graph | 3D Scene Graph | 👤 | [📎](http://arxiv.org/abs/2103.16381) | Free-form Description Guided 3D Visual Graph Network for Object Grounding in Point Cloud | 9 |
+| 169 | 21.03 | Scene Graph | 3D Scene Graph | 👤 | [📎](http://arxiv.org/abs/2103.14898) | SceneGraphFusion: Incremental 3D Scene Graph Prediction from RGB-D Sequences | 8 |
+| 165 | 21.03 | Scene Graph | 3D Scene Graph | 👤 | [📎](http://arxiv.org/abs/2103.06422) | Holistic 3D Scene Understanding from a Single Image with Implicit Representation | 2 |
+| 164 | 21.03 | Scene Graph | 3D Scene Graph | 👤 | [📎](http://arxiv.org/abs/2103.05558) | Exploiting Edge-Oriented Reasoning for 3D Point-based Scene Graph Analysis | 5 |
+| 151 | 20.12 | Scene Graph | 3D Scene Graph | 👤 | [📎](http://arxiv.org/abs/2012.04060) | Semantic and Geometric Modeling with Neural Message Passing in 3D Scene Graphs for Hierarchical Mechanical Search | - |
 | 101 | 20.04 | Scene Graph | 3D Scene Graph | 👤 | [📎](http://arxiv.org/abs/2004.03967) | Learning 3D Semantic Scene Graphs from 3D Indoor Reconstructions | - |
 | 92 | 20.02 | Scene Graph | 3D Scene Graph | 👤 | [📎](http://arxiv.org/abs/2002.06289) | 3D Dynamic Scene Graphs: Actionable Spatial Perception with Places, Objects, and Humans | - |
 | 78 | 19.10 | Scene Graph | 3D Scene Graph | 👤 | [📎](http://arxiv.org/abs/1910.02527) | 3D Scene Graph: A Structure for Unified Semantics, 3D Space, and Camera | - |

@@ -29,14 +29,14 @@
 | 282 | 22.05 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2205.04188) | Joint learning of object graph and relation graph for visual question answering | 1 |
 | 253 | 22.02 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2202.09277) | (2.5+1)D Spatio-Temporal Scene Graphs for Video Question Answering | 1 |
 | 232 | 21.11 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2111.04785) | Visual Question Answering based on Formal Logic | - |
-| 199 | 21.07 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2107.06325) | Graphhopper: Multi-Hop Scene Graph Reasoning for Visual Question Answering | - |
-| 194 | 21.06 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2106.14476) | Adventurer's Treasure Hunt: A Transparent System for Visually Grounded Compositional Visual Question Answering based on Scene Graphs | 0 |
-| 180 | 21.04 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2104.10283) | GraghVQA: Language-Guided Graph Neural Networks for Graph-based Visual Question Answering | 2 |
-| 168 | 21.03 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2103.11537) | How to Design Sample and Computationally Efficient VQA Models | 4 |
-| 157 | 21.01 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2101.05479) | Understanding the Role of Scene Graphs in Visual Question Answering | 22 |
-| 153 | 20.12 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2012.07192) | Knowledge-Routed Visual Question Reasoning: Challenges for Deep Representation Embedding | 5 |
-| 146 | 20.11 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2011.10731) | LRTA: A Transparent Neural-Symbolic Reasoning Framework with Modular Supervision for Visual Question Answering | 11 |
-| 140 | 20.10 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2010.04913) | Interpretable Neural Computation for Real-World Compositional Visual Question Answering | 0 |
+| 199 | 21.07 | Reasoning | VQA | 👤 | [📎](http://arxiv.org/abs/2107.06325) | Graphhopper: Multi-Hop Scene Graph Reasoning for Visual Question Answering | - |
+| 194 | 21.06 | Reasoning | VQA | 👤 | [📎](http://arxiv.org/abs/2106.14476) | Adventurer's Treasure Hunt: A Transparent System for Visually Grounded Compositional Visual Question Answering based on Scene Graphs | 0 |
+| 180 | 21.04 | Reasoning | VQA | 👤 | [📎](http://arxiv.org/abs/2104.10283) | GraghVQA: Language-Guided Graph Neural Networks for Graph-based Visual Question Answering | 2 |
+| 168 | 21.03 | Reasoning | VQA | 👤 | [📎](http://arxiv.org/abs/2103.11537) | How to Design Sample and Computationally Efficient VQA Models | 4 |
+| 157 | 21.01 | Reasoning | VQA | 👤 | [📎](http://arxiv.org/abs/2101.05479) | Understanding the Role of Scene Graphs in Visual Question Answering | 22 |
+| 153 | 20.12 | Reasoning | VQA | 👤 | [📎](http://arxiv.org/abs/2012.07192) | Knowledge-Routed Visual Question Reasoning: Challenges for Deep Representation Embedding | 5 |
+| 146 | 20.11 | Reasoning | VQA | 👤 | [📎](http://arxiv.org/abs/2011.10731) | LRTA: A Transparent Neural-Symbolic Reasoning Framework with Modular Supervision for Visual Question Answering | 11 |
+| 140 | 20.10 | Reasoning | VQA | 👤 | [📎](http://arxiv.org/abs/2010.04913) | Interpretable Neural Computation for Real-World Compositional Visual Question Answering | 0 |
 | 120 | 20.07 | Reasoning | VQA | 👤 | [📎](http://arxiv.org/abs/2007.13262) | REXUP: I REason, I EXtract, I UPdate with Structured Compositional Reasoning for Visual Question Answering | 0 |
 | 113 | 20.07 | Reasoning | VQA | 👤 | [📎](http://arxiv.org/abs/2007.01072) | Scene Graph Reasoning for Visual Question Answering | 11 |
 | 110 | 20.06 | Reasoning | VQA | 👤 | [📎](http://arxiv.org/abs/2006.11524) | Neuro-Symbolic Visual Reasoning: Disentangling "Visual" from "Reasoning" | 26 |

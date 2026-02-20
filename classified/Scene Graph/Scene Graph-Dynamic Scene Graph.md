@@ -3,8 +3,9 @@
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
 | 951 | 25.11 | Scene Graph | Dynamic Scene Graph | 👤 | [📎](http://arxiv.org/abs/2511.08651) | RS-Net: Context-Aware Relation Scoring for Dynamic Scene Graph Generation | 0 |
-| 925 | 25.10 | Scene Graph | Dynamic Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2510.09483) | FOGMACHINE -- Leveraging Discrete-Event Simulation and Scene Graphs for Modeling Hierarchical, Interconnected Environments under Partial Observations from Mobile Agents | 0 |
-| 900 | 25.09 | Scene Graph | Dynamic Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2509.16336) | Neural Atlas Graphs for Dynamic Scene Decomposition and Editing | 0 |
+| 934 | 25.10 | Scene Graph | Dynamic Scene Graph | 👤 | [📎](http://arxiv.org/abs/2510.18697) | Event-Grounding Graph: Unified Spatio-Temporal Scene Graph from Robotic Observations | 0 |
+| 925 | 25.10 | Scene Graph | Dynamic Scene Graph | 👤 | [📎](http://arxiv.org/abs/2510.09483) | FOGMACHINE -- Leveraging Discrete-Event Simulation and Scene Graphs for Modeling Hierarchical, Interconnected Environments under Partial Observations from Mobile Agents | 0 |
+| 908 | 25.09 | Scene Graph | Dynamic Scene Graph | 👤 | [📎](http://arxiv.org/abs/2509.21783) | Prompt-guided Disentangled Representation for Action Recognition | 0 |
 | 892 | 25.09 | Scene Graph | Dynamic Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2509.11796) | FineQuest: Adaptive Knowledge-Assisted Sports Video Understanding via Agent-of-Thoughts Reasoning | 0 |
 | 888 | 25.09 | Scene Graph | Dynamic Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2509.06165) | UNO: Unifying One-stage Video Scene Graph Generation via Object-Centric Visual Representation Learning | 0 |
 | 884 | 25.08 | Scene Graph | Dynamic Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2508.15258) | Spatio-Temporal Mixed and Augmented Reality Experience Description for Interactive Playback | 0 |
@@ -82,8 +83,8 @@
 | 239 | 21.12 | Scene Graph | Dynamic Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2112.04222) | Classification-Then-Grounding: Reformulating Video Scene Graphs as Temporal Bipartite Graphs | 4 |
 | 237 | 21.12 | Scene Graph | Dynamic Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2112.00967) | Relational Graph Learning for Grounded Video Description Generation | 0 |
 | 209 | 21.08 | Scene Graph | Dynamic Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2108.08121) | Target Adaptive Context Aggregation for Video Scene Graph Generation | 0 |
-| 200 | 21.07 | Scene Graph | Dynamic Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2107.12309) | Spatial-Temporal Transformer for Dynamic Scene Graph Generation | 0 |
-| 178 | 21.04 | Scene Graph | Dynamic Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2104.08194) | Spatiotemporal Deformable Scene Graphs for Complex Activity Detection | 0 |
-| 171 | 21.03 | Scene Graph | Dynamic Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2103.15662) | Unified Graph Structured Models for Video Understanding | - |
-| 144 | 20.11 | Scene Graph | Dynamic Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2011.10379) | Neural Scene Graphs for Dynamic Scenes | - |
+| 200 | 21.07 | Scene Graph | Dynamic Scene Graph | 👤 | [📎](http://arxiv.org/abs/2107.12309) | Spatial-Temporal Transformer for Dynamic Scene Graph Generation | 0 |
+| 178 | 21.04 | Scene Graph | Dynamic Scene Graph | 👤 | [📎](http://arxiv.org/abs/2104.08194) | Spatiotemporal Deformable Scene Graphs for Complex Activity Detection | 0 |
+| 171 | 21.03 | Scene Graph | Dynamic Scene Graph | 👤 | [📎](http://arxiv.org/abs/2103.15662) | Unified Graph Structured Models for Video Understanding | - |
+| 158 | 21.01 | Scene Graph | Dynamic Scene Graph | 👤 | [📎](http://arxiv.org/abs/2101.06894) | Kimera: from SLAM to Spatial Perception with 3D Dynamic Scene Graphs | - |
 | 86 | 19.12 | Scene Graph | Dynamic Scene Graph | 👤 | [📎](http://arxiv.org/abs/1912.06992) | Action Genome: Actions as Composition of Spatio-temporal Scene Graphs | 17 |

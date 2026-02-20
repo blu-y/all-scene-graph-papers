@@ -6,8 +6,8 @@
 | 990 | 25.12 | Robotics | Task-planning | 👤 | [📎](http://arxiv.org/abs/2512.21243) | LookPlanGraph: Embodied Instruction Following Method with VLM Graph Augmentation | 0 |
 | 983 | 25.12 | Robotics | Task-planning | 👤 | [📎](http://arxiv.org/abs/2512.16909) | MomaGraph: State-Aware Unified Scene Graphs with Vision-Language Model for Embodied Task Planning | 0 |
 | 977 | 25.12 | Robotics | Task-planning | 👤 | [📎](http://arxiv.org/abs/2512.10342) | CoSPlan: Corrective Sequential Planning via Scene Graph Incremental Updates | 0 |
-| 912 | 25.09 | Robotics | Task-planning | 🤖 | [📎](http://arxiv.org/abs/2509.23107) | Open-Vocabulary Spatio-Temporal Scene Graph for Robot Perception and Teleoperation Planning | 0 |
-| 904 | 25.09 | Robotics | Task-planning | 🤖 | [📎](http://arxiv.org/abs/2509.20077) | Queryable 3D Scene Representation: A Multi-Modal Framework for Semantic Reasoning and Robotic Task Planning | 0 |
+| 907 | 25.09 | Robotics | Task-planning | 👤 | [📎](http://arxiv.org/abs/2509.21576) | Vision Language Models Cannot Plan, but Can They Formalize? | 0 |
+| 904 | 25.09 | Robotics | Task-planning | 👤 | [📎](http://arxiv.org/abs/2509.20077) | Queryable 3D Scene Representation: A Multi-Modal Framework for Semantic Reasoning and Robotic Task Planning | 0 |
 | 851 | 25.06 | Robotics | Task-planning | 🤖 | [📎](http://arxiv.org/abs/2506.20394) | SPARK: Graph-Based Online Semantic Integration System for Robot Task Planning | 0 |
 | 835 | 25.06 | Robotics | Task-planning | 🤖 | [📎](http://arxiv.org/abs/2506.07454) | Language-Grounded Hierarchical Planning and Execution with Multi-Robot 3D Scene Graphs | 0 |
 | 791 | 25.04 | Robotics | Task-planning | 🤖 | [📎](http://arxiv.org/abs/2504.06661) | Domain-Conditioned Scene Graphs for State-Grounded Task Planning | 0 |

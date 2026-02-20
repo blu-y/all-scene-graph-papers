@@ -6,12 +6,8 @@
 | 996 | 26.01 | Robotics | Navigation | 👤 | [📎](http://arxiv.org/abs/2601.01872) | CausalNav: A Long-term Embodied Navigation System for Autonomous Mobile Robots in Dynamic Outdoor Scenarios | 0 |
 | 980 | 25.12 | Robotics | Navigation | 👤 | [📎](http://arxiv.org/abs/2512.15047) | HERO: Hierarchical Traversable 3D Scene Graphs for Embodied Navigation Among Movable Obstacles | 0 |
 | 952 | 25.11 | Robotics | Navigation | 👤 | [📎](http://arxiv.org/abs/2511.10376) | MSGNav: Unleashing the Power of Multi-modal 3D Scene Graph for Zero-Shot Embodied Navigation | 0 |
-| 930 | 25.10 | Robotics | Navigation | 🤖 | [📎](http://arxiv.org/abs/2510.15319) | Traversability-aware Consistent Situational Graphs for Indoor Localization and Mapping | 0 |
-| 929 | 25.10 | Robotics | Navigation | 🤖 | [📎](http://arxiv.org/abs/2510.12101) | Gaussian Semantic Field for One-shot LiDAR Global Localization | 0 |
-| 913 | 25.09 | Robotics | Navigation | 🤖 | [📎](http://arxiv.org/abs/2509.23563) | RAVEN: Resilient Aerial Navigation via Open-Set Semantic Memory and Behavior Adaptation | 0 |
-| 902 | 25.09 | Robotics | Navigation | 🤖 | [📎](http://arxiv.org/abs/2509.19579) | Terra: Hierarchical Terrain-Aware 3D Scene Graph for Task-Agnostic Outdoor Mapping | 0 |
-| 901 | 25.09 | Robotics | Navigation | 🤖 | [📎](http://arxiv.org/abs/2509.18592) | VLN-Zero: Rapid Exploration and Cache-Enabled Neurosymbolic Vision-Language Planning for Zero-Shot Transfer in Robot Navigation | 0 |
-| 898 | 25.09 | Robotics | Navigation | 🤖 | [📎](http://arxiv.org/abs/2509.14949) | Human Interaction for Collaborative Semantic SLAM using Extended Reality | 0 |
+| 913 | 25.09 | Robotics | Navigation | 👤 | [📎](http://arxiv.org/abs/2509.23563) | RAVEN: Resilient Aerial Navigation via Open-Set Semantic Memory and Behavior Adaptation | 0 |
+| 901 | 25.09 | Robotics | Navigation | 👤 | [📎](http://arxiv.org/abs/2509.18592) | VLN-Zero: Rapid Exploration and Cache-Enabled Neurosymbolic Vision-Language Planning for Zero-Shot Transfer in Robot Navigation | 0 |
 | 897 | 25.09 | Robotics | Navigation | 🤖 | [📎](http://arxiv.org/abs/2509.13733) | FSR-VLN: Fast and Slow Reasoning for Vision-Language Navigation with Hierarchical Multi-modal Scene Graph | 0 |
 | 890 | 25.09 | Robotics | Navigation | 🤖 | [📎](http://arxiv.org/abs/2509.09594) | ObjectReact: Learning Object-Relative Control for Visual Navigation | 0 |
 | 879 | 25.08 | Robotics | Navigation | 🤖 | [📎](http://arxiv.org/abs/2508.06990) | Imaginative World Modeling with Scene Graphs for Embodied Agent Navigation | 0 |
@@ -19,7 +15,7 @@
 | 844 | 25.06 | Robotics | Navigation | 🤖 | [📎](http://arxiv.org/abs/2506.15402) | MCOO-SLAM: A Multi-Camera Omnidirectional Object SLAM System | 0 |
 | 843 | 25.06 | Robotics | Navigation | 🤖 | [📎](http://arxiv.org/abs/2506.14178) | TACS-Graphs: Traversability-Aware Consistent Scene Graphs for Ground Robot Localization and Mapping | 0 |
 | 829 | 25.06 | Robotics | Navigation | 🤖 | [📎](http://arxiv.org/abs/2506.04505) | SGN-CIRL: Scene Graph-based Navigation with Curriculum, Imitation, and Reinforcement Learning | 0 |
-| 808 | 25.05 | Robotics | Navigation | 🤖 | [📎](http://arxiv.org/abs/2505.03128) | HCOA\*: Hierarchical Class-ordered A\* for Navigation in Semantic Environments | 0 |
+| 808 | 25.05 | Robotics | Navigation | 🤖 | [📎](http://arxiv.org/abs/2505.03128) | HCOA*: Hierarchical Class-ordered A* for Navigation in Semantic Environments | 0 |
 | 802 | 25.04 | Robotics | Navigation | 🤖 | [📎](http://arxiv.org/abs/2504.16782) | Graph2Nav: 3D Object-Relation Graph Generation to Robot Navigation | 0 |
 | 794 | 25.04 | Robotics | Navigation | 🤖 | [📎](http://arxiv.org/abs/2504.09587) | GeoNav: Empowering MLLMs with Explicit Geospatial Reasoning Abilities for Language-Goal Aerial Navigation | 0 |
 | 761 | 25.03 | Robotics | Navigation | 🤖 | [📎](http://arxiv.org/abs/2503.10986) | Image-Goal Navigation Using Refined Feature Guidance and Scene Graph Enhancement | 0 |
@@ -67,5 +63,4 @@
 | 221 | 21.09 | Robotics | Navigation | 🤖 | [📎](http://arxiv.org/abs/2109.06241) | Incremental Abstraction in Distributed Probabilistic SLAM Graphs | 0 |
 | 218 | 21.09 | Robotics | Navigation | 🤖 | [📎](http://arxiv.org/abs/2109.04569) | Open-World Distributed Robot Self-Localization with Transferable Visual Vocabulary and Both Absolute and Relative Features | 0 |
 | 204 | 21.08 | Robotics | Navigation | 🤖 | [📎](http://arxiv.org/abs/2108.01176) | Hierarchical Representations and Explicit Memory: Learning Effective Navigation Policies on 3D Scene Graphs using Graph Neural Networks | 0 |
-| 158 | 21.01 | Robotics | Navigation | 🤖 | [📎](http://arxiv.org/abs/2101.06894) | Kimera: from SLAM to Spatial Perception with 3D Dynamic Scene Graphs | - |
 | 29 | 18.11 | Robotics | Navigation | 👤 | [📎](http://arxiv.org/abs/1811.10696) | Attentive Relational Networks for Mapping Images to Scene Graphs | 11 |

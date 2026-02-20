@@ -17,8 +17,14 @@
 | 944 | 25.11 | Others | Other Applications | 👤 | [📎](http://arxiv.org/abs/2511.03819) | SILVI: Simple Interface for Labeling Video Interactions | 0 |
 | 940 | 25.10 | Others | Other Applications | 👤 | [📎](http://arxiv.org/abs/2510.23190) | Evaluation of Vision-LLMs in Surveillance Video | 0 |
 | 939 | 25.10 | Others | Weakly Related | 👤 | [📎](http://arxiv.org/abs/2510.22897) | Charting the Design Space of Neural Graph Representations for Subgraph Matching | 0 |
-| 910 | 25.09 | Others | Medical | 🤖 | [📎](http://arxiv.org/abs/2509.22014) | Lightweight Structured Multimodal Reasoning for Clinical Scene Understanding in Robotics | 0 |
-| 906 | 25.09 | Others | Medical | 🤖 | [📎](http://arxiv.org/abs/2509.20941) | Decoding the Surgical Scene: A Scoping Review of Scene Graphs in Surgery | 0 |
+| 938 | 25.10 | Others | Weakly Related | 👤 | [📎](http://arxiv.org/abs/2510.22538) | Iteratively Refined Early Interaction Alignment for Subgraph Matching based Graph Retrieval | 0 |
+| 937 | 25.10 | Others | Other Applications | 👤 | [📎](http://arxiv.org/abs/2510.22204) | Human-Inspired Neuro-Symbolic World Modeling and Logic Reasoning for Interpretable Safe UAV Landing Site Assessment | 0 |
+| 933 | 25.10 | Others | Weakly Related | 👤 | [📎](http://arxiv.org/abs/2510.17363) | M2H: Multi-Task Learning with Efficient Window-Based Cross-Task Attention for Monocular Spatial Perception | 0 |
+| 924 | 25.10 | Others | Weakly Related | 👤 | [📎](http://arxiv.org/abs/2510.08512) | Have We Scene It All? Scene Graph-Aware Deep Point Cloud Compression | 0 |
+| 923 | 25.10 | Others | Weakly Related | 👤 | [📎](http://arxiv.org/abs/2510.07053) | Introspection in Learned Semantic Scene Graph Localisation | 0 |
+| 917 | 25.10 | Others | Weakly Related | 👤 | [📎](http://arxiv.org/abs/2510.03727) | Bridging the Gap Between Multimodal Foundation Models and World Models | 0 |
+| 910 | 25.09 | Others | Medical | 👤 | [📎](http://arxiv.org/abs/2509.22014) | Lightweight Structured Multimodal Reasoning for Clinical Scene Understanding in Robotics | 0 |
+| 906 | 25.09 | Others | Medical | 👤 | [📎](http://arxiv.org/abs/2509.20941) | Decoding the Surgical Scene: A Scoping Review of Scene Graphs in Surgery | 0 |
 | 865 | 25.07 | Others | Medical | 🤖 | [📎](http://arxiv.org/abs/2507.15541) | Towards Holistic Surgical Scene Graph | 0 |
 | 853 | 25.06 | Others | Medical | 🤖 | [📎](http://arxiv.org/abs/2506.21813) | CAT-SG: A Large Dynamic Scene Graph Dataset for Fine-Grained Understanding of Cataract Surgery | 0 |
 | 847 | 25.06 | Others | Autonomous Driving | 🤖 | [📎](http://arxiv.org/abs/2506.17590) | DRAMA-X: A Fine-grained Intent Prediction and Risk Reasoning Benchmark For Driving | 0 |
@@ -52,10 +58,17 @@
 | 233 | 21.11 | Others | Autonomous Driving | 🤖 | [📎](http://arxiv.org/abs/2111.06123) | Spatio-Temporal Scene-Graph Embedding for Autonomous Vehicle Collision Prediction | - |
 | 215 | 21.09 | Others | Autonomous Driving | 🤖 | [📎](http://arxiv.org/abs/2109.01183) | roadscene2vec: A Tool for Extracting and Embedding Road Scene-Graphs | 0 |
 | 203 | 21.08 | Others | Medical | 🤖 | [📎](http://arxiv.org/abs/2108.00316) | Chest ImaGenome Dataset for Clinical Reasoning | 26 |
-| 190 | 21.06 | Others | Medical | 🤖 | [📎](http://arxiv.org/abs/2106.15309) | Multimodal Semantic Scene Graphs for Holistic Modeling of Surgical Procedures | 2 |
-| 183 | 21.05 | Others | Autonomous Driving | 🤖 | [📎](http://arxiv.org/abs/2105.01610) | Reliving the Dataset: Combining the Visualization of Road Users' Interactions with Scenario Reconstruction in Virtual Reality | - |
-| 148 | 20.11 | Others | Autonomous Driving | 🤖 | [📎](http://arxiv.org/abs/2011.13588) | Road Scene Graph: A Semantic Graph-Based Scene Representation Dataset for Intelligent Vehicles | 20 |
-| 127 | 20.09 | Others | Autonomous Driving | 🤖 | [📎](http://arxiv.org/abs/2009.06435) | Scene-Graph Augmented Data-Driven Risk Assessment of Autonomous Vehicle Decisions | 5 |
+| 190 | 21.06 | Others | Medical | 👤 | [📎](http://arxiv.org/abs/2106.15309) | Multimodal Semantic Scene Graphs for Holistic Modeling of Surgical Procedures | 2 |
+| 187 | 21.06 | Others | Other Applications | 👤 | [📎](http://arxiv.org/abs/2106.01607) | Grounding Complex Navigational Instructions Using Scene Graphs | 0 |
+| 185 | 21.05 | Others | Not Related | 👤 | [📎](http://arxiv.org/abs/2105.07391) | Survey of Visual-Semantic Embedding Methods for Zero-Shot Image Retrieval | 0 |
+| 183 | 21.05 | Others | AR/VR | 👤 | [📎](http://arxiv.org/abs/2105.01610) | Reliving the Dataset: Combining the Visualization of Road Users' Interactions with Scenario Reconstruction in Virtual Reality | - |
+| 159 | 21.02 | Others | Other Applications | 👤 | [📎](http://arxiv.org/abs/2102.04035) | In-game Residential Home Planning via Visual Context-aware Global Relation Learning | 0 |
+| 148 | 20.11 | Others | Autonomous Driving | 👤 | [📎](http://arxiv.org/abs/2011.13588) | Road Scene Graph: A Semantic Graph-Based Scene Representation Dataset for Intelligent Vehicles | 20 |
+| 144 | 20.11 | Others | Not Related | 👤 | [📎](http://arxiv.org/abs/2011.10379) | Neural Scene Graphs for Dynamic Scenes | - |
+| 133 | 20.09 | Others | AR/VR | 👤 | [📎](http://arxiv.org/abs/2009.12395) | SceneGen: Generative Contextual Scene Augmentation using Scene Graph Priors | 13 |
+| 127 | 20.09 | Others | Autonomous Driving | 👤 | [📎](http://arxiv.org/abs/2009.06435) | Scene-Graph Augmented Data-Driven Risk Assessment of Autonomous Vehicle Decisions | 5 |
+| 126 | 20.08 | Others | Not Related | 👤 | [📎](http://arxiv.org/abs/2008.11932) | Attribute-guided image generation from layout | 3 |
+| 124 | 20.08 | Others | AR/VR | 👤 | [📎](http://arxiv.org/abs/2008.07817) | Retargetable AR: Context-aware Augmented Reality in Indoor Scenes based on 3D Scene Graph | 3 |
 | 114 | 20.07 | Others | Medical | 👤 | [📎](http://arxiv.org/abs/2007.03357) | Learning and Reasoning with the Graph Structure Representation in Robotic Surgery | 0 |
 | 94 | 20.02 | Others | Autonomous Driving | 👤 | [📎](http://arxiv.org/abs/2002.08945) | Spatiotemporal Relationship Reasoning for Pedestrian Intent Prediction | 10 |
 | 83 | 19.11 | Others | Not Related | 👤 | [📎](http://arxiv.org/abs/1911.07527) | SOGNet: Scene Overlap Graph Network for Panoptic Segmentation | 6 |

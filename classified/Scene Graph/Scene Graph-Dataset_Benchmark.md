@@ -5,6 +5,7 @@
 | 995 | 26.01 | Scene Graph | Dataset/Benchmark | 👤 | [📎](http://arxiv.org/abs/2601.01181) | GenCAMO: Scene-Graph Contextual Decoupling for Environment-aware and Mask-free Camouflage Image-Dense Annotation Generation | 0 |
 | 965 | 25.11 | Scene Graph | Dataset/Benchmark | 👤 | [📎](http://arxiv.org/abs/2511.20937) | ENACT: Evaluating Embodied Cognition with World Modeling of Egocentric Interaction | 0 |
 | 963 | 25.11 | Scene Graph | Dataset/Benchmark | 👤 | [📎](http://arxiv.org/abs/2511.18817) | Disc3D: Automatic Curation of High-Quality 3D Dialog Data via Discriminative Object Referring | 0 |
+| 911 | 25.09 | Scene Graph | Dataset/Benchmark | 👤 | [📎](http://arxiv.org/abs/2509.22281) | MesaTask: Towards Task-Driven Tabletop Scene Generation via 3D Spatial Reasoning | 0 |
 | 849 | 25.06 | Scene Graph | Dataset/Benchmark | 🤖 | [📎](http://arxiv.org/abs/2506.19639) | HOIverse: A Synthetic Scene Graph Dataset With Human Object Interactions | 0 |
 | 831 | 25.06 | Scene Graph | Dataset/Benchmark | 🤖 | [📎](http://arxiv.org/abs/2506.05787) | EASG-Bench: Video Q&A Benchmark with Egocentric Action Scene Graphs | 0 |
 | 817 | 25.05 | Scene Graph | Dataset/Benchmark | 🤖 | [📎](http://arxiv.org/abs/2505.19510) | LLM Meets Scene Graph: Can Large Language Models Understand and Generate Scene Graphs? A Benchmark and Empirical Study | 0 |
