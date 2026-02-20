@@ -1,0 +1,43 @@
+name: Daily ArXiv Crawler
+
+on:
+  schedule:
+    # 매일 한국 시간 0시에 실행 (UTC 기준 전일 15:00)
+    - cron: "0 15 * * *"
+  # GitHub 화면에서 수동 실행 버튼 가능하도록 설정
+  workflow_dispatch:
+
+jobs:
+  run-crawler:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+
+      - name: Install dependencies
+        run: |
+          pip install pandas bs4 deep-translator requests
+
+      - name: Run Crawler
+        run: python scripts/daily_arxiv_crawler.py
+
+      - name: Check for changes
+        id: git-check
+        run: |
+          git status --porcelain
+          echo "changed=$(git status --porcelain | wc -l)" >> $GITHUB_ENV
+
+      - name: Commit and push changes
+        if: env.changed != '0'
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add csvs/ pdfs/ classified/ README.md
+          git commit -m "Auto-update: Daily ArXiv Crawler & Categories Update"
+          git push
