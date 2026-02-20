@@ -868,34 +868,34 @@ no,category,subcategory,arxiv_url,title,citations,source,additional_doi
 151,Scene Graph,3D Scene Graph,http://arxiv.org/abs/2012.04060 ,Semantic and Geometric Modeling with Neural Message Passing in 3D Scene Graphs for Hierarchical Mechanical Search,-1,ai_generated,10.1109/icra48506.2021.9560736
 150,Scene Graph,Scene Graph Generation,http://arxiv.org/abs/2012.04027 ,Generating unseen complex scenes: are we there yet?,13,ai_generated,
 149,Scene Graph,Scene Graph Generation,http://arxiv.org/abs/2011.14488 ,Self-Supervised Real-to-Sim Scene Generation,-1,ai_generated,10.1109/iccv48922.2021.01574
-148,Others,Autonomous Driving,http://arxiv.org/abs/2011.13588 ,Road Scene Graph: A Semantic Graph-Based Scene Representation Dataset for Intelligent Vehicles,20,ai_generated,
-147,Robotics,Robotic Perception,http://arxiv.org/abs/2011.11397 ,Imagination-enabled Robot Perception,-1,ai_generated,10.1109/iros51168.2021.9636359
-146,Reasoning,VQA,http://arxiv.org/abs/2011.10731 ,LRTA: A Transparent Neural-Symbolic Reasoning Framework with Modular Supervision for Visual Question Answering,11,ai_generated,
-145,Scene Graph,Scene Graph Generation,http://arxiv.org/abs/2011.10452 ,Bridging Scene Understanding and Task Execution with Flexible Simulation Environments,2,ai_generated,
-144,Scene Graph,Dynamic Scene Graph,http://arxiv.org/abs/2011.10379 ,Neural Scene Graphs for Dynamic Scenes,-1,ai_generated,10.1109/cvpr46437.2021.00288
-143,Scene Graph,Scene Graph Generation,http://arxiv.org/abs/2011.10084 ,Classification by Attention: Scene Graph Classification with Prior Knowledge,4,ai_generated,10.1609/aaai.v35i6.16636
-142,Scene Graph,Scene Graph Generation,http://arxiv.org/abs/2011.04779 ,"After All, Only The Last Neuron Matters: Comparing Multi-modal Fusion Functions for Scene Graph Generation",0,ai_generated,
-141,Scene Graph,Scene Graph Generation,http://arxiv.org/abs/2011.04234 ,Dual ResGCN for Balanced Scene GraphGeneration,8,ai_generated,
-140,Reasoning,VQA,http://arxiv.org/abs/2010.04913 ,Interpretable Neural Computation for Real-World Compositional Visual Question Answering,0,ai_generated,
-139,Scene Graph,Scene Graph Generation,http://arxiv.org/abs/2010.03855 ,Dense Relational Image Captioning via Multi-task Triple-Stream Networks,4,ai_generated,
-138,Scene Graph,Representation,http://arxiv.org/abs/2010.03182 ,VICTR: Visual Information Captured Text Representation for Text-to-Image Multimodal Tasks,3,ai_generated,
-137,Scene Graph,Scene Graph Generation,http://arxiv.org/abs/2010.02591 ,Scene Graph Modification Based on Natural Language Commands,1,ai_generated,10.18653/v1/2020.findings-emnlp.87
-136,Scene Graph,Scene Graph Generation,http://arxiv.org/abs/2010.01288 ,UNISON: Unpaired Cross-lingual Image Captioning,0,ai_generated,10.1609/aaai.v36i10.21310
-135,Scene Graph,Scene Graph Generation,http://arxiv.org/abs/2009.14558 ,Learning Object Detection from Captions via Textual Scene Attributes,6,ai_generated,
-134,Scene Graph,Scene Graph Generation,http://arxiv.org/abs/2009.13331 ,Addressing Class Imbalance in Scene Graph Parsing by Learning to Contrast and Score,0,ai_generated,
-133,Scene Graph,Scene Graph Generation,http://arxiv.org/abs/2009.12395 ,SceneGen: Generative Contextual Scene Augmentation using Scene Graph Priors,13,ai_generated,
-132,Scene Graph,Scene Graph Generation,http://arxiv.org/abs/2009.12313 ,Are scene graphs good enough to improve Image Captioning?,-1,ai_generated,10.18653/v1/2020.aacl-main.50
-131,Scene Graph,Scene Graph Generation,http://arxiv.org/abs/2009.10939 ,Scene Graph to Image Generation with Contextualized Object Layout Refinement,-1,ai_generated,10.1109/icip42928.2021.9506651
-130,Scene Graph,Scene Graph Generation,http://arxiv.org/abs/2009.07526 ,CogTree: Cognition Tree Loss for Unbiased Scene Graph Generation,7,ai_generated,10.24963/ijcai.2021/176
-129,Scene Graph,Scene Graph Generation,http://arxiv.org/abs/2009.05834 ,Exploring the Hierarchy in Relation Labels for Scene Graph Generation,6,ai_generated,
-128,Scene Graph,Scene Graph Generation,http://arxiv.org/abs/2009.00893 ,PCPL: Predicate-Correlation Perception Learning for Unbiased Scene Graph Generation,0,ai_generated,10.1145/3394171.3413722
-127,Others,Autonomous Driving,http://arxiv.org/abs/2009.06435 ,Scene-Graph Augmented Data-Driven Risk Assessment of Autonomous Vehicle Decisions,5,ai_generated,10.1109/tits.2021.3074854
-126,Scene Graph,Scene Graph Generation,http://arxiv.org/abs/2008.11932 ,Attribute-guided image generation from layout,3,ai_generated,10.5244/c.34.101
-125,Scene Graph,Scene Graph Generation,http://arxiv.org/abs/2008.07832 ,Tackling the Unannotated: Scene Graph Generation with Bias-Reduced Models,20,ai_generated,10.5244/c.34.133
-124,Scene Graph,3D Scene Graph,http://arxiv.org/abs/2008.07817 ,Retargetable AR: Context-aware Augmented Reality in Indoor Scenes based on 3D Scene Graph,3,ai_generated,10.1109/ismar-adjunct51615.2020.00072
-123,Scene Graph,Scene Graph Generation,http://arxiv.org/abs/2008.06651 ,Graph Edit Distance Reward: Learning to Edit Scene Graph,4,ai_generated,
-122,Scene Graph,Scene Graph Generation,http://arxiv.org/abs/2008.05156 ,HOSE-Net: Higher Order Structure Embedded Network for Scene Graph Generation,2,ai_generated,10.1145/3394171.3413575
-121,Scene Graph,Scene Graph Generation,http://arxiv.org/abs/2008.03555 ,Assisting Scene Graph Generation with Self-Supervision,1,ai_generated,
+148,Others,Autonomous Driving,http://arxiv.org/abs/2011.13588 ,Road Scene Graph: A Semantic Graph-Based Scene Representation Dataset for Intelligent Vehicles,20,manual,
+147,Robotics,Robotic Perception,http://arxiv.org/abs/2011.11397 ,Imagination-enabled Robot Perception,-1,manual,10.1109/iros51168.2021.9636359
+146,Reasoning,VQA,http://arxiv.org/abs/2011.10731 ,LRTA: A Transparent Neural-Symbolic Reasoning Framework with Modular Supervision for Visual Question Answering,11,manual,
+145,Robotics,General,http://arxiv.org/abs/2011.10452 ,Bridging Scene Understanding and Task Execution with Flexible Simulation Environments,2,manual,
+144,Others,Not Related,http://arxiv.org/abs/2011.10379 ,Neural Scene Graphs for Dynamic Scenes,-1,manual,10.1109/cvpr46437.2021.00288
+143,Scene Graph,Others,http://arxiv.org/abs/2011.10084 ,Classification by Attention: Scene Graph Classification with Prior Knowledge,4,manual,10.1609/aaai.v35i6.16636
+142,Scene Graph,Scene Graph Generation,http://arxiv.org/abs/2011.04779 ,"After All, Only The Last Neuron Matters: Comparing Multi-modal Fusion Functions for Scene Graph Generation",0,manual,
+141,Scene Graph,Scene Graph Generation,http://arxiv.org/abs/2011.04234 ,Dual ResGCN for Balanced Scene GraphGeneration,8,manual,
+140,Reasoning,VQA,http://arxiv.org/abs/2010.04913 ,Interpretable Neural Computation for Real-World Compositional Visual Question Answering,0,manual,
+139,Reasoning,Captioning,http://arxiv.org/abs/2010.03855 ,Dense Relational Image Captioning via Multi-task Triple-Stream Networks,4,manual,
+138,Scene Graph,Representation,http://arxiv.org/abs/2010.03182 ,VICTR: Visual Information Captured Text Representation for Text-to-Image Multimodal Tasks,3,manual,
+137,Scene Graph,Others,http://arxiv.org/abs/2010.02591 ,Scene Graph Modification Based on Natural Language Commands,1,manual,10.18653/v1/2020.findings-emnlp.87
+136,Reasoning,Captioning,http://arxiv.org/abs/2010.01288 ,UNISON: Unpaired Cross-lingual Image Captioning,0,manual,10.1609/aaai.v36i10.21310
+135,Reasoning,Others,http://arxiv.org/abs/2009.14558 ,Learning Object Detection from Captions via Textual Scene Attributes,6,manual,
+134,Scene Graph,Scene Graph Parsing,http://arxiv.org/abs/2009.13331 ,Addressing Class Imbalance in Scene Graph Parsing by Learning to Contrast and Score,0,manual,
+133,Others,AR/VR,http://arxiv.org/abs/2009.12395 ,SceneGen: Generative Contextual Scene Augmentation using Scene Graph Priors,13,manual,
+132,Reasoning,Captioning,http://arxiv.org/abs/2009.12313 ,Are scene graphs good enough to improve Image Captioning?,-1,manual,10.18653/v1/2020.aacl-main.50
+131,Scene Graph,Synthesis,http://arxiv.org/abs/2009.10939 ,Scene Graph to Image Generation with Contextualized Object Layout Refinement,-1,manual,10.1109/icip42928.2021.9506651
+130,Scene Graph,Scene Graph Generation,http://arxiv.org/abs/2009.07526 ,CogTree: Cognition Tree Loss for Unbiased Scene Graph Generation,7,manual,10.24963/ijcai.2021/176
+129,Scene Graph,Scene Graph Generation,http://arxiv.org/abs/2009.05834 ,Exploring the Hierarchy in Relation Labels for Scene Graph Generation,6,manual,
+128,Scene Graph,Scene Graph Generation,http://arxiv.org/abs/2009.00893 ,PCPL: Predicate-Correlation Perception Learning for Unbiased Scene Graph Generation,0,manual,10.1145/3394171.3413722
+127,Others,Autonomous Driving,http://arxiv.org/abs/2009.06435 ,Scene-Graph Augmented Data-Driven Risk Assessment of Autonomous Vehicle Decisions,5,manual,10.1109/tits.2021.3074854
+126,Others,Not Related,http://arxiv.org/abs/2008.11932 ,Attribute-guided image generation from layout,3,manual,10.5244/c.34.101
+125,Scene Graph,Scene Graph Generation,http://arxiv.org/abs/2008.07832 ,Tackling the Unannotated: Scene Graph Generation with Bias-Reduced Models,20,manual,10.5244/c.34.133
+124,Others,AR/VR,http://arxiv.org/abs/2008.07817 ,Retargetable AR: Context-aware Augmented Reality in Indoor Scenes based on 3D Scene Graph,3,manual,10.1109/ismar-adjunct51615.2020.00072
+123,Scene Graph,Synthesis,http://arxiv.org/abs/2008.06651 ,Graph Edit Distance Reward: Learning to Edit Scene Graph,4,manual,
+122,Scene Graph,Scene Graph Generation,http://arxiv.org/abs/2008.05156 ,HOSE-Net: Higher Order Structure Embedded Network for Scene Graph Generation,2,manual,10.1145/3394171.3413575
+121,Scene Graph,Scene Graph Generation,http://arxiv.org/abs/2008.03555 ,Assisting Scene Graph Generation with Self-Supervision,1,manual,
 120,Reasoning,VQA,http://arxiv.org/abs/2007.13262 ,"REXUP: I REason, I EXtract, I UPdate with Structured Compositional Reasoning for Visual Question Answering",0,manual,
 119,Scene Graph,Synthesis,http://arxiv.org/abs/2007.11744 ,End-to-End Optimization of Scene Layout,1,manual,10.1109/cvpr42600.2020.00381
 118,Reasoning,Captioning,http://arxiv.org/abs/2007.11731 ,Comprehensive Image Captioning via Scene Graph Decomposition,14,manual,
