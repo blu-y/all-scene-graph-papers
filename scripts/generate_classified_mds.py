@@ -4,7 +4,7 @@ import shutil
 import urllib.parse
 
 # Paths
-BASE_DIR = '/Users/username/GitHub/scene-graph-papers'
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CSV_PATH = os.path.join(BASE_DIR, 'csvs/scene_graph_papers_minimal.csv')
 OUTPUT_DIR = os.path.join(BASE_DIR, 'classified')
 if not os.path.exists(OUTPUT_DIR):

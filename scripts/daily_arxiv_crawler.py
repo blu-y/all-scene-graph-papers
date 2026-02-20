@@ -13,7 +13,7 @@ import subprocess
 import shutil
 
 # Paths
-BASE_DIR = Path('/Users/username/GitHub/scene-graph-papers')
+BASE_DIR = Path(__file__).resolve().parent.parent
 CSVS_DIR = BASE_DIR / "csvs"
 PDFS_DIR = BASE_DIR / "pdfs"
 PDF_OLD_DIR = PDFS_DIR / "old"
