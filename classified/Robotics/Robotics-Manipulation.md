@@ -2,6 +2,9 @@
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1032 | 26.02 | Robotics | Manipulation | 👤 | [📎](http://arxiv.org/abs/2602.13086) | UniManip: General-Purpose Zero-Shot Robotic Manipulation with Agentic Operational Graph | 0 |
+| 1025 | 26.02 | Robotics | Manipulation | 👤 | [📎](http://arxiv.org/abs/2602.04419) | Integrated Exploration and Sequential Manipulation on Scene Graph with LLM-based Situated Replanning | 0 |
+| 1019 | 26.02 | Robotics | Manipulation | 👤 | [📎](http://arxiv.org/abs/2602.01693) | GSR: Learning Structured Reasoning for Embodied Manipulation | 0 |
 | 1013 | 26.01 | Robotics | Manipulation | 👤 | [📎](http://arxiv.org/abs/2601.19832) | Information-Theoretic Detection of Bimanual Interactions for Dual-Arm Robot Plan Generation | 0 |
 | 1007 | 26.01 | Robotics | Manipulation | 👤 | [📎](http://arxiv.org/abs/2601.11460) | Learning Semantic-Geometric Task Graph-Representations from Human Demonstrations | 0 |
 | 973 | 25.12 | Robotics | Manipulation | 👤 | [📎](http://arxiv.org/abs/2512.03913) | Hierarchical Vision Language Action Model Using Success and Failure Demonstrations | 0 |
@@ -28,7 +31,5 @@
 | 321 | 22.09 | Robotics | Manipulation | 🤖 | [📎](http://arxiv.org/abs/2209.14026) | Human-in-the-loop Robotic Grasping using BERT Scene Representation | 2 |
 | 295 | 22.07 | Robotics | Manipulation | 🤖 | [📎](http://arxiv.org/abs/2207.04364) | Sequential Manipulation Planning on Scene Graph | 0 |
 | 243 | 21.12 | Robotics | Manipulation | 🤖 | [📎](http://arxiv.org/abs/2112.11691) | Comprehensive Visual Question Answering on Point Clouds through Compositional Scene Manipulation | 4 |
-| 230 | 21.10 | Robotics | Manipulation | 🤖 | [📎](http://arxiv.org/abs/2110.13280) | A Variational Graph Autoencoder for Manipulation Action Recognition and Prediction | - |
-| 212 | 21.08 | Robotics | Manipulation | 🤖 | [📎](http://arxiv.org/abs/2108.08841) | Graph-to-3D: End-to-End Generation and Manipulation of 3D Scenes Using Scene Graphs | - |
 | 154 | 20.12 | Robotics | Manipulation | 👤 | [📎](http://arxiv.org/abs/2012.07277) | Hierarchical Planning for Long-Horizon Manipulation with Geometric and Symbolic Scene Graphs | 13 |
 | 8 | 17.04 | Robotics | Manipulation | 👤 | [📎](http://arxiv.org/abs/1704.01189) | Semantic Robot Programming for Goal-Directed Manipulation in Cluttered Scenes | 0 |

@@ -17,8 +17,7 @@
 | 382 | 23.03 | Reasoning | Retrieval | 🤖 | [📎](http://arxiv.org/abs/2303.11090) | Scene Graph Based Fusion Network For Image-Text Retrieval | 0 |
 | 327 | 22.10 | Reasoning | Retrieval | 🤖 | [📎](http://arxiv.org/abs/2210.08908) | Cross-modal Semantic Enhanced Interaction for Image-Sentence Retrieval | 0 |
 | 254 | 22.02 | Reasoning | Retrieval | 🤖 | [📎](http://arxiv.org/abs/2202.09459) | Interactive Visual Pattern Search on Graph Data via Graph Representation Learning | 0 |
-| 227 | 21.10 | Reasoning | Retrieval | 🤖 | [📎](http://arxiv.org/abs/2110.04494) | SGMNet: Scene Graph Matching Network for Few-Shot Remote Sensing Scene Classification | 5 |
-| 220 | 21.09 | Reasoning | Retrieval | 🤖 | [📎](http://arxiv.org/abs/2109.05523) | Constructing Phrase-level Semantic Labels to Form Multi-Grained Supervision for Image-Text Retrieval | 1 |
+| 220 | 21.09 | Reasoning | Retrieval | 👤 | [📎](http://arxiv.org/abs/2109.05523) | Constructing Phrase-level Semantic Labels to Form Multi-Grained Supervision for Image-Text Retrieval | 1 |
 | 188 | 21.06 | Reasoning | Retrieval | 👤 | [📎](http://arxiv.org/abs/2106.02400) | A Deep Local and Global Scene-Graph Matching for Image-Text Retrieval | - |
 | 156 | 20.12 | Reasoning | Retrieval | 👤 | [📎](http://arxiv.org/abs/2012.14700) | Image-to-Image Retrieval by Learning Similarity between Scene Graphs | 0 |
 | 152 | 20.12 | Reasoning | Retrieval | 👤 | [📎](http://arxiv.org/abs/2012.04329) | StacMR: Scene-Text Aware Cross-Modal Retrieval | - |

@@ -3,6 +3,7 @@
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
 | 935 | 25.10 | Reasoning | Captioning | 👤 | [📎](http://arxiv.org/abs/2510.19060) | PoSh: Using Scene Graphs To Guide LLMs-as-a-Judge For Detailed Image Descriptions | 0 |
+| 202 | 21.07 | Reasoning | Captioning | 👤 | [📎](http://arxiv.org/abs/2107.14178) | ReFormer: The Relational Transformer for Image Captioning | 8 |
 | 193 | 21.06 | Reasoning | Captioning | 👤 | [📎](http://arxiv.org/abs/2106.10936) | TCIC: Theme Concepts Learning Cross Language and Vision for Image Captioning | 2 |
 | 161 | 21.02 | Reasoning | Captioning | 👤 | [📎](http://arxiv.org/abs/2102.04990) | In Defense of Scene Graphs for Image Captioning | - |
 | 139 | 20.10 | Reasoning | Captioning | 👤 | [📎](http://arxiv.org/abs/2010.03855) | Dense Relational Image Captioning via Multi-task Triple-Stream Networks | 4 |

@@ -2,6 +2,7 @@
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1030 | 26.02 | Robotics | Task-planning | 👤 | [📎](http://arxiv.org/abs/2602.12244) | Any House Any Task: Scalable Long-Horizon Planning for Abstract Human Tasks | 0 |
 | 1011 | 26.01 | Robotics | Task-planning | 👤 | [📎](http://arxiv.org/abs/2601.18765) | Goal-oriented Communication for Fast and Robust Robotic Fault Detection and Recovery | 0 |
 | 990 | 25.12 | Robotics | Task-planning | 👤 | [📎](http://arxiv.org/abs/2512.21243) | LookPlanGraph: Embodied Instruction Following Method with VLM Graph Augmentation | 0 |
 | 983 | 25.12 | Robotics | Task-planning | 👤 | [📎](http://arxiv.org/abs/2512.16909) | MomaGraph: State-Aware Unified Scene Graphs with Vision-Language Model for Embodied Task Planning | 0 |
@@ -24,3 +25,4 @@
 | 297 | 22.07 | Robotics | Task-planning | 🤖 | [📎](http://arxiv.org/abs/2207.05006) | TASKOGRAPHY: Evaluating robot task planning over large 3D scene graphs | 12 |
 | 261 | 22.02 | Robotics | Task-planning | 🤖 | [📎](http://arxiv.org/abs/2202.12912) | SGL: Symbolic Goal Learning in a Hybrid, Modular Framework for Human Instruction Following | 0 |
 | 256 | 22.02 | Robotics | Task-planning | 🤖 | [📎](http://arxiv.org/abs/2202.10432) | Reasoning with Scene Graphs for Robot Planning under Partial Observability | 0 |
+| 222 | 21.09 | Robotics | Task-planning | 👤 | [📎](http://arxiv.org/abs/2109.07872) | Knowledge-based Embodied Question Answering | - |

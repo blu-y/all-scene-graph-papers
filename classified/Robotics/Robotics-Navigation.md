@@ -2,6 +2,7 @@
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1018 | 26.02 | Robotics | Navigation | 👤 | [📎](http://arxiv.org/abs/2602.00708) | USS-Nav: Unified Spatio-Semantic Scene Graph for Lightweight UAV Zero-Shot Object Navigation | 0 |
 | 1001 | 26.01 | Robotics | Navigation | 👤 | [📎](http://arxiv.org/abs/2601.06806) | SpatialNav: Leveraging Spatial Scene Graphs for Zero-Shot Vision-and-Language Navigation | 0 |
 | 996 | 26.01 | Robotics | Navigation | 👤 | [📎](http://arxiv.org/abs/2601.01872) | CausalNav: A Long-term Embodied Navigation System for Autonomous Mobile Robots in Dynamic Outdoor Scenarios | 0 |
 | 980 | 25.12 | Robotics | Navigation | 👤 | [📎](http://arxiv.org/abs/2512.15047) | HERO: Hierarchical Traversable 3D Scene Graphs for Embodied Navigation Among Movable Obstacles | 0 |
@@ -59,8 +60,7 @@
 | 284 | 22.05 | Robotics | Navigation | 🤖 | [📎](http://arxiv.org/abs/2205.08325) | GraphMapper: Efficient Visual Navigation by Scene Graph Generation | 0 |
 | 260 | 22.02 | Robotics | Navigation | 🤖 | [📎](http://arxiv.org/abs/2202.12197) | Situational Graphs for Robot Navigation in Structured Indoor Environments | 1 |
 | 247 | 22.01 | Robotics | Navigation | 🤖 | [📎](http://arxiv.org/abs/2201.05977) | Lightweight Object-level Topological Semantic Mapping and Long-term Global Localization based on Graph Matching | 1 |
-| 226 | 21.10 | Robotics | Navigation | 🤖 | [📎](http://arxiv.org/abs/2110.00273) | From SLAM to Situational Awareness: Challenges and Survey | 1 |
-| 221 | 21.09 | Robotics | Navigation | 🤖 | [📎](http://arxiv.org/abs/2109.06241) | Incremental Abstraction in Distributed Probabilistic SLAM Graphs | 0 |
-| 218 | 21.09 | Robotics | Navigation | 🤖 | [📎](http://arxiv.org/abs/2109.04569) | Open-World Distributed Robot Self-Localization with Transferable Visual Vocabulary and Both Absolute and Relative Features | 0 |
-| 204 | 21.08 | Robotics | Navigation | 🤖 | [📎](http://arxiv.org/abs/2108.01176) | Hierarchical Representations and Explicit Memory: Learning Effective Navigation Policies on 3D Scene Graphs using Graph Neural Networks | 0 |
+| 221 | 21.09 | Robotics | Navigation | 👤 | [📎](http://arxiv.org/abs/2109.06241) | Incremental Abstraction in Distributed Probabilistic SLAM Graphs | 0 |
+| 218 | 21.09 | Robotics | Navigation | 👤 | [📎](http://arxiv.org/abs/2109.04569) | Open-World Distributed Robot Self-Localization with Transferable Visual Vocabulary and Both Absolute and Relative Features | 0 |
+| 204 | 21.08 | Robotics | Navigation | 👤 | [📎](http://arxiv.org/abs/2108.01176) | Hierarchical Representations and Explicit Memory: Learning Effective Navigation Policies on 3D Scene Graphs using Graph Neural Networks | 0 |
 | 29 | 18.11 | Robotics | Navigation | 👤 | [📎](http://arxiv.org/abs/1811.10696) | Attentive Relational Networks for Mapping Images to Scene Graphs | 11 |

@@ -23,7 +23,6 @@
 | 331 | 22.10 | Scene Graph | Representation | 🤖 | [📎](http://arxiv.org/abs/2210.14862) | Visual Semantic Parsing: From Images to Abstract Meaning Representation | 0 |
 | 326 | 22.10 | Scene Graph | Representation | 🤖 | [📎](http://arxiv.org/abs/2210.08675) | SGRAM: Improving Scene Graph Parsing via Abstract Meaning Representation | 0 |
 | 238 | 21.12 | Scene Graph | Representation | 🤖 | [📎](http://arxiv.org/abs/2112.00974) | Consensus Graph Representation Learning for Better Grounded Image Captioning | 2 |
-| 205 | 21.08 | Scene Graph | Representation | 🤖 | [📎](http://arxiv.org/abs/2108.03541) | OSCAR-Net: Object-centric Scene Graph Attention for Image Attribution | 0 |
 | 184 | 21.05 | Scene Graph | Representation | 👤 | [📎](http://arxiv.org/abs/2105.07264) | Neural Trees for Learning on Graphs | 1 |
 | 176 | 21.04 | Scene Graph | Representation | 👤 | [📎](http://arxiv.org/abs/2104.02381) | Scene Graph Embeddings Using Relative Similarity Supervision | - |
 | 138 | 20.10 | Scene Graph | Representation | 👤 | [📎](http://arxiv.org/abs/2010.03182) | VICTR: Visual Information Captured Text Representation for Text-to-Image Multimodal Tasks | 3 |

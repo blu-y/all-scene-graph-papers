@@ -2,6 +2,7 @@
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1026 | 26.02 | Reasoning | Grounding | 👤 | [📎](http://arxiv.org/abs/2602.04635) | Relational Scene Graphs for Object Grounding of Natural Language Commands | 0 |
 | 1016 | 26.02 | Reasoning | Reasoning | 👤 | [📎](http://arxiv.org/abs/2602.00414) | Toward Autonomous Laboratory Safety Monitoring with Vision Language Models: Learning to See Hazards Through Scene Structure | 0 |
 | 1010 | 26.01 | Reasoning | VQA | 👤 | [📎](http://arxiv.org/abs/2601.18157) | Agentic Very Long Video Understanding | 0 |
 | 1004 | 26.01 | Reasoning | VQA | 👤 | [📎](http://arxiv.org/abs/2601.11632) | KG-ViP: Bridging Knowledge Grounding and Visual Perception in Multi-modal LLMs for Visual Question Answering | 0 |
@@ -66,9 +67,14 @@
 | 254 | 22.02 | Reasoning | Retrieval | 🤖 | [📎](http://arxiv.org/abs/2202.09459) | Interactive Visual Pattern Search on Graph Data via Graph Representation Learning | 0 |
 | 253 | 22.02 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2202.09277) | (2.5+1)D Spatio-Temporal Scene Graphs for Video Question Answering | 1 |
 | 241 | 21.12 | Reasoning | Reasoning | 🤖 | [📎](http://arxiv.org/abs/2112.08587) | SGEITL: Scene Graph Enhanced Image-Text Learning for Visual Commonsense Reasoning | 0 |
-| 232 | 21.11 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2111.04785) | Visual Question Answering based on Formal Logic | - |
-| 227 | 21.10 | Reasoning | Retrieval | 🤖 | [📎](http://arxiv.org/abs/2110.04494) | SGMNet: Scene Graph Matching Network for Few-Shot Remote Sensing Scene Classification | 5 |
-| 220 | 21.09 | Reasoning | Retrieval | 🤖 | [📎](http://arxiv.org/abs/2109.05523) | Constructing Phrase-level Semantic Labels to Form Multi-Grained Supervision for Image-Text Retrieval | 1 |
+| 232 | 21.11 | Reasoning | VQA | 👤 | [📎](http://arxiv.org/abs/2111.04785) | Visual Question Answering based on Formal Logic | - |
+| 230 | 21.10 | Reasoning | Prediction | 👤 | [📎](http://arxiv.org/abs/2110.13280) | A Variational Graph Autoencoder for Manipulation Action Recognition and Prediction | - |
+| 227 | 21.10 | Reasoning | Others | 👤 | [📎](http://arxiv.org/abs/2110.04494) | SGMNet: Scene Graph Matching Network for Few-Shot Remote Sensing Scene Classification | 5 |
+| 223 | 21.09 | Reasoning | Grounding | 👤 | [📎](http://arxiv.org/abs/2109.10613) | COVR: A test-bed for Visually Grounded Compositional Generalization with real images | 0 |
+| 220 | 21.09 | Reasoning | Retrieval | 👤 | [📎](http://arxiv.org/abs/2109.05523) | Constructing Phrase-level Semantic Labels to Form Multi-Grained Supervision for Image-Text Retrieval | 1 |
+| 210 | 21.08 | Reasoning | Scene Understanding | 👤 | [📎](http://arxiv.org/abs/2108.08584) | Exploiting Scene Graphs for Human-Object Interaction Detection | 0 |
+| 206 | 21.08 | Reasoning | Reasoning | 👤 | [📎](http://arxiv.org/abs/2108.03554) | Semantic-Based Explainable AI: Leveraging Semantic Scene Graphs and Pairwise Ranking to Explain Robot Failures | 0 |
+| 202 | 21.07 | Reasoning | Captioning | 👤 | [📎](http://arxiv.org/abs/2107.14178) | ReFormer: The Relational Transformer for Image Captioning | 8 |
 | 199 | 21.07 | Reasoning | VQA | 👤 | [📎](http://arxiv.org/abs/2107.06325) | Graphhopper: Multi-Hop Scene Graph Reasoning for Visual Question Answering | - |
 | 194 | 21.06 | Reasoning | VQA | 👤 | [📎](http://arxiv.org/abs/2106.14476) | Adventurer's Treasure Hunt: A Transparent System for Visually Grounded Compositional Visual Question Answering based on Scene Graphs | 0 |
 | 193 | 21.06 | Reasoning | Captioning | 👤 | [📎](http://arxiv.org/abs/2106.10936) | TCIC: Theme Concepts Learning Cross Language and Vision for Image Captioning | 2 |

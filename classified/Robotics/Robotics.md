@@ -2,6 +2,12 @@
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1032 | 26.02 | Robotics | Manipulation | 👤 | [📎](http://arxiv.org/abs/2602.13086) | UniManip: General-Purpose Zero-Shot Robotic Manipulation with Agentic Operational Graph | 0 |
+| 1030 | 26.02 | Robotics | Task-planning | 👤 | [📎](http://arxiv.org/abs/2602.12244) | Any House Any Task: Scalable Long-Horizon Planning for Abstract Human Tasks | 0 |
+| 1025 | 26.02 | Robotics | Manipulation | 👤 | [📎](http://arxiv.org/abs/2602.04419) | Integrated Exploration and Sequential Manipulation on Scene Graph with LLM-based Situated Replanning | 0 |
+| 1023 | 26.02 | Robotics | Robotic Perception | 👤 | [📎](http://arxiv.org/abs/2602.03781) | A Scene Graph Backed Approach to Open Set Semantic Mapping | 0 |
+| 1019 | 26.02 | Robotics | Manipulation | 👤 | [📎](http://arxiv.org/abs/2602.01693) | GSR: Learning Structured Reasoning for Embodied Manipulation | 0 |
+| 1018 | 26.02 | Robotics | Navigation | 👤 | [📎](http://arxiv.org/abs/2602.00708) | USS-Nav: Unified Spatio-Semantic Scene Graph for Lightweight UAV Zero-Shot Object Navigation | 0 |
 | 1013 | 26.01 | Robotics | Manipulation | 👤 | [📎](http://arxiv.org/abs/2601.19832) | Information-Theoretic Detection of Bimanual Interactions for Dual-Arm Robot Plan Generation | 0 |
 | 1011 | 26.01 | Robotics | Task-planning | 👤 | [📎](http://arxiv.org/abs/2601.18765) | Goal-oriented Communication for Fast and Robust Robotic Fault Detection and Recovery | 0 |
 | 1007 | 26.01 | Robotics | Manipulation | 👤 | [📎](http://arxiv.org/abs/2601.11460) | Learning Semantic-Geometric Task Graph-Representations from Human Demonstrations | 0 |
@@ -136,14 +142,12 @@
 | 255 | 22.02 | Robotics | Robotic Perception | 🤖 | [📎](http://arxiv.org/abs/2202.10201) | OG-SGG: Ontology-Guided Scene Graph Generation. A Case Study in Transfer Learning for Telepresence Robotics | 0 |
 | 247 | 22.01 | Robotics | Navigation | 🤖 | [📎](http://arxiv.org/abs/2201.05977) | Lightweight Object-level Topological Semantic Mapping and Long-term Global Localization based on Graph Matching | 1 |
 | 243 | 21.12 | Robotics | Manipulation | 🤖 | [📎](http://arxiv.org/abs/2112.11691) | Comprehensive Visual Question Answering on Point Clouds through Compositional Scene Manipulation | 4 |
-| 230 | 21.10 | Robotics | Manipulation | 🤖 | [📎](http://arxiv.org/abs/2110.13280) | A Variational Graph Autoencoder for Manipulation Action Recognition and Prediction | - |
-| 226 | 21.10 | Robotics | Navigation | 🤖 | [📎](http://arxiv.org/abs/2110.00273) | From SLAM to Situational Awareness: Challenges and Survey | 1 |
-| 222 | 21.09 | Robotics | Robotic Perception | 🤖 | [📎](http://arxiv.org/abs/2109.07872) | Knowledge-based Embodied Question Answering | - |
-| 221 | 21.09 | Robotics | Navigation | 🤖 | [📎](http://arxiv.org/abs/2109.06241) | Incremental Abstraction in Distributed Probabilistic SLAM Graphs | 0 |
-| 218 | 21.09 | Robotics | Navigation | 🤖 | [📎](http://arxiv.org/abs/2109.04569) | Open-World Distributed Robot Self-Localization with Transferable Visual Vocabulary and Both Absolute and Relative Features | 0 |
-| 212 | 21.08 | Robotics | Manipulation | 🤖 | [📎](http://arxiv.org/abs/2108.08841) | Graph-to-3D: End-to-End Generation and Manipulation of 3D Scenes Using Scene Graphs | - |
-| 206 | 21.08 | Robotics | Robotic Perception | 🤖 | [📎](http://arxiv.org/abs/2108.03554) | Semantic-Based Explainable AI: Leveraging Semantic Scene Graphs and Pairwise Ranking to Explain Robot Failures | 0 |
-| 204 | 21.08 | Robotics | Navigation | 🤖 | [📎](http://arxiv.org/abs/2108.01176) | Hierarchical Representations and Explicit Memory: Learning Effective Navigation Policies on 3D Scene Graphs using Graph Neural Networks | 0 |
+| 231 | 21.11 | Robotics | Robotic Perception | 👤 | [📎](http://arxiv.org/abs/2111.00312) | 3DP3: 3D Scene Perception via Probabilistic Programming | 5 |
+| 226 | 21.10 | Robotics | General | 👤 | [📎](http://arxiv.org/abs/2110.00273) | From SLAM to Situational Awareness: Challenges and Survey | 1 |
+| 222 | 21.09 | Robotics | Task-planning | 👤 | [📎](http://arxiv.org/abs/2109.07872) | Knowledge-based Embodied Question Answering | - |
+| 221 | 21.09 | Robotics | Navigation | 👤 | [📎](http://arxiv.org/abs/2109.06241) | Incremental Abstraction in Distributed Probabilistic SLAM Graphs | 0 |
+| 218 | 21.09 | Robotics | Navigation | 👤 | [📎](http://arxiv.org/abs/2109.04569) | Open-World Distributed Robot Self-Localization with Transferable Visual Vocabulary and Both Absolute and Relative Features | 0 |
+| 204 | 21.08 | Robotics | Navigation | 👤 | [📎](http://arxiv.org/abs/2108.01176) | Hierarchical Representations and Explicit Memory: Learning Effective Navigation Policies on 3D Scene Graphs using Graph Neural Networks | 0 |
 | 154 | 20.12 | Robotics | Manipulation | 👤 | [📎](http://arxiv.org/abs/2012.07277) | Hierarchical Planning for Long-Horizon Manipulation with Geometric and Symbolic Scene Graphs | 13 |
 | 147 | 20.11 | Robotics | Robotic Perception | 👤 | [📎](http://arxiv.org/abs/2011.11397) | Imagination-enabled Robot Perception | - |
 | 145 | 20.11 | Robotics | General | 👤 | [📎](http://arxiv.org/abs/2011.10452) | Bridging Scene Understanding and Task Execution with Flexible Simulation Environments | 2 |

@@ -2,6 +2,8 @@
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1028 | 26.02 | Others | Not Related | 👤 | [📎](http://arxiv.org/abs/2602.07541) | Differentiate-and-Inject: Enhancing VLAs via Functional Differentiation Induced by In-Parameter Structural Reasoning | 0 |
+| 1027 | 26.02 | Others | Not Related | 👤 | [📎](http://arxiv.org/abs/2602.06090) | SVRepair: Structured Visual Reasoning for Automated Program Repair | 0 |
 | 997 | 26.01 | Others | Not Related | 👤 | [📎](http://arxiv.org/abs/2601.02792) | Textile IR: A Bidirectional Intermediate Representation for Physics-Aware Fashion CAD | 0 |
 | 945 | 25.11 | Others | Not Related | 👤 | [📎](http://arxiv.org/abs/2511.08609) | Case Study: Transformer-Based Solution for the Automatic Digitization of Gas Plants | 0 |
 | 185 | 21.05 | Others | Not Related | 👤 | [📎](http://arxiv.org/abs/2105.07391) | Survey of Visual-Semantic Embedding Methods for Zero-Shot Image Retrieval | 0 |

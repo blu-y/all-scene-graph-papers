@@ -82,7 +82,7 @@
 | 242 | 21.12 | Scene Graph | Dynamic Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2112.09828) | Exploiting Long-Term Dependencies for Generating Dynamic Scene Graphs | 4 |
 | 239 | 21.12 | Scene Graph | Dynamic Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2112.04222) | Classification-Then-Grounding: Reformulating Video Scene Graphs as Temporal Bipartite Graphs | 4 |
 | 237 | 21.12 | Scene Graph | Dynamic Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2112.00967) | Relational Graph Learning for Grounded Video Description Generation | 0 |
-| 209 | 21.08 | Scene Graph | Dynamic Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2108.08121) | Target Adaptive Context Aggregation for Video Scene Graph Generation | 0 |
+| 209 | 21.08 | Scene Graph | Dynamic Scene Graph | 👤 | [📎](http://arxiv.org/abs/2108.08121) | Target Adaptive Context Aggregation for Video Scene Graph Generation | 0 |
 | 200 | 21.07 | Scene Graph | Dynamic Scene Graph | 👤 | [📎](http://arxiv.org/abs/2107.12309) | Spatial-Temporal Transformer for Dynamic Scene Graph Generation | 0 |
 | 178 | 21.04 | Scene Graph | Dynamic Scene Graph | 👤 | [📎](http://arxiv.org/abs/2104.08194) | Spatiotemporal Deformable Scene Graphs for Complex Activity Detection | 0 |
 | 171 | 21.03 | Scene Graph | Dynamic Scene Graph | 👤 | [📎](http://arxiv.org/abs/2103.15662) | Unified Graph Structured Models for Video Understanding | - |

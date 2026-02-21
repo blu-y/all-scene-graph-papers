@@ -284,20 +284,14 @@
 | 240 | 21.12 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2112.05727) | Neural Belief Propagation for Scene Graph Generation | - |
 | 236 | 21.11 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2111.13517) | Not All Relations are Equal: Mining Informative Labels for Scene Graph Generation | 0 |
 | 235 | 21.11 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2111.13131) | Scene Graph Generation with Geometric Context | 0 |
-| 229 | 21.10 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2110.11918) | MIGS: Meta Image Generation from Scene Graphs | 7 |
-| 228 | 21.10 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2110.05731) | Topic Scene Graph Generation by Attention Distillation from Caption | 0 |
-| 225 | 21.09 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2109.11955) | Visual Scene Graphs for Audio Source Separation | - |
-| 224 | 21.09 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2109.11398) | Scene Graph Generation for Better Image Captioning? | 2 |
-| 223 | 21.09 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2109.10613) | COVR: A test-bed for Visually Grounded Compositional Generalization with real images | 0 |
-| 219 | 21.09 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2109.05346) | BGT-Net: Bidirectional GRU Transformer Network for Scene Graph Generation | - |
-| 217 | 21.09 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2109.02227) | Learning to Generate Scene Graph from Natural Language Supervision | 0 |
-| 214 | 21.08 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2108.13129) | From General to Specific: Informative Scene Graph Generation via Balance Adjustment | 0 |
-| 213 | 21.08 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2108.09668) | Learning of Visual Relations: The Devil is in the Tails | - |
-| 211 | 21.08 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2108.08600) | Semantic Compositional Learning for Low-shot Scene Graph Generation | 4 |
-| 210 | 21.08 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2108.08584) | Exploiting Scene Graphs for Human-Object Interaction Detection | 0 |
-| 208 | 21.08 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2108.07073) | ROSITA: Enhancing Vision-and-Language Semantic Alignments via Cross- and Intra-modal Knowledge Integration | 4 |
-| 207 | 21.08 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2108.05884) | Unconditional Scene Graph Generation | - |
-| 202 | 21.07 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2107.14178) | ReFormer: The Relational Transformer for Image Captioning | 8 |
+| 228 | 21.10 | Scene Graph | Scene Graph Generation | 👤 | [📎](http://arxiv.org/abs/2110.05731) | Topic Scene Graph Generation by Attention Distillation from Caption | 0 |
+| 224 | 21.09 | Scene Graph | Scene Graph Generation | 👤 | [📎](http://arxiv.org/abs/2109.11398) | Scene Graph Generation for Better Image Captioning? | 2 |
+| 219 | 21.09 | Scene Graph | Scene Graph Generation | 👤 | [📎](http://arxiv.org/abs/2109.05346) | BGT-Net: Bidirectional GRU Transformer Network for Scene Graph Generation | - |
+| 217 | 21.09 | Scene Graph | Scene Graph Generation | 👤 | [📎](http://arxiv.org/abs/2109.02227) | Learning to Generate Scene Graph from Natural Language Supervision | 0 |
+| 214 | 21.08 | Scene Graph | Scene Graph Generation | 👤 | [📎](http://arxiv.org/abs/2108.13129) | From General to Specific: Informative Scene Graph Generation via Balance Adjustment | 0 |
+| 213 | 21.08 | Scene Graph | Scene Graph Generation | 👤 | [📎](http://arxiv.org/abs/2108.09668) | Learning of Visual Relations: The Devil is in the Tails | - |
+| 211 | 21.08 | Scene Graph | Scene Graph Generation | 👤 | [📎](http://arxiv.org/abs/2108.08600) | Semantic Compositional Learning for Low-shot Scene Graph Generation | 4 |
+| 207 | 21.08 | Scene Graph | Scene Graph Generation | 👤 | [📎](http://arxiv.org/abs/2108.05884) | Unconditional Scene Graph Generation | - |
 | 198 | 21.07 | Scene Graph | Scene Graph Generation | 👤 | [📎](http://arxiv.org/abs/2107.05448) | Scenes and Surroundings: Scene Graph Generation using Relation Transformer | 3 |
 | 197 | 21.07 | Scene Graph | Scene Graph Generation | 👤 | [📎](http://arxiv.org/abs/2107.05080) | Zero-Shot Scene Graph Relation Prediction through Commonsense Knowledge Integration | 1 |
 | 196 | 21.07 | Scene Graph | Scene Graph Generation | 👤 | [📎](http://arxiv.org/abs/2107.02713) | Predicate correlation learning for scene graph generation | 0 |

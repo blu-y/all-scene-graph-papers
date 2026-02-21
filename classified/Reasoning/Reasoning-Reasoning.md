@@ -16,6 +16,7 @@
 | 275 | 22.04 | Reasoning | Reasoning | 🤖 | [📎](http://arxiv.org/abs/2204.02380) | CLEVR-X: A Visual Reasoning Dataset for Natural Language Explanations | 0 |
 | 259 | 22.02 | Reasoning | Reasoning | 🤖 | [📎](http://arxiv.org/abs/2202.11337) | Commonsense Reasoning for Identifying and Understanding the Implicit Need of Help and Synthesizing Assistive Actions | 0 |
 | 241 | 21.12 | Reasoning | Reasoning | 🤖 | [📎](http://arxiv.org/abs/2112.08587) | SGEITL: Scene Graph Enhanced Image-Text Learning for Visual Commonsense Reasoning | 0 |
+| 206 | 21.08 | Reasoning | Reasoning | 👤 | [📎](http://arxiv.org/abs/2108.03554) | Semantic-Based Explainable AI: Leveraging Semantic Scene Graphs and Pairwise Ranking to Explain Robot Failures | 0 |
 | 166 | 21.03 | Reasoning | Reasoning | 👤 | [📎](http://arxiv.org/abs/2103.09591) | Automatic Generation of Contrast Sets from Scene Graphs: Probing the Compositional Consistency of GQA | - |
 | 155 | 20.12 | Reasoning | Reasoning | 👤 | [📎](http://arxiv.org/abs/2012.11587) | Object-Centric Diagnosis of Visual Reasoning | 10 |
 | 112 | 20.06 | Reasoning | Reasoning | 👤 | [📎](http://arxiv.org/abs/2006.16934) | ERNIE-ViL: Knowledge Enhanced Vision-Language Representations Through Scene Graph | 118 |

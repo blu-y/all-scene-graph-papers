@@ -1,21 +1,21 @@
 no,category,subcategory,arxiv_url,title,citations,source,additional_doi
 1034,Others,Uncategorized,http://arxiv.org/abs/2602.17555 ,GraphThinker: Reinforcing Video Reasoning with Event Graph Thinking,0,uncategorized,
-1033,Others,Uncategorized,http://arxiv.org/abs/2602.16356 ,Articulated 3D Scene Graphs for Open-World Mobile Manipulation,0,uncategorized,
-1032,Others,Uncategorized,http://arxiv.org/abs/2602.13086 ,UniManip: General-Purpose Zero-Shot Robotic Manipulation with Agentic Operational Graph,0,uncategorized,
-1031,Others,Uncategorized,http://arxiv.org/abs/2602.12971 ,INHerit-SG: Incremental Hierarchical Semantic Scene Graphs with RAG-Style Retrieval,0,uncategorized,
-1030,Others,Uncategorized,http://arxiv.org/abs/2602.12244 ,Any House Any Task: Scalable Long-Horizon Planning for Abstract Human Tasks,0,uncategorized,
-1029,Others,Uncategorized,http://arxiv.org/abs/2602.09165 ,All-in-One Conditioning for Text-to-Image Synthesis,0,uncategorized,
-1028,Others,Uncategorized,http://arxiv.org/abs/2602.07541 ,Differentiate-and-Inject: Enhancing VLAs via Functional Differentiation Induced by In-Parameter Structural Reasoning,0,uncategorized,
-1027,Others,Uncategorized,http://arxiv.org/abs/2602.06090 ,SVRepair: Structured Visual Reasoning for Automated Program Repair,0,uncategorized,
-1026,Others,Uncategorized,http://arxiv.org/abs/2602.04635 ,Relational Scene Graphs for Object Grounding of Natural Language Commands,0,uncategorized,
-1025,Others,Uncategorized,http://arxiv.org/abs/2602.04419 ,Integrated Exploration and Sequential Manipulation on Scene Graph with LLM-based Situated Replanning,0,uncategorized,
-1024,Others,Uncategorized,http://arxiv.org/abs/2602.04152 ,MA3DSG: Multi-Agent 3D Scene Graph Generation for Large-Scale Indoor Environments,0,uncategorized,
-1023,Others,Uncategorized,http://arxiv.org/abs/2602.03781 ,A Scene Graph Backed Approach to Open Set Semantic Mapping,0,uncategorized,
-1022,Others,Uncategorized,http://arxiv.org/abs/2602.02974 ,SceneLinker: Compositional 3D Scene Generation via Semantic Scene Graph from RGB Sequences,0,uncategorized,
-1021,Others,Uncategorized,http://arxiv.org/abs/2602.02456 ,Relationship-Aware Hierarchical 3D Scene Graph for Task Reasoning,0,uncategorized,
-1020,Others,Uncategorized,http://arxiv.org/abs/2602.01930 ,LIEREx: Language-Image Embeddings for Robotic Exploration,0,uncategorized,
-1019,Others,Uncategorized,http://arxiv.org/abs/2602.01693 ,GSR: Learning Structured Reasoning for Embodied Manipulation,0,uncategorized,
-1018,Others,Uncategorized,http://arxiv.org/abs/2602.00708 ,USS-Nav: Unified Spatio-Semantic Scene Graph for Lightweight UAV Zero-Shot Object Navigation,0,uncategorized,
+1033,Scene Graph,3D Scene Graph,http://arxiv.org/abs/2602.16356 ,Articulated 3D Scene Graphs for Open-World Mobile Manipulation,0,manual,
+1032,Robotics,Manipulation,http://arxiv.org/abs/2602.13086 ,UniManip: General-Purpose Zero-Shot Robotic Manipulation with Agentic Operational Graph,0,manual,
+1031,Scene Graph,3D Scene Graph,http://arxiv.org/abs/2602.12971 ,INHerit-SG: Incremental Hierarchical Semantic Scene Graphs with RAG-Style Retrieval,0,manual,
+1030,Robotics,Task-planning,http://arxiv.org/abs/2602.12244 ,Any House Any Task: Scalable Long-Horizon Planning for Abstract Human Tasks,0,manual,
+1029,Scene Graph,Synthesis,http://arxiv.org/abs/2602.09165 ,All-in-One Conditioning for Text-to-Image Synthesis,0,manual,
+1028,Others,Not Related,http://arxiv.org/abs/2602.07541 ,Differentiate-and-Inject: Enhancing VLAs via Functional Differentiation Induced by In-Parameter Structural Reasoning,0,manual,
+1027,Others,Not Related,http://arxiv.org/abs/2602.06090 ,SVRepair: Structured Visual Reasoning for Automated Program Repair,0,manual,
+1026,Reasoning,Grounding,http://arxiv.org/abs/2602.04635 ,Relational Scene Graphs for Object Grounding of Natural Language Commands,0,manual,
+1025,Robotics,Manipulation,http://arxiv.org/abs/2602.04419 ,Integrated Exploration and Sequential Manipulation on Scene Graph with LLM-based Situated Replanning,0,manual,
+1024,Scene Graph,3D Scene Graph,http://arxiv.org/abs/2602.04152 ,MA3DSG: Multi-Agent 3D Scene Graph Generation for Large-Scale Indoor Environments,0,manual,
+1023,Robotics,Robotic Perception,http://arxiv.org/abs/2602.03781 ,A Scene Graph Backed Approach to Open Set Semantic Mapping,0,manual,
+1022,Scene Graph,3D Scene Graph,http://arxiv.org/abs/2602.02974 ,SceneLinker: Compositional 3D Scene Generation via Semantic Scene Graph from RGB Sequences,0,manual,
+1021,Scene Graph,3D Scene Graph,http://arxiv.org/abs/2602.02456 ,Relationship-Aware Hierarchical 3D Scene Graph for Task Reasoning,0,manual,
+1020,Scene Graph,3D Scene Graph,http://arxiv.org/abs/2602.01930 ,LIEREx: Language-Image Embeddings for Robotic Exploration,0,manual,
+1019,Robotics,Manipulation,http://arxiv.org/abs/2602.01693 ,GSR: Learning Structured Reasoning for Embodied Manipulation,0,manual,
+1018,Robotics,Navigation,http://arxiv.org/abs/2602.00708 ,USS-Nav: Unified Spatio-Semantic Scene Graph for Lightweight UAV Zero-Shot Object Navigation,0,manual,
 1017,Scene Graph,Scene Graph Generation,http://arxiv.org/abs/2602.00637 ,VIZOR: Viewpoint-Invariant Zero-Shot Scene Graph Generation for 3D Scene Reasoning,0,manual,
 1016,Reasoning,Reasoning,http://arxiv.org/abs/2602.00414 ,Toward Autonomous Laboratory Safety Monitoring with Vision Language Models: Learning to See Hazards Through Scene Structure,0,manual,
 1015,Scene Graph,Synthesis,http://arxiv.org/abs/2601.21498 ,SimGraph: A Unified Framework for Scene Graph-Based Image Generation and Editing,0,manual,
@@ -799,40 +799,40 @@ no,category,subcategory,arxiv_url,title,citations,source,additional_doi
 237,Scene Graph,Dynamic Scene Graph,http://arxiv.org/abs/2112.00967 ,Relational Graph Learning for Grounded Video Description Generation,0,ai_generated,
 236,Scene Graph,Scene Graph Generation,http://arxiv.org/abs/2111.13517 ,Not All Relations are Equal: Mining Informative Labels for Scene Graph Generation,0,ai_generated,10.1109/cvpr52688.2022.01515
 235,Scene Graph,Scene Graph Generation,http://arxiv.org/abs/2111.13131 ,Scene Graph Generation with Geometric Context,0,ai_generated,
-234,Others,Autonomous Driving,http://arxiv.org/abs/2111.10196 ,Towards Traffic Scene Description: The Semantic Scene Graph,0,ai_generated,10.1109/itsc55140.2022.9922469
-233,Others,Autonomous Driving,http://arxiv.org/abs/2111.06123 ,Spatio-Temporal Scene-Graph Embedding for Autonomous Vehicle Collision Prediction,-1,ai_generated,
-232,Reasoning,VQA,http://arxiv.org/abs/2111.04785 ,Visual Question Answering based on Formal Logic,-1,ai_generated,10.1109/icmla52953.2021.00157
-231,Scene Graph,3D Scene Graph,http://arxiv.org/abs/2111.00312 ,3DP3: 3D Scene Perception via Probabilistic Programming,5,ai_generated,
-230,Robotics,Manipulation,http://arxiv.org/abs/2110.13280 ,A Variational Graph Autoencoder for Manipulation Action Recognition and Prediction,-1,ai_generated,10.1109/icar53236.2021.9659385
-229,Scene Graph,Scene Graph Generation,http://arxiv.org/abs/2110.11918 ,MIGS: Meta Image Generation from Scene Graphs,7,ai_generated,10.5244/c.35.393
-228,Scene Graph,Scene Graph Generation,http://arxiv.org/abs/2110.05731 ,Topic Scene Graph Generation by Attention Distillation from Caption,0,ai_generated,10.1109/iccv48922.2021.01560
-227,Reasoning,Retrieval,http://arxiv.org/abs/2110.04494 ,SGMNet: Scene Graph Matching Network for Few-Shot Remote Sensing Scene Classification,5,ai_generated,10.1109/tgrs.2022.3200056
-226,Robotics,Navigation,http://arxiv.org/abs/2110.00273 ,From SLAM to Situational Awareness: Challenges and Survey,1,ai_generated,
-225,Scene Graph,Scene Graph Generation,http://arxiv.org/abs/2109.11955 ,Visual Scene Graphs for Audio Source Separation,-1,ai_generated,10.1109/iccv48922.2021.00124
-224,Scene Graph,Scene Graph Generation,http://arxiv.org/abs/2109.11398 ,Scene Graph Generation for Better Image Captioning?,2,ai_generated,
-223,Scene Graph,Scene Graph Generation,http://arxiv.org/abs/2109.10613 ,COVR: A test-bed for Visually Grounded Compositional Generalization with real images,0,ai_generated,10.18653/v1/2021.emnlp-main.774
-222,Robotics,Robotic Perception,http://arxiv.org/abs/2109.07872 ,Knowledge-based Embodied Question Answering,-1,ai_generated,10.1109/tpami.2023.3277206
-221,Robotics,Navigation,http://arxiv.org/abs/2109.06241 ,Incremental Abstraction in Distributed Probabilistic SLAM Graphs,0,ai_generated,10.1109/icra46639.2022.9812078
-220,Reasoning,Retrieval,http://arxiv.org/abs/2109.05523 ,Constructing Phrase-level Semantic Labels to Form Multi-Grained Supervision for Image-Text Retrieval,1,ai_generated,10.1145/3512527.3531368
-219,Scene Graph,Scene Graph Generation,http://arxiv.org/abs/2109.05346 ,BGT-Net: Bidirectional GRU Transformer Network for Scene Graph Generation,-1,ai_generated,10.1109/cvprw53098.2021.00244
-218,Robotics,Navigation,http://arxiv.org/abs/2109.04569 ,Open-World Distributed Robot Self-Localization with Transferable Visual Vocabulary and Both Absolute and Relative Features,0,ai_generated,
-217,Scene Graph,Scene Graph Generation,http://arxiv.org/abs/2109.02227 ,Learning to Generate Scene Graph from Natural Language Supervision,0,ai_generated,10.1109/iccv48922.2021.00184
-216,Scene Graph,Dataset/Benchmark,http://arxiv.org/abs/2109.02226 ,GeneAnnotator: A Semi-automatic Annotation Tool for Visual Scene Graph,6,ai_generated,
-215,Others,Autonomous Driving,http://arxiv.org/abs/2109.01183 ,roadscene2vec: A Tool for Extracting and Embedding Road Scene-Graphs,0,ai_generated,10.1016/j.knosys.2022.108245
-214,Scene Graph,Scene Graph Generation,http://arxiv.org/abs/2108.13129 ,From General to Specific: Informative Scene Graph Generation via Balance Adjustment,0,ai_generated,10.1109/iccv48922.2021.01607
-213,Scene Graph,Scene Graph Generation,http://arxiv.org/abs/2108.09668 ,Learning of Visual Relations: The Devil is in the Tails,-1,ai_generated,10.1109/iccv48922.2021.01512
-212,Robotics,Manipulation,http://arxiv.org/abs/2108.08841 ,Graph-to-3D: End-to-End Generation and Manipulation of 3D Scenes Using Scene Graphs,-1,ai_generated,10.1109/iccv48922.2021.01604
-211,Scene Graph,Scene Graph Generation,http://arxiv.org/abs/2108.08600 ,Semantic Compositional Learning for Low-shot Scene Graph Generation,4,ai_generated,
-210,Scene Graph,Scene Graph Generation,http://arxiv.org/abs/2108.08584 ,Exploiting Scene Graphs for Human-Object Interaction Detection,0,ai_generated,10.1109/iccv48922.2021.01568
-209,Scene Graph,Dynamic Scene Graph,http://arxiv.org/abs/2108.08121 ,Target Adaptive Context Aggregation for Video Scene Graph Generation,0,ai_generated,10.1109/iccv48922.2021.01343
-208,Scene Graph,Scene Graph Generation,http://arxiv.org/abs/2108.07073 ,ROSITA: Enhancing Vision-and-Language Semantic Alignments via Cross- and Intra-modal Knowledge Integration,4,ai_generated,10.1145/3474085.3475251
-207,Scene Graph,Scene Graph Generation,http://arxiv.org/abs/2108.05884 ,Unconditional Scene Graph Generation,-1,ai_generated,10.1109/iccv48922.2021.01605
-206,Robotics,Robotic Perception,http://arxiv.org/abs/2108.03554 ,Semantic-Based Explainable AI: Leveraging Semantic Scene Graphs and Pairwise Ranking to Explain Robot Failures,0,ai_generated,10.1109/iros51168.2021.9635890
-205,Scene Graph,Representation,http://arxiv.org/abs/2108.03541 ,OSCAR-Net: Object-centric Scene Graph Attention for Image Attribution,0,ai_generated,10.1109/iccv48922.2021.01423
-204,Robotics,Navigation,http://arxiv.org/abs/2108.01176 ,Hierarchical Representations and Explicit Memory: Learning Effective Navigation Policies on 3D Scene Graphs using Graph Neural Networks,0,ai_generated,10.1109/icra46639.2022.9812179
-203,Others,Medical,http://arxiv.org/abs/2108.00316 ,Chest ImaGenome Dataset for Clinical Reasoning,26,ai_generated,
-202,Scene Graph,Scene Graph Generation,http://arxiv.org/abs/2107.14178 ,ReFormer: The Relational Transformer for Image Captioning,8,ai_generated,10.1145/3503161.3548409
-201,Scene Graph,Dataset/Benchmark,http://arxiv.org/abs/2107.12604 ,Image Scene Graph Generation (SGG) Benchmark,17,ai_generated,
+234,Others,Autonomous Driving,http://arxiv.org/abs/2111.10196 ,Towards Traffic Scene Description: The Semantic Scene Graph,0,manual,10.1109/itsc55140.2022.9922469
+233,Others,Autonomous Driving,http://arxiv.org/abs/2111.06123 ,Spatio-Temporal Scene-Graph Embedding for Autonomous Vehicle Collision Prediction,-1,manual,
+232,Reasoning,VQA,http://arxiv.org/abs/2111.04785 ,Visual Question Answering based on Formal Logic,-1,manual,10.1109/icmla52953.2021.00157
+231,Robotics,Robotic Perception,http://arxiv.org/abs/2111.00312 ,3DP3: 3D Scene Perception via Probabilistic Programming,5,manual,
+230,Reasoning,Prediction,http://arxiv.org/abs/2110.13280 ,A Variational Graph Autoencoder for Manipulation Action Recognition and Prediction,-1,manual,10.1109/icar53236.2021.9659385
+229,Scene Graph,Synthesis,http://arxiv.org/abs/2110.11918 ,MIGS: Meta Image Generation from Scene Graphs,7,manual,10.5244/c.35.393
+228,Scene Graph,Scene Graph Generation,http://arxiv.org/abs/2110.05731 ,Topic Scene Graph Generation by Attention Distillation from Caption,0,manual,10.1109/iccv48922.2021.01560
+227,Reasoning,Others,http://arxiv.org/abs/2110.04494 ,SGMNet: Scene Graph Matching Network for Few-Shot Remote Sensing Scene Classification,5,manual,10.1109/tgrs.2022.3200056
+226,Robotics,General,http://arxiv.org/abs/2110.00273 ,From SLAM to Situational Awareness: Challenges and Survey,1,manual,
+225,Others,Other Applications,http://arxiv.org/abs/2109.11955 ,Visual Scene Graphs for Audio Source Separation,-1,manual,10.1109/iccv48922.2021.00124
+224,Scene Graph,Scene Graph Generation,http://arxiv.org/abs/2109.11398 ,Scene Graph Generation for Better Image Captioning?,2,manual,
+223,Reasoning,Grounding,http://arxiv.org/abs/2109.10613 ,COVR: A test-bed for Visually Grounded Compositional Generalization with real images,0,manual,10.18653/v1/2021.emnlp-main.774
+222,Robotics,Task-planning,http://arxiv.org/abs/2109.07872 ,Knowledge-based Embodied Question Answering,-1,manual,10.1109/tpami.2023.3277206
+221,Robotics,Navigation,http://arxiv.org/abs/2109.06241 ,Incremental Abstraction in Distributed Probabilistic SLAM Graphs,0,manual,10.1109/icra46639.2022.9812078
+220,Reasoning,Retrieval,http://arxiv.org/abs/2109.05523 ,Constructing Phrase-level Semantic Labels to Form Multi-Grained Supervision for Image-Text Retrieval,1,manual,10.1145/3512527.3531368
+219,Scene Graph,Scene Graph Generation,http://arxiv.org/abs/2109.05346 ,BGT-Net: Bidirectional GRU Transformer Network for Scene Graph Generation,-1,manual,10.1109/cvprw53098.2021.00244
+218,Robotics,Navigation,http://arxiv.org/abs/2109.04569 ,Open-World Distributed Robot Self-Localization with Transferable Visual Vocabulary and Both Absolute and Relative Features,0,manual,
+217,Scene Graph,Scene Graph Generation,http://arxiv.org/abs/2109.02227 ,Learning to Generate Scene Graph from Natural Language Supervision,0,manual,10.1109/iccv48922.2021.00184
+216,Scene Graph,Dataset/Benchmark,http://arxiv.org/abs/2109.02226 ,GeneAnnotator: A Semi-automatic Annotation Tool for Visual Scene Graph,6,manual,
+215,Others,Autonomous Driving,http://arxiv.org/abs/2109.01183 ,roadscene2vec: A Tool for Extracting and Embedding Road Scene-Graphs,0,manual,10.1016/j.knosys.2022.108245
+214,Scene Graph,Scene Graph Generation,http://arxiv.org/abs/2108.13129 ,From General to Specific: Informative Scene Graph Generation via Balance Adjustment,0,manual,10.1109/iccv48922.2021.01607
+213,Scene Graph,Scene Graph Generation,http://arxiv.org/abs/2108.09668 ,Learning of Visual Relations: The Devil is in the Tails,-1,manual,10.1109/iccv48922.2021.01512
+212,Scene Graph,Synthesis,http://arxiv.org/abs/2108.08841 ,Graph-to-3D: End-to-End Generation and Manipulation of 3D Scenes Using Scene Graphs,-1,manual,10.1109/iccv48922.2021.01604
+211,Scene Graph,Scene Graph Generation,http://arxiv.org/abs/2108.08600 ,Semantic Compositional Learning for Low-shot Scene Graph Generation,4,manual,
+210,Reasoning,Scene Understanding,http://arxiv.org/abs/2108.08584 ,Exploiting Scene Graphs for Human-Object Interaction Detection,0,manual,10.1109/iccv48922.2021.01568
+209,Scene Graph,Dynamic Scene Graph,http://arxiv.org/abs/2108.08121 ,Target Adaptive Context Aggregation for Video Scene Graph Generation,0,manual,10.1109/iccv48922.2021.01343
+208,Others,Weakly Related,http://arxiv.org/abs/2108.07073 ,ROSITA: Enhancing Vision-and-Language Semantic Alignments via Cross- and Intra-modal Knowledge Integration,4,manual,10.1145/3474085.3475251
+207,Scene Graph,Scene Graph Generation,http://arxiv.org/abs/2108.05884 ,Unconditional Scene Graph Generation,-1,manual,10.1109/iccv48922.2021.01605
+206,Reasoning,Reasoning,http://arxiv.org/abs/2108.03554 ,Semantic-Based Explainable AI: Leveraging Semantic Scene Graphs and Pairwise Ranking to Explain Robot Failures,0,manual,10.1109/iros51168.2021.9635890
+205,Others,Weakly Related,http://arxiv.org/abs/2108.03541 ,OSCAR-Net: Object-centric Scene Graph Attention for Image Attribution,0,manual,10.1109/iccv48922.2021.01423
+204,Robotics,Navigation,http://arxiv.org/abs/2108.01176 ,Hierarchical Representations and Explicit Memory: Learning Effective Navigation Policies on 3D Scene Graphs using Graph Neural Networks,0,manual,10.1109/icra46639.2022.9812179
+203,Others,Medical,http://arxiv.org/abs/2108.00316 ,Chest ImaGenome Dataset for Clinical Reasoning,26,manual,
+202,Reasoning,Captioning,http://arxiv.org/abs/2107.14178 ,ReFormer: The Relational Transformer for Image Captioning,8,manual,10.1145/3503161.3548409
+201,Scene Graph,Dataset/Benchmark,http://arxiv.org/abs/2107.12604 ,Image Scene Graph Generation (SGG) Benchmark,17,manual,
 200,Scene Graph,Dynamic Scene Graph,http://arxiv.org/abs/2107.12309 ,Spatial-Temporal Transformer for Dynamic Scene Graph Generation,0,manual,10.1109/iccv48922.2021.01606
 199,Reasoning,VQA,http://arxiv.org/abs/2107.06325 ,Graphhopper: Multi-Hop Scene Graph Reasoning for Visual Question Answering,-1,manual,10.1007/978-3-030-88361-4_7
 198,Scene Graph,Scene Graph Generation,http://arxiv.org/abs/2107.05448 ,Scenes and Surroundings: Scene Graph Generation using Relation Transformer,3,manual,

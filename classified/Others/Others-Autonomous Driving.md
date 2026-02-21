@@ -24,9 +24,9 @@
 | 344 | 22.11 | Others | Autonomous Driving | 🤖 | [📎](http://arxiv.org/abs/2211.15508) | Self Supervised Clustering of Traffic Scenes using Graph Representations | 0 |
 | 300 | 22.07 | Others | Autonomous Driving | 🤖 | [📎](http://arxiv.org/abs/2207.12321) | RSG-Net: Towards Rich Sematic Relationship Prediction for Intelligent Vehicle in Complex Environments | 0 |
 | 270 | 22.03 | Others | Autonomous Driving | 🤖 | [📎](http://arxiv.org/abs/2203.10569) | Self-supervised Point Cloud Completion on Real Traffic Scenes via Scene-concerned Bottom-up Mechanism | 0 |
-| 234 | 21.11 | Others | Autonomous Driving | 🤖 | [📎](http://arxiv.org/abs/2111.10196) | Towards Traffic Scene Description: The Semantic Scene Graph | 0 |
-| 233 | 21.11 | Others | Autonomous Driving | 🤖 | [📎](http://arxiv.org/abs/2111.06123) | Spatio-Temporal Scene-Graph Embedding for Autonomous Vehicle Collision Prediction | - |
-| 215 | 21.09 | Others | Autonomous Driving | 🤖 | [📎](http://arxiv.org/abs/2109.01183) | roadscene2vec: A Tool for Extracting and Embedding Road Scene-Graphs | 0 |
+| 234 | 21.11 | Others | Autonomous Driving | 👤 | [📎](http://arxiv.org/abs/2111.10196) | Towards Traffic Scene Description: The Semantic Scene Graph | 0 |
+| 233 | 21.11 | Others | Autonomous Driving | 👤 | [📎](http://arxiv.org/abs/2111.06123) | Spatio-Temporal Scene-Graph Embedding for Autonomous Vehicle Collision Prediction | - |
+| 215 | 21.09 | Others | Autonomous Driving | 👤 | [📎](http://arxiv.org/abs/2109.01183) | roadscene2vec: A Tool for Extracting and Embedding Road Scene-Graphs | 0 |
 | 148 | 20.11 | Others | Autonomous Driving | 👤 | [📎](http://arxiv.org/abs/2011.13588) | Road Scene Graph: A Semantic Graph-Based Scene Representation Dataset for Intelligent Vehicles | 20 |
 | 127 | 20.09 | Others | Autonomous Driving | 👤 | [📎](http://arxiv.org/abs/2009.06435) | Scene-Graph Augmented Data-Driven Risk Assessment of Autonomous Vehicle Decisions | 5 |
 | 94 | 20.02 | Others | Autonomous Driving | 👤 | [📎](http://arxiv.org/abs/2002.08945) | Spatiotemporal Relationship Reasoning for Pedestrian Intent Prediction | 10 |

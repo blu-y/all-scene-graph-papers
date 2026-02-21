@@ -10,6 +10,8 @@
 | 924 | 25.10 | Others | Weakly Related | 👤 | [📎](http://arxiv.org/abs/2510.08512) | Have We Scene It All? Scene Graph-Aware Deep Point Cloud Compression | 0 |
 | 923 | 25.10 | Others | Weakly Related | 👤 | [📎](http://arxiv.org/abs/2510.07053) | Introspection in Learned Semantic Scene Graph Localisation | 0 |
 | 917 | 25.10 | Others | Weakly Related | 👤 | [📎](http://arxiv.org/abs/2510.03727) | Bridging the Gap Between Multimodal Foundation Models and World Models | 0 |
+| 208 | 21.08 | Others | Weakly Related | 👤 | [📎](http://arxiv.org/abs/2108.07073) | ROSITA: Enhancing Vision-and-Language Semantic Alignments via Cross- and Intra-modal Knowledge Integration | 4 |
+| 205 | 21.08 | Others | Weakly Related | 👤 | [📎](http://arxiv.org/abs/2108.03541) | OSCAR-Net: Object-centric Scene Graph Attention for Image Attribution | 0 |
 | 77 | 19.10 | Others | Weakly Related | 👤 | [📎](http://arxiv.org/abs/1910.01198) | Using Image Priors to Improve Scene Understanding | 0 |
 | 66 | 19.08 | Others | Weakly Related | 👤 | [📎](http://arxiv.org/abs/1908.02436) | Continuous Graph Flow | 3 |
 | 55 | 19.04 | Others | Weakly Related | 👤 | [📎](http://arxiv.org/abs/1904.11621) | Meta-Sim: Learning to Generate Synthetic Datasets | - |
