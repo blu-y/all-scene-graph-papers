@@ -553,6 +553,9 @@ async def get_pdf(no: int):
         .replace("http://arxiv.org/abs/", "")
         .replace("https://arxiv.org/abs/", "")
     )
+    
+    # Remove version suffix like v1, v2 if present
+    arxiv_id = re.sub(r"v\d+$", "", arxiv_id)
 
     pdf_paths = [
         PDF_DIR / f"{arxiv_id}.pdf",
@@ -565,9 +568,28 @@ async def get_pdf(no: int):
         if pdf_path and pdf_path.exists():
             return FileResponse(pdf_path, media_type="application/pdf")
 
-    raise HTTPException(
-        status_code=404, detail=f"PDF for paper {no} not found (tried: {arxiv_id}.pdf)"
-    )
+    # If PDF not found, download it from ArXiv directly
+    print(f"PDF not found locally for {arxiv_id}. Downloading from ArXiv...")
+    if not PDF_OLD_DIR.exists():
+        PDF_OLD_DIR.mkdir(parents=True)
+        
+    download_path = PDF_OLD_DIR / f"{arxiv_id}.pdf"
+    
+    try:
+        pdf_url = f"https://arxiv.org/pdf/{arxiv_id}.pdf"
+        req = urllib.request.Request(pdf_url, headers={'User-Agent': 'Mozilla/5.0'})
+        with urllib.request.urlopen(req) as response, open(download_path, 'wb') as out_file:
+            shutil.copyfileobj(response, out_file)
+            
+        print(f"Successfully downloaded {arxiv_id}.pdf")
+        return FileResponse(download_path, media_type="application/pdf")
+    except Exception as e:
+        print(f"Failed to download PDF for {arxiv_id}: {e}")
+        if download_path.exists():
+            download_path.unlink()
+        raise HTTPException(
+            status_code=404, detail=f"PDF for paper {no} not found and failed to download: {e}"
+        )
 
 
 @app.get("/api/stats")

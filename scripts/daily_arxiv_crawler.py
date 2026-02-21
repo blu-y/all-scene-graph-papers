@@ -92,27 +92,7 @@ def translate_abstract(text: str):
         print(f"Translation error: {e}")
         return ""
 
-def download_pdf(arxiv_id: str):
-    """Download PDF for the paper and put it in PDFs folder."""
-    if not PDFS_DIR.exists():
-        PDFS_DIR.mkdir(parents=True, exist_ok=True)
-        
-    pdf_url = f"https://arxiv.org/pdf/{arxiv_id}.pdf"
-    pdf_path = PDFS_DIR / f"{arxiv_id}.pdf"
-    
-    if pdf_path.exists():
-        print(f"PDF {arxiv_id}.pdf already exists in directory.")
-        return
-        
-    try:
-        print(f"Downloading PDF for {arxiv_id}...")
-        req = urllib.request.Request(pdf_url, headers={'User-Agent': 'Mozilla/5.0'})
-        with urllib.request.urlopen(req) as response, open(pdf_path, 'wb') as out_file:
-            shutil.copyfileobj(response, out_file)
-        print(f"Saved PDF to {pdf_path}")
-        time.sleep(1) # Be polite
-    except Exception as e:
-        print(f"Failed to download PDF for {arxiv_id}: {e}")
+
 
 def prepend_to_csv(file_path, new_entries):
     if not file_path.exists():
@@ -183,8 +163,6 @@ def main():
         citations = get_openalex_citations(arxiv_id)
         abstract_kor = translate_abstract(metadata["abstract"])
         time.sleep(1) # rate limiting
-        
-        download_pdf(arxiv_id)
         
         max_no += 1
         paper_no = max_no

@@ -43,3 +43,4 @@ scripts/tmp/*
 !scripts/tmp/.gitignore
 translation_progress.json
 *.bak
+pdfs/
