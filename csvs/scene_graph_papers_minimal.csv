@@ -1,4 +1,6 @@
 no,category,subcategory,arxiv_url,title,citations,source,additional_doi
+1036,Others,Uncategorized,http://arxiv.org/abs/2602.20055 ,To Move or Not to Move: Constraint-based Planning Enables Zero-Shot Generalization for Interactive Navigation,0,uncategorized,
+1035,Others,Uncategorized,http://arxiv.org/abs/2602.19974 ,RL-RIG: A Generative Spatial Reasoner via Intrinsic Reflection,0,uncategorized,
 1034,Others,Uncategorized,http://arxiv.org/abs/2602.17555 ,GraphThinker: Reinforcing Video Reasoning with Event Graph Thinking,0,uncategorized,
 1033,Scene Graph,3D Scene Graph,http://arxiv.org/abs/2602.16356 ,Articulated 3D Scene Graphs for Open-World Mobile Manipulation,0,manual,
 1032,Robotics,Manipulation,http://arxiv.org/abs/2602.13086 ,UniManip: General-Purpose Zero-Shot Robotic Manipulation with Agentic Operational Graph,0,manual,
