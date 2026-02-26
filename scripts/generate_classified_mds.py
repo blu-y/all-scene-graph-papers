@@ -128,6 +128,7 @@ def main():
         
         with open(cat_md_path, 'w', encoding='utf-8') as f:
             f.write(f"# {cat_name}\n\n")
+            f.write(f"{len(cat_df)} Papers.\n\n")
             f.write(generate_markdown_table(cat_df))
             
         # 2. Subcategory-specific MDs
@@ -159,6 +160,7 @@ def main():
             
             with open(sub_md_path, 'w', encoding='utf-8') as f:
                 f.write(f"# {cat_name} - {sub_name}\n\n")
+                f.write(f"{len(sub_df)} Papers.\n\n")
                 f.write(generate_markdown_table(sub_df))
 
     # Update README.md

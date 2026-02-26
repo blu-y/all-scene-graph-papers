@@ -1,7 +1,10 @@
 # Robotics
 
+149 Papers.
+
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1036 | 26.02 | Robotics | Task-planning | 👤 | [📎](http://arxiv.org/abs/2602.20055) | To Move or Not to Move: Constraint-based Planning Enables Zero-Shot Generalization for Interactive Navigation | 0 |
 | 1032 | 26.02 | Robotics | Manipulation | 👤 | [📎](http://arxiv.org/abs/2602.13086) | UniManip: General-Purpose Zero-Shot Robotic Manipulation with Agentic Operational Graph | 0 |
 | 1030 | 26.02 | Robotics | Task-planning | 👤 | [📎](http://arxiv.org/abs/2602.12244) | Any House Any Task: Scalable Long-Horizon Planning for Abstract Human Tasks | 0 |
 | 1025 | 26.02 | Robotics | Manipulation | 👤 | [📎](http://arxiv.org/abs/2602.04419) | Integrated Exploration and Sequential Manipulation on Scene Graph with LLM-based Situated Replanning | 0 |
@@ -32,7 +35,7 @@
 | 904 | 25.09 | Robotics | Task-planning | 👤 | [📎](http://arxiv.org/abs/2509.20077) | Queryable 3D Scene Representation: A Multi-Modal Framework for Semantic Reasoning and Robotic Task Planning | 0 |
 | 901 | 25.09 | Robotics | Navigation | 👤 | [📎](http://arxiv.org/abs/2509.18592) | VLN-Zero: Rapid Exploration and Cache-Enabled Neurosymbolic Vision-Language Planning for Zero-Shot Transfer in Robot Navigation | 0 |
 | 899 | 25.09 | Robotics | Manipulation | 👤 | [📎](http://arxiv.org/abs/2509.16053) | Compose by Focus: Scene Graph-based Atomic Skills | 0 |
-| 897 | 25.09 | Robotics | Navigation | 🤖 | [📎](http://arxiv.org/abs/2509.13733) | FSR-VLN: Fast and Slow Reasoning for Vision-Language Navigation with Hierarchical Multi-modal Scene Graph | 0 |
+| 897 | 25.09 | Robotics | Navigation | 👤 | [📎](http://arxiv.org/abs/2509.13733) | FSR-VLN: Fast and Slow Reasoning for Vision-Language Navigation with Hierarchical Multi-modal Scene Graph | 0 |
 | 890 | 25.09 | Robotics | Navigation | 🤖 | [📎](http://arxiv.org/abs/2509.09594) | ObjectReact: Learning Object-Relative Control for Visual Navigation | 0 |
 | 889 | 25.09 | Robotics | Manipulation | 🤖 | [📎](http://arxiv.org/abs/2509.07957) | Graph-Fused Vision-Language-Action for Policy Reasoning in Multi-Arm Robotic Manipulation | 0 |
 | 882 | 25.08 | Robotics | Robotic Perception | 🤖 | [📎](http://arxiv.org/abs/2508.12916) | RoboRetriever: Single-Camera Robot Object Retrieval via Active and Interactive Perception with Dynamic Scene Graph | 0 |
@@ -128,20 +131,17 @@
 | 348 | 22.12 | Robotics | Navigation | 🤖 | [📎](http://arxiv.org/abs/2212.00338) | 3D-Aware Object Goal Navigation via Simultaneous Exploration and Identification | 2 |
 | 343 | 22.11 | Robotics | Navigation | 🤖 | [📎](http://arxiv.org/abs/2211.12649) | Predicting Topological Maps for Visual Navigation in Unexplored Environments | 0 |
 | 337 | 22.11 | Robotics | Manipulation | 🤖 | [📎](http://arxiv.org/abs/2211.05499) | DisPositioNet: Disentangled Pose and Identity in Semantic Image Manipulation | 1 |
-| 321 | 22.09 | Robotics | Manipulation | 🤖 | [📎](http://arxiv.org/abs/2209.14026) | Human-in-the-loop Robotic Grasping using BERT Scene Representation | 2 |
-| 316 | 22.09 | Robotics | Navigation | 🤖 | [📎](http://arxiv.org/abs/2209.06111) | D-Lite: Navigation-Oriented Compression of 3D Scene Graphs for Multi-Robot Collaboration | 0 |
-| 298 | 22.07 | Robotics | Navigation | 🤖 | [📎](http://arxiv.org/abs/2207.07870) | Scene Graph for Embodied Exploration in Cluttered Scenario | 1 |
-| 297 | 22.07 | Robotics | Task-planning | 🤖 | [📎](http://arxiv.org/abs/2207.05006) | TASKOGRAPHY: Evaluating robot task planning over large 3D scene graphs | 12 |
-| 295 | 22.07 | Robotics | Manipulation | 🤖 | [📎](http://arxiv.org/abs/2207.04364) | Sequential Manipulation Planning on Scene Graph | 0 |
-| 288 | 22.06 | Robotics | Robotic Perception | 🤖 | [📎](http://arxiv.org/abs/2206.04585) | Extracting Zero-shot Common Sense from Large Language Models for Robot 3D Scene Understanding | 1 |
-| 284 | 22.05 | Robotics | Navigation | 🤖 | [📎](http://arxiv.org/abs/2205.08325) | GraphMapper: Efficient Visual Navigation by Scene Graph Generation | 0 |
-| 262 | 22.03 | Robotics | Robotic Perception | 🤖 | [📎](http://arxiv.org/abs/2203.00600) | Dual Embodied-Symbolic Concept Representations for Deep Learning | 0 |
-| 261 | 22.02 | Robotics | Task-planning | 🤖 | [📎](http://arxiv.org/abs/2202.12912) | SGL: Symbolic Goal Learning in a Hybrid, Modular Framework for Human Instruction Following | 0 |
-| 260 | 22.02 | Robotics | Navigation | 🤖 | [📎](http://arxiv.org/abs/2202.12197) | Situational Graphs for Robot Navigation in Structured Indoor Environments | 1 |
-| 256 | 22.02 | Robotics | Task-planning | 🤖 | [📎](http://arxiv.org/abs/2202.10432) | Reasoning with Scene Graphs for Robot Planning under Partial Observability | 0 |
-| 255 | 22.02 | Robotics | Robotic Perception | 🤖 | [📎](http://arxiv.org/abs/2202.10201) | OG-SGG: Ontology-Guided Scene Graph Generation. A Case Study in Transfer Learning for Telepresence Robotics | 0 |
-| 247 | 22.01 | Robotics | Navigation | 🤖 | [📎](http://arxiv.org/abs/2201.05977) | Lightweight Object-level Topological Semantic Mapping and Long-term Global Localization based on Graph Matching | 1 |
-| 243 | 21.12 | Robotics | Manipulation | 🤖 | [📎](http://arxiv.org/abs/2112.11691) | Comprehensive Visual Question Answering on Point Clouds through Compositional Scene Manipulation | 4 |
+| 321 | 22.09 | Robotics | Manipulation | 👤 | [📎](http://arxiv.org/abs/2209.14026) | Human-in-the-loop Robotic Grasping using BERT Scene Representation | 2 |
+| 298 | 22.07 | Robotics | Navigation | 👤 | [📎](http://arxiv.org/abs/2207.07870) | Scene Graph for Embodied Exploration in Cluttered Scenario | 1 |
+| 297 | 22.07 | Robotics | Task-planning | 👤 | [📎](http://arxiv.org/abs/2207.05006) | TASKOGRAPHY: Evaluating robot task planning over large 3D scene graphs | 12 |
+| 295 | 22.07 | Robotics | Manipulation | 👤 | [📎](http://arxiv.org/abs/2207.04364) | Sequential Manipulation Planning on Scene Graph | 0 |
+| 288 | 22.06 | Robotics | Robotic Perception | 👤 | [📎](http://arxiv.org/abs/2206.04585) | Extracting Zero-shot Common Sense from Large Language Models for Robot 3D Scene Understanding | 1 |
+| 286 | 22.05 | Robotics | Robotic Perception | 👤 | [📎](http://arxiv.org/abs/2205.12089) | Sim-To-Real Transfer of Visual Grounding for Human-Aided Ambiguity Resolution | 1 |
+| 284 | 22.05 | Robotics | Navigation | 👤 | [📎](http://arxiv.org/abs/2205.08325) | GraphMapper: Efficient Visual Navigation by Scene Graph Generation | 0 |
+| 261 | 22.02 | Robotics | Task-planning | 👤 | [📎](http://arxiv.org/abs/2202.12912) | SGL: Symbolic Goal Learning in a Hybrid, Modular Framework for Human Instruction Following | 0 |
+| 260 | 22.02 | Robotics | Navigation | 👤 | [📎](http://arxiv.org/abs/2202.12197) | Situational Graphs for Robot Navigation in Structured Indoor Environments | 1 |
+| 256 | 22.02 | Robotics | Task-planning | 👤 | [📎](http://arxiv.org/abs/2202.10432) | Reasoning with Scene Graphs for Robot Planning under Partial Observability | 0 |
+| 247 | 22.01 | Robotics | Navigation | 👤 | [📎](http://arxiv.org/abs/2201.05977) | Lightweight Object-level Topological Semantic Mapping and Long-term Global Localization based on Graph Matching | 1 |
 | 231 | 21.11 | Robotics | Robotic Perception | 👤 | [📎](http://arxiv.org/abs/2111.00312) | 3DP3: 3D Scene Perception via Probabilistic Programming | 5 |
 | 226 | 21.10 | Robotics | General | 👤 | [📎](http://arxiv.org/abs/2110.00273) | From SLAM to Situational Awareness: Challenges and Survey | 1 |
 | 222 | 21.09 | Robotics | Task-planning | 👤 | [📎](http://arxiv.org/abs/2109.07872) | Knowledge-based Embodied Question Answering | - |

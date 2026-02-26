@@ -1,5 +1,7 @@
 # Scene Graph - Dynamic Scene Graph
 
+82 Papers.
+
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
 | 951 | 25.11 | Scene Graph | Dynamic Scene Graph | 👤 | [📎](http://arxiv.org/abs/2511.08651) | RS-Net: Context-Aware Relation Scoring for Dynamic Scene Graph Generation | 0 |
@@ -76,12 +78,8 @@
 | 351 | 22.12 | Scene Graph | Dynamic Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2212.02875) | Multi-Task Edge Prediction in Temporally-Dynamic Video Graphs | 0 |
 | 338 | 22.11 | Scene Graph | Dynamic Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2211.06119) | SSGVS: Semantic Scene Graph-to-Video Synthesis | 0 |
 | 332 | 22.10 | Scene Graph | Dynamic Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2210.16472) | Learning Audio-Visual Dynamics Using Scene Graphs for Audio Source Separation | 3 |
-| 302 | 22.07 | Scene Graph | Dynamic Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2207.11441) | Meta Spatio-Temporal Debiasing for Video Scene Graph Generation | 2 |
-| 289 | 22.06 | Scene Graph | Dynamic Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2206.05051) | Temporal Inductive Logic Reasoning over Hypergraphs | 0 |
-| 269 | 22.03 | Scene Graph | Dynamic Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2203.10424) | MetaOnce: A Metaverse Framework Based on Multi-scene Relations and Entity-relation-event Game | 2 |
-| 242 | 21.12 | Scene Graph | Dynamic Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2112.09828) | Exploiting Long-Term Dependencies for Generating Dynamic Scene Graphs | 4 |
-| 239 | 21.12 | Scene Graph | Dynamic Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2112.04222) | Classification-Then-Grounding: Reformulating Video Scene Graphs as Temporal Bipartite Graphs | 4 |
-| 237 | 21.12 | Scene Graph | Dynamic Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2112.00967) | Relational Graph Learning for Grounded Video Description Generation | 0 |
+| 302 | 22.07 | Scene Graph | Dynamic Scene Graph | 👤 | [📎](http://arxiv.org/abs/2207.11441) | Meta Spatio-Temporal Debiasing for Video Scene Graph Generation | 2 |
+| 242 | 21.12 | Scene Graph | Dynamic Scene Graph | 👤 | [📎](http://arxiv.org/abs/2112.09828) | Exploiting Long-Term Dependencies for Generating Dynamic Scene Graphs | 4 |
 | 209 | 21.08 | Scene Graph | Dynamic Scene Graph | 👤 | [📎](http://arxiv.org/abs/2108.08121) | Target Adaptive Context Aggregation for Video Scene Graph Generation | 0 |
 | 200 | 21.07 | Scene Graph | Dynamic Scene Graph | 👤 | [📎](http://arxiv.org/abs/2107.12309) | Spatial-Temporal Transformer for Dynamic Scene Graph Generation | 0 |
 | 178 | 21.04 | Scene Graph | Dynamic Scene Graph | 👤 | [📎](http://arxiv.org/abs/2104.08194) | Spatiotemporal Deformable Scene Graphs for Complex Activity Detection | 0 |

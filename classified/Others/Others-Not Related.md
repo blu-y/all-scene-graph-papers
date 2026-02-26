@@ -1,11 +1,17 @@
 # Others - Not Related
 
+21 Papers.
+
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
 | 1028 | 26.02 | Others | Not Related | 👤 | [📎](http://arxiv.org/abs/2602.07541) | Differentiate-and-Inject: Enhancing VLAs via Functional Differentiation Induced by In-Parameter Structural Reasoning | 0 |
 | 1027 | 26.02 | Others | Not Related | 👤 | [📎](http://arxiv.org/abs/2602.06090) | SVRepair: Structured Visual Reasoning for Automated Program Repair | 0 |
 | 997 | 26.01 | Others | Not Related | 👤 | [📎](http://arxiv.org/abs/2601.02792) | Textile IR: A Bidirectional Intermediate Representation for Physics-Aware Fashion CAD | 0 |
 | 945 | 25.11 | Others | Not Related | 👤 | [📎](http://arxiv.org/abs/2511.08609) | Case Study: Transformer-Based Solution for the Automatic Digitization of Gas Plants | 0 |
+| 324 | 22.10 | Others | Not Related | 👤 | [📎](http://arxiv.org/abs/2210.04127) | Towards Efficient Neural Scene Graphs by Learning Consistency Fields | 2 |
+| 320 | 22.09 | Others | Not Related | 👤 | [📎](http://arxiv.org/abs/2209.12274) | Personalized Saliency in Task-Oriented Semantic Communications: Image Transmission and Performance Analysis | 4 |
+| 313 | 22.09 | Others | Not Related | 👤 | [📎](http://arxiv.org/abs/2209.02567) | Capsule Networks as Generative Models | 0 |
+| 277 | 22.04 | Others | Not Related | 👤 | [📎](http://arxiv.org/abs/2204.08123) | Non-Parallel Text Style Transfer with Self-Parallel Supervision | 7 |
 | 185 | 21.05 | Others | Not Related | 👤 | [📎](http://arxiv.org/abs/2105.07391) | Survey of Visual-Semantic Embedding Methods for Zero-Shot Image Retrieval | 0 |
 | 144 | 20.11 | Others | Not Related | 👤 | [📎](http://arxiv.org/abs/2011.10379) | Neural Scene Graphs for Dynamic Scenes | - |
 | 126 | 20.08 | Others | Not Related | 👤 | [📎](http://arxiv.org/abs/2008.11932) | Attribute-guided image generation from layout | 3 |

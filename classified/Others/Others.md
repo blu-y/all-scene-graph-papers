@@ -1,11 +1,11 @@
 # Others
 
+103 Papers.
+
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
-| 1037 | 26.02 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2602.20901) | SpatiaLQA: A Benchmark for Evaluating Spatial Logical Reasoning in Vision-Language Models | 0 |
-| 1036 | 26.02 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2602.20055) | To Move or Not to Move: Constraint-based Planning Enables Zero-Shot Generalization for Interactive Navigation | 0 |
-| 1035 | 26.02 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2602.19974) | RL-RIG: A Generative Spatial Reasoner via Intrinsic Reflection | 0 |
-| 1034 | 26.02 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2602.17555) | GraphThinker: Reinforcing Video Reasoning with Event Graph Thinking | 0 |
+| 1037 | 26.02 | Others | Other Applications | 👤 | [📎](http://arxiv.org/abs/2602.20901) | SpatiaLQA: A Benchmark for Evaluating Spatial Logical Reasoning in Vision-Language Models | 0 |
+| 1035 | 26.02 | Others | Weakly Related | 👤 | [📎](http://arxiv.org/abs/2602.19974) | RL-RIG: A Generative Spatial Reasoner via Intrinsic Reflection | 0 |
 | 1028 | 26.02 | Others | Not Related | 👤 | [📎](http://arxiv.org/abs/2602.07541) | Differentiate-and-Inject: Enhancing VLAs via Functional Differentiation Induced by In-Parameter Structural Reasoning | 0 |
 | 1027 | 26.02 | Others | Not Related | 👤 | [📎](http://arxiv.org/abs/2602.06090) | SVRepair: Structured Visual Reasoning for Automated Program Repair | 0 |
 | 1009 | 26.01 | Others | Weakly Related | 👤 | [📎](http://arxiv.org/abs/2601.16093) | SAMTok: Representing Any Mask with Two Words | 0 |
@@ -57,9 +57,18 @@
 | 375 | 23.03 | Others | Autonomous Driving | 🤖 | [📎](http://arxiv.org/abs/2303.08473) | Unsupervised Traffic Scene Generation with Synthetic 3D Scene Graphs | 1 |
 | 345 | 22.12 | Others | Autonomous Driving | 🤖 | [📎](http://arxiv.org/abs/2212.02503) | Relation-based Motion Prediction using Traffic Scene Graphs | 0 |
 | 344 | 22.11 | Others | Autonomous Driving | 🤖 | [📎](http://arxiv.org/abs/2211.15508) | Self Supervised Clustering of Traffic Scenes using Graph Representations | 0 |
-| 317 | 22.09 | Others | Medical | 🤖 | [📎](http://arxiv.org/abs/2209.07118) | Align, Reason and Learn: Enhancing Medical Vision-and-Language Pre-training with Knowledge | 0 |
-| 300 | 22.07 | Others | Autonomous Driving | 🤖 | [📎](http://arxiv.org/abs/2207.12321) | RSG-Net: Towards Rich Sematic Relationship Prediction for Intelligent Vehicle in Complex Environments | 0 |
-| 270 | 22.03 | Others | Autonomous Driving | 🤖 | [📎](http://arxiv.org/abs/2203.10569) | Self-supervised Point Cloud Completion on Real Traffic Scenes via Scene-concerned Bottom-up Mechanism | 0 |
+| 324 | 22.10 | Others | Not Related | 👤 | [📎](http://arxiv.org/abs/2210.04127) | Towards Efficient Neural Scene Graphs by Learning Consistency Fields | 2 |
+| 320 | 22.09 | Others | Not Related | 👤 | [📎](http://arxiv.org/abs/2209.12274) | Personalized Saliency in Task-Oriented Semantic Communications: Image Transmission and Performance Analysis | 4 |
+| 317 | 22.09 | Others | Medical | 👤 | [📎](http://arxiv.org/abs/2209.07118) | Align, Reason and Learn: Enhancing Medical Vision-and-Language Pre-training with Knowledge | 0 |
+| 315 | 22.09 | Others | Weakly Related | 👤 | [📎](http://arxiv.org/abs/2209.02981) | VGStore: A Multimodal Extension to SPARQL for Querying RDF Scene Graph | 2 |
+| 313 | 22.09 | Others | Not Related | 👤 | [📎](http://arxiv.org/abs/2209.02567) | Capsule Networks as Generative Models | 0 |
+| 300 | 22.07 | Others | Autonomous Driving | 👤 | [📎](http://arxiv.org/abs/2207.12321) | RSG-Net: Towards Rich Sematic Relationship Prediction for Intelligent Vehicle in Complex Environments | 0 |
+| 289 | 22.06 | Others | Weakly Related | 👤 | [📎](http://arxiv.org/abs/2206.05051) | Temporal Inductive Logic Reasoning over Hypergraphs | 0 |
+| 277 | 22.04 | Others | Not Related | 👤 | [📎](http://arxiv.org/abs/2204.08123) | Non-Parallel Text Style Transfer with Self-Parallel Supervision | 7 |
+| 272 | 22.03 | Others | Medical | 👤 | [📎](http://arxiv.org/abs/2203.11937) | 4D-OR: Semantic Scene Graphs for OR Domain Modeling | 6 |
+| 270 | 22.03 | Others | Autonomous Driving | 👤 | [📎](http://arxiv.org/abs/2203.10569) | Self-supervised Point Cloud Completion on Real Traffic Scenes via Scene-concerned Bottom-up Mechanism | 0 |
+| 269 | 22.03 | Others | Weakly Related | 👤 | [📎](http://arxiv.org/abs/2203.10424) | MetaOnce: A Metaverse Framework Based on Multi-scene Relations and Entity-relation-event Game | 2 |
+| 262 | 22.03 | Others | Weakly Related | 👤 | [📎](http://arxiv.org/abs/2203.00600) | Dual Embodied-Symbolic Concept Representations for Deep Learning | 0 |
 | 234 | 21.11 | Others | Autonomous Driving | 👤 | [📎](http://arxiv.org/abs/2111.10196) | Towards Traffic Scene Description: The Semantic Scene Graph | 0 |
 | 233 | 21.11 | Others | Autonomous Driving | 👤 | [📎](http://arxiv.org/abs/2111.06123) | Spatio-Temporal Scene-Graph Embedding for Autonomous Vehicle Collision Prediction | - |
 | 225 | 21.09 | Others | Other Applications | 👤 | [📎](http://arxiv.org/abs/2109.11955) | Visual Scene Graphs for Audio Source Separation | - |

@@ -1,5 +1,7 @@
 # Scene Graph - Synthesis
 
+35 Papers.
+
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
 | 1029 | 26.02 | Scene Graph | Synthesis | 👤 | [📎](http://arxiv.org/abs/2602.09165) | All-in-One Conditioning for Text-to-Image Synthesis | 0 |
@@ -15,6 +17,11 @@
 | 931 | 25.10 | Scene Graph | Synthesis | 👤 | [📎](http://arxiv.org/abs/2510.15564) | Imaginarium: Vision-guided High-Quality 3D Scene Layout Generation | 0 |
 | 921 | 25.10 | Scene Graph | Synthesis | 👤 | [📎](http://arxiv.org/abs/2510.05742) | Vipera: Blending Visual and LLM-Driven Guidance for Systematic Auditing of Text-to-Image Generative AI | 0 |
 | 905 | 25.09 | Scene Graph | Synthesis | 👤 | [📎](http://arxiv.org/abs/2509.22720) | LayoutAgent: A Vision-Language Agent Guided Compositional Diffusion for Spatial Layout Planning | 0 |
+| 328 | 22.10 | Scene Graph | Synthesis | 👤 | [📎](http://arxiv.org/abs/2210.09549) | Swinv2-Imagen: Hierarchical Vision Transformer Diffusion Models for Text-to-Image Generation | 0 |
+| 312 | 22.08 | Scene Graph | Synthesis | 👤 | [📎](http://arxiv.org/abs/2208.13753) | Frido: Feature Pyramid Diffusion for Complex Scene Image Synthesis | 3 |
+| 293 | 22.07 | Scene Graph | Synthesis | 👤 | [📎](http://arxiv.org/abs/2207.00545) | Transforming Image Generation from Scene Graphs | 0 |
+| 281 | 22.05 | Scene Graph | Synthesis | 👤 | [📎](http://arxiv.org/abs/2205.02958) | Scene Graph Expansion for Semantics-Guided Image Outpainting | 1 |
+| 273 | 22.03 | Scene Graph | Synthesis | 👤 | [📎](http://arxiv.org/abs/2203.12849) | Complex Scene Image Editing by Scene Graph Comprehension | 0 |
 | 229 | 21.10 | Scene Graph | Synthesis | 👤 | [📎](http://arxiv.org/abs/2110.11918) | MIGS: Meta Image Generation from Scene Graphs | 7 |
 | 212 | 21.08 | Scene Graph | Synthesis | 👤 | [📎](http://arxiv.org/abs/2108.08841) | Graph-to-3D: End-to-End Generation and Manipulation of 3D Scenes Using Scene Graphs | - |
 | 189 | 21.06 | Scene Graph | Synthesis | 👤 | [📎](http://arxiv.org/abs/2106.03128) | MOC-GAN: Mixing Objects and Captions to Generate Realistic Images | 0 |

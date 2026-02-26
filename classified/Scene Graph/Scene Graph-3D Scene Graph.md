@@ -1,5 +1,7 @@
 # Scene Graph - 3D Scene Graph
 
+124 Papers.
+
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
 | 1033 | 26.02 | Scene Graph | 3D Scene Graph | 👤 | [📎](http://arxiv.org/abs/2602.16356) | Articulated 3D Scene Graphs for Open-World Mobile Manipulation | 0 |
@@ -112,10 +114,10 @@
 | 381 | 23.03 | Scene Graph | 3D Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2303.11048) | SGFormer: Semantic Graph Transformer for Point Cloud-based 3D Scene Graph Generation | 1 |
 | 370 | 23.02 | Scene Graph | 3D Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2302.10425) | Instance-incremental Scene Graph Generation from Real-world Point Clouds via Normalizing Flows | 0 |
 | 368 | 23.02 | Scene Graph | 3D Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2302.06494) | Explicit3D: Graph Network with Spatial Inference for Single Image 3D Object Detection | 0 |
-| 325 | 22.10 | Scene Graph | 3D Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2210.06240) | Explore Contextual Information for 3D Scene Graph Generation | 1 |
-| 319 | 22.09 | Scene Graph | 3D Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2209.07896) | 3D VSG: Long-term Semantic Scene Change Prediction through 3D Variable Scene Graphs | 1 |
-| 272 | 22.03 | Scene Graph | 3D Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2203.11937) | 4D-OR: Semantic Scene Graphs for OR Domain Modeling | 6 |
-| 251 | 22.01 | Scene Graph | 3D Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2201.13360) | Hydra: A Real-time Spatial Perception System for 3D Scene Graph Construction and Optimization | 0 |
+| 325 | 22.10 | Scene Graph | 3D Scene Graph | 👤 | [📎](http://arxiv.org/abs/2210.06240) | Explore Contextual Information for 3D Scene Graph Generation | 1 |
+| 319 | 22.09 | Scene Graph | 3D Scene Graph | 👤 | [📎](http://arxiv.org/abs/2209.07896) | 3D VSG: Long-term Semantic Scene Change Prediction through 3D Variable Scene Graphs | 1 |
+| 316 | 22.09 | Scene Graph | 3D Scene Graph | 👤 | [📎](http://arxiv.org/abs/2209.06111) | D-Lite: Navigation-Oriented Compression of 3D Scene Graphs for Multi-Robot Collaboration | 0 |
+| 251 | 22.01 | Scene Graph | 3D Scene Graph | 👤 | [📎](http://arxiv.org/abs/2201.13360) | Hydra: A Real-time Spatial Perception System for 3D Scene Graph Construction and Optimization | 0 |
 | 173 | 21.03 | Scene Graph | 3D Scene Graph | 👤 | [📎](http://arxiv.org/abs/2103.16381) | Free-form Description Guided 3D Visual Graph Network for Object Grounding in Point Cloud | 9 |
 | 169 | 21.03 | Scene Graph | 3D Scene Graph | 👤 | [📎](http://arxiv.org/abs/2103.14898) | SceneGraphFusion: Incremental 3D Scene Graph Prediction from RGB-D Sequences | 8 |
 | 165 | 21.03 | Scene Graph | 3D Scene Graph | 👤 | [📎](http://arxiv.org/abs/2103.06422) | Holistic 3D Scene Understanding from a Single Image with Implicit Representation | 2 |

@@ -1,5 +1,7 @@
 # Reasoning - VQA
 
+45 Papers.
+
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
 | 1010 | 26.01 | Reasoning | VQA | 👤 | [📎](http://arxiv.org/abs/2601.18157) | Agentic Very Long Video Understanding | 0 |
@@ -24,10 +26,11 @@
 | 488 | 23.10 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2310.01842) | SelfGraphVQA: A Self-Supervised Graph Neural Network for Scene-based Question Answering | 0 |
 | 356 | 22.12 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2212.08283) | SceneGATE: Scene-Graph based co-Attention networks for TExt visual question answering | 1 |
 | 341 | 22.11 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2211.08086) | Visually Grounded VQA by Lattice-based Retrieval | 2 |
-| 311 | 22.08 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2208.12037) | Symbolic Replay: Scene Graph as Prompt for Continual Learning on VQA Task | 4 |
-| 285 | 22.05 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2205.11501) | VQA-GNN: Reasoning with Multimodal Knowledge via Graph Neural Networks for Visual Question Answering | 4 |
-| 282 | 22.05 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2205.04188) | Joint learning of object graph and relation graph for visual question answering | 1 |
-| 253 | 22.02 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2202.09277) | (2.5+1)D Spatio-Temporal Scene Graphs for Video Question Answering | 1 |
+| 311 | 22.08 | Reasoning | VQA | 👤 | [📎](http://arxiv.org/abs/2208.12037) | Symbolic Replay: Scene Graph as Prompt for Continual Learning on VQA Task | 4 |
+| 285 | 22.05 | Reasoning | VQA | 👤 | [📎](http://arxiv.org/abs/2205.11501) | VQA-GNN: Reasoning with Multimodal Knowledge via Graph Neural Networks for Visual Question Answering | 4 |
+| 282 | 22.05 | Reasoning | VQA | 👤 | [📎](http://arxiv.org/abs/2205.04188) | Joint learning of object graph and relation graph for visual question answering | 1 |
+| 253 | 22.02 | Reasoning | VQA | 👤 | [📎](http://arxiv.org/abs/2202.09277) | (2.5+1)D Spatio-Temporal Scene Graphs for Video Question Answering | 1 |
+| 243 | 21.12 | Reasoning | VQA | 👤 | [📎](http://arxiv.org/abs/2112.11691) | Comprehensive Visual Question Answering on Point Clouds through Compositional Scene Manipulation | 4 |
 | 232 | 21.11 | Reasoning | VQA | 👤 | [📎](http://arxiv.org/abs/2111.04785) | Visual Question Answering based on Formal Logic | - |
 | 199 | 21.07 | Reasoning | VQA | 👤 | [📎](http://arxiv.org/abs/2107.06325) | Graphhopper: Multi-Hop Scene Graph Reasoning for Visual Question Answering | - |
 | 194 | 21.06 | Reasoning | VQA | 👤 | [📎](http://arxiv.org/abs/2106.14476) | Adventurer's Treasure Hunt: A Transparent System for Visually Grounded Compositional Visual Question Answering based on Scene Graphs | 0 |

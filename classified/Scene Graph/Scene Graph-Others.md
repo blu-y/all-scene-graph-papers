@@ -1,7 +1,11 @@
 # Scene Graph - Others
 
+7 Papers.
+
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 318 | 22.09 | Scene Graph | Others | 👤 | [📎](http://arxiv.org/abs/2209.09093) | Scene Graph Modification as Incremental Structure Expanding | 0 |
+| 294 | 22.07 | Scene Graph | Others | 👤 | [📎](http://arxiv.org/abs/2207.03729) | GEMS: Scene Expansion using Generative Models of Graphs | 0 |
 | 160 | 21.02 | Scene Graph | Others | 👤 | [📎](http://arxiv.org/abs/2102.04760) | Improving Scene Graph Classification by Exploiting Knowledge from Texts | 0 |
 | 143 | 20.11 | Scene Graph | Others | 👤 | [📎](http://arxiv.org/abs/2011.10084) | Classification by Attention: Scene Graph Classification with Prior Knowledge | 4 |
 | 137 | 20.10 | Scene Graph | Others | 👤 | [📎](http://arxiv.org/abs/2010.02591) | Scene Graph Modification Based on Natural Language Commands | 1 |

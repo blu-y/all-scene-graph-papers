@@ -1,5 +1,7 @@
 # Others - Autonomous Driving
 
+28 Papers.
+
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
 | 991 | 25.12 | Others | Autonomous Driving | 👤 | [📎](http://arxiv.org/abs/2512.22693) | Instance Communication System for Intelligent Connected Vehicles: Bridging the Gap from Semantic to Instance-Level Transmission | 0 |
@@ -22,8 +24,8 @@
 | 375 | 23.03 | Others | Autonomous Driving | 🤖 | [📎](http://arxiv.org/abs/2303.08473) | Unsupervised Traffic Scene Generation with Synthetic 3D Scene Graphs | 1 |
 | 345 | 22.12 | Others | Autonomous Driving | 🤖 | [📎](http://arxiv.org/abs/2212.02503) | Relation-based Motion Prediction using Traffic Scene Graphs | 0 |
 | 344 | 22.11 | Others | Autonomous Driving | 🤖 | [📎](http://arxiv.org/abs/2211.15508) | Self Supervised Clustering of Traffic Scenes using Graph Representations | 0 |
-| 300 | 22.07 | Others | Autonomous Driving | 🤖 | [📎](http://arxiv.org/abs/2207.12321) | RSG-Net: Towards Rich Sematic Relationship Prediction for Intelligent Vehicle in Complex Environments | 0 |
-| 270 | 22.03 | Others | Autonomous Driving | 🤖 | [📎](http://arxiv.org/abs/2203.10569) | Self-supervised Point Cloud Completion on Real Traffic Scenes via Scene-concerned Bottom-up Mechanism | 0 |
+| 300 | 22.07 | Others | Autonomous Driving | 👤 | [📎](http://arxiv.org/abs/2207.12321) | RSG-Net: Towards Rich Sematic Relationship Prediction for Intelligent Vehicle in Complex Environments | 0 |
+| 270 | 22.03 | Others | Autonomous Driving | 👤 | [📎](http://arxiv.org/abs/2203.10569) | Self-supervised Point Cloud Completion on Real Traffic Scenes via Scene-concerned Bottom-up Mechanism | 0 |
 | 234 | 21.11 | Others | Autonomous Driving | 👤 | [📎](http://arxiv.org/abs/2111.10196) | Towards Traffic Scene Description: The Semantic Scene Graph | 0 |
 | 233 | 21.11 | Others | Autonomous Driving | 👤 | [📎](http://arxiv.org/abs/2111.06123) | Spatio-Temporal Scene-Graph Embedding for Autonomous Vehicle Collision Prediction | - |
 | 215 | 21.09 | Others | Autonomous Driving | 👤 | [📎](http://arxiv.org/abs/2109.01183) | roadscene2vec: A Tool for Extracting and Embedding Road Scene-Graphs | 0 |

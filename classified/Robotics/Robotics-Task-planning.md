@@ -1,7 +1,10 @@
 # Robotics - Task-planning
 
+25 Papers.
+
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1036 | 26.02 | Robotics | Task-planning | 👤 | [📎](http://arxiv.org/abs/2602.20055) | To Move or Not to Move: Constraint-based Planning Enables Zero-Shot Generalization for Interactive Navigation | 0 |
 | 1030 | 26.02 | Robotics | Task-planning | 👤 | [📎](http://arxiv.org/abs/2602.12244) | Any House Any Task: Scalable Long-Horizon Planning for Abstract Human Tasks | 0 |
 | 1011 | 26.01 | Robotics | Task-planning | 👤 | [📎](http://arxiv.org/abs/2601.18765) | Goal-oriented Communication for Fast and Robust Robotic Fault Detection and Recovery | 0 |
 | 990 | 25.12 | Robotics | Task-planning | 👤 | [📎](http://arxiv.org/abs/2512.21243) | LookPlanGraph: Embodied Instruction Following Method with VLM Graph Augmentation | 0 |
@@ -22,7 +25,7 @@
 | 469 | 23.09 | Robotics | Task-planning | 🤖 | [📎](http://arxiv.org/abs/2309.07726) | GRID: Scene-Graph-based Instruction-driven Robotic Task Planning | 2 |
 | 437 | 23.07 | Robotics | Task-planning | 🤖 | [📎](http://arxiv.org/abs/2307.06135) | SayPlan: Grounding Large Language Models using 3D Scene Graphs for Scalable Robot Task Planning | 29 |
 | 409 | 23.05 | Robotics | Task-planning | 🤖 | [📎](http://arxiv.org/abs/2305.07716) | Learning to Reason over Scene Graphs: A Case Study of Finetuning GPT-2 into a Robot Language Model for Grounded Task Planning | - |
-| 297 | 22.07 | Robotics | Task-planning | 🤖 | [📎](http://arxiv.org/abs/2207.05006) | TASKOGRAPHY: Evaluating robot task planning over large 3D scene graphs | 12 |
-| 261 | 22.02 | Robotics | Task-planning | 🤖 | [📎](http://arxiv.org/abs/2202.12912) | SGL: Symbolic Goal Learning in a Hybrid, Modular Framework for Human Instruction Following | 0 |
-| 256 | 22.02 | Robotics | Task-planning | 🤖 | [📎](http://arxiv.org/abs/2202.10432) | Reasoning with Scene Graphs for Robot Planning under Partial Observability | 0 |
+| 297 | 22.07 | Robotics | Task-planning | 👤 | [📎](http://arxiv.org/abs/2207.05006) | TASKOGRAPHY: Evaluating robot task planning over large 3D scene graphs | 12 |
+| 261 | 22.02 | Robotics | Task-planning | 👤 | [📎](http://arxiv.org/abs/2202.12912) | SGL: Symbolic Goal Learning in a Hybrid, Modular Framework for Human Instruction Following | 0 |
+| 256 | 22.02 | Robotics | Task-planning | 👤 | [📎](http://arxiv.org/abs/2202.10432) | Reasoning with Scene Graphs for Robot Planning under Partial Observability | 0 |
 | 222 | 21.09 | Robotics | Task-planning | 👤 | [📎](http://arxiv.org/abs/2109.07872) | Knowledge-based Embodied Question Answering | - |

@@ -1,5 +1,7 @@
 # Scene Graph - Representation
 
+30 Papers.
+
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
 | 1014 | 26.01 | Scene Graph | Representation | 👤 | [📎](http://arxiv.org/abs/2601.20355) | CURVE: Learning Causality-Inspired Invariant Representations for Robust Scene Understanding via Uncertainty-Guided Regularization | 0 |
@@ -21,8 +23,6 @@
 | 347 | 22.11 | Scene Graph | Representation | 🤖 | [📎](http://arxiv.org/abs/2211.16697) | SGDraw: Scene Graph Drawing Interface Using Object-Oriented Representation | 0 |
 | 334 | 22.11 | Scene Graph | Representation | 🤖 | [📎](http://arxiv.org/abs/2211.00848) | Heterogeneous Trajectory Forecasting via Risk and Scene Graph Learning | 1 |
 | 331 | 22.10 | Scene Graph | Representation | 🤖 | [📎](http://arxiv.org/abs/2210.14862) | Visual Semantic Parsing: From Images to Abstract Meaning Representation | 0 |
-| 326 | 22.10 | Scene Graph | Representation | 🤖 | [📎](http://arxiv.org/abs/2210.08675) | SGRAM: Improving Scene Graph Parsing via Abstract Meaning Representation | 0 |
-| 238 | 21.12 | Scene Graph | Representation | 🤖 | [📎](http://arxiv.org/abs/2112.00974) | Consensus Graph Representation Learning for Better Grounded Image Captioning | 2 |
 | 184 | 21.05 | Scene Graph | Representation | 👤 | [📎](http://arxiv.org/abs/2105.07264) | Neural Trees for Learning on Graphs | 1 |
 | 176 | 21.04 | Scene Graph | Representation | 👤 | [📎](http://arxiv.org/abs/2104.02381) | Scene Graph Embeddings Using Relative Similarity Supervision | - |
 | 138 | 20.10 | Scene Graph | Representation | 👤 | [📎](http://arxiv.org/abs/2010.03182) | VICTR: Visual Information Captured Text Representation for Text-to-Image Multimodal Tasks | 3 |

@@ -1,5 +1,7 @@
 # Robotics - Navigation
 
+61 Papers.
+
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
 | 1018 | 26.02 | Robotics | Navigation | 👤 | [📎](http://arxiv.org/abs/2602.00708) | USS-Nav: Unified Spatio-Semantic Scene Graph for Lightweight UAV Zero-Shot Object Navigation | 0 |
@@ -9,7 +11,7 @@
 | 952 | 25.11 | Robotics | Navigation | 👤 | [📎](http://arxiv.org/abs/2511.10376) | MSGNav: Unleashing the Power of Multi-modal 3D Scene Graph for Zero-Shot Embodied Navigation | 0 |
 | 913 | 25.09 | Robotics | Navigation | 👤 | [📎](http://arxiv.org/abs/2509.23563) | RAVEN: Resilient Aerial Navigation via Open-Set Semantic Memory and Behavior Adaptation | 0 |
 | 901 | 25.09 | Robotics | Navigation | 👤 | [📎](http://arxiv.org/abs/2509.18592) | VLN-Zero: Rapid Exploration and Cache-Enabled Neurosymbolic Vision-Language Planning for Zero-Shot Transfer in Robot Navigation | 0 |
-| 897 | 25.09 | Robotics | Navigation | 🤖 | [📎](http://arxiv.org/abs/2509.13733) | FSR-VLN: Fast and Slow Reasoning for Vision-Language Navigation with Hierarchical Multi-modal Scene Graph | 0 |
+| 897 | 25.09 | Robotics | Navigation | 👤 | [📎](http://arxiv.org/abs/2509.13733) | FSR-VLN: Fast and Slow Reasoning for Vision-Language Navigation with Hierarchical Multi-modal Scene Graph | 0 |
 | 890 | 25.09 | Robotics | Navigation | 🤖 | [📎](http://arxiv.org/abs/2509.09594) | ObjectReact: Learning Object-Relative Control for Visual Navigation | 0 |
 | 879 | 25.08 | Robotics | Navigation | 🤖 | [📎](http://arxiv.org/abs/2508.06990) | Imaginative World Modeling with Scene Graphs for Embodied Agent Navigation | 0 |
 | 874 | 25.08 | Robotics | Navigation | 🤖 | [📎](http://arxiv.org/abs/2508.04678) | Open Scene Graphs for Open-World Object-Goal Navigation | 0 |
@@ -55,11 +57,10 @@
 | 358 | 22.12 | Robotics | Navigation | 🤖 | [📎](http://arxiv.org/abs/2212.11770) | S-Graphs+: Real-time Localization and Mapping leveraging Hierarchical Representations | 10 |
 | 348 | 22.12 | Robotics | Navigation | 🤖 | [📎](http://arxiv.org/abs/2212.00338) | 3D-Aware Object Goal Navigation via Simultaneous Exploration and Identification | 2 |
 | 343 | 22.11 | Robotics | Navigation | 🤖 | [📎](http://arxiv.org/abs/2211.12649) | Predicting Topological Maps for Visual Navigation in Unexplored Environments | 0 |
-| 316 | 22.09 | Robotics | Navigation | 🤖 | [📎](http://arxiv.org/abs/2209.06111) | D-Lite: Navigation-Oriented Compression of 3D Scene Graphs for Multi-Robot Collaboration | 0 |
-| 298 | 22.07 | Robotics | Navigation | 🤖 | [📎](http://arxiv.org/abs/2207.07870) | Scene Graph for Embodied Exploration in Cluttered Scenario | 1 |
-| 284 | 22.05 | Robotics | Navigation | 🤖 | [📎](http://arxiv.org/abs/2205.08325) | GraphMapper: Efficient Visual Navigation by Scene Graph Generation | 0 |
-| 260 | 22.02 | Robotics | Navigation | 🤖 | [📎](http://arxiv.org/abs/2202.12197) | Situational Graphs for Robot Navigation in Structured Indoor Environments | 1 |
-| 247 | 22.01 | Robotics | Navigation | 🤖 | [📎](http://arxiv.org/abs/2201.05977) | Lightweight Object-level Topological Semantic Mapping and Long-term Global Localization based on Graph Matching | 1 |
+| 298 | 22.07 | Robotics | Navigation | 👤 | [📎](http://arxiv.org/abs/2207.07870) | Scene Graph for Embodied Exploration in Cluttered Scenario | 1 |
+| 284 | 22.05 | Robotics | Navigation | 👤 | [📎](http://arxiv.org/abs/2205.08325) | GraphMapper: Efficient Visual Navigation by Scene Graph Generation | 0 |
+| 260 | 22.02 | Robotics | Navigation | 👤 | [📎](http://arxiv.org/abs/2202.12197) | Situational Graphs for Robot Navigation in Structured Indoor Environments | 1 |
+| 247 | 22.01 | Robotics | Navigation | 👤 | [📎](http://arxiv.org/abs/2201.05977) | Lightweight Object-level Topological Semantic Mapping and Long-term Global Localization based on Graph Matching | 1 |
 | 221 | 21.09 | Robotics | Navigation | 👤 | [📎](http://arxiv.org/abs/2109.06241) | Incremental Abstraction in Distributed Probabilistic SLAM Graphs | 0 |
 | 218 | 21.09 | Robotics | Navigation | 👤 | [📎](http://arxiv.org/abs/2109.04569) | Open-World Distributed Robot Self-Localization with Transferable Visual Vocabulary and Both Absolute and Relative Features | 0 |
 | 204 | 21.08 | Robotics | Navigation | 👤 | [📎](http://arxiv.org/abs/2108.01176) | Hierarchical Representations and Explicit Memory: Learning Effective Navigation Policies on 3D Scene Graphs using Graph Neural Networks | 0 |

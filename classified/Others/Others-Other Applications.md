@@ -1,7 +1,10 @@
 # Others - Other Applications
 
+9 Papers.
+
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1037 | 26.02 | Others | Other Applications | 👤 | [📎](http://arxiv.org/abs/2602.20901) | SpatiaLQA: A Benchmark for Evaluating Spatial Logical Reasoning in Vision-Language Models | 0 |
 | 955 | 25.11 | Others | Other Applications | 👤 | [📎](http://arxiv.org/abs/2511.13970) | Scene Graph-Guided Generative AI Framework for Synthesizing and Evaluating Industrial Hazard Scenarios | 0 |
 | 954 | 25.11 | Others | Other Applications | 👤 | [📎](http://arxiv.org/abs/2511.12676) | BridgeEQA: Virtual Embodied Agents for Real Bridge Inspections | 0 |
 | 944 | 25.11 | Others | Other Applications | 👤 | [📎](http://arxiv.org/abs/2511.03819) | SILVI: Simple Interface for Labeling Video Interactions | 0 |

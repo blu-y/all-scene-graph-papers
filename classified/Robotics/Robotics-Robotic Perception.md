@@ -1,5 +1,7 @@
 # Robotics - Robotic Perception
 
+30 Papers.
+
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
 | 1023 | 26.02 | Robotics | Robotic Perception | 👤 | [📎](http://arxiv.org/abs/2602.03781) | A Scene Graph Backed Approach to Open Set Semantic Mapping | 0 |
@@ -28,8 +30,7 @@
 | 408 | 23.05 | Robotics | Robotic Perception | 🤖 | [📎](http://arxiv.org/abs/2305.07154) | Foundations of Spatial Perception for Robotics: Hierarchical Representations and Real-time Systems | 0 |
 | 399 | 23.04 | Robotics | Robotic Perception | 🤖 | [📎](http://arxiv.org/abs/2304.13487) | Hydra-Multi: Collaborative Online Construction of 3D Scene Graphs with Multi-Robot Teams | 0 |
 | 350 | 22.12 | Robotics | Robotic Perception | 🤖 | [📎](http://arxiv.org/abs/2212.01186) | A General Purpose Supervisory Signal for Embodied Agents | 1 |
-| 288 | 22.06 | Robotics | Robotic Perception | 🤖 | [📎](http://arxiv.org/abs/2206.04585) | Extracting Zero-shot Common Sense from Large Language Models for Robot 3D Scene Understanding | 1 |
-| 262 | 22.03 | Robotics | Robotic Perception | 🤖 | [📎](http://arxiv.org/abs/2203.00600) | Dual Embodied-Symbolic Concept Representations for Deep Learning | 0 |
-| 255 | 22.02 | Robotics | Robotic Perception | 🤖 | [📎](http://arxiv.org/abs/2202.10201) | OG-SGG: Ontology-Guided Scene Graph Generation. A Case Study in Transfer Learning for Telepresence Robotics | 0 |
+| 288 | 22.06 | Robotics | Robotic Perception | 👤 | [📎](http://arxiv.org/abs/2206.04585) | Extracting Zero-shot Common Sense from Large Language Models for Robot 3D Scene Understanding | 1 |
+| 286 | 22.05 | Robotics | Robotic Perception | 👤 | [📎](http://arxiv.org/abs/2205.12089) | Sim-To-Real Transfer of Visual Grounding for Human-Aided Ambiguity Resolution | 1 |
 | 231 | 21.11 | Robotics | Robotic Perception | 👤 | [📎](http://arxiv.org/abs/2111.00312) | 3DP3: 3D Scene Perception via Probabilistic Programming | 5 |
 | 147 | 20.11 | Robotics | Robotic Perception | 👤 | [📎](http://arxiv.org/abs/2011.11397) | Imagination-enabled Robot Perception | - |

@@ -1,5 +1,7 @@
 # Reasoning - Retrieval
 
+24 Papers.
+
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
 | 986 | 25.12 | Reasoning | Retrieval | 👤 | [📎](http://arxiv.org/abs/2512.18448) | Object-Centric Framework for Video Moment Retrieval | 0 |
@@ -15,8 +17,8 @@
 | 582 | 24.04 | Reasoning | Retrieval | 🤖 | [📎](http://arxiv.org/abs/2404.14565) | "Where am I?" Scene Retrieval with Language | 0 |
 | 561 | 24.03 | Reasoning | Retrieval | 🤖 | [📎](http://arxiv.org/abs/2403.17995) | Semi-Supervised Image Captioning Considering Wasserstein Graph Matching | 1 |
 | 382 | 23.03 | Reasoning | Retrieval | 🤖 | [📎](http://arxiv.org/abs/2303.11090) | Scene Graph Based Fusion Network For Image-Text Retrieval | 0 |
-| 327 | 22.10 | Reasoning | Retrieval | 🤖 | [📎](http://arxiv.org/abs/2210.08908) | Cross-modal Semantic Enhanced Interaction for Image-Sentence Retrieval | 0 |
-| 254 | 22.02 | Reasoning | Retrieval | 🤖 | [📎](http://arxiv.org/abs/2202.09459) | Interactive Visual Pattern Search on Graph Data via Graph Representation Learning | 0 |
+| 327 | 22.10 | Reasoning | Retrieval | 👤 | [📎](http://arxiv.org/abs/2210.08908) | Cross-modal Semantic Enhanced Interaction for Image-Sentence Retrieval | 0 |
+| 254 | 22.02 | Reasoning | Retrieval | 👤 | [📎](http://arxiv.org/abs/2202.09459) | Interactive Visual Pattern Search on Graph Data via Graph Representation Learning | 0 |
 | 220 | 21.09 | Reasoning | Retrieval | 👤 | [📎](http://arxiv.org/abs/2109.05523) | Constructing Phrase-level Semantic Labels to Form Multi-Grained Supervision for Image-Text Retrieval | 1 |
 | 188 | 21.06 | Reasoning | Retrieval | 👤 | [📎](http://arxiv.org/abs/2106.02400) | A Deep Local and Global Scene-Graph Matching for Image-Text Retrieval | - |
 | 156 | 20.12 | Reasoning | Retrieval | 👤 | [📎](http://arxiv.org/abs/2012.14700) | Image-to-Image Retrieval by Learning Similarity between Scene Graphs | 0 |

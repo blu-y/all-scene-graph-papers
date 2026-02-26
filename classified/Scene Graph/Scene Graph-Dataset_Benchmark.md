@@ -1,5 +1,7 @@
 # Scene Graph - Dataset/Benchmark
 
+34 Papers.
+
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
 | 995 | 26.01 | Scene Graph | Dataset/Benchmark | 👤 | [📎](http://arxiv.org/abs/2601.01181) | GenCAMO: Scene-Graph Contextual Decoupling for Environment-aware and Mask-free Camouflage Image-Dense Annotation Generation | 0 |
@@ -29,6 +31,7 @@
 | 433 | 23.07 | Scene Graph | Dataset/Benchmark | 🤖 | [📎](http://arxiv.org/abs/2307.05356) | VisText: A Benchmark for Semantically Rich Chart Captioning | 2 |
 | 422 | 23.05 | Scene Graph | Dataset/Benchmark | 🤖 | [📎](http://arxiv.org/abs/2305.17497) | FACTUAL: A Benchmark for Faithful and Consistent Textual Scene Graph Parsing | 0 |
 | 403 | 23.05 | Scene Graph | Dataset/Benchmark | 🤖 | [📎](http://arxiv.org/abs/2305.02519) | ANetQA: A Large-scale Benchmark for Fine-grained Compositional Reasoning over Untrimmed Videos | 1 |
+| 275 | 22.04 | Scene Graph | Dataset/Benchmark | 👤 | [📎](http://arxiv.org/abs/2204.02380) | CLEVR-X: A Visual Reasoning Dataset for Natural Language Explanations | 0 |
 | 216 | 21.09 | Scene Graph | Dataset/Benchmark | 👤 | [📎](http://arxiv.org/abs/2109.02226) | GeneAnnotator: A Semi-automatic Annotation Tool for Visual Scene Graph | 6 |
 | 201 | 21.07 | Scene Graph | Dataset/Benchmark | 👤 | [📎](http://arxiv.org/abs/2107.12604) | Image Scene Graph Generation (SGG) Benchmark | 17 |
 | 107 | 20.06 | Scene Graph | Dataset/Benchmark | 👤 | [📎](http://arxiv.org/abs/2006.02174) | CompGuessWhat?!: A Multi-task Evaluation Framework for Grounded Language Learning | 1 |

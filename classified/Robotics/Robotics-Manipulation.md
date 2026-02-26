@@ -1,5 +1,7 @@
 # Robotics - Manipulation
 
+30 Papers.
+
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
 | 1032 | 26.02 | Robotics | Manipulation | 👤 | [📎](http://arxiv.org/abs/2602.13086) | UniManip: General-Purpose Zero-Shot Robotic Manipulation with Agentic Operational Graph | 0 |
@@ -28,8 +30,7 @@
 | 484 | 23.10 | Robotics | Manipulation | 🤖 | [📎](http://arxiv.org/abs/2310.00670) | A Hierarchical Graph-based Approach for Recognition and Description Generation of Bimanual Actions in Videos | 0 |
 | 365 | 23.02 | Robotics | Manipulation | 🤖 | [📎](http://arxiv.org/abs/2302.02651) | 1st Place Solution for PSG competition with ECCV'22 SenseHuman Workshop | 4 |
 | 337 | 22.11 | Robotics | Manipulation | 🤖 | [📎](http://arxiv.org/abs/2211.05499) | DisPositioNet: Disentangled Pose and Identity in Semantic Image Manipulation | 1 |
-| 321 | 22.09 | Robotics | Manipulation | 🤖 | [📎](http://arxiv.org/abs/2209.14026) | Human-in-the-loop Robotic Grasping using BERT Scene Representation | 2 |
-| 295 | 22.07 | Robotics | Manipulation | 🤖 | [📎](http://arxiv.org/abs/2207.04364) | Sequential Manipulation Planning on Scene Graph | 0 |
-| 243 | 21.12 | Robotics | Manipulation | 🤖 | [📎](http://arxiv.org/abs/2112.11691) | Comprehensive Visual Question Answering on Point Clouds through Compositional Scene Manipulation | 4 |
+| 321 | 22.09 | Robotics | Manipulation | 👤 | [📎](http://arxiv.org/abs/2209.14026) | Human-in-the-loop Robotic Grasping using BERT Scene Representation | 2 |
+| 295 | 22.07 | Robotics | Manipulation | 👤 | [📎](http://arxiv.org/abs/2207.04364) | Sequential Manipulation Planning on Scene Graph | 0 |
 | 154 | 20.12 | Robotics | Manipulation | 👤 | [📎](http://arxiv.org/abs/2012.07277) | Hierarchical Planning for Long-Horizon Manipulation with Geometric and Symbolic Scene Graphs | 13 |
 | 8 | 17.04 | Robotics | Manipulation | 👤 | [📎](http://arxiv.org/abs/1704.01189) | Semantic Robot Programming for Goal-Directed Manipulation in Cluttered Scenes | 0 |
