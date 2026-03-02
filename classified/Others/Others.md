@@ -1,9 +1,10 @@
 # Others
 
-103 Papers.
+104 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1038 | 26.02 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2602.23543) | Synthetic Visual Genome 2: Extracting Large-scale Spatio-Temporal Scene Graphs from Videos | 0 |
 | 1037 | 26.02 | Others | Other Applications | 👤 | [📎](http://arxiv.org/abs/2602.20901) | SpatiaLQA: A Benchmark for Evaluating Spatial Logical Reasoning in Vision-Language Models | 0 |
 | 1035 | 26.02 | Others | Weakly Related | 👤 | [📎](http://arxiv.org/abs/2602.19974) | RL-RIG: A Generative Spatial Reasoner via Intrinsic Reflection | 0 |
 | 1028 | 26.02 | Others | Not Related | 👤 | [📎](http://arxiv.org/abs/2602.07541) | Differentiate-and-Inject: Enhancing VLAs via Functional Differentiation Induced by In-Parameter Structural Reasoning | 0 |

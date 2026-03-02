@@ -1,4 +1,5 @@
 no,category,subcategory,arxiv_url,title,citations,source,additional_doi
+1038,Others,Uncategorized,http://arxiv.org/abs/2602.23543 ,Synthetic Visual Genome 2: Extracting Large-scale Spatio-Temporal Scene Graphs from Videos,0,uncategorized,
 1037,Others,Other Applications,http://arxiv.org/abs/2602.20901 ,SpatiaLQA: A Benchmark for Evaluating Spatial Logical Reasoning in Vision-Language Models,0,manual,
 1036,Robotics,Task-planning,http://arxiv.org/abs/2602.20055 ,To Move or Not to Move: Constraint-based Planning Enables Zero-Shot Generalization for Interactive Navigation,0,manual,
 1035,Others,Weakly Related,http://arxiv.org/abs/2602.19974 ,RL-RIG: A Generative Spatial Reasoner via Intrinsic Reflection,0,manual,
