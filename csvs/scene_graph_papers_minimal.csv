@@ -1,4 +1,6 @@
 no,category,subcategory,arxiv_url,title,citations,source,additional_doi
+1057,Others,Uncategorized,http://arxiv.org/abs/2603.10538 ,DSFlash: Comprehensive Panoptic Scene Graph Generation in Realtime,0,uncategorized,
+1056,Others,Uncategorized,http://arxiv.org/abs/2603.10459 ,SUBTA: A Framework for Supported User-Guided Bimanual Teleoperation in Structured Assembly,0,uncategorized,
 1055,Robotics,Navigation,http://arxiv.org/abs/2603.09826 ,VLM-Loc: Localization in Point Cloud Maps via Vision-Language Models,0,manual,
 1054,Others,Medical,http://arxiv.org/abs/2603.09466 ,TopoOR: A Unified Topological Scene Representation for the Operating Room,0,manual,
 1053,Others,Autonomous Vehicles,http://arxiv.org/abs/2603.08438 ,Graph Based Semantic Encoder Decoder Framework for Task Oriented Communications in Connected Autonomous Vehicles,0,manual,
