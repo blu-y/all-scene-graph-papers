@@ -1,6 +1,6 @@
 # Robotics - Navigation
 
-62 Papers.
+63 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
@@ -13,8 +13,9 @@
 | 913 | 25.09 | Robotics | Navigation | 👤 | [📎](http://arxiv.org/abs/2509.23563) | RAVEN: Resilient Aerial Navigation via Open-Set Semantic Memory and Behavior Adaptation | 0 |
 | 901 | 25.09 | Robotics | Navigation | 👤 | [📎](http://arxiv.org/abs/2509.18592) | VLN-Zero: Rapid Exploration and Cache-Enabled Neurosymbolic Vision-Language Planning for Zero-Shot Transfer in Robot Navigation | 0 |
 | 897 | 25.09 | Robotics | Navigation | 👤 | [📎](http://arxiv.org/abs/2509.13733) | FSR-VLN: Fast and Slow Reasoning for Vision-Language Navigation with Hierarchical Multi-modal Scene Graph | 0 |
-| 890 | 25.09 | Robotics | Navigation | 🤖 | [📎](http://arxiv.org/abs/2509.09594) | ObjectReact: Learning Object-Relative Control for Visual Navigation | 0 |
-| 879 | 25.08 | Robotics | Navigation | 🤖 | [📎](http://arxiv.org/abs/2508.06990) | Imaginative World Modeling with Scene Graphs for Embodied Agent Navigation | 0 |
+| 890 | 25.09 | Robotics | Navigation | 👤 | [📎](http://arxiv.org/abs/2509.09594) | ObjectReact: Learning Object-Relative Control for Visual Navigation | 0 |
+| 879 | 25.08 | Robotics | Navigation | 👤 | [📎](http://arxiv.org/abs/2508.06990) | Imaginative World Modeling with Scene Graphs for Embodied Agent Navigation | 0 |
+| 878 | 25.08 | Robotics | Navigation | 👤 | [📎](http://arxiv.org/abs/2508.06283) | Situationally-aware Path Planning Exploiting 3D Scene Graphs | 0 |
 | 874 | 25.08 | Robotics | Navigation | 🤖 | [📎](http://arxiv.org/abs/2508.04678) | Open Scene Graphs for Open-World Object-Goal Navigation | 0 |
 | 844 | 25.06 | Robotics | Navigation | 🤖 | [📎](http://arxiv.org/abs/2506.15402) | MCOO-SLAM: A Multi-Camera Omnidirectional Object SLAM System | 0 |
 | 843 | 25.06 | Robotics | Navigation | 🤖 | [📎](http://arxiv.org/abs/2506.14178) | TACS-Graphs: Traversability-Aware Consistent Scene Graphs for Ground Robot Localization and Mapping | 0 |

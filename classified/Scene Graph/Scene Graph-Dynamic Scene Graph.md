@@ -1,6 +1,6 @@
 # Scene Graph - Dynamic Scene Graph
 
-81 Papers.
+80 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
@@ -8,9 +8,8 @@
 | 934 | 25.10 | Scene Graph | Dynamic Scene Graph | 👤 | [📎](http://arxiv.org/abs/2510.18697) | Event-Grounding Graph: Unified Spatio-Temporal Scene Graph from Robotic Observations | 0 |
 | 925 | 25.10 | Scene Graph | Dynamic Scene Graph | 👤 | [📎](http://arxiv.org/abs/2510.09483) | FOGMACHINE -- Leveraging Discrete-Event Simulation and Scene Graphs for Modeling Hierarchical, Interconnected Environments under Partial Observations from Mobile Agents | 0 |
 | 908 | 25.09 | Scene Graph | Dynamic Scene Graph | 👤 | [📎](http://arxiv.org/abs/2509.21783) | Prompt-guided Disentangled Representation for Action Recognition | 0 |
-| 888 | 25.09 | Scene Graph | Dynamic Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2509.06165) | UNO: Unifying One-stage Video Scene Graph Generation via Object-Centric Visual Representation Learning | 0 |
-| 884 | 25.08 | Scene Graph | Dynamic Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2508.15258) | Spatio-Temporal Mixed and Augmented Reality Experience Description for Interactive Playback | 0 |
-| 875 | 25.08 | Scene Graph | Dynamic Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2508.04943) | TRKT: Weakly Supervised Dynamic Scene Graph Generation with Temporal-enhanced Relation-aware Knowledge Transferring | 0 |
+| 888 | 25.09 | Scene Graph | Dynamic Scene Graph | 👤 | [📎](http://arxiv.org/abs/2509.06165) | UNO: Unifying One-stage Video Scene Graph Generation via Object-Centric Visual Representation Learning | 0 |
+| 875 | 25.08 | Scene Graph | Dynamic Scene Graph | 👤 | [📎](http://arxiv.org/abs/2508.04943) | TRKT: Weakly Supervised Dynamic Scene Graph Generation with Temporal-enhanced Relation-aware Knowledge Transferring | 0 |
 | 870 | 25.07 | Scene Graph | Dynamic Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2507.21893) | Aether Weaver: Multimodal Affective Narrative Co-Generation with Dynamic Scene Graphs | 0 |
 | 860 | 25.07 | Scene Graph | Dynamic Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2507.09200) | THYME: Temporal Hierarchical-Cyclic Interactivity Modeling for Video Scene Graphs in Aerial Footage | 0 |
 | 827 | 25.06 | Scene Graph | Dynamic Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2506.03082) | SG2VID: Scene Graphs Enable Fine-Grained Control for Video Synthesis | 0 |

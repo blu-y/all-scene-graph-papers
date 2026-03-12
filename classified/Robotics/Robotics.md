@@ -39,12 +39,12 @@
 | 899 | 25.09 | Robotics | Manipulation | 👤 | [📎](http://arxiv.org/abs/2509.16053) | Compose by Focus: Scene Graph-based Atomic Skills | 0 |
 | 897 | 25.09 | Robotics | Navigation | 👤 | [📎](http://arxiv.org/abs/2509.13733) | FSR-VLN: Fast and Slow Reasoning for Vision-Language Navigation with Hierarchical Multi-modal Scene Graph | 0 |
 | 895 | 25.09 | Robotics | Robotic Perception | 👤 | [📎](http://arxiv.org/abs/2509.11959) | Learning to Generate 4D LiDAR Sequences | 0 |
-| 890 | 25.09 | Robotics | Navigation | 🤖 | [📎](http://arxiv.org/abs/2509.09594) | ObjectReact: Learning Object-Relative Control for Visual Navigation | 0 |
-| 889 | 25.09 | Robotics | Manipulation | 🤖 | [📎](http://arxiv.org/abs/2509.07957) | Graph-Fused Vision-Language-Action for Policy Reasoning in Multi-Arm Robotic Manipulation | 0 |
-| 882 | 25.08 | Robotics | Robotic Perception | 🤖 | [📎](http://arxiv.org/abs/2508.12916) | RoboRetriever: Single-Camera Robot Object Retrieval via Active and Interactive Perception with Dynamic Scene Graph | 0 |
-| 881 | 25.08 | Robotics | Robotic Perception | 🤖 | [📎](http://arxiv.org/abs/2508.11286) | Scene Graph-Guided Proactive Replanning for Failure-Resilient Embodied Agent | - |
-| 879 | 25.08 | Robotics | Navigation | 🤖 | [📎](http://arxiv.org/abs/2508.06990) | Imaginative World Modeling with Scene Graphs for Embodied Agent Navigation | 0 |
-| 876 | 25.08 | Robotics | Robotic Perception | 🤖 | [📎](http://arxiv.org/abs/2508.05342) | Information-Theoretic Graph Fusion with Vision-Language-Action Model for Policy Reasoning and Dual Robotic Control | 0 |
+| 890 | 25.09 | Robotics | Navigation | 👤 | [📎](http://arxiv.org/abs/2509.09594) | ObjectReact: Learning Object-Relative Control for Visual Navigation | 0 |
+| 889 | 25.09 | Robotics | Manipulation | 👤 | [📎](http://arxiv.org/abs/2509.07957) | Graph-Fused Vision-Language-Action for Policy Reasoning in Multi-Arm Robotic Manipulation | 0 |
+| 881 | 25.08 | Robotics | Task-planning | 👤 | [📎](http://arxiv.org/abs/2508.11286) | Scene Graph-Guided Proactive Replanning for Failure-Resilient Embodied Agent | - |
+| 879 | 25.08 | Robotics | Navigation | 👤 | [📎](http://arxiv.org/abs/2508.06990) | Imaginative World Modeling with Scene Graphs for Embodied Agent Navigation | 0 |
+| 878 | 25.08 | Robotics | Navigation | 👤 | [📎](http://arxiv.org/abs/2508.06283) | Situationally-aware Path Planning Exploiting 3D Scene Graphs | 0 |
+| 876 | 25.08 | Robotics | Manipulation | 👤 | [📎](http://arxiv.org/abs/2508.05342) | Information-Theoretic Graph Fusion with Vision-Language-Action Model for Policy Reasoning and Dual Robotic Control | 0 |
 | 874 | 25.08 | Robotics | Navigation | 🤖 | [📎](http://arxiv.org/abs/2508.04678) | Open Scene Graphs for Open-World Object-Goal Navigation | 0 |
 | 861 | 25.07 | Robotics | Robotic Perception | 🤖 | [📎](http://arxiv.org/abs/2507.11770) | Generating Actionable Robot Knowledge Bases by Combining 3D Scene Graphs with Robot Ontologies | 0 |
 | 855 | 25.06 | Robotics | Robotic Perception | 🤖 | [📎](http://arxiv.org/abs/2506.22593) | Pixels-to-Graph: Real-time Integration of Building Information Models and Scene Graphs for Semantic-Geometric Human-Robot Understanding | 0 |

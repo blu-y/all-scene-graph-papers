@@ -1,6 +1,6 @@
 # Scene Graph - Scene Graph Generation
 
-328 Papers.
+323 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
@@ -13,12 +13,7 @@
 | 974 | 25.12 | Scene Graph | Scene Graph Generation | 👤 | [📎](http://arxiv.org/abs/2512.05524) | VOST-SGG: VLM-Aided One-Stage Spatio-Temporal Scene Graph Generation | 0 |
 | 960 | 25.11 | Scene Graph | Scene Graph Generation | 👤 | [📎](http://arxiv.org/abs/2511.15948) | Click2Graph: Interactive Panoptic Video Scene Graphs from a Single Click | 0 |
 | 948 | 25.11 | Scene Graph | Scene Graph Generation | 👤 | [📎](http://arxiv.org/abs/2511.05935) | Interaction-Centric Knowledge Infusion and Transfer for Open-Vocabulary Scene Graph Generation | 0 |
-| 891 | 25.09 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2509.09658) | Measuring Epistemic Humility in Multimodal Large Language Models | 0 |
-| 887 | 25.09 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2509.05661) | Language-Driven Object-Oriented Two-Stage Method for Scene Graph Anticipation | 0 |
-| 886 | 25.09 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2509.03516) | Easier Painting Than Thinking: Can Text-to-Image Models Set the Stage, but Not Direct the Play? | 0 |
-| 885 | 25.09 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2509.01209) | Measuring Image-Relation Alignment: Reference-Free Evaluation of VLMs and Synthetic Pre-training for Open-Vocabulary Scene Graph Generation | 0 |
-| 883 | 25.08 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2508.14502) | SATURN: Autoregressive Image Generation Guided by Scene Graphs | 0 |
-| 877 | 25.08 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2508.06125) | SC-Captioner: Improving Image Captioning with Self-Correction by Reinforcement Learning | 0 |
+| 885 | 25.09 | Scene Graph | Scene Graph Generation | 👤 | [📎](http://arxiv.org/abs/2509.01209) | Measuring Image-Relation Alignment: Reference-Free Evaluation of VLMs and Synthetic Pre-training for Open-Vocabulary Scene Graph Generation | 0 |
 | 869 | 25.07 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2507.20804) | MMGraphRAG: Bridging Vision and Language with Interpretable Multimodal Knowledge Graphs | 0 |
 | 867 | 25.07 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2507.18562) | GIIFT: Graph-guided Inductive Image-free Multimodal Machine Translation | 0 |
 | 866 | 25.07 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2507.15782) | Interleaved LLM and Motion Planning for Generalized Multi-Object Collection in Large Scene Graphs | - |

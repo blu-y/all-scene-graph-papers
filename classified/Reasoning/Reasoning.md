@@ -1,6 +1,6 @@
 # Reasoning
 
-141 Papers.
+144 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
@@ -31,7 +31,10 @@
 | 926 | 25.10 | Reasoning | Grounding | 👤 | [📎](http://arxiv.org/abs/2510.10194) | B2N3D: Progressive Learning from Binary to N-ary Relationships for 3D Object Grounding | 0 |
 | 915 | 25.09 | Reasoning | Others | 👤 | [📎](http://arxiv.org/abs/2509.26457) | Attention over Scene Graphs: Indoor Scene Representations Toward CSAI Classification | 0 |
 | 893 | 25.09 | Reasoning | VQA | 👤 | [📎](http://arxiv.org/abs/2509.11862) | Bridging Vision Language Models and Symbolic Grounding for Video Question Answering | 0 |
-| 880 | 25.08 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2508.07023) | MV-CoRe: Multimodal Visual-Conceptual Reasoning for Complex Visual Question Answering | 0 |
+| 891 | 25.09 | Reasoning | Others | 👤 | [📎](http://arxiv.org/abs/2509.09658) | Measuring Epistemic Humility in Multimodal Large Language Models | 0 |
+| 887 | 25.09 | Reasoning | Prediction | 👤 | [📎](http://arxiv.org/abs/2509.05661) | Language-Driven Object-Oriented Two-Stage Method for Scene Graph Anticipation | 0 |
+| 882 | 25.08 | Reasoning | Retrieval | 👤 | [📎](http://arxiv.org/abs/2508.12916) | RoboRetriever: Single-Camera Robot Object Retrieval via Active and Interactive Perception with Dynamic Scene Graph | 0 |
+| 880 | 25.08 | Reasoning | VQA | 👤 | [📎](http://arxiv.org/abs/2508.07023) | MV-CoRe: Multimodal Visual-Conceptual Reasoning for Complex Visual Question Answering | 0 |
 | 858 | 25.07 | Reasoning | Reasoning | 🤖 | [📎](http://arxiv.org/abs/2507.13362) | Enhancing Spatial Reasoning in Vision-Language Models via Chain-of-Thought Prompting and Reinforcement Learning | 0 |
 | 838 | 25.06 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2506.08553) | From Pixels to Graphs: using Scene and Knowledge Graphs for HD-EPIC VQA Challenge | 0 |
 | 828 | 25.06 | Reasoning | Reasoning | 🤖 | [📎](http://arxiv.org/abs/2506.03135) | OmniSpatial: Towards Comprehensive Spatial Reasoning Benchmark for Vision Language Models | 1 |

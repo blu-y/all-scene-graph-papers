@@ -1,6 +1,6 @@
 # Reasoning - Retrieval
 
-25 Papers.
+26 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
@@ -9,6 +9,7 @@
 | 985 | 25.12 | Reasoning | Retrieval | 👤 | [📎](http://arxiv.org/abs/2512.18407) | Through the PRISm: Importance-Aware Scene Graphs for Image Retrieval | 0 |
 | 967 | 25.12 | Reasoning | Retrieval | 👤 | [📎](http://arxiv.org/abs/2512.00294) | Words into World: A Task-Adaptive Agent for Language-Guided Spatial Retrieval in AR | 0 |
 | 956 | 25.11 | Reasoning | Retrieval | 👤 | [📎](http://arxiv.org/abs/2511.14004) | Searching in Space and Time: Unified Memory-Action Loops for Open-World Object Retrieval | 0 |
+| 882 | 25.08 | Reasoning | Retrieval | 👤 | [📎](http://arxiv.org/abs/2508.12916) | RoboRetriever: Single-Camera Robot Object Retrieval via Active and Interactive Perception with Dynamic Scene Graph | 0 |
 | 814 | 25.05 | Reasoning | Retrieval | 🤖 | [📎](http://arxiv.org/abs/2505.16237) | Align-GRAG: Anchor and Rationale Guided Dual Alignment for Graph Retrieval-Augmented Generation | 0 |
 | 813 | 25.05 | Reasoning | Retrieval | 🤖 | [📎](http://arxiv.org/abs/2505.15867) | SCENIR: Visual Semantic Clarity through Unsupervised Scene Graph Retrieval | 0 |
 | 710 | 24.12 | Reasoning | Retrieval | 🤖 | [📎](http://arxiv.org/abs/2412.12788) | RA-SGG: Retrieval-Augmented Scene Graph Generation Framework via Multi-Prototype Learning | 0 |

@@ -1,6 +1,6 @@
 # Others - Weakly Related
 
-22 Papers.
+23 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
@@ -13,6 +13,7 @@
 | 924 | 25.10 | Others | Weakly Related | 👤 | [📎](http://arxiv.org/abs/2510.08512) | Have We Scene It All? Scene Graph-Aware Deep Point Cloud Compression | 0 |
 | 923 | 25.10 | Others | Weakly Related | 👤 | [📎](http://arxiv.org/abs/2510.07053) | Introspection in Learned Semantic Scene Graph Localisation | 0 |
 | 917 | 25.10 | Others | Weakly Related | 👤 | [📎](http://arxiv.org/abs/2510.03727) | Bridging the Gap Between Multimodal Foundation Models and World Models | 0 |
+| 877 | 25.08 | Others | Weakly Related | 👤 | [📎](http://arxiv.org/abs/2508.06125) | SC-Captioner: Improving Image Captioning with Self-Correction by Reinforcement Learning | 0 |
 | 315 | 22.09 | Others | Weakly Related | 👤 | [📎](http://arxiv.org/abs/2209.02981) | VGStore: A Multimodal Extension to SPARQL for Querying RDF Scene Graph | 2 |
 | 289 | 22.06 | Others | Weakly Related | 👤 | [📎](http://arxiv.org/abs/2206.05051) | Temporal Inductive Logic Reasoning over Hypergraphs | 0 |
 | 269 | 22.03 | Others | Weakly Related | 👤 | [📎](http://arxiv.org/abs/2203.10424) | MetaOnce: A Metaverse Framework Based on Multi-scene Relations and Entity-relation-event Game | 2 |

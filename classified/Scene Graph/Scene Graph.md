@@ -1,6 +1,6 @@
 # Scene Graph
 
-650 Papers.
+645 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
@@ -70,16 +70,11 @@
 | 900 | 25.09 | Scene Graph | Representation | 👤 | [📎](http://arxiv.org/abs/2509.16336) | Neural Atlas Graphs for Dynamic Scene Decomposition and Editing | 0 |
 | 898 | 25.09 | Scene Graph | 3D Scene Graph | 👤 | [📎](http://arxiv.org/abs/2509.14949) | Human Interaction for Collaborative Semantic SLAM using Extended Reality | 0 |
 | 894 | 25.09 | Scene Graph | 3D Scene Graph | 👤 | [📎](http://arxiv.org/abs/2509.11895) | Integrating Prior Observations for Incremental 3D Scene Graph Prediction | 0 |
-| 891 | 25.09 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2509.09658) | Measuring Epistemic Humility in Multimodal Large Language Models | 0 |
-| 888 | 25.09 | Scene Graph | Dynamic Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2509.06165) | UNO: Unifying One-stage Video Scene Graph Generation via Object-Centric Visual Representation Learning | 0 |
-| 887 | 25.09 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2509.05661) | Language-Driven Object-Oriented Two-Stage Method for Scene Graph Anticipation | 0 |
-| 886 | 25.09 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2509.03516) | Easier Painting Than Thinking: Can Text-to-Image Models Set the Stage, but Not Direct the Play? | 0 |
-| 885 | 25.09 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2509.01209) | Measuring Image-Relation Alignment: Reference-Free Evaluation of VLMs and Synthetic Pre-training for Open-Vocabulary Scene Graph Generation | 0 |
-| 884 | 25.08 | Scene Graph | Dynamic Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2508.15258) | Spatio-Temporal Mixed and Augmented Reality Experience Description for Interactive Playback | 0 |
-| 883 | 25.08 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2508.14502) | SATURN: Autoregressive Image Generation Guided by Scene Graphs | 0 |
-| 878 | 25.08 | Scene Graph | 3D Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2508.06283) | Situationally-aware Path Planning Exploiting 3D Scene Graphs | 0 |
-| 877 | 25.08 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2508.06125) | SC-Captioner: Improving Image Captioning with Self-Correction by Reinforcement Learning | 0 |
-| 875 | 25.08 | Scene Graph | Dynamic Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2508.04943) | TRKT: Weakly Supervised Dynamic Scene Graph Generation with Temporal-enhanced Relation-aware Knowledge Transferring | 0 |
+| 888 | 25.09 | Scene Graph | Dynamic Scene Graph | 👤 | [📎](http://arxiv.org/abs/2509.06165) | UNO: Unifying One-stage Video Scene Graph Generation via Object-Centric Visual Representation Learning | 0 |
+| 886 | 25.09 | Scene Graph | Dataset/Benchmark | 👤 | [📎](http://arxiv.org/abs/2509.03516) | Easier Painting Than Thinking: Can Text-to-Image Models Set the Stage, but Not Direct the Play? | 0 |
+| 885 | 25.09 | Scene Graph | Scene Graph Generation | 👤 | [📎](http://arxiv.org/abs/2509.01209) | Measuring Image-Relation Alignment: Reference-Free Evaluation of VLMs and Synthetic Pre-training for Open-Vocabulary Scene Graph Generation | 0 |
+| 883 | 25.08 | Scene Graph | Synthesis | 👤 | [📎](http://arxiv.org/abs/2508.14502) | SATURN: Autoregressive Image Generation Guided by Scene Graphs | 0 |
+| 875 | 25.08 | Scene Graph | Dynamic Scene Graph | 👤 | [📎](http://arxiv.org/abs/2508.04943) | TRKT: Weakly Supervised Dynamic Scene Graph Generation with Temporal-enhanced Relation-aware Knowledge Transferring | 0 |
 | 873 | 25.08 | Scene Graph | 3D Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2508.06546) | Statistical Confidence Rescoring for Robust 3D Scene Graph Generation from Multi-View Images | 0 |
 | 872 | 25.08 | Scene Graph | 3D Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2508.03692) | LiDARCrafter: Dynamic 4D World Modeling from LiDAR Sequences | 0 |
 | 871 | 25.08 | Scene Graph | 3D Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2508.03691) | La La LiDAR: Large-Scale Layout Generation from LiDAR Data | 0 |

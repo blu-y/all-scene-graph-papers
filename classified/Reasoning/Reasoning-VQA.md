@@ -10,7 +10,7 @@
 | 966 | 25.11 | Reasoning | VQA | 👤 | [📎](http://arxiv.org/abs/2511.23304) | Multi-Modal Scene Graph with Kolmogorov-Arnold Experts for Audio-Visual Question Answering | 0 |
 | 964 | 25.11 | Reasoning | VQA | 👤 | [📎](http://arxiv.org/abs/2511.20201) | GHR-VQA: Graph-guided Hierarchical Relational Reasoning for Video Question Answering | 0 |
 | 893 | 25.09 | Reasoning | VQA | 👤 | [📎](http://arxiv.org/abs/2509.11862) | Bridging Vision Language Models and Symbolic Grounding for Video Question Answering | 0 |
-| 880 | 25.08 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2508.07023) | MV-CoRe: Multimodal Visual-Conceptual Reasoning for Complex Visual Question Answering | 0 |
+| 880 | 25.08 | Reasoning | VQA | 👤 | [📎](http://arxiv.org/abs/2508.07023) | MV-CoRe: Multimodal Visual-Conceptual Reasoning for Complex Visual Question Answering | 0 |
 | 838 | 25.06 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2506.08553) | From Pixels to Graphs: using Scene and Knowledge Graphs for HD-EPIC VQA Challenge | 0 |
 | 803 | 25.04 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2504.20091) | VideoMultiAgents: A Multi-Agent Framework for Video Question Answering | 0 |
 | 789 | 25.04 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2504.05463) | REVEAL: Relation-based Video Representation Learning for Video-Question-Answering | 0 |

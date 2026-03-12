@@ -7,7 +7,7 @@ Reposity for classifying all arXiv scene graph papers.
 
 ## 📚 Categories
 
-Classified 46.8%(494/1055)
+Classified 48.4%(511/1055)
 
 - [**Scene Graph**](./classified/Scene%20Graph/Scene%20Graph.md)
   - [3D Scene Graph](./classified/Scene%20Graph/Scene%20Graph-3D%20Scene%20Graph.md)
@@ -39,7 +39,6 @@ Classified 46.8%(494/1055)
 - [**Others**](./classified/Others/Others.md)
   - [AR/VR](./classified/Others/Others-AR_VR.md)
   - [Active Learning](./classified/Others/Others-Active%20Learning.md)
-  - [Autonomous Driving](./classified/Others/Others-Autonomous%20Driving.md)
   - [Autonomous Vehicles](./classified/Others/Others-Autonomous%20Vehicles.md)
   - [Medical](./classified/Others/Others-Medical.md)
   - [Other Applications](./classified/Others/Others-Other%20Applications.md)

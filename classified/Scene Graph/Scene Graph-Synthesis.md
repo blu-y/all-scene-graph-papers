@@ -1,6 +1,6 @@
 # Scene Graph - Synthesis
 
-37 Papers.
+38 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
@@ -19,6 +19,7 @@
 | 931 | 25.10 | Scene Graph | Synthesis | 👤 | [📎](http://arxiv.org/abs/2510.15564) | Imaginarium: Vision-guided High-Quality 3D Scene Layout Generation | 0 |
 | 921 | 25.10 | Scene Graph | Synthesis | 👤 | [📎](http://arxiv.org/abs/2510.05742) | Vipera: Blending Visual and LLM-Driven Guidance for Systematic Auditing of Text-to-Image Generative AI | 0 |
 | 905 | 25.09 | Scene Graph | Synthesis | 👤 | [📎](http://arxiv.org/abs/2509.22720) | LayoutAgent: A Vision-Language Agent Guided Compositional Diffusion for Spatial Layout Planning | 0 |
+| 883 | 25.08 | Scene Graph | Synthesis | 👤 | [📎](http://arxiv.org/abs/2508.14502) | SATURN: Autoregressive Image Generation Guided by Scene Graphs | 0 |
 | 328 | 22.10 | Scene Graph | Synthesis | 👤 | [📎](http://arxiv.org/abs/2210.09549) | Swinv2-Imagen: Hierarchical Vision Transformer Diffusion Models for Text-to-Image Generation | 0 |
 | 312 | 22.08 | Scene Graph | Synthesis | 👤 | [📎](http://arxiv.org/abs/2208.13753) | Frido: Feature Pyramid Diffusion for Complex Scene Image Synthesis | 3 |
 | 293 | 22.07 | Scene Graph | Synthesis | 👤 | [📎](http://arxiv.org/abs/2207.00545) | Transforming Image Generation from Scene Graphs | 0 |

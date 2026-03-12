@@ -1,6 +1,6 @@
 # Robotics - Manipulation
 
-30 Papers.
+31 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
@@ -16,7 +16,8 @@
 | 912 | 25.09 | Robotics | Manipulation | 👤 | [📎](http://arxiv.org/abs/2509.23107) | Open-Vocabulary Spatio-Temporal Scene Graph for Robot Perception and Teleoperation Planning | 0 |
 | 909 | 25.09 | Robotics | Manipulation | 👤 | [📎](http://arxiv.org/abs/2509.21928) | SAGE: Scene Graph-Aware Guidance and Execution for Long-Horizon Manipulation Tasks | 0 |
 | 899 | 25.09 | Robotics | Manipulation | 👤 | [📎](http://arxiv.org/abs/2509.16053) | Compose by Focus: Scene Graph-based Atomic Skills | 0 |
-| 889 | 25.09 | Robotics | Manipulation | 🤖 | [📎](http://arxiv.org/abs/2509.07957) | Graph-Fused Vision-Language-Action for Policy Reasoning in Multi-Arm Robotic Manipulation | 0 |
+| 889 | 25.09 | Robotics | Manipulation | 👤 | [📎](http://arxiv.org/abs/2509.07957) | Graph-Fused Vision-Language-Action for Policy Reasoning in Multi-Arm Robotic Manipulation | 0 |
+| 876 | 25.08 | Robotics | Manipulation | 👤 | [📎](http://arxiv.org/abs/2508.05342) | Information-Theoretic Graph Fusion with Vision-Language-Action Model for Policy Reasoning and Dual Robotic Control | 0 |
 | 848 | 25.06 | Robotics | Manipulation | 🤖 | [📎](http://arxiv.org/abs/2506.18825) | SViP: Sequencing Bimanual Visuomotor Policies with Object-Centric Motion Primitives | 0 |
 | 839 | 25.06 | Robotics | Manipulation | 🤖 | [📎](http://arxiv.org/abs/2506.10966) | GENMANIP: LLM-driven Simulation for Generalizable Instruction-Following Manipulation | 0 |
 | 807 | 25.05 | Robotics | Manipulation | 🤖 | [📎](http://arxiv.org/abs/2505.03035) | MORE: Mobile Manipulation Rearrangement Through Grounded Language Reasoning | 0 |
