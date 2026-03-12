@@ -1,15 +1,18 @@
 # Others - Other Applications
 
-9 Papers.
+12 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1046 | 26.03 | Others | Other Applications | 👤 | [📎](http://arxiv.org/abs/2603.06512) | SG-DOR: Learning Scene Graphs with Direction-Conditioned Occlusion Reasoning for Pepper Plants | 0 |
 | 1037 | 26.02 | Others | Other Applications | 👤 | [📎](http://arxiv.org/abs/2602.20901) | SpatiaLQA: A Benchmark for Evaluating Spatial Logical Reasoning in Vision-Language Models | 0 |
 | 955 | 25.11 | Others | Other Applications | 👤 | [📎](http://arxiv.org/abs/2511.13970) | Scene Graph-Guided Generative AI Framework for Synthesizing and Evaluating Industrial Hazard Scenarios | 0 |
 | 954 | 25.11 | Others | Other Applications | 👤 | [📎](http://arxiv.org/abs/2511.12676) | BridgeEQA: Virtual Embodied Agents for Real Bridge Inspections | 0 |
 | 944 | 25.11 | Others | Other Applications | 👤 | [📎](http://arxiv.org/abs/2511.03819) | SILVI: Simple Interface for Labeling Video Interactions | 0 |
 | 940 | 25.10 | Others | Other Applications | 👤 | [📎](http://arxiv.org/abs/2510.23190) | Evaluation of Vision-LLMs in Surveillance Video | 0 |
 | 937 | 25.10 | Others | Other Applications | 👤 | [📎](http://arxiv.org/abs/2510.22204) | Human-Inspired Neuro-Symbolic World Modeling and Logic Reasoning for Interpretable Safe UAV Landing Site Assessment | 0 |
+| 896 | 25.09 | Others | Other Applications | 👤 | [📎](http://arxiv.org/abs/2509.12901) | MSGFusion: Multimodal Scene Graph-Guided Infrared and Visible Image Fusion | 0 |
+| 892 | 25.09 | Others | Other Applications | 👤 | [📎](http://arxiv.org/abs/2509.11796) | FineQuest: Adaptive Knowledge-Assisted Sports Video Understanding via Agent-of-Thoughts Reasoning | 0 |
 | 225 | 21.09 | Others | Other Applications | 👤 | [📎](http://arxiv.org/abs/2109.11955) | Visual Scene Graphs for Audio Source Separation | - |
 | 187 | 21.06 | Others | Other Applications | 👤 | [📎](http://arxiv.org/abs/2106.01607) | Grounding Complex Navigational Instructions Using Scene Graphs | 0 |
 | 159 | 21.02 | Others | Other Applications | 👤 | [📎](http://arxiv.org/abs/2102.04035) | In-game Residential Home Planning via Visual Context-aware Global Relation Learning | 0 |

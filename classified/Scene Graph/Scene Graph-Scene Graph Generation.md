@@ -1,9 +1,11 @@
 # Scene Graph - Scene Graph Generation
 
-327 Papers.
+328 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1050 | 26.03 | Scene Graph | Scene Graph Generation | 👤 | [📎](http://arxiv.org/abs/2603.07961) | SGG-R$^{\rm 3}$: From Next-Token Prediction to End-to-End Unbiased Scene Graph Generation | 0 |
+| 1045 | 26.03 | Scene Graph | Scene Graph Generation | 👤 | [📎](http://arxiv.org/abs/2603.06386) | REACT++: Efficient Cross-Attention for Real-Time Scene Graph Generation | 0 |
 | 1017 | 26.02 | Scene Graph | Scene Graph Generation | 👤 | [📎](http://arxiv.org/abs/2602.00637) | VIZOR: Viewpoint-Invariant Zero-Shot Scene Graph Generation for 3D Scene Reasoning | 0 |
 | 1003 | 26.01 | Scene Graph | Scene Graph Generation | 👤 | [📎](http://arxiv.org/abs/2601.08728) | Salience-SGG: Enhancing Unbiased Scene Graph Generation with Iterative Salience Estimation | 0 |
 | 992 | 25.12 | Scene Graph | Scene Graph Generation | 👤 | [📎](http://arxiv.org/abs/2512.23024) | With Great Context Comes Great Prediction Power: Classifying Objects via Geo-Semantic Scene Graphs | 0 |
@@ -11,7 +13,6 @@
 | 974 | 25.12 | Scene Graph | Scene Graph Generation | 👤 | [📎](http://arxiv.org/abs/2512.05524) | VOST-SGG: VLM-Aided One-Stage Spatio-Temporal Scene Graph Generation | 0 |
 | 960 | 25.11 | Scene Graph | Scene Graph Generation | 👤 | [📎](http://arxiv.org/abs/2511.15948) | Click2Graph: Interactive Panoptic Video Scene Graphs from a Single Click | 0 |
 | 948 | 25.11 | Scene Graph | Scene Graph Generation | 👤 | [📎](http://arxiv.org/abs/2511.05935) | Interaction-Centric Knowledge Infusion and Transfer for Open-Vocabulary Scene Graph Generation | 0 |
-| 896 | 25.09 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2509.12901) | MSGFusion: Multimodal Scene Graph-Guided Infrared and Visible Image Fusion | 0 |
 | 891 | 25.09 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2509.09658) | Measuring Epistemic Humility in Multimodal Large Language Models | 0 |
 | 887 | 25.09 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2509.05661) | Language-Driven Object-Oriented Two-Stage Method for Scene Graph Anticipation | 0 |
 | 886 | 25.09 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2509.03516) | Easier Painting Than Thinking: Can Text-to-Image Models Set the Stage, but Not Direct the Play? | 0 |

@@ -1,9 +1,11 @@
 # Others - Autonomous Driving
 
-28 Papers.
+30 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1053 | 26.03 | Others | Autonomous Driving | 👤 | [📎](http://arxiv.org/abs/2603.08438) | Graph Based Semantic Encoder Decoder Framework for Task Oriented Communications in Connected Autonomous Vehicles | 0 |
+| 1052 | 26.03 | Others | Autonomous Driving | 👤 | [📎](http://arxiv.org/abs/2603.08007) | ViSA-Enhanced Aerial VLN: A Visual-Spatial Reasoning Enhanced Framework for Aerial Vision-Language Navigation | 0 |
 | 991 | 25.12 | Others | Autonomous Driving | 👤 | [📎](http://arxiv.org/abs/2512.22693) | Instance Communication System for Intelligent Connected Vehicles: Bridging the Gap from Semantic to Instance-Level Transmission | 0 |
 | 989 | 25.12 | Others | Autonomous Driving | 👤 | [📎](http://arxiv.org/abs/2512.21133) | SparScene: Efficient Traffic Scene Representation via Sparse Graph Learning for Large-Scale Trajectory Generation | 0 |
 | 984 | 25.12 | Others | Autonomous Driving | 👤 | [📎](http://arxiv.org/abs/2512.17445) | LangDriveCTRL: Natural Language Controllable Driving Scene Editing with Multi-modal Agents | 0 |

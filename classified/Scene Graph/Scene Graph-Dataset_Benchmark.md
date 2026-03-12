@@ -1,9 +1,10 @@
 # Scene Graph - Dataset/Benchmark
 
-34 Papers.
+35 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1038 | 26.02 | Scene Graph | Dataset/Benchmark | 👤 | [📎](http://arxiv.org/abs/2602.23543) | Synthetic Visual Genome 2: Extracting Large-scale Spatio-Temporal Scene Graphs from Videos | 0 |
 | 995 | 26.01 | Scene Graph | Dataset/Benchmark | 👤 | [📎](http://arxiv.org/abs/2601.01181) | GenCAMO: Scene-Graph Contextual Decoupling for Environment-aware and Mask-free Camouflage Image-Dense Annotation Generation | 0 |
 | 965 | 25.11 | Scene Graph | Dataset/Benchmark | 👤 | [📎](http://arxiv.org/abs/2511.20937) | ENACT: Evaluating Embodied Cognition with World Modeling of Egocentric Interaction | 0 |
 | 963 | 25.11 | Scene Graph | Dataset/Benchmark | 👤 | [📎](http://arxiv.org/abs/2511.18817) | Disc3D: Automatic Curation of High-Quality 3D Dialog Data via Discriminative Object Referring | 0 |

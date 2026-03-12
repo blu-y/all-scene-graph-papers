@@ -1,12 +1,13 @@
 # Robotics - Robotic Perception
 
-30 Papers.
+31 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
 | 1023 | 26.02 | Robotics | Robotic Perception | 👤 | [📎](http://arxiv.org/abs/2602.03781) | A Scene Graph Backed Approach to Open Set Semantic Mapping | 0 |
 | 941 | 25.10 | Robotics | Robotic Perception | 👤 | [📎](http://arxiv.org/abs/2510.27033) | A Multi-Modal Neuro-Symbolic Approach for Spatial Reasoning-Based Visual Grounding in Robotics | 0 |
 | 928 | 25.10 | Robotics | Robotic Perception | 👤 | [📎](http://arxiv.org/abs/2510.10778) | Real2USD: Scene Representations in Universal Scene Description Language | 0 |
+| 895 | 25.09 | Robotics | Robotic Perception | 👤 | [📎](http://arxiv.org/abs/2509.11959) | Learning to Generate 4D LiDAR Sequences | 0 |
 | 882 | 25.08 | Robotics | Robotic Perception | 🤖 | [📎](http://arxiv.org/abs/2508.12916) | RoboRetriever: Single-Camera Robot Object Retrieval via Active and Interactive Perception with Dynamic Scene Graph | 0 |
 | 881 | 25.08 | Robotics | Robotic Perception | 🤖 | [📎](http://arxiv.org/abs/2508.11286) | Scene Graph-Guided Proactive Replanning for Failure-Resilient Embodied Agent | - |
 | 876 | 25.08 | Robotics | Robotic Perception | 🤖 | [📎](http://arxiv.org/abs/2508.05342) | Information-Theoretic Graph Fusion with Vision-Language-Action Model for Policy Reasoning and Dual Robotic Control | 0 |

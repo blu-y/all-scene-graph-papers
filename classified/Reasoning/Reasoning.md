@@ -1,9 +1,12 @@
 # Reasoning
 
-138 Papers.
+141 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1047 | 26.03 | Reasoning | Reasoning | 👤 | [📎](http://arxiv.org/abs/2603.06663) | Graph-of-Mark: Promote Spatial Reasoning in Multimodal Language Models with Graph-Based Visual Prompting | 0 |
+| 1043 | 26.03 | Reasoning | Retrieval | 👤 | [📎](http://arxiv.org/abs/2603.04614) | SGR3 Model: Scene Graph Retrieval-Reasoning Model in 3D | 0 |
+| 1039 | 26.03 | Reasoning | Reasoning | 👤 | [📎](http://arxiv.org/abs/2603.00409) | SSR: Pushing the Limit of Spatial Intelligence with Structured Scene Reasoning | 0 |
 | 1034 | 26.02 | Reasoning | Reasoning | 👤 | [📎](http://arxiv.org/abs/2602.17555) | GraphThinker: Reinforcing Video Reasoning with Event Graph Thinking | 0 |
 | 1026 | 26.02 | Reasoning | Grounding | 👤 | [📎](http://arxiv.org/abs/2602.04635) | Relational Scene Graphs for Object Grounding of Natural Language Commands | 0 |
 | 1016 | 26.02 | Reasoning | Reasoning | 👤 | [📎](http://arxiv.org/abs/2602.00414) | Toward Autonomous Laboratory Safety Monitoring with Vision Language Models: Learning to See Hazards Through Scene Structure | 0 |
@@ -27,7 +30,7 @@
 | 935 | 25.10 | Reasoning | Captioning | 👤 | [📎](http://arxiv.org/abs/2510.19060) | PoSh: Using Scene Graphs To Guide LLMs-as-a-Judge For Detailed Image Descriptions | 0 |
 | 926 | 25.10 | Reasoning | Grounding | 👤 | [📎](http://arxiv.org/abs/2510.10194) | B2N3D: Progressive Learning from Binary to N-ary Relationships for 3D Object Grounding | 0 |
 | 915 | 25.09 | Reasoning | Others | 👤 | [📎](http://arxiv.org/abs/2509.26457) | Attention over Scene Graphs: Indoor Scene Representations Toward CSAI Classification | 0 |
-| 893 | 25.09 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2509.11862) | Bridging Vision Language Models and Symbolic Grounding for Video Question Answering | 0 |
+| 893 | 25.09 | Reasoning | VQA | 👤 | [📎](http://arxiv.org/abs/2509.11862) | Bridging Vision Language Models and Symbolic Grounding for Video Question Answering | 0 |
 | 880 | 25.08 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2508.07023) | MV-CoRe: Multimodal Visual-Conceptual Reasoning for Complex Visual Question Answering | 0 |
 | 858 | 25.07 | Reasoning | Reasoning | 🤖 | [📎](http://arxiv.org/abs/2507.13362) | Enhancing Spatial Reasoning in Vision-Language Models via Chain-of-Thought Prompting and Reinforcement Learning | 0 |
 | 838 | 25.06 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2506.08553) | From Pixels to Graphs: using Scene and Knowledge Graphs for HD-EPIC VQA Challenge | 0 |

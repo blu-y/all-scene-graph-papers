@@ -1,9 +1,11 @@
 # Robotics
 
-149 Papers.
+152 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1055 | 26.03 | Robotics | Navigation | 👤 | [📎](http://arxiv.org/abs/2603.09826) | VLM-Loc: Localization in Point Cloud Maps via Vision-Language Models | 0 |
+| 1041 | 26.03 | Robotics | Task-planning | 👤 | [📎](http://arxiv.org/abs/2603.03514) | Sampling-Based Motion Planning with Scene Graphs Under Perception Constraints | 0 |
 | 1036 | 26.02 | Robotics | Task-planning | 👤 | [📎](http://arxiv.org/abs/2602.20055) | To Move or Not to Move: Constraint-based Planning Enables Zero-Shot Generalization for Interactive Navigation | 0 |
 | 1032 | 26.02 | Robotics | Manipulation | 👤 | [📎](http://arxiv.org/abs/2602.13086) | UniManip: General-Purpose Zero-Shot Robotic Manipulation with Agentic Operational Graph | 0 |
 | 1030 | 26.02 | Robotics | Task-planning | 👤 | [📎](http://arxiv.org/abs/2602.12244) | Any House Any Task: Scalable Long-Horizon Planning for Abstract Human Tasks | 0 |
@@ -36,6 +38,7 @@
 | 901 | 25.09 | Robotics | Navigation | 👤 | [📎](http://arxiv.org/abs/2509.18592) | VLN-Zero: Rapid Exploration and Cache-Enabled Neurosymbolic Vision-Language Planning for Zero-Shot Transfer in Robot Navigation | 0 |
 | 899 | 25.09 | Robotics | Manipulation | 👤 | [📎](http://arxiv.org/abs/2509.16053) | Compose by Focus: Scene Graph-based Atomic Skills | 0 |
 | 897 | 25.09 | Robotics | Navigation | 👤 | [📎](http://arxiv.org/abs/2509.13733) | FSR-VLN: Fast and Slow Reasoning for Vision-Language Navigation with Hierarchical Multi-modal Scene Graph | 0 |
+| 895 | 25.09 | Robotics | Robotic Perception | 👤 | [📎](http://arxiv.org/abs/2509.11959) | Learning to Generate 4D LiDAR Sequences | 0 |
 | 890 | 25.09 | Robotics | Navigation | 🤖 | [📎](http://arxiv.org/abs/2509.09594) | ObjectReact: Learning Object-Relative Control for Visual Navigation | 0 |
 | 889 | 25.09 | Robotics | Manipulation | 🤖 | [📎](http://arxiv.org/abs/2509.07957) | Graph-Fused Vision-Language-Action for Policy Reasoning in Multi-Arm Robotic Manipulation | 0 |
 | 882 | 25.08 | Robotics | Robotic Perception | 🤖 | [📎](http://arxiv.org/abs/2508.12916) | RoboRetriever: Single-Camera Robot Object Retrieval via Active and Interactive Perception with Dynamic Scene Graph | 0 |

@@ -1,9 +1,11 @@
 # Others - Medical
 
-19 Papers.
+21 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1054 | 26.03 | Others | Medical | 👤 | [📎](http://arxiv.org/abs/2603.09466) | TopoOR: A Unified Topological Scene Representation for the Operating Room | 0 |
+| 1051 | 26.03 | Others | Medical | 👤 | [📎](http://arxiv.org/abs/2603.07981) | Extend Your Horizon: A Device-Agnostic Surgical Tool Tracking Framework with Multi-View Optimization for Augmented Reality | 0 |
 | 979 | 25.12 | Others | Medical | 👤 | [📎](http://arxiv.org/abs/2512.14092) | ProtoFlow: Interpretable and Robust Surgical Workflow Modeling with Learned Dynamic Scene Graph Prototypes | 0 |
 | 910 | 25.09 | Others | Medical | 👤 | [📎](http://arxiv.org/abs/2509.22014) | Lightweight Structured Multimodal Reasoning for Clinical Scene Understanding in Robotics | 0 |
 | 906 | 25.09 | Others | Medical | 👤 | [📎](http://arxiv.org/abs/2509.20941) | Decoding the Surgical Scene: A Scoping Review of Scene Graphs in Surgery | 0 |

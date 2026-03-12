@@ -1,9 +1,15 @@
 # Scene Graph
 
-647 Papers.
+650 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1050 | 26.03 | Scene Graph | Scene Graph Generation | 👤 | [📎](http://arxiv.org/abs/2603.07961) | SGG-R$^{\rm 3}$: From Next-Token Prediction to End-to-End Unbiased Scene Graph Generation | 0 |
+| 1049 | 26.03 | Scene Graph | Synthesis | 👤 | [📎](http://arxiv.org/abs/2603.07704) | PARSE: Part-Aware Relational Spatial Modeling | 0 |
+| 1045 | 26.03 | Scene Graph | Scene Graph Generation | 👤 | [📎](http://arxiv.org/abs/2603.06386) | REACT++: Efficient Cross-Attention for Real-Time Scene Graph Generation | 0 |
+| 1044 | 26.03 | Scene Graph | 3D Scene Graph | 👤 | [📎](http://arxiv.org/abs/2603.05642) | Relational Semantic Reasoning on 3D Scene Graphs for Open World Interactive Object Search | 0 |
+| 1040 | 26.03 | Scene Graph | Synthesis | 👤 | [📎](http://arxiv.org/abs/2603.02133) | SimRecon: SimReady Compositional Scene Reconstruction from Real Videos | 0 |
+| 1038 | 26.02 | Scene Graph | Dataset/Benchmark | 👤 | [📎](http://arxiv.org/abs/2602.23543) | Synthetic Visual Genome 2: Extracting Large-scale Spatio-Temporal Scene Graphs from Videos | 0 |
 | 1033 | 26.02 | Scene Graph | 3D Scene Graph | 👤 | [📎](http://arxiv.org/abs/2602.16356) | Articulated 3D Scene Graphs for Open-World Mobile Manipulation | 0 |
 | 1031 | 26.02 | Scene Graph | 3D Scene Graph | 👤 | [📎](http://arxiv.org/abs/2602.12971) | INHerit-SG: Incremental Hierarchical Semantic Scene Graphs with RAG-Style Retrieval | 0 |
 | 1029 | 26.02 | Scene Graph | Synthesis | 👤 | [📎](http://arxiv.org/abs/2602.09165) | All-in-One Conditioning for Text-to-Image Synthesis | 0 |
@@ -63,10 +69,7 @@
 | 902 | 25.09 | Scene Graph | 3D Scene Graph | 👤 | [📎](http://arxiv.org/abs/2509.19579) | Terra: Hierarchical Terrain-Aware 3D Scene Graph for Task-Agnostic Outdoor Mapping | 0 |
 | 900 | 25.09 | Scene Graph | Representation | 👤 | [📎](http://arxiv.org/abs/2509.16336) | Neural Atlas Graphs for Dynamic Scene Decomposition and Editing | 0 |
 | 898 | 25.09 | Scene Graph | 3D Scene Graph | 👤 | [📎](http://arxiv.org/abs/2509.14949) | Human Interaction for Collaborative Semantic SLAM using Extended Reality | 0 |
-| 896 | 25.09 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2509.12901) | MSGFusion: Multimodal Scene Graph-Guided Infrared and Visible Image Fusion | 0 |
-| 895 | 25.09 | Scene Graph | 3D Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2509.11959) | Learning to Generate 4D LiDAR Sequences | 0 |
-| 894 | 25.09 | Scene Graph | 3D Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2509.11895) | Integrating Prior Observations for Incremental 3D Scene Graph Prediction | 0 |
-| 892 | 25.09 | Scene Graph | Dynamic Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2509.11796) | FineQuest: Adaptive Knowledge-Assisted Sports Video Understanding via Agent-of-Thoughts Reasoning | 0 |
+| 894 | 25.09 | Scene Graph | 3D Scene Graph | 👤 | [📎](http://arxiv.org/abs/2509.11895) | Integrating Prior Observations for Incremental 3D Scene Graph Prediction | 0 |
 | 891 | 25.09 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2509.09658) | Measuring Epistemic Humility in Multimodal Large Language Models | 0 |
 | 888 | 25.09 | Scene Graph | Dynamic Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2509.06165) | UNO: Unifying One-stage Video Scene Graph Generation via Object-Centric Visual Representation Learning | 0 |
 | 887 | 25.09 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2509.05661) | Language-Driven Object-Oriented Two-Stage Method for Scene Graph Anticipation | 0 |

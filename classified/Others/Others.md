@@ -1,27 +1,16 @@
 # Others
 
-121 Papers.
+112 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
-| 1055 | 26.03 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2603.09826) | VLM-Loc: Localization in Point Cloud Maps via Vision-Language Models | 0 |
-| 1054 | 26.03 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2603.09466) | TopoOR: A Unified Topological Scene Representation for the Operating Room | 0 |
-| 1053 | 26.03 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2603.08438) | Graph Based Semantic Encoder Decoder Framework for Task Oriented Communications in Connected Autonomous Vehicles | 0 |
-| 1052 | 26.03 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2603.08007) | ViSA-Enhanced Aerial VLN: A Visual-Spatial Reasoning Enhanced Framework for Aerial Vision-Language Navigation | 0 |
-| 1051 | 26.03 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2603.07981) | Extend Your Horizon: A Device-Agnostic Surgical Tool Tracking Framework with Multi-View Optimization for Augmented Reality | 0 |
-| 1050 | 26.03 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2603.07961) | SGG-R$^{\rm 3}$: From Next-Token Prediction to End-to-End Unbiased Scene Graph Generation | 0 |
-| 1049 | 26.03 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2603.07704) | PARSE: Part-Aware Relational Spatial Modeling | 0 |
-| 1048 | 26.03 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2603.07627) | Task Breakpoint Generation using Origin-Centric Graph in Virtual Reality Recordings for Adaptive Playback | 0 |
-| 1047 | 26.03 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2603.06663) | Graph-of-Mark: Promote Spatial Reasoning in Multimodal Language Models with Graph-Based Visual Prompting | 0 |
-| 1046 | 26.03 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2603.06512) | SG-DOR: Learning Scene Graphs with Direction-Conditioned Occlusion Reasoning for Pepper Plants | 0 |
-| 1045 | 26.03 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2603.06386) | REACT++: Efficient Cross-Attention for Real-Time Scene Graph Generation | 0 |
-| 1044 | 26.03 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2603.05642) | Relational Semantic Reasoning on 3D Scene Graphs for Open World Interactive Object Search | 0 |
-| 1043 | 26.03 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2603.04614) | SGR3 Model: Scene Graph Retrieval-Reasoning Model in 3D | 0 |
-| 1042 | 26.03 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2603.03584) | Hazard-Aware Traffic Scene Graph Generation | 0 |
-| 1041 | 26.03 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2603.03514) | Sampling-Based Motion Planning with Scene Graphs Under Perception Constraints | 0 |
-| 1040 | 26.03 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2603.02133) | SimRecon: SimReady Compositional Scene Reconstruction from Real Videos | 0 |
-| 1039 | 26.03 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2603.00409) | SSR: Pushing the Limit of Spatial Intelligence with Structured Scene Reasoning | 0 |
-| 1038 | 26.02 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2602.23543) | Synthetic Visual Genome 2: Extracting Large-scale Spatio-Temporal Scene Graphs from Videos | 0 |
+| 1054 | 26.03 | Others | Medical | 👤 | [📎](http://arxiv.org/abs/2603.09466) | TopoOR: A Unified Topological Scene Representation for the Operating Room | 0 |
+| 1053 | 26.03 | Others | Autonomous Driving | 👤 | [📎](http://arxiv.org/abs/2603.08438) | Graph Based Semantic Encoder Decoder Framework for Task Oriented Communications in Connected Autonomous Vehicles | 0 |
+| 1052 | 26.03 | Others | Autonomous Driving | 👤 | [📎](http://arxiv.org/abs/2603.08007) | ViSA-Enhanced Aerial VLN: A Visual-Spatial Reasoning Enhanced Framework for Aerial Vision-Language Navigation | 0 |
+| 1051 | 26.03 | Others | Medical | 👤 | [📎](http://arxiv.org/abs/2603.07981) | Extend Your Horizon: A Device-Agnostic Surgical Tool Tracking Framework with Multi-View Optimization for Augmented Reality | 0 |
+| 1048 | 26.03 | Others | AR/VR | 👤 | [📎](http://arxiv.org/abs/2603.07627) | Task Breakpoint Generation using Origin-Centric Graph in Virtual Reality Recordings for Adaptive Playback | 0 |
+| 1046 | 26.03 | Others | Other Applications | 👤 | [📎](http://arxiv.org/abs/2603.06512) | SG-DOR: Learning Scene Graphs with Direction-Conditioned Occlusion Reasoning for Pepper Plants | 0 |
+| 1042 | 26.03 | Others | Autonomous Vehicles | 👤 | [📎](http://arxiv.org/abs/2603.03584) | Hazard-Aware Traffic Scene Graph Generation | 0 |
 | 1037 | 26.02 | Others | Other Applications | 👤 | [📎](http://arxiv.org/abs/2602.20901) | SpatiaLQA: A Benchmark for Evaluating Spatial Logical Reasoning in Vision-Language Models | 0 |
 | 1035 | 26.02 | Others | Weakly Related | 👤 | [📎](http://arxiv.org/abs/2602.19974) | RL-RIG: A Generative Spatial Reasoner via Intrinsic Reflection | 0 |
 | 1028 | 26.02 | Others | Not Related | 👤 | [📎](http://arxiv.org/abs/2602.07541) | Differentiate-and-Inject: Enhancing VLAs via Functional Differentiation Induced by In-Parameter Structural Reasoning | 0 |
@@ -49,6 +38,8 @@
 | 917 | 25.10 | Others | Weakly Related | 👤 | [📎](http://arxiv.org/abs/2510.03727) | Bridging the Gap Between Multimodal Foundation Models and World Models | 0 |
 | 910 | 25.09 | Others | Medical | 👤 | [📎](http://arxiv.org/abs/2509.22014) | Lightweight Structured Multimodal Reasoning for Clinical Scene Understanding in Robotics | 0 |
 | 906 | 25.09 | Others | Medical | 👤 | [📎](http://arxiv.org/abs/2509.20941) | Decoding the Surgical Scene: A Scoping Review of Scene Graphs in Surgery | 0 |
+| 896 | 25.09 | Others | Other Applications | 👤 | [📎](http://arxiv.org/abs/2509.12901) | MSGFusion: Multimodal Scene Graph-Guided Infrared and Visible Image Fusion | 0 |
+| 892 | 25.09 | Others | Other Applications | 👤 | [📎](http://arxiv.org/abs/2509.11796) | FineQuest: Adaptive Knowledge-Assisted Sports Video Understanding via Agent-of-Thoughts Reasoning | 0 |
 | 865 | 25.07 | Others | Medical | 🤖 | [📎](http://arxiv.org/abs/2507.15541) | Towards Holistic Surgical Scene Graph | 0 |
 | 853 | 25.06 | Others | Medical | 🤖 | [📎](http://arxiv.org/abs/2506.21813) | CAT-SG: A Large Dynamic Scene Graph Dataset for Fine-Grained Understanding of Cataract Surgery | 0 |
 | 847 | 25.06 | Others | Autonomous Driving | 🤖 | [📎](http://arxiv.org/abs/2506.17590) | DRAMA-X: A Fine-grained Intent Prediction and Risk Reasoning Benchmark For Driving | 0 |

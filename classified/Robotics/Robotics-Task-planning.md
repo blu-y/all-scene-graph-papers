@@ -1,9 +1,10 @@
 # Robotics - Task-planning
 
-25 Papers.
+26 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1041 | 26.03 | Robotics | Task-planning | 👤 | [📎](http://arxiv.org/abs/2603.03514) | Sampling-Based Motion Planning with Scene Graphs Under Perception Constraints | 0 |
 | 1036 | 26.02 | Robotics | Task-planning | 👤 | [📎](http://arxiv.org/abs/2602.20055) | To Move or Not to Move: Constraint-based Planning Enables Zero-Shot Generalization for Interactive Navigation | 0 |
 | 1030 | 26.02 | Robotics | Task-planning | 👤 | [📎](http://arxiv.org/abs/2602.12244) | Any House Any Task: Scalable Long-Horizon Planning for Abstract Human Tasks | 0 |
 | 1011 | 26.01 | Robotics | Task-planning | 👤 | [📎](http://arxiv.org/abs/2601.18765) | Goal-oriented Communication for Fast and Robust Robotic Fault Detection and Recovery | 0 |

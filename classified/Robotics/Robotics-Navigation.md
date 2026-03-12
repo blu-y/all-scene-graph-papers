@@ -1,9 +1,10 @@
 # Robotics - Navigation
 
-61 Papers.
+62 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1055 | 26.03 | Robotics | Navigation | 👤 | [📎](http://arxiv.org/abs/2603.09826) | VLM-Loc: Localization in Point Cloud Maps via Vision-Language Models | 0 |
 | 1018 | 26.02 | Robotics | Navigation | 👤 | [📎](http://arxiv.org/abs/2602.00708) | USS-Nav: Unified Spatio-Semantic Scene Graph for Lightweight UAV Zero-Shot Object Navigation | 0 |
 | 1001 | 26.01 | Robotics | Navigation | 👤 | [📎](http://arxiv.org/abs/2601.06806) | SpatialNav: Leveraging Spatial Scene Graphs for Zero-Shot Vision-and-Language Navigation | 0 |
 | 996 | 26.01 | Robotics | Navigation | 👤 | [📎](http://arxiv.org/abs/2601.01872) | CausalNav: A Long-term Embodied Navigation System for Autonomous Mobile Robots in Dynamic Outdoor Scenarios | 0 |

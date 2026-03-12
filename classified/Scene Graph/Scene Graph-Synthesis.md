@@ -1,9 +1,11 @@
 # Scene Graph - Synthesis
 
-35 Papers.
+37 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1049 | 26.03 | Scene Graph | Synthesis | 👤 | [📎](http://arxiv.org/abs/2603.07704) | PARSE: Part-Aware Relational Spatial Modeling | 0 |
+| 1040 | 26.03 | Scene Graph | Synthesis | 👤 | [📎](http://arxiv.org/abs/2603.02133) | SimRecon: SimReady Compositional Scene Reconstruction from Real Videos | 0 |
 | 1029 | 26.02 | Scene Graph | Synthesis | 👤 | [📎](http://arxiv.org/abs/2602.09165) | All-in-One Conditioning for Text-to-Image Synthesis | 0 |
 | 1015 | 26.01 | Scene Graph | Synthesis | 👤 | [📎](http://arxiv.org/abs/2601.21498) | SimGraph: A Unified Framework for Scene Graph-Based Image Generation and Editing | 0 |
 | 1012 | 26.01 | Scene Graph | Synthesis | 👤 | [📎](http://arxiv.org/abs/2601.19433) | RoamScene3D: Immersive Text-to-3D Scene Generation via Adaptive Object-aware Roaming | 0 |

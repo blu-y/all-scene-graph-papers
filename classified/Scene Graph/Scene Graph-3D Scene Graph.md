@@ -4,6 +4,7 @@
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1044 | 26.03 | Scene Graph | 3D Scene Graph | 👤 | [📎](http://arxiv.org/abs/2603.05642) | Relational Semantic Reasoning on 3D Scene Graphs for Open World Interactive Object Search | 0 |
 | 1033 | 26.02 | Scene Graph | 3D Scene Graph | 👤 | [📎](http://arxiv.org/abs/2602.16356) | Articulated 3D Scene Graphs for Open-World Mobile Manipulation | 0 |
 | 1031 | 26.02 | Scene Graph | 3D Scene Graph | 👤 | [📎](http://arxiv.org/abs/2602.12971) | INHerit-SG: Incremental Hierarchical Semantic Scene Graphs with RAG-Style Retrieval | 0 |
 | 1024 | 26.02 | Scene Graph | 3D Scene Graph | 👤 | [📎](http://arxiv.org/abs/2602.04152) | MA3DSG: Multi-Agent 3D Scene Graph Generation for Large-Scale Indoor Environments | 0 |
@@ -31,8 +32,7 @@
 | 903 | 25.09 | Scene Graph | 3D Scene Graph | 👤 | [📎](http://arxiv.org/abs/2509.20401) | SGAligner++: Cross-Modal Language-Aided 3D Scene Graph Alignment | 0 |
 | 902 | 25.09 | Scene Graph | 3D Scene Graph | 👤 | [📎](http://arxiv.org/abs/2509.19579) | Terra: Hierarchical Terrain-Aware 3D Scene Graph for Task-Agnostic Outdoor Mapping | 0 |
 | 898 | 25.09 | Scene Graph | 3D Scene Graph | 👤 | [📎](http://arxiv.org/abs/2509.14949) | Human Interaction for Collaborative Semantic SLAM using Extended Reality | 0 |
-| 895 | 25.09 | Scene Graph | 3D Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2509.11959) | Learning to Generate 4D LiDAR Sequences | 0 |
-| 894 | 25.09 | Scene Graph | 3D Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2509.11895) | Integrating Prior Observations for Incremental 3D Scene Graph Prediction | 0 |
+| 894 | 25.09 | Scene Graph | 3D Scene Graph | 👤 | [📎](http://arxiv.org/abs/2509.11895) | Integrating Prior Observations for Incremental 3D Scene Graph Prediction | 0 |
 | 878 | 25.08 | Scene Graph | 3D Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2508.06283) | Situationally-aware Path Planning Exploiting 3D Scene Graphs | 0 |
 | 873 | 25.08 | Scene Graph | 3D Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2508.06546) | Statistical Confidence Rescoring for Robust 3D Scene Graph Generation from Multi-View Images | 0 |
 | 872 | 25.08 | Scene Graph | 3D Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2508.03692) | LiDARCrafter: Dynamic 4D World Modeling from LiDAR Sequences | 0 |
