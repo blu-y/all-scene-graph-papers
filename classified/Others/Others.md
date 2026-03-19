@@ -1,9 +1,12 @@
 # Others
 
-121 Papers.
+124 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1065 | 26.03 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2603.17625) | S-VGGT: Structure-Aware Subscene Decomposition for Scalable 3D Foundation Models | 0 |
+| 1064 | 26.03 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2603.17605) | ReLaGS: Relational Language Gaussian Splatting | 0 |
+| 1063 | 26.03 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2603.17351) | OmniVLN: Omnidirectional 3D Perception and Token-Efficient LLM Reasoning for Visual-Language Navigation across Air and Ground Platforms | 0 |
 | 1062 | 26.03 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2603.16645) | BUSSARD: Normalizing Flows for Bijective Universal Scene-Specific Anomalous Relationship Detection | 0 |
 | 1061 | 26.03 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2603.16301) | OGScene3D: Incremental Open-Vocabulary 3D Gaussian Scene Graph Mapping for Scene Understanding | 0 |
 | 1060 | 26.03 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2603.16179) | 360° Image Perception with MLLMs: A Comprehensive Benchmark and a Training-Free Method | 0 |
