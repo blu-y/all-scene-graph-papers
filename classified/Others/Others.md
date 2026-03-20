@@ -1,9 +1,11 @@
 # Others
 
-124 Papers.
+126 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1067 | 26.03 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2603.19137) | GSMem: 3D Gaussian Splatting as Persistent Spatial Memory for Zero-Shot Embodied Exploration and Reasoning | 0 |
+| 1066 | 26.03 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2603.18271) | SG-CoT: An Ambiguity-Aware Robotic Planning Framework using Scene Graph Representations | 0 |
 | 1065 | 26.03 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2603.17625) | S-VGGT: Structure-Aware Subscene Decomposition for Scalable 3D Foundation Models | 0 |
 | 1064 | 26.03 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2603.17605) | ReLaGS: Relational Language Gaussian Splatting | 0 |
 | 1063 | 26.03 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2603.17351) | OmniVLN: Omnidirectional 3D Perception and Token-Efficient LLM Reasoning for Visual-Language Navigation across Air and Ground Platforms | 0 |
