@@ -1,9 +1,17 @@
 # Others - Uncategorized
 
-12 Papers.
+20 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1075 | 26.03 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2603.22279) | 3D-Layout-R1: Structured Reasoning for Language-Instructed Spatial Editing | 0 |
+| 1074 | 26.03 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2603.21887) | IGV-RRT: Prior-Real-Time Observation Fusion for Active Object Search in Changing Environments | 0 |
+| 1073 | 26.03 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2603.21559) | Revisiting Weakly-Supervised Video Scene Graph Generation via Pair Affinity Learning | 0 |
+| 1072 | 26.03 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2603.21114) | CVT-Bench: Counterfactual Viewpoint Transformations Reveal Unstable Spatial Representations in Multimodal LLMs | 0 |
+| 1071 | 26.03 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2603.20887) | Scene Graph-guided SegCaptioning Transformer with Fine-grained Alignment for Controllable Video Segmentation and Captioning | 0 |
+| 1070 | 26.03 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2603.20781) | Code-MIE: A Code-style Model for Multimodal Information Extraction with Scene Graph and Entity Attribute Knowledge Enhancement | 0 |
+| 1069 | 26.03 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2603.20530) | Memory Over Maps: 3D Object Localization Without Reconstruction | 0 |
+| 1068 | 26.03 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2603.20239) | Rheos: Modelling Continuous Motion Dynamics in Hierarchical 3D Scene Graphs | 0 |
 | 1067 | 26.03 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2603.19137) | GSMem: 3D Gaussian Splatting as Persistent Spatial Memory for Zero-Shot Embodied Exploration and Reasoning | 0 |
 | 1066 | 26.03 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2603.18271) | SG-CoT: An Ambiguity-Aware Robotic Planning Framework using Scene Graph Representations | 0 |
 | 1065 | 26.03 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2603.17625) | S-VGGT: Structure-Aware Subscene Decomposition for Scalable 3D Foundation Models | 0 |
