@@ -1,9 +1,11 @@
 # Others
 
-134 Papers.
+136 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1077 | 26.03 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2603.22839) | MultiCam: On-the-fly Multi-Camera Pose Estimation Using Spatiotemporal Overlaps of Known Objects | 0 |
+| 1076 | 25.10 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2510.01483) | VL-KnG: Persistent Spatiotemporal Knowledge Graphs from Egocentric Video for Embodied Scene Understanding | 0 |
 | 1075 | 26.03 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2603.22279) | 3D-Layout-R1: Structured Reasoning for Language-Instructed Spatial Editing | 0 |
 | 1074 | 26.03 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2603.21887) | IGV-RRT: Prior-Real-Time Observation Fusion for Active Object Search in Changing Environments | 0 |
 | 1073 | 26.03 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2603.21559) | Revisiting Weakly-Supervised Video Scene Graph Generation via Pair Affinity Learning | 0 |
