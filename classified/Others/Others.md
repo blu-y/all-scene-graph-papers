@@ -1,9 +1,10 @@
 # Others
 
-143 Papers.
+144 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1085 | 26.04 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2604.01460) | Reinforcing Consistency in Video MLLMs with Structured Rewards | 0 |
 | 1084 | 26.03 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2603.28732) | Pandora: Articulated 3D Scene Graphs from Egocentric Vision | 0 |
 | 1083 | 26.03 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2603.27349) | Inference-Time Structural Reasoning for Compositional Vision-Language Understanding | 0 |
 | 1082 | 26.03 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2603.26685) | Contextual Graph Representations for Task-Driven 3D Perception and Planning | 0 |
