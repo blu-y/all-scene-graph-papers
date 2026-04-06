@@ -1,9 +1,10 @@
 # Others - Uncategorized
 
-30 Papers.
+31 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1086 | 26.04 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2604.02996) | Rendering Multi-Human and Multi-Object with 3D Gaussian Splatting | 0 |
 | 1085 | 26.04 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2604.01460) | Reinforcing Consistency in Video MLLMs with Structured Rewards | 0 |
 | 1084 | 26.03 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2603.28732) | Pandora: Articulated 3D Scene Graphs from Egocentric Vision | 0 |
 | 1083 | 26.03 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2603.27349) | Inference-Time Structural Reasoning for Compositional Vision-Language Understanding | 0 |
