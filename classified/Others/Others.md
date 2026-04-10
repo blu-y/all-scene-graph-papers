@@ -1,9 +1,10 @@
 # Others
 
-149 Papers.
+150 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1091 | 26.04 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2604.07859) | Object-Attribute-Relation Model Driven Adaptive Hierarchical Transmission for Multimodal Semantic Communication | 0 |
 | 1090 | 26.04 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2604.07132) | CSA-Graphs: A Privacy-Preserving Structural Dataset for Child Sexual Abuse Research | 0 |
 | 1089 | 26.04 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2604.03697) | SGTA: Scene-Graph Based Multi-Modal Traffic Agent for Video Understanding | 0 |
 | 1088 | 26.04 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2604.03696) | FunFact: Building Probabilistic Functional 3D Scene Graphs via Factor-Graph Reasoning | 0 |
