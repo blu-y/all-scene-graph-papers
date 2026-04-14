@@ -1,9 +1,10 @@
 # Others
 
-153 Papers.
+154 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1095 | 26.04 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2604.11004) | Panoptic Pairwise Distortion Graph | 0 |
 | 1094 | 26.04 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2604.09326) | Multimodal Anomaly Detection for Human-Robot Interaction | 0 |
 | 1093 | 26.04 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2604.08819) | SenBen: Sensitive Scene Graphs for Explainable Content Moderation | 0 |
 | 1092 | 26.04 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2604.08645) | 3D-VCD: Hallucination Mitigation in 3D-LLM Embodied Agents through Visual Contrastive Decoding | 0 |
