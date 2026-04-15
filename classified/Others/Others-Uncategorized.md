@@ -1,9 +1,11 @@
 # Others - Uncategorized
 
-40 Papers.
+42 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1097 | 26.04 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2604.13035) | SceneCritic: A Symbolic Evaluator for 3D Indoor Scene Synthesis | 0 |
+| 1096 | 26.04 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2604.12102) | Spatial Atlas: Compute-Grounded Reasoning for Spatial-Aware Research Agent Benchmarks | 0 |
 | 1095 | 26.04 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2604.11004) | Panoptic Pairwise Distortion Graph | 0 |
 | 1094 | 26.04 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2604.09326) | Multimodal Anomaly Detection for Human-Robot Interaction | 0 |
 | 1093 | 26.04 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2604.08819) | SenBen: Sensitive Scene Graphs for Explainable Content Moderation | 0 |
