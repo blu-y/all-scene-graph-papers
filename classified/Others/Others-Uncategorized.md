@@ -1,9 +1,12 @@
 # Others - Uncategorized
 
-47 Papers.
+50 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1105 | 26.04 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2604.19631) | MOSA: Motion-Guided Semantic Alignment for Dynamic Scene Graph Generation | 0 |
+| 1104 | 26.04 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2604.19192) | Empowering NPC Dialogue with Environmental Context Using LLMs and Panoramic Images | 0 |
+| 1103 | 26.04 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2604.18623) | Can We Build Scene Graphs, Not Classify Them? FlowSG: Progressive Image-Conditioned Scene Graph Generation with Flow Matching | 0 |
 | 1102 | 26.04 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2604.17889) | AeroRAG: Structured Multimodal Retrieval-Augmented LLM for Fine-Grained Aerial Visual Reasoning | 0 |
 | 1101 | 26.04 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2604.17454) | HSG: Hyperbolic Scene Graph | 0 |
 | 1100 | 26.04 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2604.17298) | Frequency-guided Multi-level Reasoning for Scene Graph Generation in Video | 0 |
