@@ -1,4 +1,6 @@
 no,category,subcategory,arxiv_url,title,citations,source,additional_doi
+1107,Others,Uncategorized,http://arxiv.org/abs/2604.22546 ,ReLIC-SGG: Relation Lattice Completion for Open-Vocabulary Scene Graph Generation,0,uncategorized,
+1106,Others,Uncategorized,http://arxiv.org/abs/2604.22274 ,CAGE-SGG: Counterfactual Active Graph Evidence for Open-Vocabulary Scene Graph Generation,0,uncategorized,
 1105,Others,Uncategorized,http://arxiv.org/abs/2604.19631 ,MOSA: Motion-Guided Semantic Alignment for Dynamic Scene Graph Generation,0,uncategorized,
 1104,Others,Uncategorized,http://arxiv.org/abs/2604.19192 ,Empowering NPC Dialogue with Environmental Context Using LLMs and Panoramic Images,0,uncategorized,
 1103,Others,Uncategorized,http://arxiv.org/abs/2604.18623 ,"Can We Build Scene Graphs, Not Classify Them? FlowSG: Progressive Image-Conditioned Scene Graph Generation with Flow Matching",0,uncategorized,
