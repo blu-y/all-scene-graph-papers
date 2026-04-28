@@ -1,9 +1,11 @@
 # Others - Uncategorized
 
-52 Papers.
+54 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1109 | 26.04 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2604.24707) | Passage-Aware Structural Mapping for RGB-D Visual SLAM | 0 |
+| 1108 | 26.04 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2604.23095) | INSIGHT: Indoor Scene Intelligence from Geometric-Semantic Hierarchy Transfer for Public~Safety | 0 |
 | 1107 | 26.04 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2604.22546) | ReLIC-SGG: Relation Lattice Completion for Open-Vocabulary Scene Graph Generation | 0 |
 | 1106 | 26.04 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2604.22274) | CAGE-SGG: Counterfactual Active Graph Evidence for Open-Vocabulary Scene Graph Generation | 0 |
 | 1105 | 26.04 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2604.19631) | MOSA: Motion-Guided Semantic Alignment for Dynamic Scene Graph Generation | 0 |
