@@ -1,9 +1,11 @@
 # Others - Uncategorized
 
-54 Papers.
+56 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1111 | 26.04 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2604.25404) | Robust Graph Matching through Semantic Relationship Generation for SLAM | 0 |
+| 1110 | 26.04 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2604.25072) | Beyond Accuracy: Benchmarking Cross-Task Consistency in Unified Multimodal Models | 0 |
 | 1109 | 26.04 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2604.24707) | Passage-Aware Structural Mapping for RGB-D Visual SLAM | 0 |
 | 1108 | 26.04 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2604.23095) | INSIGHT: Indoor Scene Intelligence from Geometric-Semantic Hierarchy Transfer for Public~Safety | 0 |
 | 1107 | 26.04 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2604.22546) | ReLIC-SGG: Relation Lattice Completion for Open-Vocabulary Scene Graph Generation | 0 |
