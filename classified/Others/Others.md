@@ -1,9 +1,12 @@
 # Others
 
-170 Papers.
+173 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1114 | 26.04 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2604.28001) | A Pattern Language for Resilient Visual Agents | 0 |
+| 1113 | 26.04 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2604.27821) | Learning-Based Hierarchical Scene Graph Matching for Robot Localization Leveraging Prior Maps | 0 |
+| 1112 | 26.04 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2604.26988) | Robot Planning and Situation Handling with Active Perception | 0 |
 | 1111 | 26.04 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2604.25404) | Robust Graph Matching through Semantic Relationship Generation for SLAM | 0 |
 | 1110 | 26.04 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2604.25072) | Beyond Accuracy: Benchmarking Cross-Task Consistency in Unified Multimodal Models | 0 |
 | 1109 | 26.04 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2604.24707) | Passage-Aware Structural Mapping for RGB-D Visual SLAM | 0 |
