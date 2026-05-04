@@ -1,9 +1,10 @@
 # Others - Uncategorized
 
-59 Papers.
+60 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1115 | 26.05 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2605.00121) | Predictive Spatio-Temporal Scene Graphs for Semi-Static Scenes | 0 |
 | 1114 | 26.04 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2604.28001) | A Pattern Language for Resilient Visual Agents | 0 |
 | 1113 | 26.04 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2604.27821) | Learning-Based Hierarchical Scene Graph Matching for Robot Localization Leveraging Prior Maps | 0 |
 | 1112 | 26.04 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2604.26988) | Robot Planning and Situation Handling with Active Perception | 0 |
