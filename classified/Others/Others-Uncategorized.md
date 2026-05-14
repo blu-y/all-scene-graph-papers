@@ -1,9 +1,10 @@
 # Others - Uncategorized
 
-65 Papers.
+66 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1121 | 26.05 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2605.11940) | Lane-Aware Graph Attention Network for Multi-Vehicle Trajectory Prediction in Expressway Merge Zones | 0 |
 | 1120 | 26.05 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2605.10484) | OpenSGA: Efficient 3D Scene Graph Alignment in the Open World | 0 |
 | 1119 | 26.05 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2605.09065) | Dependency-Aware Discrete Diffusion for Scene Graph Generation | 0 |
 | 1118 | 26.05 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2605.08831) | AssemPlanner: A Multi-Agent Based Task Planning Framework for Flexible Assembly System | 0 |
