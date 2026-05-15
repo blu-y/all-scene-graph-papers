@@ -1,4 +1,11 @@
 no,category,subcategory,arxiv_url,title,citations,source,additional_doi
+1128,Others,Uncategorized,http://arxiv.org/abs/2605.14801 ,Exploring Bottlenecks in VLM-LLM Navigation: How 3D Scene Understanding Capability Impacts Zero-Shot VLN,0,uncategorized,
+1127,Others,Uncategorized,http://arxiv.org/abs/2605.14393 ,Analogical Trajectory Transfer,0,uncategorized,
+1126,Others,Uncategorized,http://arxiv.org/abs/2605.13741 ,LEXI-SG: Monocular 3D Scene Graph Mapping with Room-Guided Feed-Forward Reconstruction,0,uncategorized,
+1125,Others,Uncategorized,http://arxiv.org/abs/2605.13667 ,SceneGraphVLM: Dynamic Scene Graph Generation from Video with Vision-Language Models,0,uncategorized,
+1124,Others,Uncategorized,http://arxiv.org/abs/2605.12074 ,BARISTA: A Multi-Task Egocentric Benchmark for Compositional Visual Understanding,0,uncategorized,
+1123,Others,Uncategorized,http://arxiv.org/abs/2605.11616 ,Grounding by Remembering: Cross-Scene and In-Scene Memory for 3D Functional Affordances,0,uncategorized,
+1122,Others,Uncategorized,http://arxiv.org/abs/2605.11594 ,PointForward: Feedforward Driving Reconstruction through Point-Aligned Representations,0,uncategorized,
 1121,Others,Uncategorized,http://arxiv.org/abs/2605.11940 ,Lane-Aware Graph Attention Network for Multi-Vehicle Trajectory Prediction in Expressway Merge Zones,0,uncategorized,
 1120,Others,Uncategorized,http://arxiv.org/abs/2605.10484 ,OpenSGA: Efficient 3D Scene Graph Alignment in the Open World,0,uncategorized,
 1119,Others,Uncategorized,http://arxiv.org/abs/2605.09065 ,Dependency-Aware Discrete Diffusion for Scene Graph Generation,0,uncategorized,
