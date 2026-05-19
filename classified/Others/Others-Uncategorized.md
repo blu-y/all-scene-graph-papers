@@ -1,9 +1,15 @@
 # Others - Uncategorized
 
-73 Papers.
+79 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1134 | 26.05 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2605.18197) | RGB-only Active 3D Scene Graph Generation for Indoor Mobile Robots | 0 |
+| 1133 | 26.05 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2605.18184) | Fixed External Cameras as Common Prior Maps for Active 3D Scene Graph Generation | 0 |
+| 1132 | 26.05 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2605.17661) | Mono-Hydra++: Real-Time Monocular Scene Graph Construction with Multi-Task Learning for 3D Indoor Mapping | 0 |
+| 1131 | 26.05 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2605.16530) | SWoMo: Neuro-Symbolic World Model for Cataract Surgery Simulation | 0 |
+| 1130 | 26.05 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2605.16456) | Multi-hop Relational Contrastive Learning: Extending Spatial Contrastive Pre-training Beyond Pairwise Relations | 0 |
+| 1129 | 26.05 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2605.15753) | Hierarchical and Holistic Open-Vocabulary Functional 3D Scene Graphs for Indoor Spaces | 0 |
 | 1128 | 26.05 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2605.14801) | Exploring Bottlenecks in VLM-LLM Navigation: How 3D Scene Understanding Capability Impacts Zero-Shot VLN | 0 |
 | 1127 | 26.05 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2605.14393) | Analogical Trajectory Transfer | 0 |
 | 1126 | 26.05 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2605.13741) | LEXI-SG: Monocular 3D Scene Graph Mapping with Room-Guided Feed-Forward Reconstruction | 0 |
