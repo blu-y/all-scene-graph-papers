@@ -1,9 +1,11 @@
 # Others - Uncategorized
 
-79 Papers.
+81 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1136 | 26.05 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2605.19559) | EgoCoT-Bench: Benchmarking Grounded and Verifiable Operation-Centric Chain of Thought Reasoning for MLLMs | 0 |
+| 1135 | 26.05 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2605.19329) | RE-VLM: Event-Augmented Vision-Language Model for Scene Understanding | 0 |
 | 1134 | 26.05 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2605.18197) | RGB-only Active 3D Scene Graph Generation for Indoor Mobile Robots | 0 |
 | 1133 | 26.05 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2605.18184) | Fixed External Cameras as Common Prior Maps for Active 3D Scene Graph Generation | 0 |
 | 1132 | 26.05 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2605.17661) | Mono-Hydra++: Real-Time Monocular Scene Graph Construction with Multi-Task Learning for 3D Indoor Mapping | 0 |
