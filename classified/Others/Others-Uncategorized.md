@@ -1,9 +1,10 @@
 # Others - Uncategorized
 
-81 Papers.
+82 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1137 | 26.05 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2605.20823) | RelWitness: Open-Vocabulary 3D Scene Graph Generation with Visual-Geometric Relation Witnesses | 0 |
 | 1136 | 26.05 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2605.19559) | EgoCoT-Bench: Benchmarking Grounded and Verifiable Operation-Centric Chain of Thought Reasoning for MLLMs | 0 |
 | 1135 | 26.05 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2605.19329) | RE-VLM: Event-Augmented Vision-Language Model for Scene Understanding | 0 |
 | 1134 | 26.05 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2605.18197) | RGB-only Active 3D Scene Graph Generation for Indoor Mobile Robots | 0 |
