@@ -1,9 +1,10 @@
 # Others
 
-196 Papers.
+197 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1138 | 26.05 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2605.21788) | SceneGraphGrounder: Zero-Shot 3D Visual Grounding via Structured Scene Graph Matching | 0 |
 | 1137 | 26.05 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2605.20823) | RelWitness: Open-Vocabulary 3D Scene Graph Generation with Visual-Geometric Relation Witnesses | 0 |
 | 1136 | 26.05 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2605.19559) | EgoCoT-Bench: Benchmarking Grounded and Verifiable Operation-Centric Chain of Thought Reasoning for MLLMs | 0 |
 | 1135 | 26.05 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2605.19329) | RE-VLM: Event-Augmented Vision-Language Model for Scene Understanding | 0 |
