@@ -1,9 +1,10 @@
 # Others - Uncategorized
 
-83 Papers.
+84 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1139 | 26.05 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2605.21935) | Learning to Evolve: Multi-modal Interactive Fields for Robust Humanoid Navigation in Dynamic Environments | 0 |
 | 1138 | 26.05 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2605.21788) | SceneGraphGrounder: Zero-Shot 3D Visual Grounding via Structured Scene Graph Matching | 0 |
 | 1137 | 26.05 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2605.20823) | RelWitness: Open-Vocabulary 3D Scene Graph Generation with Visual-Geometric Relation Witnesses | 0 |
 | 1136 | 26.05 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2605.19559) | EgoCoT-Bench: Benchmarking Grounded and Verifiable Operation-Centric Chain of Thought Reasoning for MLLMs | 0 |
