@@ -1,9 +1,10 @@
 # Others - Uncategorized
 
-84 Papers.
+85 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1140 | 26.05 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2605.23176) | DRIVESPATIAL: A Benchmark for Spatiotemporal Intelligence in VLMs for Autonomous Driving | 0 |
 | 1139 | 26.05 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2605.21935) | Learning to Evolve: Multi-modal Interactive Fields for Robust Humanoid Navigation in Dynamic Environments | 0 |
 | 1138 | 26.05 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2605.21788) | SceneGraphGrounder: Zero-Shot 3D Visual Grounding via Structured Scene Graph Matching | 0 |
 | 1137 | 26.05 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2605.20823) | RelWitness: Open-Vocabulary 3D Scene Graph Generation with Visual-Geometric Relation Witnesses | 0 |
