@@ -1,9 +1,10 @@
 # Others
 
-202 Papers.
+203 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1144 | 26.05 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2605.27590) | ForestHG-Trace: Traceable Long-Horizon Ecological Reasoning over Large-Scale Forest Scenes | 0 |
 | 1143 | 26.05 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2605.25371) | FOUND-IT: Foundation-model-first Task-driven 3D Scene Graphs with Granularity on Demand | 0 |
 | 1142 | 26.05 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2605.24622) | PoseRefer: Pathway-Local Parameters for Semantically Grounded Reference Resolution | 0 |
 | 1141 | 26.03 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2603.29236) | M2H-MX: Multi-Task Semantic and Geometric Perception for Real-Time Monocular 3D Scene Graph Construction | 0 |
