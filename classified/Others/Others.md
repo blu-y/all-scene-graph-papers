@@ -1,9 +1,12 @@
 # Others
 
-203 Papers.
+206 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1147 | 26.05 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2605.30318) | Before the Shutter: Aesthetic and Actionable Portrait Photography Planning in 3D Scenes | 0 |
+| 1146 | 26.05 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2605.29879) | DGSG-Mind: Dynamic 3D Gaussian Scene Graphs for Long-Term Scene Understanding and Grounding | 0 |
+| 1145 | 26.05 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2605.29610) | Learning Context-Conditioned Predicate Semantics via Prototype Feedback | 0 |
 | 1144 | 26.05 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2605.27590) | ForestHG-Trace: Traceable Long-Horizon Ecological Reasoning over Large-Scale Forest Scenes | 0 |
 | 1143 | 26.05 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2605.25371) | FOUND-IT: Foundation-model-first Task-driven 3D Scene Graphs with Granularity on Demand | 0 |
 | 1142 | 26.05 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2605.24622) | PoseRefer: Pathway-Local Parameters for Semantically Grounded Reference Resolution | 0 |
