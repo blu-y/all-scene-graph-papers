@@ -1,9 +1,11 @@
 # Others - Uncategorized
 
-92 Papers.
+94 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1149 | 26.05 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2605.31067) | Seeing Fast and Slow: Bimodal 3D Scene Graphs for Open-set Tasks | 0 |
+| 1148 | 26.05 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2605.30512) | PhyDrawGen: Physically Grounded Diagram Generation from Natural Language | 0 |
 | 1147 | 26.05 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2605.30318) | Before the Shutter: Aesthetic and Actionable Portrait Photography Planning in 3D Scenes | 0 |
 | 1146 | 26.05 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2605.29879) | DGSG-Mind: Dynamic 3D Gaussian Scene Graphs for Long-Term Scene Understanding and Grounding | 0 |
 | 1145 | 26.05 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2605.29610) | Learning Context-Conditioned Predicate Semantics via Prototype Feedback | 0 |
