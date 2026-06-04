@@ -1,9 +1,19 @@
 # Others
 
-208 Papers.
+218 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1159 | 26.06 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2606.04689) | QPredSGG: Hybrid Quantum Predicate Learning for Long-Tailed Scene Graph Generation | 0 |
+| 1158 | 26.06 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2606.04046) | Dive into the Scene: Breaking the Perceptual Bottleneck in Vision-Language Decision Making via Focus Plan Generation | 0 |
+| 1157 | 26.06 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2606.03787) | Worth Remembering: Surprise-Gated Robot Episodic Memory | 0 |
+| 1156 | 26.06 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2606.03509) | EvoMemNav: Efficient Self-Evolving Fine-Grained Memory for Zero-Shot Embodied Navigation | 0 |
+| 1155 | 26.06 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2606.02506) | Question-Aware Evidence Ledgers for Video Relational Reasoning | 0 |
+| 1154 | 26.06 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2606.01565) | Hierarchical Semantic-Augmented Navigation: Optimal Transport and Graph-Driven Reasoning for Vision-Language Navigation | 0 |
+| 1153 | 26.06 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2606.01545) | Hierarchical Object Representation for Spatial Robot Perception: Points, Meshes, and Superquadrics | 0 |
+| 1152 | 26.06 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2606.01313) | PSG-Nav: Probabilistic Scene Graph Navigation via Multiverse Decision Making | 0 |
+| 1151 | 26.06 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2606.01072) | Expanding Spatial and Temporal Context for Robotic Imitation Learning With Scene Graphs | 0 |
+| 1150 | 26.06 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2606.00447) | GeoSAM-3D: Geodesic Prompt Propagation for Open-Vocabulary 3D Scene Segmentation from Monocular Video | 0 |
 | 1149 | 26.05 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2605.31067) | Seeing Fast and Slow: Bimodal 3D Scene Graphs for Open-set Tasks | 0 |
 | 1148 | 26.05 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2605.30512) | PhyDrawGen: Physically Grounded Diagram Generation from Natural Language | 0 |
 | 1147 | 26.05 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2605.30318) | Before the Shutter: Aesthetic and Actionable Portrait Photography Planning in 3D Scenes | 0 |
