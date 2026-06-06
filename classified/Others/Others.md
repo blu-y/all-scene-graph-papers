@@ -1,9 +1,13 @@
 # Others
 
-218 Papers.
+222 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1163 | 26.06 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2606.06369) | Visual Commonsense Driven Knowledge Refinements for Scene Graph Generation | 0 |
+| 1162 | 26.06 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2606.06100) | HyperVis: Continuous Latent Visual Relational Graphs on the Lorentz Hyperboloid for Compositional Reasoning | 0 |
+| 1161 | 26.06 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2606.05975) | T-FunS3D: Task-Driven Hierarchical Open-Vocabulary 3D Functionality Segmentation | 0 |
+| 1160 | 26.06 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2606.05916) | Unveiling the Unknown: Open Vocabulary Object Detection with Scene Graphs | 0 |
 | 1159 | 26.06 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2606.04689) | QPredSGG: Hybrid Quantum Predicate Learning for Long-Tailed Scene Graph Generation | 0 |
 | 1158 | 26.06 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2606.04046) | Dive into the Scene: Breaking the Perceptual Bottleneck in Vision-Language Decision Making via Focus Plan Generation | 0 |
 | 1157 | 26.06 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2606.03787) | Worth Remembering: Surprise-Gated Robot Episodic Memory | 0 |
