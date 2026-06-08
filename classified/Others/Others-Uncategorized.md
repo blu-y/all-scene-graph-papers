@@ -1,9 +1,10 @@
 # Others - Uncategorized
 
-108 Papers.
+109 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1164 | 26.06 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2606.06721) | SCOUT: Semantic scene COverage via Uncertainty-guided Traversal | 0 |
 | 1163 | 26.06 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2606.06369) | Visual Commonsense Driven Knowledge Refinements for Scene Graph Generation | 0 |
 | 1162 | 26.06 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2606.06100) | HyperVis: Continuous Latent Visual Relational Graphs on the Lorentz Hyperboloid for Compositional Reasoning | 0 |
 | 1161 | 26.06 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2606.05975) | T-FunS3D: Task-Driven Hierarchical Open-Vocabulary 3D Functionality Segmentation | 0 |
