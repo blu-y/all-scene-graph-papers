@@ -1,9 +1,16 @@
 # Others
 
-223 Papers.
+230 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1171 | 26.06 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2606.09738) | HDSL: A Hierarchical Domain-Specific Language for Structured 3D Indoor Scene Generation and Localized Editing with LLM Agents | 0 |
+| 1170 | 26.06 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2606.09368) | PhysScene: A Scene Graph Dataset for Scientific Visual Reasoning in Physics Experiments | 0 |
+| 1169 | 26.06 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2606.09134) | From USD Scenes to Knowledge Graphs: Zero-Shot Ontology Grounding with LLMs | 0 |
+| 1168 | 26.06 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2606.08666) | Language as a Sensor: Calibrated Spatial Belief Estimation in 3D Scenes from Natural Language | 0 |
+| 1167 | 26.06 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2606.08655) | PhysGraph: A Physics-aware 3D Scene Graph for Perception and Reasoning | 0 |
+| 1166 | 26.06 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2606.08277) | Remember with Confidence: Uncertainty Quantification for Spatio-temporal Memory with Probabilistic Guarantees | 0 |
+| 1165 | 26.06 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2606.07529) | CAPruner: Conceptual-Adjacent Scene Graph Pruner for Enhancing 3D Spatial Reasoning of Large Language Models | 0 |
 | 1164 | 26.06 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2606.06721) | SCOUT: Semantic scene COverage via Uncertainty-guided Traversal | 0 |
 | 1163 | 26.06 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2606.06369) | Visual Commonsense Driven Knowledge Refinements for Scene Graph Generation | 0 |
 | 1162 | 26.06 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2606.06100) | HyperVis: Continuous Latent Visual Relational Graphs on the Lorentz Hyperboloid for Compositional Reasoning | 0 |
