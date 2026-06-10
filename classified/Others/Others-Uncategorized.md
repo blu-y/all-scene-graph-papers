@@ -1,9 +1,11 @@
 # Others - Uncategorized
 
-116 Papers.
+118 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1173 | 26.06 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2606.10927) | AllDayNav: Lifelong Navigation via Real-World Reinforcement Learning | 0 |
+| 1172 | 26.06 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2606.10645) | ManiSplat: Manipulation Trajectory Synthesis from Monocular Video via Decoupled 3D Gaussian Splatting | 0 |
 | 1171 | 26.06 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2606.09738) | HDSL: A Hierarchical Domain-Specific Language for Structured 3D Indoor Scene Generation and Localized Editing with LLM Agents | 0 |
 | 1170 | 26.06 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2606.09368) | PhysScene: A Scene Graph Dataset for Scientific Visual Reasoning in Physics Experiments | 0 |
 | 1169 | 26.06 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2606.09134) | From USD Scenes to Knowledge Graphs: Zero-Shot Ontology Grounding with LLMs | 0 |
