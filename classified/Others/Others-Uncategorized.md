@@ -1,9 +1,11 @@
 # Others - Uncategorized
 
-118 Papers.
+120 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1175 | 26.06 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2606.11880) | SG2Loc: Sequential Visual Localization on 3D Scene Graphs | 0 |
+| 1174 | 26.06 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2606.11838) | Plan-and-Verify Video Reward Reasoning with Spatio-Temporal Scene Graph Grounding | 0 |
 | 1173 | 26.06 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2606.10927) | AllDayNav: Lifelong Navigation via Real-World Reinforcement Learning | 0 |
 | 1172 | 26.06 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2606.10645) | ManiSplat: Manipulation Trajectory Synthesis from Monocular Video via Decoupled 3D Gaussian Splatting | 0 |
 | 1171 | 26.06 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2606.09738) | HDSL: A Hierarchical Domain-Specific Language for Structured 3D Indoor Scene Generation and Localized Editing with LLM Agents | 0 |

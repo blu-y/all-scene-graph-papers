@@ -1,4 +1,6 @@
 no,category,subcategory,arxiv_url,title,citations,source,additional_doi
+1175,Others,Uncategorized,http://arxiv.org/abs/2606.11880 ,SG2Loc: Sequential Visual Localization on 3D Scene Graphs,0,uncategorized,
+1174,Others,Uncategorized,http://arxiv.org/abs/2606.11838 ,Plan-and-Verify Video Reward Reasoning with Spatio-Temporal Scene Graph Grounding,0,uncategorized,
 1173,Others,Uncategorized,http://arxiv.org/abs/2606.10927 ,AllDayNav: Lifelong Navigation via Real-World Reinforcement Learning,0,uncategorized,
 1172,Others,Uncategorized,http://arxiv.org/abs/2606.10645 ,ManiSplat: Manipulation Trajectory Synthesis from Monocular Video via Decoupled 3D Gaussian Splatting,0,uncategorized,
 1171,Others,Uncategorized,http://arxiv.org/abs/2606.09738 ,HDSL: A Hierarchical Domain-Specific Language for Structured 3D Indoor Scene Generation and Localized Editing with LLM Agents,0,uncategorized,
