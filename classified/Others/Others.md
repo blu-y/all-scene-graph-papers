@@ -1,9 +1,10 @@
 # Others
 
-235 Papers.
+236 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1177 | 26.06 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2606.13727) | Occupancy-Grounded Room Segmentation for Hierarchical 3D Scene Graphs | 0 |
 | 1176 | 26.06 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2606.13332) | OR-Action: Multi-Role Video Understanding with Fine-Grained Actions | 0 |
 | 1175 | 26.06 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2606.11880) | SG2Loc: Sequential Visual Localization on 3D Scene Graphs | 0 |
 | 1174 | 26.06 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2606.11838) | Plan-and-Verify Video Reward Reasoning with Spatio-Temporal Scene Graph Grounding | 0 |
