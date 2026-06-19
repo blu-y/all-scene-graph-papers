@@ -1,9 +1,10 @@
 # Others - Uncategorized
 
-128 Papers.
+129 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1184 | 26.06 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2606.19383) | 3D Scene Graphs: Open Challenges and Future Directions | 0 |
 | 1183 | 26.06 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2606.16881) | SGM-SLAM: Scene Graph Matching for Data-Efficient Distributed SLAM | 0 |
 | 1182 | 26.06 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2606.16811) | Scaling LLM Reasoning from Minimal Labels: A Semi-Supervised Framework with a Lightweight Verifier | 0 |
 | 1181 | 26.06 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2606.16569) | PROSE: Training-Free Egocentric Scene Registration with Vision-Language Models | 0 |
