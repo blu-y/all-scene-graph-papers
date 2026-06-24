@@ -1,9 +1,11 @@
 # Others - Uncategorized
 
-134 Papers.
+136 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1191 | 26.06 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2606.24338) | RoBoSR: Structured Scene Representations for Embodied Robotic Reasoning | 0 |
+| 1190 | 26.06 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2606.24068) | ObsGraph: Hierarchical Observation Representation for Embodied Reasoning and Exploration | 0 |
 | 1189 | 26.06 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2606.23312) | From Pixels to Concepts: Growing Rich 3D Semantic Scene Graph Forests utilizing Foundation Models | 0 |
 | 1188 | 26.06 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2606.22856) | G-MASt3R-SfM: Graph-based View Pruning and Multi-stage Optimization for Robust SfM | 0 |
 | 1187 | 26.06 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2606.22702) | Modular Diffusion Models for Structured Visual Recognition | 0 |
