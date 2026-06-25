@@ -1,9 +1,12 @@
 # Others
 
-250 Papers.
+253 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1194 | 26.06 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2606.25842) | Graph it first! Enabling Reasoning on Long-form Egocentric Videos through Scene Graphs | 0 |
+| 1193 | 26.06 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2606.25497) | SAGE-Nav: Leveraging LLM Planning and Alignment Fusion for Hierarchical Scene Graph-Guided Navigation | 0 |
+| 1192 | 26.06 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2606.25306) | Physics Question Scene Graph: Fine-grained Evaluation of Physical Plausibility in Text-to-Video Generation | 0 |
 | 1191 | 26.06 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2606.24338) | RoBoSR: Structured Scene Representations for Embodied Robotic Reasoning | 0 |
 | 1190 | 26.06 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2606.24068) | ObsGraph: Hierarchical Observation Representation for Embodied Reasoning and Exploration | 0 |
 | 1189 | 26.06 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2606.23312) | From Pixels to Concepts: Growing Rich 3D Semantic Scene Graph Forests utilizing Foundation Models | 0 |

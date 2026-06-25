@@ -1,4 +1,7 @@
 no,category,subcategory,arxiv_url,title,citations,source,additional_doi
+1194,Others,Uncategorized,http://arxiv.org/abs/2606.25842 ,Graph it first! Enabling Reasoning on Long-form Egocentric Videos through Scene Graphs,0,uncategorized,
+1193,Others,Uncategorized,http://arxiv.org/abs/2606.25497 ,SAGE-Nav: Leveraging LLM Planning and Alignment Fusion for Hierarchical Scene Graph-Guided Navigation,0,uncategorized,
+1192,Others,Uncategorized,http://arxiv.org/abs/2606.25306 ,Physics Question Scene Graph: Fine-grained Evaluation of Physical Plausibility in Text-to-Video Generation,0,uncategorized,
 1191,Others,Uncategorized,http://arxiv.org/abs/2606.24338 ,RoBoSR: Structured Scene Representations for Embodied Robotic Reasoning,0,uncategorized,
 1190,Others,Uncategorized,http://arxiv.org/abs/2606.24068 ,ObsGraph: Hierarchical Observation Representation for Embodied Reasoning and Exploration,0,uncategorized,
 1189,Others,Uncategorized,http://arxiv.org/abs/2606.23312 ,From Pixels to Concepts: Growing Rich 3D Semantic Scene Graph Forests utilizing Foundation Models,0,uncategorized,
