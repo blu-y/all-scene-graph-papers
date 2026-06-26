@@ -1,9 +1,11 @@
 # Others
 
-253 Papers.
+255 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1196 | 26.06 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2606.26928) | UAV-MapFusion: RTK-Aligned Uncertainty-Aware Coarse-to-Fine Multi-Session UAV Mapping | 0 |
+| 1195 | 26.06 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2606.26535) | From Hallucination to Grounding: Diagnosing Visual Spatial Intelligence via CRISP | 0 |
 | 1194 | 26.06 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2606.25842) | Graph it first! Enabling Reasoning on Long-form Egocentric Videos through Scene Graphs | 0 |
 | 1193 | 26.06 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2606.25497) | SAGE-Nav: Leveraging LLM Planning and Alignment Fusion for Hierarchical Scene Graph-Guided Navigation | 0 |
 | 1192 | 26.06 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2606.25306) | Physics Question Scene Graph: Fine-grained Evaluation of Physical Plausibility in Text-to-Video Generation | 0 |
