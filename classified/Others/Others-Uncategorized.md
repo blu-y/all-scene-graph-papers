@@ -1,9 +1,13 @@
 # Others - Uncategorized
 
-141 Papers.
+145 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1200 | 26.06 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2606.28060) | ReScene: Structured Indoor Scene Reconstruction from Multi-View Captures | 0 |
+| 1199 | 26.06 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2606.27871) | LocalNav: Distilling Frontier VLMs and Embodied RL for On-Device Object Goal Navigation | 0 |
+| 1198 | 26.06 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2606.27577) | hia-gat: A Heterogeneous Interaction-Aware Graph Attention Network For Frame-Level Traffic Conflict Risk Prediction On Freeways | 0 |
+| 1197 | 26.06 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2606.27412) | Not All Relations Rotate Alike: Transformation-Aware Decoupling for Viewpoint-Robust 3D Scene Graph Generation | 0 |
 | 1196 | 26.06 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2606.26928) | UAV-MapFusion: RTK-Aligned Uncertainty-Aware Coarse-to-Fine Multi-Session UAV Mapping | 0 |
 | 1195 | 26.06 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2606.26535) | From Hallucination to Grounding: Diagnosing Visual Spatial Intelligence via CRISP | 0 |
 | 1194 | 26.06 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2606.25842) | Graph it first! Enabling Reasoning on Long-form Egocentric Videos through Scene Graphs | 0 |
