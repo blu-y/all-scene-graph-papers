@@ -1,9 +1,14 @@
 # Others
 
-259 Papers.
+264 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1205 | 26.06 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2606.30101) | SIR: Structured Image Representations for Explainable Robot Learning | 0 |
+| 1204 | 26.06 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2606.29932) | SAGA: Scene-Aware, Goal-Evolving Agents for Long-Horizon CivRealm Strategy Planning | 0 |
+| 1203 | 26.06 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2606.29786) | OP3DSG: Open-Vocabulary Part-Aware 3D Scene Graph Generation for Real-World Environments | 0 |
+| 1202 | 26.06 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2606.29782) | Graph-GSReg: Leveraging 3D Scene Graphs for Gaussian Splatting Registration | 0 |
+| 1201 | 26.06 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2606.28592) | Embodiment Meets Environment: Toward Context-Aware, Safe Physical Caregiving Robots | 0 |
 | 1200 | 26.06 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2606.28060) | ReScene: Structured Indoor Scene Reconstruction from Multi-View Captures | 0 |
 | 1199 | 26.06 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2606.27871) | LocalNav: Distilling Frontier VLMs and Embodied RL for On-Device Object Goal Navigation | 0 |
 | 1198 | 26.06 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2606.27577) | hia-gat: A Heterogeneous Interaction-Aware Graph Attention Network For Frame-Level Traffic Conflict Risk Prediction On Freeways | 0 |
