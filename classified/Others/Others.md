@@ -1,9 +1,11 @@
 # Others
 
-272 Papers.
+274 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1215 | 26.07 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2607.02425) | Learning to Evolve Scenes: Reasoning about Human Activities with Scene Graphs | 0 |
+| 1214 | 26.07 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2607.02277) | NEUROSYMLAND: Neuro-Symbolic Landing-Site Assessment for Robust and Edge-Deployable UAV Autonomy | 0 |
 | 1213 | 26.07 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2607.00889) | DeWorldSG: Depth-Aware 3D Semantic Scene Graph Generation via World-Model Priors | 0 |
 | 1212 | 26.07 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2607.00529) | NoPA: Non-Parametric Online 3D Scene Graph Generation | 0 |
 | 1211 | 26.07 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2607.00491) | MindEdit-Bench: Benchmarking Object-Level Counterfactual Spatial Reasoning in VLMs from In-the-Wild Photos | 0 |
