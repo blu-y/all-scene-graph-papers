@@ -1,9 +1,11 @@
 # Others
 
-277 Papers.
+279 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1220 | 26.07 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2607.07170) | PUF: Plug-and-Play Uncertainty-Aware Fusion for Online 3D Scene Graph Generation | 0 |
+| 1219 | 26.07 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2607.07105) | CompoVista: A Composition-Graph-Based Visual Analytics System for Compositional Analysis of Traditional Chinese Paintings | 0 |
 | 1218 | 26.07 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2607.06176) | Revisiting Scene Graph Generation from the Perspective of Detector-Conditioned Reachability | 0 |
 | 1217 | 26.07 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2607.05716) | Scene Graph Thinking: Reinforcing Structured Visual Reasoning for Multimodal Large Language Models | 0 |
 | 1216 | 26.07 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2607.05348) | Beyond Isolated Objects: Relationship-aware Open Vocabulary Scene Understanding via 3D Scene Graph Analysis | 0 |
