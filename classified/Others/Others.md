@@ -1,9 +1,11 @@
 # Others
 
-279 Papers.
+281 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1222 | 26.07 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2607.09455) | Hydra++: Real-Time Hierarchical 3D Scene Graph Construction With Object-Level Shape Estimation | 0 |
+| 1221 | 26.07 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2607.09059) | ARCANA: A Reflective Multi-Agent Program Synthesis Framework for ARC-AGI-2 Reasoning | 0 |
 | 1220 | 26.07 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2607.07170) | PUF: Plug-and-Play Uncertainty-Aware Fusion for Online 3D Scene Graph Generation | 0 |
 | 1219 | 26.07 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2607.07105) | CompoVista: A Composition-Graph-Based Visual Analytics System for Compositional Analysis of Traditional Chinese Paintings | 0 |
 | 1218 | 26.07 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2607.06176) | Revisiting Scene Graph Generation from the Perspective of Detector-Conditioned Reachability | 0 |
