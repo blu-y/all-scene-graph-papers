@@ -1,9 +1,11 @@
 # Others
 
-283 Papers.
+285 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1226 | 26.07 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2607.12630) | Instance-Enriched Semantic Maps for Visual Language Navigation | 0 |
+| 1225 | 26.07 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2607.12214) | Beyond Perfect Priors: Adaptive Gaussian Graph for 4D Driving Reconstruction in the Wild | 0 |
 | 1224 | 26.07 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2607.10879) | 3D Scene Graph Prediction: Generating Hierarchical Models from Partially Observed Environments | 0 |
 | 1223 | 26.07 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2607.09740) | A Dynamic Scene Interaction Reasoning Framework for Scene-level Lane-Change Intention and Trajectory Prediction of Multiple Interacting Vehicles | 0 |
 | 1222 | 26.07 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2607.09455) | Hydra++: Real-Time Hierarchical 3D Scene Graph Construction With Object-Level Shape Estimation | 0 |
