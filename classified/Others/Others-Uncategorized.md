@@ -1,9 +1,14 @@
 # Others - Uncategorized
 
-172 Papers.
+177 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1232 | 26.07 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2607.18116) | SGA: Plug&Play Geometric Verification for Educational Video Synthesis | 0 |
+| 1231 | 26.07 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2607.17938) | MuViSeg: Multi-View Segment Correspondences from Dense Geometry Priors | 0 |
+| 1230 | 26.07 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2607.17145) | Text2Villa: Hierarchical Generation of 3D Indoor Environments with Physics-Aware Analysis-by-Synthesis | 0 |
+| 1229 | 26.07 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2607.16727) | Constraint-Anchored Reasoning Traces | 0 |
+| 1228 | 26.07 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2607.16267) | HyperDCM: Dynamic Cluster Memory Replay in Hyperbolic Space for Continual Robotic Navigation Across Scenes | 0 |
 | 1227 | 26.07 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2607.13245) | Just-In-Time Scene Graph Growth: Combating Perceptual Saturation in Long-Horizon Robotics | 0 |
 | 1226 | 26.07 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2607.12630) | Instance-Enriched Semantic Maps for Visual Language Navigation | 0 |
 | 1225 | 26.07 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2607.12214) | Beyond Perfect Priors: Adaptive Gaussian Graph for 4D Driving Reconstruction in the Wild | 0 |
