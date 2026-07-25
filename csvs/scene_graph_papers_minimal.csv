@@ -1,4 +1,6 @@
 no,category,subcategory,arxiv_url,title,citations,source,additional_doi
+1234,Others,Uncategorized,http://arxiv.org/abs/2607.21228 ,T-STAR: A Large-Scale Benchmark for Spatio-Temporal Panoptic Scene Graph Generation in Satellite Video,0,uncategorized,
+1233,Others,Uncategorized,http://arxiv.org/abs/2607.20505 ,HERMES: Heterogeneous Edge-Relational Multi-Head Embedded SSM Attention for Traffic Conflict Prediction at Signalized Intersections,0,uncategorized,
 1232,Others,Uncategorized,http://arxiv.org/abs/2607.18116 ,SGA: Plug&Play Geometric Verification for Educational Video Synthesis,0,uncategorized,
 1231,Others,Uncategorized,http://arxiv.org/abs/2607.17938 ,MuViSeg: Multi-View Segment Correspondences from Dense Geometry Priors,0,uncategorized,
 1230,Others,Uncategorized,http://arxiv.org/abs/2607.17145 ,Text2Villa: Hierarchical Generation of 3D Indoor Environments with Physics-Aware Analysis-by-Synthesis,0,uncategorized,

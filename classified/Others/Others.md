@@ -1,9 +1,11 @@
 # Others
 
-291 Papers.
+293 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1234 | 26.07 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2607.21228) | T-STAR: A Large-Scale Benchmark for Spatio-Temporal Panoptic Scene Graph Generation in Satellite Video | 0 |
+| 1233 | 26.07 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2607.20505) | HERMES: Heterogeneous Edge-Relational Multi-Head Embedded SSM Attention for Traffic Conflict Prediction at Signalized Intersections | 0 |
 | 1232 | 26.07 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2607.18116) | SGA: Plug&Play Geometric Verification for Educational Video Synthesis | 0 |
 | 1231 | 26.07 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2607.17938) | MuViSeg: Multi-View Segment Correspondences from Dense Geometry Priors | 0 |
 | 1230 | 26.07 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2607.17145) | Text2Villa: Hierarchical Generation of 3D Indoor Environments with Physics-Aware Analysis-by-Synthesis | 0 |
