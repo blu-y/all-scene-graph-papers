@@ -1,9 +1,10 @@
 # Others - Uncategorized
 
-179 Papers.
+180 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1235 | 26.07 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2607.22325) | Geometric 2D Scene Graph Generation | 0 |
 | 1234 | 26.07 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2607.21228) | T-STAR: A Large-Scale Benchmark for Spatio-Temporal Panoptic Scene Graph Generation in Satellite Video | 0 |
 | 1233 | 26.07 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2607.20505) | HERMES: Heterogeneous Edge-Relational Multi-Head Embedded SSM Attention for Traffic Conflict Prediction at Signalized Intersections | 0 |
 | 1232 | 26.07 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2607.18116) | SGA: Plug&Play Geometric Verification for Educational Video Synthesis | 0 |
