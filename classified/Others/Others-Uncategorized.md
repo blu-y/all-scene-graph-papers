@@ -1,9 +1,10 @@
 # Others - Uncategorized
 
-182 Papers.
+183 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1238 | 26.07 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2607.25236) | VisualPatchWorld: Code World Models as Latent Structured Representations for Planning | 0 |
 | 1237 | 26.07 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2607.24206) | Surgical Re-enactment for Operating Room Workflow Datasets | 0 |
 | 1236 | 26.07 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2607.22705) | EditCLEVR: A Paired-Scene Intervention Benchmark for Compositional Faithfulness of Object-Centric Representations | 0 |
 | 1235 | 26.07 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2607.22325) | Geometric 2D Scene Graph Generation | 0 |
