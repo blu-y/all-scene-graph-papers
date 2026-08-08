@@ -1,9 +1,11 @@
 # Others - Uncategorized
 
-188 Papers.
+190 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1245 | 26.08 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2608.06170) | Prior-SG: Task and Prior Driven Region Segmentation for Scene Graphs in Arbitrarily-Structured Environments | 0 |
+| 1244 | 26.08 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2608.04425) | SSC: A Verifiable Structured Representation for Bimanual Manipulation Labelling | 0 |
 | 1243 | 26.08 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2608.03763) | TDVR: Joint Text Disambiguation and Viewpoint Reasoning for Zero-Shot 3D Visual Grounding | 0 |
 | 1242 | 26.08 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2608.02892) | Modeling Scientific Experiment Scenes: Dataset and Model | 0 |
 | 1241 | 26.08 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2608.02056) | TBSG-Net: Temporal Bipartite Scene Graph Network for Fine-Grained Video Moment Retrieval | 0 |
