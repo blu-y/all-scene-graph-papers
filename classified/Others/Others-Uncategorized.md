@@ -1,9 +1,13 @@
 # Others - Uncategorized
 
-190 Papers.
+194 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1249 | 26.08 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2608.09230) | SafeSceneReason: A Multimodal Reasoning Benchmark Connecting Industrial Hazards with Accident Knowledge | 0 |
+| 1248 | 26.08 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2608.08110) | Dependency-Aware Reliability Allocation for Open-Vocabulary Scene-Graph Semantic Packets over Latency- and Energy-Constrained Wireless Visual Uplinks | 0 |
+| 1247 | 26.08 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2608.08016) | EgoTrack3D: A Modular Framework for Egocentric 3D Object Tracking | 0 |
+| 1246 | 26.08 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2608.07905) | GraphThink: Graph-Enhanced LLM Thinking for Long-Horizon Embodied Task Planning | 0 |
 | 1245 | 26.08 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2608.06170) | Prior-SG: Task and Prior Driven Region Segmentation for Scene Graphs in Arbitrarily-Structured Environments | 0 |
 | 1244 | 26.08 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2608.04425) | SSC: A Verifiable Structured Representation for Bimanual Manipulation Labelling | 0 |
 | 1243 | 26.08 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2608.03763) | TDVR: Joint Text Disambiguation and Viewpoint Reasoning for Zero-Shot 3D Visual Grounding | 0 |
