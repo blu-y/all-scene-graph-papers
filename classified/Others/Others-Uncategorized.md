@@ -1,9 +1,10 @@
 # Others - Uncategorized
 
-194 Papers.
+195 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1250 | 26.08 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2608.10057) | LEGO: Leveled Language Gaussian Splatting | 0 |
 | 1249 | 26.08 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2608.09230) | SafeSceneReason: A Multimodal Reasoning Benchmark Connecting Industrial Hazards with Accident Knowledge | 0 |
 | 1248 | 26.08 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2608.08110) | Dependency-Aware Reliability Allocation for Open-Vocabulary Scene-Graph Semantic Packets over Latency- and Energy-Constrained Wireless Visual Uplinks | 0 |
 | 1247 | 26.08 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2608.08016) | EgoTrack3D: A Modular Framework for Egocentric 3D Object Tracking | 0 |
