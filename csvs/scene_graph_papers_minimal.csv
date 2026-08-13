@@ -1,4 +1,9 @@
 no,category,subcategory,arxiv_url,title,citations,source,additional_doi
+1255,Others,Uncategorized,http://arxiv.org/abs/2608.12290 ,Beyond Trial-and-Error: Agentic Optimization for Image-to-Video Adherence,0,uncategorized,
+1254,Others,Uncategorized,http://arxiv.org/abs/2608.11246 ,Towards the Harness of Embodied Agents,0,uncategorized,
+1253,Others,Uncategorized,http://arxiv.org/abs/2608.11150 ,CausalSplat: Towards Comprehensive Hierarchical Reasoning in 3D Gaussian Splatting,0,uncategorized,
+1252,Others,Uncategorized,http://arxiv.org/abs/2608.11017 ,R4DSG: Relative 4D Scene Graph Memory for Object-Centric Question Answering in Long Egocentric Video,0,uncategorized,
+1251,Others,Uncategorized,http://arxiv.org/abs/2608.10886 ,GESTO: Human-Centric Spatio-Temporal Memory for Reasoning in Dynamic Scenes,0,uncategorized,
 1250,Others,Uncategorized,http://arxiv.org/abs/2608.10057 ,LEGO: Leveled Language Gaussian Splatting,0,uncategorized,
 1249,Others,Uncategorized,http://arxiv.org/abs/2608.09230 ,SafeSceneReason: A Multimodal Reasoning Benchmark Connecting Industrial Hazards with Accident Knowledge,0,uncategorized,
 1248,Others,Uncategorized,http://arxiv.org/abs/2608.08110 ,Dependency-Aware Reliability Allocation for Open-Vocabulary Scene-Graph Semantic Packets over Latency- and Energy-Constrained Wireless Visual Uplinks,0,uncategorized,

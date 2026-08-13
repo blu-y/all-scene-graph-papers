@@ -1,9 +1,14 @@
 # Others
 
-309 Papers.
+314 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1255 | 26.08 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2608.12290) | Beyond Trial-and-Error: Agentic Optimization for Image-to-Video Adherence | 0 |
+| 1254 | 26.08 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2608.11246) | Towards the Harness of Embodied Agents | 0 |
+| 1253 | 26.08 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2608.11150) | CausalSplat: Towards Comprehensive Hierarchical Reasoning in 3D Gaussian Splatting | 0 |
+| 1252 | 26.08 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2608.11017) | R4DSG: Relative 4D Scene Graph Memory for Object-Centric Question Answering in Long Egocentric Video | 0 |
+| 1251 | 26.08 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2608.10886) | GESTO: Human-Centric Spatio-Temporal Memory for Reasoning in Dynamic Scenes | 0 |
 | 1250 | 26.08 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2608.10057) | LEGO: Leveled Language Gaussian Splatting | 0 |
 | 1249 | 26.08 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2608.09230) | SafeSceneReason: A Multimodal Reasoning Benchmark Connecting Industrial Hazards with Accident Knowledge | 0 |
 | 1248 | 26.08 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2608.08110) | Dependency-Aware Reliability Allocation for Open-Vocabulary Scene-Graph Semantic Packets over Latency- and Energy-Constrained Wireless Visual Uplinks | 0 |
