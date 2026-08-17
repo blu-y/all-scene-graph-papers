@@ -1,9 +1,10 @@
 # Others
 
-314 Papers.
+315 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1256 | 26.08 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2608.13923) | OpenBelief-Nav: Evidence-Preserving Object Memory for Open-Vocabulary Language-Guided Navigation | 0 |
 | 1255 | 26.08 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2608.12290) | Beyond Trial-and-Error: Agentic Optimization for Image-to-Video Adherence | 0 |
 | 1254 | 26.08 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2608.11246) | Towards the Harness of Embodied Agents | 0 |
 | 1253 | 26.08 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2608.11150) | CausalSplat: Towards Comprehensive Hierarchical Reasoning in 3D Gaussian Splatting | 0 |
