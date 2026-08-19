@@ -1,9 +1,12 @@
 # Others
 
-318 Papers.
+321 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1262 | 26.08 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2608.17633) | OVIP-SG: Open-Vocabulary Instance-Preserving Scene Graphs for Mapping and Retrieval of Small, Fine-Grained Objects | 0 |
+| 1261 | 26.08 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2608.17535) | GroupForward: Building Referable 3D Scenes via Instance-Grouped Feed-Forward Gaussian Splatting | 0 |
+| 1260 | 26.08 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2608.17318) | If, Then, Otherwise: Diagnosing Conditional Branching in Vision-Language Navigation | 0 |
 | 1259 | 26.08 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2608.16469) | Sterilizable Scene Graph Generation for Operating Rooms | 0 |
 | 1258 | 26.08 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2608.15336) | SAGE-OR: Semi-supervised Adaptive Scene Graph Generation for Operating Rooms | 0 |
 | 1257 | 26.08 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2608.14835) | OvDSGG: End-to-End Open-Vocabulary Dynamic Scene Graph Generation | 0 |

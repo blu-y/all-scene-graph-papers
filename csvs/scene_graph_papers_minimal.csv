@@ -1,4 +1,7 @@
 no,category,subcategory,arxiv_url,title,citations,source,additional_doi
+1262,Others,Uncategorized,http://arxiv.org/abs/2608.17633 ,"OVIP-SG: Open-Vocabulary Instance-Preserving Scene Graphs for Mapping and Retrieval of Small, Fine-Grained Objects",0,uncategorized,
+1261,Others,Uncategorized,http://arxiv.org/abs/2608.17535 ,GroupForward: Building Referable 3D Scenes via Instance-Grouped Feed-Forward Gaussian Splatting,0,uncategorized,
+1260,Others,Uncategorized,http://arxiv.org/abs/2608.17318 ,"If, Then, Otherwise: Diagnosing Conditional Branching in Vision-Language Navigation",0,uncategorized,
 1259,Others,Uncategorized,http://arxiv.org/abs/2608.16469 ,Sterilizable Scene Graph Generation for Operating Rooms,0,uncategorized,
 1258,Others,Uncategorized,http://arxiv.org/abs/2608.15336 ,SAGE-OR: Semi-supervised Adaptive Scene Graph Generation for Operating Rooms,0,uncategorized,
 1257,Others,Uncategorized,http://arxiv.org/abs/2608.14835 ,OvDSGG: End-to-End Open-Vocabulary Dynamic Scene Graph Generation,0,uncategorized,
