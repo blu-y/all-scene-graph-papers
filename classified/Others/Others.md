@@ -1,9 +1,10 @@
 # Others
 
-321 Papers.
+322 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1263 | 26.08 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2608.20157) | G3Ego: Gaze-Guided Graphs for Egocentric Action Understanding | 0 |
 | 1262 | 26.08 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2608.17633) | OVIP-SG: Open-Vocabulary Instance-Preserving Scene Graphs for Mapping and Retrieval of Small, Fine-Grained Objects | 0 |
 | 1261 | 26.08 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2608.17535) | GroupForward: Building Referable 3D Scenes via Instance-Grouped Feed-Forward Gaussian Splatting | 0 |
 | 1260 | 26.08 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2608.17318) | If, Then, Otherwise: Diagnosing Conditional Branching in Vision-Language Navigation | 0 |
