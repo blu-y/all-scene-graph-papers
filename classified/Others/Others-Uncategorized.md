@@ -1,9 +1,13 @@
 # Others - Uncategorized
 
-209 Papers.
+213 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1268 | 26.08 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2608.24112) | Scalable Question-Centric Text-to-Image Evaluation: Reliable Ranking, Fine-Grained Diagnosis, and Cost-Aware Routing | 0 |
+| 1267 | 26.08 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2608.24103) | ACE: A Self-Correcting Agentic Canvas Editor for Multi-Slide Presentation Automation | 0 |
+| 1266 | 26.08 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2608.23853) | LUX: A Lesion-Aware Graph-Conditioned Visual - Language Architecture for Explainable Endoscopic Captioning | 0 |
+| 1265 | 26.08 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2608.23650) | Concept-Guided Exploration: Building Persistent, Actionable Scene Graphs | 0 |
 | 1264 | 26.08 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2608.22896) | SuperMap: A Spatio-Temporal SLAM System for Visual-Language Navigation | 0 |
 | 1263 | 26.08 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2608.20157) | G3Ego: Gaze-Guided Graphs for Egocentric Action Understanding | 0 |
 | 1262 | 26.08 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2608.17633) | OVIP-SG: Open-Vocabulary Instance-Preserving Scene Graphs for Mapping and Retrieval of Small, Fine-Grained Objects | 0 |
