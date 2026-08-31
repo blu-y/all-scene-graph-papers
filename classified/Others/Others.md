@@ -1,9 +1,10 @@
 # Others
 
-328 Papers.
+329 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1270 | 26.08 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2608.28279) | STEGNav: Spatio-Temporal Event Graph Reasoning for Multimodal Lifelong Object Navigation | 0 |
 | 1269 | 26.08 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2608.25422) | Towards Faithful and Efficient Semantic Communication: An Ontological Approach | 0 |
 | 1268 | 26.08 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2608.24112) | Scalable Question-Centric Text-to-Image Evaluation: Reliable Ranking, Fine-Grained Diagnosis, and Cost-Aware Routing | 0 |
 | 1267 | 26.08 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2608.24103) | ACE: A Self-Correcting Agentic Canvas Editor for Multi-Slide Presentation Automation | 0 |
