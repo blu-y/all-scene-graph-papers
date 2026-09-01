@@ -1,9 +1,13 @@
 # Others
 
-329 Papers.
+333 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1274 | 26.08 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2608.30821) | Lucida: Parse, Generate, and Place for Composable Real-to-Sim Scene Modeling | 0 |
+| 1273 | 26.08 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2608.30584) | Learning Compositional Spatio-Temporal Video Grounding with Synthetic Curriculum | 0 |
+| 1272 | 26.08 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2608.29114) | CGFM-Nav: Cognitive Graph-Field Memory for Semantic-Guided Lifelong Multimodal Embodied Navigation | 0 |
+| 1271 | 26.08 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2608.28733) | Generation of High-Level Concepts in 3D Scene Graphs via Autoregressive Diffusion | 0 |
 | 1270 | 26.08 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2608.28279) | STEGNav: Spatio-Temporal Event Graph Reasoning for Multimodal Lifelong Object Navigation | 0 |
 | 1269 | 26.08 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2608.25422) | Towards Faithful and Efficient Semantic Communication: An Ontological Approach | 0 |
 | 1268 | 26.08 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2608.24112) | Scalable Question-Centric Text-to-Image Evaluation: Reliable Ranking, Fine-Grained Diagnosis, and Cost-Aware Routing | 0 |

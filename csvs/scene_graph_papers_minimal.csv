@@ -1,4 +1,8 @@
 no,category,subcategory,arxiv_url,title,citations,source,additional_doi
+1274,Others,Uncategorized,http://arxiv.org/abs/2608.30821 ,"Lucida: Parse, Generate, and Place for Composable Real-to-Sim Scene Modeling",0,uncategorized,
+1273,Others,Uncategorized,http://arxiv.org/abs/2608.30584 ,Learning Compositional Spatio-Temporal Video Grounding with Synthetic Curriculum,0,uncategorized,
+1272,Others,Uncategorized,http://arxiv.org/abs/2608.29114 ,CGFM-Nav: Cognitive Graph-Field Memory for Semantic-Guided Lifelong Multimodal Embodied Navigation,0,uncategorized,
+1271,Others,Uncategorized,http://arxiv.org/abs/2608.28733 ,Generation of High-Level Concepts in 3D Scene Graphs via Autoregressive Diffusion,0,uncategorized,
 1270,Others,Uncategorized,http://arxiv.org/abs/2608.28279 ,STEGNav: Spatio-Temporal Event Graph Reasoning for Multimodal Lifelong Object Navigation,0,uncategorized,
 1269,Others,Uncategorized,http://arxiv.org/abs/2608.25422 ,Towards Faithful and Efficient Semantic Communication: An Ontological Approach,0,uncategorized,
 1268,Others,Uncategorized,http://arxiv.org/abs/2608.24112 ,"Scalable Question-Centric Text-to-Image Evaluation: Reliable Ranking, Fine-Grained Diagnosis, and Cost-Aware Routing",0,uncategorized,
