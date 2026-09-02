@@ -1,9 +1,14 @@
 # Others
 
-333 Papers.
+338 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1279 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.01579) | SG-AMP: Scene-Graph-Guided Active Perception and Semantics-Aware Motion Planning for Pepper Plants | 0 |
+| 1278 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.00709) | Controllable Image Captioning with Prompt-Conditioned Scene Rewards | 0 |
+| 1277 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.00656) | Physically Plausible Video Generation via Visual-Semantic Chain-of-Events Conditioning | 0 |
+| 1276 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.00619) | DSG: Dynamic 3D Scene Graph Construction for Embodied Agents in Changing Indoor Environments | 0 |
+| 1275 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.00333) | Scene Graph-based Driving Scenario Extraction for Automotive Egocentric Datasets | 0 |
 | 1274 | 26.08 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2608.30821) | Lucida: Parse, Generate, and Place for Composable Real-to-Sim Scene Modeling | 0 |
 | 1273 | 26.08 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2608.30584) | Learning Compositional Spatio-Temporal Video Grounding with Synthetic Curriculum | 0 |
 | 1272 | 26.08 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2608.29114) | CGFM-Nav: Cognitive Graph-Field Memory for Semantic-Guided Lifelong Multimodal Embodied Navigation | 0 |
