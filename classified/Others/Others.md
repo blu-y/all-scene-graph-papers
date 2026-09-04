@@ -1,9 +1,11 @@
 # Others
 
-338 Papers.
+340 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1281 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.03892) | GraFT: A Training-Free Framework for Spatial Reasoning in Multimodal Large Language Models via 3D Scene Graphs | 0 |
+| 1280 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.03891) | A hybrid pipeline for dynamic ontology-based semantic mapping | 0 |
 | 1279 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.01579) | SG-AMP: Scene-Graph-Guided Active Perception and Semantics-Aware Motion Planning for Pepper Plants | 0 |
 | 1278 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.00709) | Controllable Image Captioning with Prompt-Conditioned Scene Rewards | 0 |
 | 1277 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.00656) | Physically Plausible Video Generation via Visual-Semantic Chain-of-Events Conditioning | 0 |
