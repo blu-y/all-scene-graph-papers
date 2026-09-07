@@ -1,9 +1,11 @@
 # Others - Uncategorized
 
-226 Papers.
+228 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1283 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.05257) | Commonsense Reasoning in Computer Vision: Foundations, Recent Advancements, and Future Directions | 0 |
+| 1282 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.04607) | Open-Set 3D Scene Graphs for Field Robotics: An Outdoor Case Study | 0 |
 | 1281 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.03892) | GraFT: A Training-Free Framework for Spatial Reasoning in Multimodal Large Language Models via 3D Scene Graphs | 0 |
 | 1280 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.03891) | A hybrid pipeline for dynamic ontology-based semantic mapping | 0 |
 | 1279 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.01579) | SG-AMP: Scene-Graph-Guided Active Perception and Semantics-Aware Motion Planning for Pepper Plants | 0 |
