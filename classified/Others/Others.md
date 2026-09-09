@@ -1,9 +1,16 @@
 # Others
 
-342 Papers.
+349 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1290 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.08543) | STSG-VQA: Evidence-Grounded Temporal Question Answering from Surgical Spatio-Temporal Scene Graphs | 0 |
+| 1289 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.08292) | EvoNav-Bench: Benchmarking Lifelong Navigation in Evolving Environments | 0 |
+| 1288 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.08242) | CS-CLIP: Compositional Scene Graph-guided CLIP for Robust Compositional Reasoning | 0 |
+| 1287 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.07857) | Scene Graph-Driven Haptic Feedback for Safety Enhancement in Robotic Ophthalmic Surgery via Physically Simulated iOCT | 0 |
+| 1286 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.07497) | Functional-SLAM: Interaction-Aware Mapping with Online Functional Scene Graphs | 0 |
+| 1285 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.07094) | CASCADE: A Spatio-Temporal-Causal Reasoning Representation and Dataset for Driving | 0 |
+| 1284 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.06221) | RefGuard: Identity-Aware Language-Guided Robot Manipulation via Joint Target-Anchor-Frame Grounding | 0 |
 | 1283 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.05257) | Commonsense Reasoning in Computer Vision: Foundations, Recent Advancements, and Future Directions | 0 |
 | 1282 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.04607) | Open-Set 3D Scene Graphs for Field Robotics: An Outdoor Case Study | 0 |
 | 1281 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.03892) | GraFT: A Training-Free Framework for Spatial Reasoning in Multimodal Large Language Models via 3D Scene Graphs | 0 |
