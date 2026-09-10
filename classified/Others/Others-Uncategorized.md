@@ -1,9 +1,10 @@
 # Others - Uncategorized
 
-235 Papers.
+236 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1291 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.09184) | Evidence-Order Calibration for Selective Visual Reasoning under Progressive Loss of Question-Critical Evidence | 0 |
 | 1290 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.08543) | STSG-VQA: Evidence-Grounded Temporal Question Answering from Surgical Spatio-Temporal Scene Graphs | 0 |
 | 1289 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.08292) | EvoNav-Bench: Benchmarking Lifelong Navigation in Evolving Environments | 0 |
 | 1288 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.08242) | CS-CLIP: Compositional Scene Graph-guided CLIP for Robust Compositional Reasoning | 0 |
