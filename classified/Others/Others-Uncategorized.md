@@ -1,9 +1,11 @@
 # Others - Uncategorized
 
-237 Papers.
+239 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1294 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.12614) | ProClosure: Hierarchical Room-Object Assignment using Progressive Boundary Closure from Monocular Video | 0 |
+| 1293 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.12552) | RelateAnything: Real-Time Open-Vocabulary Relation Prediction From Any Inputs | 0 |
 | 1292 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.10806) | TrajFusionNet+: Transformer-Based Prediction of Pedestrian Crossing Intention via Fusion of Trajectory Representations and Scene Graphs | 0 |
 | 1291 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.09184) | Evidence-Order Calibration for Selective Visual Reasoning under Progressive Loss of Question-Critical Evidence | 0 |
 | 1290 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.08543) | STSG-VQA: Evidence-Grounded Temporal Question Answering from Surgical Spatio-Temporal Scene Graphs | 0 |
