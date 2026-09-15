@@ -1,9 +1,13 @@
 # Others - Uncategorized
 
-239 Papers.
+243 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1298 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.15976) | MessyMem: Learning-from-Doing Memory for Mobile Manipulation | 0 |
+| 1297 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.15895) | Goal-Oriented Communications for Physical AI: Design and Testbed | 0 |
+| 1296 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.15587) | An Information-Space Perspective to Scene Graph Sufficiency for Robotic Task Planning | 0 |
+| 1295 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.15392) | ESG: Generating Physically Consistent Dynamic 3D Scenes from Text Descriptions | 0 |
 | 1294 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.12614) | ProClosure: Hierarchical Room-Object Assignment using Progressive Boundary Closure from Monocular Video | 0 |
 | 1293 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.12552) | RelateAnything: Real-Time Open-Vocabulary Relation Prediction From Any Inputs | 0 |
 | 1292 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.10806) | TrajFusionNet+: Transformer-Based Prediction of Pedestrian Crossing Intention via Fusion of Trajectory Representations and Scene Graphs | 0 |
