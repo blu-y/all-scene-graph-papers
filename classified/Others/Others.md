@@ -1,9 +1,12 @@
 # Others
 
-357 Papers.
+360 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1301 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.20673) | FunArt: Decoding Functional Structure and Articulation from Generative 3D Latents | 0 |
+| 1300 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.20624) | SmellDiffusion: Diffusion-Based Quadruped Navigation with Olfactory Scene Graphs | 0 |
+| 1299 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.19911) | CitySTAR: Structured and Topology-Aware Reasoning for Open-Vocabulary Urban 3D Grounding | 0 |
 | 1298 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.15976) | MessyMem: Learning-from-Doing Memory for Mobile Manipulation | 0 |
 | 1297 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.15895) | Goal-Oriented Communications for Physical AI: Design and Testbed | 0 |
 | 1296 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.15587) | An Information-Space Perspective to Scene Graph Sufficiency for Robotic Task Planning | 0 |
