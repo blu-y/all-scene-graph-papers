@@ -1,9 +1,10 @@
 # Others - Uncategorized
 
-246 Papers.
+247 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1302 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.18328) | Visual Compliance via Executable Safety Rule Entailment | 0 |
 | 1301 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.20673) | FunArt: Decoding Functional Structure and Articulation from Generative 3D Latents | 0 |
 | 1300 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.20624) | SmellDiffusion: Diffusion-Based Quadruped Navigation with Olfactory Scene Graphs | 0 |
 | 1299 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.19911) | CitySTAR: Structured and Topology-Aware Reasoning for Open-Vocabulary Urban 3D Grounding | 0 |
