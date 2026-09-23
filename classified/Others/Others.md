@@ -1,9 +1,11 @@
 # Others
 
-361 Papers.
+363 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1304 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.26360) | Hierarchical Floorplan-Guided Vision-Language Exploration for Embodied Question Answering | 0 |
+| 1303 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.19413) | From Rollout to Reset: A Graph-Based Harness for Autonomous Long-Horizon Manipulation Evaluation | 0 |
 | 1302 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.18328) | Visual Compliance via Executable Safety Rule Entailment | 0 |
 | 1301 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.20673) | FunArt: Decoding Functional Structure and Articulation from Generative 3D Latents | 0 |
 | 1300 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.20624) | SmellDiffusion: Diffusion-Based Quadruped Navigation with Olfactory Scene Graphs | 0 |
