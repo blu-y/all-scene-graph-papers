@@ -1,9 +1,10 @@
 # Others - Uncategorized
 
-249 Papers.
+250 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1305 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.27895) | Electromagnetic Twin: From Sparse Measurements to Persistent Wireless Intelligence | 0 |
 | 1304 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.26360) | Hierarchical Floorplan-Guided Vision-Language Exploration for Embodied Question Answering | 0 |
 | 1303 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.19413) | From Rollout to Reset: A Graph-Based Harness for Autonomous Long-Horizon Manipulation Evaluation | 0 |
 | 1302 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.18328) | Visual Compliance via Executable Safety Rule Entailment | 0 |
