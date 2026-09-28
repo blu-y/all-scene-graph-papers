@@ -1,9 +1,27 @@
 # Others - Uncategorized
 
-251 Papers.
+269 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1324 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.31595) | GraphWrit3R: End-to-End 3D Scene Graph Writing | 0 |
+| 1323 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.31524) | Structured Reasoning Agentic Framework for Interpretable Critical View of Safety Assessment | 0 |
+| 1322 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.31005) | TRACKGRAPH: Online Open-Vocabulary 3D Scene Graphs via Image-Space Tracking | 0 |
+| 1321 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.29541) | GeoRefer-Bench: A Benchmark from Referring Pixels to Verifiable Geospatial Reasoning | 0 |
+| 1320 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.27890) | RelCheck: Dual-Evidence Spatial Grounding for VLM Hallucination Correction | 0 |
+| 1319 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.27467) | Kairos: Grounded Forecasting of Presence and Directional Flow in 4D Scene Graphs | 0 |
+| 1318 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.25651) | SurgGraph: Quantitative Laparoscopic Video Understanding via Geometry-Grounded Scene Graphs | 0 |
+| 1317 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.24626) | Relationally Grounded Latent World Models for Autonomous Driving | 0 |
+| 1316 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.24189) | A Topological Representation with Object-Path Graphs for Open-Vocabulary Instance Navigation | 0 |
+| 1315 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.23745) | FlockDiffusion: Assignment-Conditioned Diffusion for Multi-Drone Task Allocation and Completion | 0 |
+| 1314 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.23144) | Probabilistic Scene Graphs: Hierarchical Representation and Real-time System | 0 |
+| 1313 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.22351) | Hierarchical Aggregation of Semantic Uncertainty in 3D Scene Graphs | 0 |
+| 1312 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.21804) | VideoReloc: Long-Term Indoor Video Relocalization against a Kilobyte-Scale Semantic Scene Graph | 0 |
+| 1311 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.19815) | SnapPhysics: A Physics-Aware Scene Graph from a Single View for Interactive Mixed Reality Scenes | 0 |
+| 1310 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.19813) | Vehicle Trajectory Prediction via Neural Fusion of Multiple EKF-Based Trajectory Candidates | 0 |
+| 1309 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.19767) | Benchmarking MLLMs via Cognitive Expected Scene Graph for Safety-Critical Visual Negation Understanding | 0 |
+| 1308 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.18058) | Finder: Agentic Closed-Loop Object Finding for Embodied Grounding | 0 |
+| 1307 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.17771) | HINT-Plan: Human Intention-Aware Robot Task Planning in Context-Rich Environments using Vision Language Models | 0 |
 | 1306 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.28813) | CinematicVQA: Benchmarking Film-Grammar Reasoning in Large Vision-Language Models | 0 |
 | 1305 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.27895) | Electromagnetic Twin: From Sparse Measurements to Persistent Wireless Intelligence | 0 |
 | 1304 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.26360) | Hierarchical Floorplan-Guided Vision-Language Exploration for Embodied Question Answering | 0 |
