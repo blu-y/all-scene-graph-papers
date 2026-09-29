@@ -1,9 +1,15 @@
 # Others - Uncategorized
 
-269 Papers.
+275 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1330 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.34730) | Action Sequence Transfer via LLMs for Heterogeneous Environments | 0 |
+| 1329 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.33855) | Program-Verified Self-Evolution for Vision-Language Models | 0 |
+| 1328 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.33258) | PORTER: Edge-Cloud Residency for Persistent 3D Scene Graph Memory | 0 |
+| 1327 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.32837) | Scanning While Imagining: A Scene-Graph World Model for Robotic Ultrasound Navigation | 0 |
+| 1326 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.32645) | From Scene Graphs to Answers: Selective Neuro-Symbolic Reasoning for Autonomous Driving | 0 |
+| 1325 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.32157) | CausalDriveBench: Evaluating Causal Reasoning in Vision-Language-Action Models for Autonomous Driving | 0 |
 | 1324 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.31595) | GraphWrit3R: End-to-End 3D Scene Graph Writing | 0 |
 | 1323 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.31524) | Structured Reasoning Agentic Framework for Interpretable Critical View of Safety Assessment | 0 |
 | 1322 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.31005) | TRACKGRAPH: Online Open-Vocabulary 3D Scene Graphs via Image-Space Tracking | 0 |
