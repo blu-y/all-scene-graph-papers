@@ -1,9 +1,10 @@
 # Others - Uncategorized
 
-275 Papers.
+276 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1331 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.37419) | Towards Spatial Perception for Heterogeneous Robot Collaboration in Subterranean Mining Environments | 0 |
 | 1330 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.34730) | Action Sequence Transfer via LLMs for Heterogeneous Environments | 0 |
 | 1329 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.33855) | Program-Verified Self-Evolution for Vision-Language Models | 0 |
 | 1328 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.33258) | PORTER: Edge-Cloud Residency for Persistent 3D Scene Graph Memory | 0 |
