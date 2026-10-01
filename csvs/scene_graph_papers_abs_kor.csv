@@ -1,4 +1,10 @@
 no,arxiv_url,title,authors,abstract_kor
+1337,http://arxiv.org/abs/2609.39969 ,TACTIC: Temporal and Context-Aware LLM Tactical Planning for Roadside LiDAR Attacks,"Yiming Gao, Shaocheng Luo",
+1336,http://arxiv.org/abs/2609.39670 ,From Local Whole-Body VLA Behaviors to Scene-Scale Aerial Manipulation,"Weixiang Guo, Rui Jin, Haotian Jin, Xinhang Xu, Ruiyang Liu, Haoran Zhao, Yi Wang, Weiqi Gai, Kun Cao, Lihua Xie",
+1335,http://arxiv.org/abs/2609.39665 ,ChronoGraph: Functional 4D Scene Graphs with Vision-Language Models for Interaction Understanding and Grounded Planning,"Chenyangguang Zhang, Malgorzata Gwiazda, Guanlong Jiao, Yuanchen Ju, Federico Tombari, Koushil Sreenath, Marc Pollefeys, Sunghwan Hong",
+1334,http://arxiv.org/abs/2609.39441 ,CAST: Causal Advantage-Structured Training with Spatially Grounded Compositional Rewards for Diffusion Models,"Shu Yu, Chaochao Lu",
+1333,http://arxiv.org/abs/2609.39153 ,Concurrent Semantic Search and Mission Execution for LTL Missions in Unknown Environments,"Fernando Salanova Gaspar, David Morilla Cabello, Cristian Mahulea Poleuca, Eduardo Montijano Muñoz",
+1332,http://arxiv.org/abs/2609.38640 ,Yggdrasil: a Layer-First 3D Scene Graph for Real-Time Querying,"Arshia Akhavan, Ermanno Bartoli, Afnan Algharbi, Alireza Hoseinpur, Iolanda Leite, Bryan Donyanavard",
 1331,http://arxiv.org/abs/2609.37419 ,Towards Spatial Perception for Heterogeneous Robot Collaboration in Subterranean Mining Environments,"Mario Alberto Valdes Saucedo, Akash Patel, Christoforos Kanellakis, George Nikolakopoulos",
 1330,http://arxiv.org/abs/2609.34730 ,Action Sequence Transfer via LLMs for Heterogeneous Environments,"Choongho Chung, DongHwan Shin, Sung-Hee Lee",
 1329,http://arxiv.org/abs/2609.33855 ,Program-Verified Self-Evolution for Vision-Language Models,"Ahmed Heakl, Sungik Choi, Moontae Lee, Salman Khan",

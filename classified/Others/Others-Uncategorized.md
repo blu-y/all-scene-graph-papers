@@ -1,9 +1,15 @@
 # Others - Uncategorized
 
-276 Papers.
+282 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1337 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.39969) | TACTIC: Temporal and Context-Aware LLM Tactical Planning for Roadside LiDAR Attacks | 0 |
+| 1336 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.39670) | From Local Whole-Body VLA Behaviors to Scene-Scale Aerial Manipulation | 0 |
+| 1335 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.39665) | ChronoGraph: Functional 4D Scene Graphs with Vision-Language Models for Interaction Understanding and Grounded Planning | 0 |
+| 1334 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.39441) | CAST: Causal Advantage-Structured Training with Spatially Grounded Compositional Rewards for Diffusion Models | 0 |
+| 1333 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.39153) | Concurrent Semantic Search and Mission Execution for LTL Missions in Unknown Environments | 0 |
+| 1332 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.38640) | Yggdrasil: a Layer-First 3D Scene Graph for Real-Time Querying | 0 |
 | 1331 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.37419) | Towards Spatial Perception for Heterogeneous Robot Collaboration in Subterranean Mining Environments | 0 |
 | 1330 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.34730) | Action Sequence Transfer via LLMs for Heterogeneous Environments | 0 |
 | 1329 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.33855) | Program-Verified Self-Evolution for Vision-Language Models | 0 |
