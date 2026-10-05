@@ -1,9 +1,11 @@
 # Others - Uncategorized
 
-282 Papers.
+284 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1339 | 26.10 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2610.03622) | CORNAV: Construction-Aware Reasoning for Robot Navigation on Active Worksites | 0 |
+| 1338 | 26.10 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2610.02803) | LOCUS: Landmark-Oriented Container Discrimination Using Spatial Graphs | 0 |
 | 1337 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.39969) | TACTIC: Temporal and Context-Aware LLM Tactical Planning for Roadside LiDAR Attacks | 0 |
 | 1336 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.39670) | From Local Whole-Body VLA Behaviors to Scene-Scale Aerial Manipulation | 0 |
 | 1335 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.39665) | ChronoGraph: Functional 4D Scene Graphs with Vision-Language Models for Interaction Understanding and Grounded Planning | 0 |
