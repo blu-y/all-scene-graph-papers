@@ -1,9 +1,12 @@
 # Others
 
-398 Papers.
+401 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1342 | 26.10 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2610.06413) | SpatialChain: A Benchmark for Auditing Spatial Reasoning Faithfulness in VLMs | 0 |
+| 1341 | 26.10 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2610.04301) | EnvDreamer: Large-Scale Multimodal-to-Environment Generation for Embodied AI | 0 |
+| 1340 | 26.08 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2608.17129) | MG-VQA: Manipulation Grounded Visual Question Answering with VLMs | 0 |
 | 1339 | 26.10 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2610.03622) | CORNAV: Construction-Aware Reasoning for Robot Navigation on Active Worksites | 0 |
 | 1338 | 26.10 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2610.02803) | LOCUS: Landmark-Oriented Container Discrimination Using Spatial Graphs | 0 |
 | 1337 | 26.09 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2609.39969) | TACTIC: Temporal and Context-Aware LLM Tactical Planning for Roadside LiDAR Attacks | 0 |
