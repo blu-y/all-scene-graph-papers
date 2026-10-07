@@ -1,9 +1,10 @@
 # Others
 
-401 Papers.
+402 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1343 | 26.10 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2610.07569) | OpenSplatGraph: From Dense Semantic Maps to Structured Scene Graphs for Open-Vocabulary Robot Perception | 0 |
 | 1342 | 26.10 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2610.06413) | SpatialChain: A Benchmark for Auditing Spatial Reasoning Faithfulness in VLMs | 0 |
 | 1341 | 26.10 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2610.04301) | EnvDreamer: Large-Scale Multimodal-to-Environment Generation for Embodied AI | 0 |
 | 1340 | 26.08 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2608.17129) | MG-VQA: Manipulation Grounded Visual Question Answering with VLMs | 0 |
