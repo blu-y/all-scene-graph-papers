@@ -1,9 +1,11 @@
 # Others - Uncategorized
 
-290 Papers.
+292 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1347 | 26.10 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2610.12470) | Dex-One2Many: Learning Dexterous Manipulation from a Single Human Demonstration | 0 |
+| 1346 | 26.10 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2610.10782) | VICO: Visual Environments Co-Evolving for Vision-Language Model Reasoning | 0 |
 | 1345 | 26.10 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2610.09488) | SiGNgapore - An Interactive Dataset for Sign-based Visual Navigation | 0 |
 | 1344 | 26.10 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2610.08800) | A Review Of Robotic World Models For Dynamic Environments Based On Factor And Scene Graphs | 0 |
 | 1343 | 26.10 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2610.07569) | OpenSplatGraph: From Dense Semantic Maps to Structured Scene Graphs for Open-Vocabulary Robot Perception | 0 |

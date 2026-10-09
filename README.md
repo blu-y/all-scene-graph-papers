@@ -7,7 +7,7 @@ Reposity for classifying all arXiv scene graph papers.
 
 ## 📚 Categories
 
-Classified 38.0%(511/1345)
+Classified 37.9%(511/1347)
 
 - [**Scene Graph**](./classified/Scene%20Graph/Scene%20Graph.md)
   - [3D Scene Graph](./classified/Scene%20Graph/Scene%20Graph-3D%20Scene%20Graph.md)
