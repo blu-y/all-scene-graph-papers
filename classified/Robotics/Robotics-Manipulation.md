@@ -7,7 +7,7 @@
 | 1032 | 26.02 | Robotics | Manipulation | 👤 | [📎](http://arxiv.org/abs/2602.13086) | UniManip: General-Purpose Zero-Shot Robotic Manipulation with Agentic Operational Graph | 0 |
 | 1025 | 26.02 | Robotics | Manipulation | 👤 | [📎](http://arxiv.org/abs/2602.04419) | Integrated Exploration and Sequential Manipulation on Scene Graph with LLM-based Situated Replanning | 0 |
 | 1019 | 26.02 | Robotics | Manipulation | 👤 | [📎](http://arxiv.org/abs/2602.01693) | GSR: Learning Structured Reasoning for Embodied Manipulation | 0 |
-| 1013 | 26.01 | Robotics | Manipulation | 👤 | [📎](http://arxiv.org/abs/2601.19832) | Information-Theoretic Detection of Bimanual Interactions for Dual-Arm Robot Plan Generation | 0 |
+| 1013 | 26.01 | Robotics | Manipulation | 👤 | [📎](http://arxiv.org/abs/2601.19832) | Information-Theoretic Detection of Bimanual Interactions for Dual-Arm Robot Plan Generation | 2 |
 | 1007 | 26.01 | Robotics | Manipulation | 👤 | [📎](http://arxiv.org/abs/2601.11460) | Learning Semantic-Geometric Task Graph-Representations from Human Demonstrations | 0 |
 | 973 | 25.12 | Robotics | Manipulation | 👤 | [📎](http://arxiv.org/abs/2512.03913) | Hierarchical Vision Language Action Model Using Success and Failure Demonstrations | 0 |
 | 946 | 25.11 | Robotics | Manipulation | 👤 | [📎](http://arxiv.org/abs/2511.04357) | GraSP-VLA: Graph-based Symbolic Action Representation for Long-Horizon Planning with VLA Policies | 0 |
@@ -17,21 +17,21 @@
 | 909 | 25.09 | Robotics | Manipulation | 👤 | [📎](http://arxiv.org/abs/2509.21928) | SAGE: Scene Graph-Aware Guidance and Execution for Long-Horizon Manipulation Tasks | 0 |
 | 899 | 25.09 | Robotics | Manipulation | 👤 | [📎](http://arxiv.org/abs/2509.16053) | Compose by Focus: Scene Graph-based Atomic Skills | 0 |
 | 889 | 25.09 | Robotics | Manipulation | 👤 | [📎](http://arxiv.org/abs/2509.07957) | Graph-Fused Vision-Language-Action for Policy Reasoning in Multi-Arm Robotic Manipulation | 0 |
-| 876 | 25.08 | Robotics | Manipulation | 👤 | [📎](http://arxiv.org/abs/2508.05342) | Information-Theoretic Graph Fusion with Vision-Language-Action Model for Policy Reasoning and Dual Robotic Control | 0 |
+| 876 | 25.08 | Robotics | Manipulation | 👤 | [📎](http://arxiv.org/abs/2508.05342) | Information-Theoretic Graph Fusion with Vision-Language-Action Model for Policy Reasoning and Dual Robotic Control | 41 |
 | 848 | 25.06 | Robotics | Manipulation | 🤖 | [📎](http://arxiv.org/abs/2506.18825) | SViP: Sequencing Bimanual Visuomotor Policies with Object-Centric Motion Primitives | 0 |
 | 839 | 25.06 | Robotics | Manipulation | 🤖 | [📎](http://arxiv.org/abs/2506.10966) | GENMANIP: LLM-driven Simulation for Generalizable Instruction-Following Manipulation | 0 |
 | 807 | 25.05 | Robotics | Manipulation | 🤖 | [📎](http://arxiv.org/abs/2505.03035) | MORE: Mobile Manipulation Rearrangement Through Grounded Language Reasoning | 0 |
 | 782 | 25.03 | Robotics | Manipulation | 🤖 | [📎](http://arxiv.org/abs/2503.18988) | SG-Tailor: Inter-Object Commonsense Relationship Reasoning for Scene Graph Manipulation | 0 |
 | 765 | 25.03 | Robotics | Manipulation | 🤖 | [📎](http://arxiv.org/abs/2503.12034) | Real-Time Manipulation Action Recognition with a Factorized Graph Sequence Encoder | 0 |
 | 679 | 24.11 | Robotics | Manipulation | 🤖 | [📎](http://arxiv.org/abs/2411.11714) | Semantic-Geometric-Physical-Driven Robot Manipulation Skill Transfer via Skill Library and Tactile Representation | 0 |
-| 661 | 24.10 | Robotics | Manipulation | 🤖 | [📎](http://arxiv.org/abs/2410.11989) | Dynamic Open-Vocabulary 3D Scene Graphs for Long-term Language-Guided Mobile Manipulation | 0 |
+| 661 | 24.10 | Robotics | Manipulation | 🤖 | [📎](http://arxiv.org/abs/2410.11989) | Dynamic Open-Vocabulary 3D Scene Graphs for Long-term Language-Guided Mobile Manipulation | 18 |
 | 600 | 24.05 | Robotics | Manipulation | 🤖 | [📎](http://arxiv.org/abs/2405.18948) | Learning to Recover from Plan Execution Errors during Robot Manipulation: A Neuro-symbolic Approach | 0 |
-| 552 | 24.03 | Robotics | Manipulation | 🤖 | [📎](http://arxiv.org/abs/2403.08605) | Language-Grounded Dynamic Scene Graphs for Interactive Object Search with Mobile Manipulation | 0 |
+| 552 | 24.03 | Robotics | Manipulation | 🤖 | [📎](http://arxiv.org/abs/2403.08605) | Language-Grounded Dynamic Scene Graphs for Interactive Object Search with Mobile Manipulation | 66 |
 | 506 | 23.11 | Robotics | Manipulation | 🤖 | [📎](http://arxiv.org/abs/2311.02247) | PRISM: Progressive Restoration for Scene Graph-based Image Manipulation | 0 |
-| 484 | 23.10 | Robotics | Manipulation | 🤖 | [📎](http://arxiv.org/abs/2310.00670) | A Hierarchical Graph-based Approach for Recognition and Description Generation of Bimanual Actions in Videos | 0 |
+| 484 | 23.10 | Robotics | Manipulation | 🤖 | [📎](http://arxiv.org/abs/2310.00670) | A Hierarchical Graph-based Approach for Recognition and Description Generation of Bimanual Actions in Videos | 2 |
 | 365 | 23.02 | Robotics | Manipulation | 🤖 | [📎](http://arxiv.org/abs/2302.02651) | 1st Place Solution for PSG competition with ECCV'22 SenseHuman Workshop | 4 |
 | 337 | 22.11 | Robotics | Manipulation | 🤖 | [📎](http://arxiv.org/abs/2211.05499) | DisPositioNet: Disentangled Pose and Identity in Semantic Image Manipulation | 1 |
-| 321 | 22.09 | Robotics | Manipulation | 👤 | [📎](http://arxiv.org/abs/2209.14026) | Human-in-the-loop Robotic Grasping using BERT Scene Representation | 2 |
-| 295 | 22.07 | Robotics | Manipulation | 👤 | [📎](http://arxiv.org/abs/2207.04364) | Sequential Manipulation Planning on Scene Graph | 0 |
-| 154 | 20.12 | Robotics | Manipulation | 👤 | [📎](http://arxiv.org/abs/2012.07277) | Hierarchical Planning for Long-Horizon Manipulation with Geometric and Symbolic Scene Graphs | 13 |
-| 8 | 17.04 | Robotics | Manipulation | 👤 | [📎](http://arxiv.org/abs/1704.01189) | Semantic Robot Programming for Goal-Directed Manipulation in Cluttered Scenes | 0 |
+| 321 | 22.09 | Robotics | Manipulation | 👤 | [📎](http://arxiv.org/abs/2209.14026) | Human-in-the-loop Robotic Grasping using BERT Scene Representation | 3 |
+| 295 | 22.07 | Robotics | Manipulation | 👤 | [📎](http://arxiv.org/abs/2207.04364) | Sequential Manipulation Planning on Scene Graph | 38 |
+| 154 | 20.12 | Robotics | Manipulation | 👤 | [📎](http://arxiv.org/abs/2012.07277) | Hierarchical Planning for Long-Horizon Manipulation with Geometric and Symbolic Scene Graphs | 87 |
+| 8 | 17.04 | Robotics | Manipulation | 👤 | [📎](http://arxiv.org/abs/1704.01189) | Semantic Robot Programming for Goal-Directed Manipulation in Cluttered Scenes | 39 |

@@ -8,27 +8,27 @@
 | 941 | 25.10 | Robotics | Robotic Perception | 👤 | [📎](http://arxiv.org/abs/2510.27033) | A Multi-Modal Neuro-Symbolic Approach for Spatial Reasoning-Based Visual Grounding in Robotics | 0 |
 | 928 | 25.10 | Robotics | Robotic Perception | 👤 | [📎](http://arxiv.org/abs/2510.10778) | Real2USD: Scene Representations in Universal Scene Description Language | 0 |
 | 895 | 25.09 | Robotics | Robotic Perception | 👤 | [📎](http://arxiv.org/abs/2509.11959) | Learning to Generate 4D LiDAR Sequences | 0 |
-| 861 | 25.07 | Robotics | Robotic Perception | 🤖 | [📎](http://arxiv.org/abs/2507.11770) | Generating Actionable Robot Knowledge Bases by Combining 3D Scene Graphs with Robot Ontologies | 0 |
-| 855 | 25.06 | Robotics | Robotic Perception | 🤖 | [📎](http://arxiv.org/abs/2506.22593) | Pixels-to-Graph: Real-time Integration of Building Information Models and Scene Graphs for Semantic-Geometric Human-Robot Understanding | 0 |
+| 861 | 25.07 | Robotics | Robotic Perception | 🤖 | [📎](http://arxiv.org/abs/2507.11770) | Generating Actionable Robot Knowledge Bases by Combining 3D Scene Graphs with Robot Ontologies | 1 |
+| 855 | 25.06 | Robotics | Robotic Perception | 🤖 | [📎](http://arxiv.org/abs/2506.22593) | Pixels-to-Graph: Real-time Integration of Building Information Models and Scene Graphs for Semantic-Geometric Human-Robot Understanding | 2 |
 | 840 | 25.06 | Robotics | Robotic Perception | 🤖 | [📎](http://arxiv.org/abs/2506.12525) | A Spatial Relationship Aware Dataset for Robotics | 0 |
 | 824 | 25.06 | Robotics | Robotic Perception | 🤖 | [📎](http://arxiv.org/abs/2506.01174) | GraphPad: Inference-Time 3D Scene Graph Updates for Embodied Question Answering | 0 |
 | 823 | 25.06 | Robotics | Robotic Perception | 🤖 | [📎](http://arxiv.org/abs/2506.00083) | Hi-Dyna Graph: Hierarchical Dynamic Scene Graph for Robotic Autonomy in Human-Centric Environments | 0 |
-| 775 | 25.03 | Robotics | Robotic Perception | 🤖 | [📎](http://arxiv.org/abs/2503.15202) | A Unified Framework for Real-Time Failure Handling in Robotics Using Vision-Language Models, Reactive Planner and Behavior Trees | 0 |
+| 775 | 25.03 | Robotics | Robotic Perception | 🤖 | [📎](http://arxiv.org/abs/2503.15202) | A Unified Framework for Real-Time Failure Handling in Robotics Using Vision-Language Models, Reactive Planner and Behavior Trees | 1 |
 | 713 | 24.12 | Robotics | Robotic Perception | 🤖 | [📎](http://arxiv.org/abs/2412.14480) | GraphEQA: Using 3D Semantic Scene Graphs for Real-time Embodied Question Answering | 0 |
 | 700 | 24.12 | Robotics | Robotic Perception | 🤖 | [📎](http://arxiv.org/abs/2412.05789) | InfiniteWorld: A Unified Scalable Simulation Framework for General Visual-Language Robot Interaction | 1 |
 | 684 | 24.11 | Robotics | Robotic Perception | 🤖 | [📎](http://arxiv.org/abs/2411.15027) | Time is on my sight: scene graph filtering for dynamic environment perception in an LLM-driven robot | 0 |
-| 670 | 24.10 | Robotics | Robotic Perception | 🤖 | [📎](http://arxiv.org/abs/2410.23963) | Exploiting Information Theory for Intuitive Robot Programming of Manual Activities | 0 |
+| 670 | 24.10 | Robotics | Robotic Perception | 🤖 | [📎](http://arxiv.org/abs/2410.23963) | Exploiting Information Theory for Intuitive Robot Programming of Manual Activities | 9 |
 | 653 | 24.09 | Robotics | Robotic Perception | 🤖 | [📎](http://arxiv.org/abs/2409.15684) | SYNERGAI: Perception Alignment for Human-Robot Collaboration | 1 |
 | 652 | 24.09 | Robotics | Robotic Perception | 🤖 | [📎](http://arxiv.org/abs/2409.14908) | KARMA: Augmenting Embodied AI Agents with Long-and-short Term Memory Systems | 2 |
 | 649 | 24.09 | Robotics | Robotic Perception | 🤖 | [📎](http://arxiv.org/abs/2409.11870) | SpotLight: Robotic Scene Understanding through Interaction and Affordance Detection | 0 |
 | 590 | 24.05 | Robotics | Robotic Perception | 🤖 | [📎](http://arxiv.org/abs/2405.04732) | Is the House Ready For Sleeptime? Generating and Evaluating Situational Queries for Embodied Question Answering | 0 |
-| 576 | 24.04 | Robotics | Robotic Perception | 🤖 | [📎](http://arxiv.org/abs/2404.08827) | "Don't forget to put the milk back!" Dataset for Enabling Embodied Agents to Detect Anomalous Situations | 0 |
+| 576 | 24.04 | Robotics | Robotic Perception | 🤖 | [📎](http://arxiv.org/abs/2404.08827) | "Don't forget to put the milk back!" Dataset for Enabling Embodied Agents to Detect Anomalous Situations | 5 |
 | 499 | 23.10 | Robotics | Robotic Perception | 🤖 | [📎](http://arxiv.org/abs/2310.16737) | Translating Universal Scene Descriptions into Knowledge Graphs for Robotic Environment | 0 |
-| 477 | 23.09 | Robotics | Robotic Perception | 🤖 | [📎](http://arxiv.org/abs/2309.12188) | SG-Bot: Object Rearrangement via Coarse-to-Fine Robotic Imagination on Scene Graphs | 1 |
-| 408 | 23.05 | Robotics | Robotic Perception | 🤖 | [📎](http://arxiv.org/abs/2305.07154) | Foundations of Spatial Perception for Robotics: Hierarchical Representations and Real-time Systems | 0 |
-| 399 | 23.04 | Robotics | Robotic Perception | 🤖 | [📎](http://arxiv.org/abs/2304.13487) | Hydra-Multi: Collaborative Online Construction of 3D Scene Graphs with Multi-Robot Teams | 0 |
+| 477 | 23.09 | Robotics | Robotic Perception | 🤖 | [📎](http://arxiv.org/abs/2309.12188) | SG-Bot: Object Rearrangement via Coarse-to-Fine Robotic Imagination on Scene Graphs | 25 |
+| 408 | 23.05 | Robotics | Robotic Perception | 🤖 | [📎](http://arxiv.org/abs/2305.07154) | Foundations of Spatial Perception for Robotics: Hierarchical Representations and Real-time Systems | 70 |
+| 399 | 23.04 | Robotics | Robotic Perception | 🤖 | [📎](http://arxiv.org/abs/2304.13487) | Hydra-Multi: Collaborative Online Construction of 3D Scene Graphs with Multi-Robot Teams | 24 |
 | 350 | 22.12 | Robotics | Robotic Perception | 🤖 | [📎](http://arxiv.org/abs/2212.01186) | A General Purpose Supervisory Signal for Embodied Agents | 1 |
 | 288 | 22.06 | Robotics | Robotic Perception | 👤 | [📎](http://arxiv.org/abs/2206.04585) | Extracting Zero-shot Common Sense from Large Language Models for Robot 3D Scene Understanding | 1 |
 | 286 | 22.05 | Robotics | Robotic Perception | 👤 | [📎](http://arxiv.org/abs/2205.12089) | Sim-To-Real Transfer of Visual Grounding for Human-Aided Ambiguity Resolution | 1 |
 | 231 | 21.11 | Robotics | Robotic Perception | 👤 | [📎](http://arxiv.org/abs/2111.00312) | 3DP3: 3D Scene Perception via Probabilistic Programming | 5 |
-| 147 | 20.11 | Robotics | Robotic Perception | 👤 | [📎](http://arxiv.org/abs/2011.11397) | Imagination-enabled Robot Perception | - |
+| 147 | 20.11 | Robotics | Robotic Perception | 👤 | [📎](http://arxiv.org/abs/2011.11397) | Imagination-enabled Robot Perception | 10 |

@@ -212,7 +212,7 @@
 | 1142 | 26.05 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2605.24622) | PoseRefer: Pathway-Local Parameters for Semantically Grounded Reference Resolution | 0 |
 | 1141 | 26.03 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2603.29236) | M2H-MX: Multi-Task Semantic and Geometric Perception for Real-Time Monocular 3D Scene Graph Construction | 0 |
 | 1140 | 26.05 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2605.23176) | DRIVESPATIAL: A Benchmark for Spatiotemporal Intelligence in VLMs for Autonomous Driving | 0 |
-| 1139 | 26.05 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2605.21935) | Learning to Evolve: Multi-modal Interactive Fields for Robust Humanoid Navigation in Dynamic Environments | 0 |
+| 1139 | 26.05 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2605.21935) | Learning to Evolve: Multi-modal Interactive Fields for Robust Humanoid Navigation in Dynamic Environments | 1 |
 | 1138 | 26.05 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2605.21788) | SceneGraphGrounder: Zero-Shot 3D Visual Grounding via Structured Scene Graph Matching | 0 |
 | 1137 | 26.05 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2605.20823) | RelWitness: Open-Vocabulary 3D Scene Graph Generation with Visual-Geometric Relation Witnesses | 0 |
 | 1136 | 26.05 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2605.19559) | EgoCoT-Bench: Benchmarking Grounded and Verifiable Operation-Centric Chain of Thought Reasoning for MLLMs | 0 |

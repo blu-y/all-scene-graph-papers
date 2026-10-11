@@ -212,7 +212,7 @@
 | 1142 | 26.05 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2605.24622) | PoseRefer: Pathway-Local Parameters for Semantically Grounded Reference Resolution | 0 |
 | 1141 | 26.03 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2603.29236) | M2H-MX: Multi-Task Semantic and Geometric Perception for Real-Time Monocular 3D Scene Graph Construction | 0 |
 | 1140 | 26.05 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2605.23176) | DRIVESPATIAL: A Benchmark for Spatiotemporal Intelligence in VLMs for Autonomous Driving | 0 |
-| 1139 | 26.05 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2605.21935) | Learning to Evolve: Multi-modal Interactive Fields for Robust Humanoid Navigation in Dynamic Environments | 0 |
+| 1139 | 26.05 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2605.21935) | Learning to Evolve: Multi-modal Interactive Fields for Robust Humanoid Navigation in Dynamic Environments | 1 |
 | 1138 | 26.05 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2605.21788) | SceneGraphGrounder: Zero-Shot 3D Visual Grounding via Structured Scene Graph Matching | 0 |
 | 1137 | 26.05 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2605.20823) | RelWitness: Open-Vocabulary 3D Scene Graph Generation with Visual-Geometric Relation Witnesses | 0 |
 | 1136 | 26.05 | Others | Uncategorized | ❌ | [📎](http://arxiv.org/abs/2605.19559) | EgoCoT-Bench: Benchmarking Grounded and Verifiable Operation-Centric Chain of Thought Reasoning for MLLMs | 0 |
@@ -313,8 +313,8 @@
 | 991 | 25.12 | Others | Autonomous Vehicles | 👤 | [📎](http://arxiv.org/abs/2512.22693) | Instance Communication System for Intelligent Connected Vehicles: Bridging the Gap from Semantic to Instance-Level Transmission | 0 |
 | 989 | 25.12 | Others | Autonomous Vehicles | 👤 | [📎](http://arxiv.org/abs/2512.21133) | SparScene: Efficient Traffic Scene Representation via Sparse Graph Learning for Large-Scale Trajectory Generation | 0 |
 | 984 | 25.12 | Others | Autonomous Vehicles | 👤 | [📎](http://arxiv.org/abs/2512.17445) | LangDriveCTRL: Natural Language Controllable Driving Scene Editing with Multi-modal Agents | 0 |
-| 979 | 25.12 | Others | Medical | 👤 | [📎](http://arxiv.org/abs/2512.14092) | ProtoFlow: Interpretable and Robust Surgical Workflow Modeling with Learned Dynamic Scene Graph Prototypes | 0 |
-| 957 | 25.11 | Others | Autonomous Vehicles | 👤 | [📎](http://arxiv.org/abs/2511.14430) | Abstract Scene Graphs: Formalizing and Monitoring Spatial Properties of Automated Driving Functions | 0 |
+| 979 | 25.12 | Others | Medical | 👤 | [📎](http://arxiv.org/abs/2512.14092) | ProtoFlow: Interpretable and Robust Surgical Workflow Modeling with Learned Dynamic Scene Graph Prototypes | 1 |
+| 957 | 25.11 | Others | Autonomous Vehicles | 👤 | [📎](http://arxiv.org/abs/2511.14430) | Abstract Scene Graphs: Formalizing and Monitoring Spatial Properties of Automated Driving Functions | 1 |
 | 955 | 25.11 | Others | Other Applications | 👤 | [📎](http://arxiv.org/abs/2511.13970) | Scene Graph-Guided Generative AI Framework for Synthesizing and Evaluating Industrial Hazard Scenarios | 0 |
 | 954 | 25.11 | Others | Other Applications | 👤 | [📎](http://arxiv.org/abs/2511.12676) | BridgeEQA: Virtual Embodied Agents for Real Bridge Inspections | 0 |
 | 953 | 25.11 | Others | Autonomous Vehicles | 👤 | [📎](http://arxiv.org/abs/2511.11266) | GraphPilot: Grounded Scene Graph Conditioning for Language-Based Autonomous Driving | 0 |
@@ -325,88 +325,88 @@
 | 938 | 25.10 | Others | Weakly Related | 👤 | [📎](http://arxiv.org/abs/2510.22538) | Iteratively Refined Early Interaction Alignment for Subgraph Matching based Graph Retrieval | 0 |
 | 937 | 25.10 | Others | Other Applications | 👤 | [📎](http://arxiv.org/abs/2510.22204) | Human-Inspired Neuro-Symbolic World Modeling and Logic Reasoning for Interpretable Safe UAV Landing Site Assessment | 0 |
 | 933 | 25.10 | Others | Weakly Related | 👤 | [📎](http://arxiv.org/abs/2510.17363) | M2H: Multi-Task Learning with Efficient Window-Based Cross-Task Attention for Monocular Spatial Perception | 0 |
-| 924 | 25.10 | Others | Weakly Related | 👤 | [📎](http://arxiv.org/abs/2510.08512) | Have We Scene It All? Scene Graph-Aware Deep Point Cloud Compression | 0 |
+| 924 | 25.10 | Others | Weakly Related | 👤 | [📎](http://arxiv.org/abs/2510.08512) | Have We Scene It All? Scene Graph-Aware Deep Point Cloud Compression | 3 |
 | 923 | 25.10 | Others | Weakly Related | 👤 | [📎](http://arxiv.org/abs/2510.07053) | Introspection in Learned Semantic Scene Graph Localisation | 0 |
 | 917 | 25.10 | Others | Weakly Related | 👤 | [📎](http://arxiv.org/abs/2510.03727) | Bridging the Gap Between Multimodal Foundation Models and World Models | 0 |
 | 910 | 25.09 | Others | Medical | 👤 | [📎](http://arxiv.org/abs/2509.22014) | Lightweight Structured Multimodal Reasoning for Clinical Scene Understanding in Robotics | 0 |
-| 906 | 25.09 | Others | Medical | 👤 | [📎](http://arxiv.org/abs/2509.20941) | Decoding the Surgical Scene: A Scoping Review of Scene Graphs in Surgery | 0 |
-| 896 | 25.09 | Others | Other Applications | 👤 | [📎](http://arxiv.org/abs/2509.12901) | MSGFusion: Multimodal Scene Graph-Guided Infrared and Visible Image Fusion | 0 |
+| 906 | 25.09 | Others | Medical | 👤 | [📎](http://arxiv.org/abs/2509.20941) | Decoding the Surgical Scene: A Scoping Review of Scene Graphs in Surgery | 3 |
+| 896 | 25.09 | Others | Other Applications | 👤 | [📎](http://arxiv.org/abs/2509.12901) | MSGFusion: Multimodal Scene Graph-Guided Infrared and Visible Image Fusion | 1 |
 | 892 | 25.09 | Others | Other Applications | 👤 | [📎](http://arxiv.org/abs/2509.11796) | FineQuest: Adaptive Knowledge-Assisted Sports Video Understanding via Agent-of-Thoughts Reasoning | 0 |
 | 884 | 25.08 | Others | AR/VR | 👤 | [📎](http://arxiv.org/abs/2508.15258) | Spatio-Temporal Mixed and Augmented Reality Experience Description for Interactive Playback | 0 |
-| 877 | 25.08 | Others | Weakly Related | 👤 | [📎](http://arxiv.org/abs/2508.06125) | SC-Captioner: Improving Image Captioning with Self-Correction by Reinforcement Learning | 0 |
+| 877 | 25.08 | Others | Weakly Related | 👤 | [📎](http://arxiv.org/abs/2508.06125) | SC-Captioner: Improving Image Captioning with Self-Correction by Reinforcement Learning | 3 |
 | 865 | 25.07 | Others | Medical | 🤖 | [📎](http://arxiv.org/abs/2507.15541) | Towards Holistic Surgical Scene Graph | 0 |
 | 853 | 25.06 | Others | Medical | 🤖 | [📎](http://arxiv.org/abs/2506.21813) | CAT-SG: A Large Dynamic Scene Graph Dataset for Fine-Grained Understanding of Cataract Surgery | 0 |
 | 847 | 25.06 | Others | Autonomous Vehicles | 🤖 | [📎](http://arxiv.org/abs/2506.17590) | DRAMA-X: A Fine-grained Intent Prediction and Risk Reasoning Benchmark For Driving | 0 |
-| 822 | 25.05 | Others | Medical | 🤖 | [📎](http://arxiv.org/abs/2505.24287) | EgoExOR: An Ego-Exo-Centric Operating Room Dataset for Surgical Activity Understanding | 0 |
+| 822 | 25.05 | Others | Medical | 🤖 | [📎](http://arxiv.org/abs/2505.24287) | EgoExOR: An Ego-Exo-Centric Operating Room Dataset for Surgical Activity Understanding | 6 |
 | 788 | 25.04 | Others | Autonomous Vehicles | 🤖 | [📎](http://arxiv.org/abs/2504.03164) | NuScenes-SpatialQA: A Spatial Understanding and Reasoning Benchmark for Vision-Language Models in Autonomous Driving | 0 |
 | 749 | 25.03 | Others | Medical | 🤖 | [📎](http://arxiv.org/abs/2503.02579) | MM-OR: A Large Multimodal Operating Room Dataset for Semantic Understanding of High-Intensity Surgical Environments | - |
-| 738 | 25.02 | Others | Medical | 🤖 | [📎](http://arxiv.org/abs/2502.07945) | SurGrID: Controllable Surgical Simulation via Scene Graph to Image Diffusion | 0 |
+| 738 | 25.02 | Others | Medical | 🤖 | [📎](http://arxiv.org/abs/2502.07945) | SurGrID: Controllable Surgical Simulation via Scene Graph to Image Diffusion | 4 |
 | 693 | 24.11 | Others | Autonomous Vehicles | 🤖 | [📎](http://arxiv.org/abs/2411.18894) | T2SG: Traffic Topology Scene Graph for Topology Reasoning in Autonomous Driving | 0 |
 | 668 | 24.10 | Others | Medical | 🤖 | [📎](http://arxiv.org/abs/2410.17751) | VISAGE: Video Synthesis using Action Graphs for Surgery | 1 |
 | 663 | 24.10 | Others | Autonomous Vehicles | 🤖 | [📎](http://arxiv.org/abs/2410.13514) | GraphSCENE: On-Demand Critical Scenario Generation for Autonomous Vehicles in Simulation | 0 |
 | 630 | 24.07 | Others | Medical | 🤖 | [📎](http://arxiv.org/abs/2407.20214) | SANGRIA: Surgical Video Scene Graph Optimization for Surgical Workflow Prediction | 0 |
-| 621 | 24.07 | Others | Autonomous Vehicles | 🤖 | [📎](http://arxiv.org/abs/2407.05910) | Enhancing Vision-Language Models with Scene Graphs for Traffic Accident Understanding | 0 |
+| 621 | 24.07 | Others | Autonomous Vehicles | 🤖 | [📎](http://arxiv.org/abs/2407.05910) | Enhancing Vision-Language Models with Scene Graphs for Traffic Accident Understanding | 7 |
 | 584 | 24.04 | Others | Autonomous Vehicles | 🤖 | [📎](http://arxiv.org/abs/2404.19379) | SemanticFormer: Holistic and Semantic Traffic Scene Representation for Trajectory Prediction using Knowledge Graphs | 0 |
-| 562 | 24.03 | Others | Autonomous Vehicles | 🤖 | [📎](http://arxiv.org/abs/2403.19098) | GraphAD: Interaction Scene Graph for End-to-end Autonomous Driving | 1 |
-| 547 | 24.03 | Others | Medical | 🤖 | [📎](http://arxiv.org/abs/2403.05687) | Scene Graph Aided Radiology Report Generation | 1 |
-| 524 | 23.12 | Others | Medical | 🤖 | [📎](http://arxiv.org/abs/2312.10251) | Advancing Surgical VQA with Scene Graph Knowledge | 1 |
-| 479 | 23.09 | Others | Medical | 🤖 | [📎](http://arxiv.org/abs/2309.14538) | Dynamic Scene Graph Representation for Surgical Video | 0 |
-| 468 | 23.09 | Others | Autonomous Vehicles | 🤖 | [📎](http://arxiv.org/abs/2309.06635) | Collaborative Dynamic 3D Scene Graphs for Automated Driving | 0 |
-| 445 | 23.08 | Others | Autonomous Vehicles | 🤖 | [📎](http://arxiv.org/abs/2308.01180) | Interpretable End-to-End Driving Model for Implicit Scene Understanding | 0 |
+| 562 | 24.03 | Others | Autonomous Vehicles | 🤖 | [📎](http://arxiv.org/abs/2403.19098) | GraphAD: Interaction Scene Graph for End-to-end Autonomous Driving | 4 |
+| 547 | 24.03 | Others | Medical | 🤖 | [📎](http://arxiv.org/abs/2403.05687) | Scene Graph Aided Radiology Report Generation | 2 |
+| 524 | 23.12 | Others | Medical | 🤖 | [📎](http://arxiv.org/abs/2312.10251) | Advancing Surgical VQA with Scene Graph Knowledge | 25 |
+| 479 | 23.09 | Others | Medical | 🤖 | [📎](http://arxiv.org/abs/2309.14538) | Dynamic Scene Graph Representation for Surgical Video | 24 |
+| 468 | 23.09 | Others | Autonomous Vehicles | 🤖 | [📎](http://arxiv.org/abs/2309.06635) | Collaborative Dynamic 3D Scene Graphs for Automated Driving | 32 |
+| 445 | 23.08 | Others | Autonomous Vehicles | 🤖 | [📎](http://arxiv.org/abs/2308.01180) | Interpretable End-to-End Driving Model for Implicit Scene Understanding | 4 |
 | 427 | 23.06 | Others | Autonomous Vehicles | 🤖 | [📎](http://arxiv.org/abs/2306.05419) | TopoMask: Instance-Mask-Based Formulation for the Road Topology Problem via Transformer-Based Architecture | 0 |
-| 426 | 23.06 | Others | Medical | 🤖 | [📎](http://arxiv.org/abs/2306.02651) | Dynamic Interactive Relation Capturing via Scene Graph Learning for Robotic Surgical Report Generation | 0 |
-| 418 | 23.05 | Others | Autonomous Vehicles | 🤖 | [📎](http://arxiv.org/abs/2305.14836) | NuScenes-QA: A Multi-modal Visual Question Answering Benchmark for Autonomous Driving Scenario | 4 |
-| 393 | 23.04 | Others | Autonomous Vehicles | 🤖 | [📎](http://arxiv.org/abs/2304.05277) | Graph-based Topology Reasoning for Driving Scenes | 11 |
-| 375 | 23.03 | Others | Autonomous Vehicles | 🤖 | [📎](http://arxiv.org/abs/2303.08473) | Unsupervised Traffic Scene Generation with Synthetic 3D Scene Graphs | 1 |
-| 345 | 22.12 | Others | Autonomous Vehicles | 🤖 | [📎](http://arxiv.org/abs/2212.02503) | Relation-based Motion Prediction using Traffic Scene Graphs | 0 |
-| 344 | 22.11 | Others | Autonomous Vehicles | 🤖 | [📎](http://arxiv.org/abs/2211.15508) | Self Supervised Clustering of Traffic Scenes using Graph Representations | 0 |
+| 426 | 23.06 | Others | Medical | 🤖 | [📎](http://arxiv.org/abs/2306.02651) | Dynamic Interactive Relation Capturing via Scene Graph Learning for Robotic Surgical Report Generation | 20 |
+| 418 | 23.05 | Others | Autonomous Vehicles | 🤖 | [📎](http://arxiv.org/abs/2305.14836) | NuScenes-QA: A Multi-modal Visual Question Answering Benchmark for Autonomous Driving Scenario | 160 |
+| 393 | 23.04 | Others | Autonomous Vehicles | 🤖 | [📎](http://arxiv.org/abs/2304.05277) | Graph-based Topology Reasoning for Driving Scenes | 15 |
+| 375 | 23.03 | Others | Autonomous Vehicles | 🤖 | [📎](http://arxiv.org/abs/2303.08473) | Unsupervised Traffic Scene Generation with Synthetic 3D Scene Graphs | 14 |
+| 345 | 22.12 | Others | Autonomous Vehicles | 🤖 | [📎](http://arxiv.org/abs/2212.02503) | Relation-based Motion Prediction using Traffic Scene Graphs | 12 |
+| 344 | 22.11 | Others | Autonomous Vehicles | 🤖 | [📎](http://arxiv.org/abs/2211.15508) | Self Supervised Clustering of Traffic Scenes using Graph Representations | 4 |
 | 324 | 22.10 | Others | Not Related | 👤 | [📎](http://arxiv.org/abs/2210.04127) | Towards Efficient Neural Scene Graphs by Learning Consistency Fields | 2 |
-| 320 | 22.09 | Others | Not Related | 👤 | [📎](http://arxiv.org/abs/2209.12274) | Personalized Saliency in Task-Oriented Semantic Communications: Image Transmission and Performance Analysis | 4 |
-| 317 | 22.09 | Others | Medical | 👤 | [📎](http://arxiv.org/abs/2209.07118) | Align, Reason and Learn: Enhancing Medical Vision-and-Language Pre-training with Knowledge | 0 |
+| 320 | 22.09 | Others | Not Related | 👤 | [📎](http://arxiv.org/abs/2209.12274) | Personalized Saliency in Task-Oriented Semantic Communications: Image Transmission and Performance Analysis | 186 |
+| 317 | 22.09 | Others | Medical | 👤 | [📎](http://arxiv.org/abs/2209.07118) | Align, Reason and Learn: Enhancing Medical Vision-and-Language Pre-training with Knowledge | 82 |
 | 315 | 22.09 | Others | Weakly Related | 👤 | [📎](http://arxiv.org/abs/2209.02981) | VGStore: A Multimodal Extension to SPARQL for Querying RDF Scene Graph | 2 |
 | 313 | 22.09 | Others | Not Related | 👤 | [📎](http://arxiv.org/abs/2209.02567) | Capsule Networks as Generative Models | 0 |
-| 300 | 22.07 | Others | Autonomous Vehicles | 👤 | [📎](http://arxiv.org/abs/2207.12321) | RSG-Net: Towards Rich Sematic Relationship Prediction for Intelligent Vehicle in Complex Environments | 0 |
+| 300 | 22.07 | Others | Autonomous Vehicles | 👤 | [📎](http://arxiv.org/abs/2207.12321) | RSG-Net: Towards Rich Sematic Relationship Prediction for Intelligent Vehicle in Complex Environments | 9 |
 | 289 | 22.06 | Others | Weakly Related | 👤 | [📎](http://arxiv.org/abs/2206.05051) | Temporal Inductive Logic Reasoning over Hypergraphs | 0 |
 | 277 | 22.04 | Others | Not Related | 👤 | [📎](http://arxiv.org/abs/2204.08123) | Non-Parallel Text Style Transfer with Self-Parallel Supervision | 7 |
 | 272 | 22.03 | Others | Medical | 👤 | [📎](http://arxiv.org/abs/2203.11937) | 4D-OR: Semantic Scene Graphs for OR Domain Modeling | 6 |
-| 270 | 22.03 | Others | Autonomous Vehicles | 👤 | [📎](http://arxiv.org/abs/2203.10569) | Self-supervised Point Cloud Completion on Real Traffic Scenes via Scene-concerned Bottom-up Mechanism | 0 |
+| 270 | 22.03 | Others | Autonomous Vehicles | 👤 | [📎](http://arxiv.org/abs/2203.10569) | Self-supervised Point Cloud Completion on Real Traffic Scenes via Scene-concerned Bottom-up Mechanism | 6 |
 | 269 | 22.03 | Others | Weakly Related | 👤 | [📎](http://arxiv.org/abs/2203.10424) | MetaOnce: A Metaverse Framework Based on Multi-scene Relations and Entity-relation-event Game | 2 |
 | 262 | 22.03 | Others | Weakly Related | 👤 | [📎](http://arxiv.org/abs/2203.00600) | Dual Embodied-Symbolic Concept Representations for Deep Learning | 0 |
-| 234 | 21.11 | Others | Autonomous Vehicles | 👤 | [📎](http://arxiv.org/abs/2111.10196) | Towards Traffic Scene Description: The Semantic Scene Graph | 0 |
-| 233 | 21.11 | Others | Autonomous Vehicles | 👤 | [📎](http://arxiv.org/abs/2111.06123) | Spatio-Temporal Scene-Graph Embedding for Autonomous Vehicle Collision Prediction | - |
-| 225 | 21.09 | Others | Other Applications | 👤 | [📎](http://arxiv.org/abs/2109.11955) | Visual Scene Graphs for Audio Source Separation | - |
-| 215 | 21.09 | Others | Autonomous Vehicles | 👤 | [📎](http://arxiv.org/abs/2109.01183) | roadscene2vec: A Tool for Extracting and Embedding Road Scene-Graphs | 0 |
-| 208 | 21.08 | Others | Weakly Related | 👤 | [📎](http://arxiv.org/abs/2108.07073) | ROSITA: Enhancing Vision-and-Language Semantic Alignments via Cross- and Intra-modal Knowledge Integration | 4 |
-| 205 | 21.08 | Others | Weakly Related | 👤 | [📎](http://arxiv.org/abs/2108.03541) | OSCAR-Net: Object-centric Scene Graph Attention for Image Attribution | 0 |
-| 203 | 21.08 | Others | Medical | 👤 | [📎](http://arxiv.org/abs/2108.00316) | Chest ImaGenome Dataset for Clinical Reasoning | 26 |
+| 234 | 21.11 | Others | Autonomous Vehicles | 👤 | [📎](http://arxiv.org/abs/2111.10196) | Towards Traffic Scene Description: The Semantic Scene Graph | 26 |
+| 233 | 21.11 | Others | Autonomous Vehicles | 👤 | [📎](http://arxiv.org/abs/2111.06123) | Spatio-Temporal Scene-Graph Embedding for Autonomous Vehicle Collision Prediction | 86 |
+| 225 | 21.09 | Others | Other Applications | 👤 | [📎](http://arxiv.org/abs/2109.11955) | Visual Scene Graphs for Audio Source Separation | 29 |
+| 215 | 21.09 | Others | Autonomous Vehicles | 👤 | [📎](http://arxiv.org/abs/2109.01183) | roadscene2vec: A Tool for Extracting and Embedding Road Scene-Graphs | 44 |
+| 208 | 21.08 | Others | Weakly Related | 👤 | [📎](http://arxiv.org/abs/2108.07073) | ROSITA: Enhancing Vision-and-Language Semantic Alignments via Cross- and Intra-modal Knowledge Integration | 46 |
+| 205 | 21.08 | Others | Weakly Related | 👤 | [📎](http://arxiv.org/abs/2108.03541) | OSCAR-Net: Object-centric Scene Graph Attention for Image Attribution | 16 |
+| 203 | 21.08 | Others | Medical | 👤 | [📎](http://arxiv.org/abs/2108.00316) | Chest ImaGenome Dataset for Clinical Reasoning | 23 |
 | 190 | 21.06 | Others | Medical | 👤 | [📎](http://arxiv.org/abs/2106.15309) | Multimodal Semantic Scene Graphs for Holistic Modeling of Surgical Procedures | 2 |
 | 187 | 21.06 | Others | Other Applications | 👤 | [📎](http://arxiv.org/abs/2106.01607) | Grounding Complex Navigational Instructions Using Scene Graphs | 0 |
-| 185 | 21.05 | Others | Not Related | 👤 | [📎](http://arxiv.org/abs/2105.07391) | Survey of Visual-Semantic Embedding Methods for Zero-Shot Image Retrieval | 0 |
-| 183 | 21.05 | Others | AR/VR | 👤 | [📎](http://arxiv.org/abs/2105.01610) | Reliving the Dataset: Combining the Visualization of Road Users' Interactions with Scenario Reconstruction in Virtual Reality | - |
-| 159 | 21.02 | Others | Other Applications | 👤 | [📎](http://arxiv.org/abs/2102.04035) | In-game Residential Home Planning via Visual Context-aware Global Relation Learning | 0 |
+| 185 | 21.05 | Others | Not Related | 👤 | [📎](http://arxiv.org/abs/2105.07391) | Survey of Visual-Semantic Embedding Methods for Zero-Shot Image Retrieval | 3 |
+| 183 | 21.05 | Others | AR/VR | 👤 | [📎](http://arxiv.org/abs/2105.01610) | Reliving the Dataset: Combining the Visualization of Road Users' Interactions with Scenario Reconstruction in Virtual Reality | 3 |
+| 159 | 21.02 | Others | Other Applications | 👤 | [📎](http://arxiv.org/abs/2102.04035) | In-game Residential Home Planning via Visual Context-aware Global Relation Learning | 4 |
 | 148 | 20.11 | Others | Autonomous Vehicles | 👤 | [📎](http://arxiv.org/abs/2011.13588) | Road Scene Graph: A Semantic Graph-Based Scene Representation Dataset for Intelligent Vehicles | 20 |
-| 144 | 20.11 | Others | Not Related | 👤 | [📎](http://arxiv.org/abs/2011.10379) | Neural Scene Graphs for Dynamic Scenes | - |
-| 133 | 20.09 | Others | AR/VR | 👤 | [📎](http://arxiv.org/abs/2009.12395) | SceneGen: Generative Contextual Scene Augmentation using Scene Graph Priors | 13 |
-| 127 | 20.09 | Others | Autonomous Vehicles | 👤 | [📎](http://arxiv.org/abs/2009.06435) | Scene-Graph Augmented Data-Driven Risk Assessment of Autonomous Vehicle Decisions | 5 |
-| 126 | 20.08 | Others | Not Related | 👤 | [📎](http://arxiv.org/abs/2008.11932) | Attribute-guided image generation from layout | 3 |
-| 124 | 20.08 | Others | AR/VR | 👤 | [📎](http://arxiv.org/abs/2008.07817) | Retargetable AR: Context-aware Augmented Reality in Indoor Scenes based on 3D Scene Graph | 3 |
+| 144 | 20.11 | Others | Not Related | 👤 | [📎](http://arxiv.org/abs/2011.10379) | Neural Scene Graphs for Dynamic Scenes | 266 |
+| 133 | 20.09 | Others | AR/VR | 👤 | [📎](http://arxiv.org/abs/2009.12395) | SceneGen: Generative Contextual Scene Augmentation using Scene Graph Priors | 12 |
+| 127 | 20.09 | Others | Autonomous Vehicles | 👤 | [📎](http://arxiv.org/abs/2009.06435) | Scene-Graph Augmented Data-Driven Risk Assessment of Autonomous Vehicle Decisions | 115 |
+| 126 | 20.08 | Others | Not Related | 👤 | [📎](http://arxiv.org/abs/2008.11932) | Attribute-guided image generation from layout | 4 |
+| 124 | 20.08 | Others | AR/VR | 👤 | [📎](http://arxiv.org/abs/2008.07817) | Retargetable AR: Context-aware Augmented Reality in Indoor Scenes based on 3D Scene Graph | 72 |
 | 114 | 20.07 | Others | Medical | 👤 | [📎](http://arxiv.org/abs/2007.03357) | Learning and Reasoning with the Graph Structure Representation in Robotic Surgery | 0 |
-| 94 | 20.02 | Others | Autonomous Vehicles | 👤 | [📎](http://arxiv.org/abs/2002.08945) | Spatiotemporal Relationship Reasoning for Pedestrian Intent Prediction | 10 |
-| 83 | 19.11 | Others | Not Related | 👤 | [📎](http://arxiv.org/abs/1911.07527) | SOGNet: Scene Overlap Graph Network for Panoptic Segmentation | 6 |
+| 94 | 20.02 | Others | Autonomous Vehicles | 👤 | [📎](http://arxiv.org/abs/2002.08945) | Spatiotemporal Relationship Reasoning for Pedestrian Intent Prediction | 195 |
+| 83 | 19.11 | Others | Not Related | 👤 | [📎](http://arxiv.org/abs/1911.07527) | SOGNet: Scene Overlap Graph Network for Panoptic Segmentation | 60 |
 | 77 | 19.10 | Others | Weakly Related | 👤 | [📎](http://arxiv.org/abs/1910.01198) | Using Image Priors to Improve Scene Understanding | 0 |
 | 66 | 19.08 | Others | Weakly Related | 👤 | [📎](http://arxiv.org/abs/1908.02436) | Continuous Graph Flow | 3 |
-| 64 | 19.06 | Others | Not Related | 👤 | [📎](http://arxiv.org/abs/1906.08707) | The Limited Multi-Label Projection Layer | 13 |
+| 64 | 19.06 | Others | Not Related | 👤 | [📎](http://arxiv.org/abs/1906.08707) | The Limited Multi-Label Projection Layer | 12 |
 | 60 | 19.05 | Others | Not Related | 👤 | [📎](http://arxiv.org/abs/1905.09891) | Adding Intuitive Physics to Neural-Symbolic Capsules Using Interaction Networks | 1 |
-| 59 | 19.05 | Others | Not Related | 👤 | [📎](http://arxiv.org/abs/1905.05143) | VideoGraph: Recognizing Minutes-Long Human Activities in Videos | 46 |
-| 55 | 19.04 | Others | Weakly Related | 👤 | [📎](http://arxiv.org/abs/1904.11621) | Meta-Sim: Learning to Generate Synthetic Datasets | - |
-| 54 | 19.04 | Others | Not Related | 👤 | [📎](http://arxiv.org/abs/1904.09626) | Deep Metric Learning Beyond Binary Supervision | 10 |
-| 53 | 19.04 | Others | Not Related | 👤 | [📎](http://arxiv.org/abs/1904.09447) | An Unsupervised Joint System for Text Generation from Knowledge Graphs and Semantic Parsing | - |
+| 59 | 19.05 | Others | Not Related | 👤 | [📎](http://arxiv.org/abs/1905.05143) | VideoGraph: Recognizing Minutes-Long Human Activities in Videos | 47 |
+| 55 | 19.04 | Others | Weakly Related | 👤 | [📎](http://arxiv.org/abs/1904.11621) | Meta-Sim: Learning to Generate Synthetic Datasets | 23 |
+| 54 | 19.04 | Others | Not Related | 👤 | [📎](http://arxiv.org/abs/1904.09626) | Deep Metric Learning Beyond Binary Supervision | 95 |
+| 53 | 19.04 | Others | Not Related | 👤 | [📎](http://arxiv.org/abs/1904.09447) | An Unsupervised Joint System for Text Generation from Knowledge Graphs and Semantic Parsing | 33 |
 | 51 | 19.04 | Others | Weakly Related | 👤 | [📎](http://arxiv.org/abs/1904.03177) | Structured agents for physical construction | 2 |
-| 46 | 19.03 | Others | Weakly Related | 👤 | [📎](http://arxiv.org/abs/1903.05434) | Visual Semantic Information Pursuit: A Survey | 3 |
-| 38 | 19.01 | Others | Not Related | 👤 | [📎](http://arxiv.org/abs/1901.10124) | Adversarial Adaptation of Scene Graph Models for Understanding Civic Issues | 2 |
-| 35 | 18.12 | Others | Weakly Related | 👤 | [📎](http://arxiv.org/abs/1812.08434) | Graph Neural Networks: A Review of Methods and Applications | 1450 |
+| 46 | 19.03 | Others | Weakly Related | 👤 | [📎](http://arxiv.org/abs/1903.05434) | Visual Semantic Information Pursuit: A Survey | 37 |
+| 38 | 19.01 | Others | Not Related | 👤 | [📎](http://arxiv.org/abs/1901.10124) | Adversarial Adaptation of Scene Graph Models for Understanding Civic Issues | 11 |
+| 35 | 18.12 | Others | Weakly Related | 👤 | [📎](http://arxiv.org/abs/1812.08434) | Graph Neural Networks: A Review of Methods and Applications | 5875 |
 | 24 | 18.10 | Others | Active Learning | 👤 | [📎](http://arxiv.org/abs/1810.00912) | Visual Curiosity: Learning to Ask Questions to Learn Visual Recognition | 2 |
-| 9 | 17.05 | Others | Weakly Related | 👤 | [📎](http://arxiv.org/abs/1705.01661) | Learning Hierarchical Shape Segmentation and Labeling from Online Repositories | 0 |
+| 9 | 17.05 | Others | Weakly Related | 👤 | [📎](http://arxiv.org/abs/1705.01661) | Learning Hierarchical Shape Segmentation and Labeling from Online Repositories | 42 |
 | 3 | 14.08 | Others | Not Related | 👤 | [📎](http://arxiv.org/abs/1408.0200) | Towards a Domain Specific Language for a Scene Graph based Robotic World Model | 12 |
 | 2 | 13.08 | Others | Not Related | 👤 | [📎](http://arxiv.org/abs/1308.5843) | Affordable Virtual Reality System Architecture for Representation of Implicit Object Properties | 9 |
 | 1 | 11.05 | Others | Not Related | 👤 | [📎](http://arxiv.org/abs/1105.2890) | Improving Usability of Interactive Graphics Specification and Implementation with Picking Views and Inverse Transformations | 3 |
