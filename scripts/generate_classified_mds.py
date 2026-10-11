@@ -6,6 +6,7 @@ import urllib.parse
 # Paths
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CSV_PATH = os.path.join(BASE_DIR, 'csvs/scene_graph_papers_minimal.csv')
+ABSTRACT_CSV_PATH = os.path.join(BASE_DIR, 'csvs/scene_graph_papers_abstract.csv')
 OUTPUT_DIR = os.path.join(BASE_DIR, 'classified')
 if not os.path.exists(OUTPUT_DIR):
     os.makedirs(OUTPUT_DIR)
@@ -20,7 +21,13 @@ def get_source_emoji(source):
     else:
         return '❌'
 
-def generate_markdown_table(df):
+def load_withdrawn_nos():
+    if not os.path.exists(ABSTRACT_CSV_PATH):
+        return set()
+    abs_df = pd.read_csv(ABSTRACT_CSV_PATH)
+    return set(abs_df[abs_df['abstract'].astype(str).str.startswith('[Withdrawn]')]['no'])
+
+def generate_markdown_table(df, withdrawn_nos=frozenset()):
     header = "| no | date | category | subcategory | sorted by | arXiv | title | citation |\n"
     separator = "|---:|:---:|:---|:---|:---:|:---:|:---|---:|\n"
     
@@ -43,6 +50,8 @@ def generate_markdown_table(df):
         
         # Clean title from any vertical bars to avoid breaking markdown table
         title = title.replace('|', '\\|')
+        if row['no'] in withdrawn_nos:
+            title = f"~~{title}~~"
         
         # Use row['no'] instead of sequential index
         rows.append(f"| {row['no']} | {date_display} | {row['category']} | {row['subcategory']} | {source_emoji} | {arxiv_link} | {title} | {citation_display} |")
@@ -87,6 +96,7 @@ def main():
         return
     
     df = pd.read_csv(CSV_PATH)
+    withdrawn_nos = load_withdrawn_nos()
     
     # Calculate classification statistics (source == 'manual' only)
     total_count = len(df)
@@ -129,7 +139,7 @@ def main():
         with open(cat_md_path, 'w', encoding='utf-8') as f:
             f.write(f"# {cat_name}\n\n")
             f.write(f"{len(cat_df)} Papers.\n\n")
-            f.write(generate_markdown_table(cat_df))
+            f.write(generate_markdown_table(cat_df, withdrawn_nos))
             
         # 2. Subcategory-specific MDs
         # Sort subcategories: alphabetical but "Others" always last
@@ -161,7 +171,7 @@ def main():
             with open(sub_md_path, 'w', encoding='utf-8') as f:
                 f.write(f"# {cat_name} - {sub_name}\n\n")
                 f.write(f"{len(sub_df)} Papers.\n\n")
-                f.write(generate_markdown_table(sub_df))
+                f.write(generate_markdown_table(sub_df, withdrawn_nos))
 
     # Update README.md
     update_readme_categories(stats_msg, "\n".join(tree_lines) + "\n")

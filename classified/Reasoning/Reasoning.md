@@ -13,7 +13,7 @@
 | 1283 | 26.09 | Reasoning | Reasoning | 🤖 | [📎](http://arxiv.org/abs/2609.05257) | Commonsense Reasoning in Computer Vision: Foundations, Recent Advancements, and Future Directions | 0 |
 | 1281 | 26.09 | Reasoning | Reasoning | 🤖 | [📎](http://arxiv.org/abs/2609.03892) | GraFT: A Training-Free Framework for Spatial Reasoning in Multimodal Large Language Models via 3D Scene Graphs | 0 |
 | 1278 | 26.09 | Reasoning | Captioning | 🤖 | [📎](http://arxiv.org/abs/2609.00709) | Controllable Image Captioning with Prompt-Conditioned Scene Rewards | 0 |
-| 1269 | 26.08 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2608.25422) | Towards Faithful and Efficient Semantic Communication: An Ontological Approach | 0 |
+| 1269 | 26.08 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2608.25422) | ~~Towards Faithful and Efficient Semantic Communication: An Ontological Approach~~ | 0 |
 | 1261 | 26.08 | Reasoning | Grounding | 🤖 | [📎](http://arxiv.org/abs/2608.17535) | GroupForward: Building Referable 3D Scenes via Instance-Grouped Feed-Forward Gaussian Splatting | 0 |
 | 1253 | 26.08 | Reasoning | Reasoning | 🤖 | [📎](http://arxiv.org/abs/2608.11150) | CausalSplat: Towards Comprehensive Hierarchical Reasoning in 3D Gaussian Splatting | 0 |
 | 1252 | 26.08 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2608.11017) | R4DSG: Relative 4D Scene Graph Memory for Object-Centric Question Answering in Long Egocentric Video | 0 |

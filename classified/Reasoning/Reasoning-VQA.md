@@ -5,7 +5,7 @@
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
 | 1291 | 26.09 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2609.09184) | Evidence-Order Calibration for Selective Visual Reasoning under Progressive Loss of Question-Critical Evidence | 0 |
-| 1269 | 26.08 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2608.25422) | Towards Faithful and Efficient Semantic Communication: An Ontological Approach | 0 |
+| 1269 | 26.08 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2608.25422) | ~~Towards Faithful and Efficient Semantic Communication: An Ontological Approach~~ | 0 |
 | 1252 | 26.08 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2608.11017) | R4DSG: Relative 4D Scene Graph Memory for Object-Centric Question Answering in Long Egocentric Video | 0 |
 | 1194 | 26.06 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2606.25842) | Graph it first! Enabling Reasoning on Long-form Egocentric Videos through Scene Graphs | 0 |
 | 1155 | 26.06 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2606.02506) | Question-Aware Evidence Ledgers for Video Relational Reasoning | 0 |

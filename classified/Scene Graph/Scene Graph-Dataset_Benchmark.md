@@ -6,7 +6,7 @@
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
 | 1345 | 26.10 | Scene Graph | Dataset/Benchmark | 🤖 | [📎](http://arxiv.org/abs/2610.09488) | SiGNgapore - An Interactive Dataset for Sign-based Visual Navigation | 0 |
 | 1342 | 26.10 | Scene Graph | Dataset/Benchmark | 🤖 | [📎](http://arxiv.org/abs/2610.06413) | SpatialChain: A Benchmark for Auditing Spatial Reasoning Faithfulness in VLMs | 0 |
-| 1321 | 26.09 | Scene Graph | Dataset/Benchmark | 🤖 | [📎](http://arxiv.org/abs/2609.29541) | GeoRefer-Bench: A Benchmark from Referring Pixels to Verifiable Geospatial Reasoning | 0 |
+| 1321 | 26.09 | Scene Graph | Dataset/Benchmark | 🤖 | [📎](http://arxiv.org/abs/2609.29541) | ~~GeoRefer-Bench: A Benchmark from Referring Pixels to Verifiable Geospatial Reasoning~~ | 0 |
 | 1309 | 26.09 | Scene Graph | Dataset/Benchmark | 🤖 | [📎](http://arxiv.org/abs/2609.19767) | Benchmarking MLLMs via Cognitive Expected Scene Graph for Safety-Critical Visual Negation Understanding | 0 |
 | 1306 | 26.09 | Scene Graph | Dataset/Benchmark | 🤖 | [📎](http://arxiv.org/abs/2609.28813) | CinematicVQA: Benchmarking Film-Grammar Reasoning in Large Vision-Language Models | 0 |
 | 1273 | 26.08 | Scene Graph | Dataset/Benchmark | 🤖 | [📎](http://arxiv.org/abs/2608.30584) | Learning Compositional Spatio-Temporal Video Grounding with Synthetic Curriculum | 0 |

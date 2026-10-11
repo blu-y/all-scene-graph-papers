@@ -17,7 +17,7 @@
 | 908 | 25.09 | Scene Graph | Dynamic Scene Graph | 👤 | [📎](http://arxiv.org/abs/2509.21783) | Prompt-guided Disentangled Representation for Action Recognition | 0 |
 | 888 | 25.09 | Scene Graph | Dynamic Scene Graph | 👤 | [📎](http://arxiv.org/abs/2509.06165) | UNO: Unifying One-stage Video Scene Graph Generation via Object-Centric Visual Representation Learning | 1 |
 | 875 | 25.08 | Scene Graph | Dynamic Scene Graph | 👤 | [📎](http://arxiv.org/abs/2508.04943) | TRKT: Weakly Supervised Dynamic Scene Graph Generation with Temporal-enhanced Relation-aware Knowledge Transferring | 0 |
-| 860 | 25.07 | Scene Graph | Dynamic Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2507.09200) | THYME: Temporal Hierarchical-Cyclic Interactivity Modeling for Video Scene Graphs in Aerial Footage | 0 |
+| 860 | 25.07 | Scene Graph | Dynamic Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2507.09200) | ~~THYME: Temporal Hierarchical-Cyclic Interactivity Modeling for Video Scene Graphs in Aerial Footage~~ | 0 |
 | 825 | 25.06 | Scene Graph | Dynamic Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2506.01487) | FDSG: Forecasting Dynamic Scene Graphs | 0 |
 | 792 | 25.04 | Scene Graph | Dynamic Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2504.07867) | SAMJAM: Zero-Shot Video Scene Graph Generation for Egocentric Kitchen Videos | 0 |
 | 777 | 25.03 | Scene Graph | Dynamic Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2503.15846) | What can Off-the-Shelves Large Multi-Modal Models do for Dynamic Scene Graph Generation? | 0 |
@@ -42,7 +42,7 @@
 | 497 | 23.10 | Scene Graph | Dynamic Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2310.16073) | FloCoDe: Unbiased Dynamic Scene Graph Generation with Temporal Consistency and Correlation Debiasing | 6 |
 | 484 | 23.10 | Scene Graph | Dynamic Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2310.00670) | A Hierarchical Graph-based Approach for Recognition and Description Generation of Bimanual Actions in Videos | 2 |
 | 478 | 23.09 | Scene Graph | Dynamic Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2309.13237) | Spatial-Temporal Knowledge-Embedded Transformer for Video Scene Graph Generation | 0 |
-| 452 | 23.08 | Scene Graph | Dynamic Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2308.05274) | Local-Global Information Interaction Debiasing for Dynamic Scene Graph Generation | 0 |
+| 452 | 23.08 | Scene Graph | Dynamic Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2308.05274) | ~~Local-Global Information Interaction Debiasing for Dynamic Scene Graph Generation~~ | 0 |
 | 451 | 23.08 | Scene Graph | Dynamic Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2308.05081) | Constructing Holistic Spatio-Temporal Scene Graph for Video Semantic Role Labeling | 31 |
 | 444 | 23.07 | Scene Graph | Dynamic Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2307.16309) | Triple Correlations-Guided Label Supplementation for Unbiased Video Scene Graph Generation | 8 |
 | 430 | 23.06 | Scene Graph | Dynamic Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2306.10122) | Multi-Label Meta Weighting for Long-Tailed Dynamic Scene Graph Generation | 6 |

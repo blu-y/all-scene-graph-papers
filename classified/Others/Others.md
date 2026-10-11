@@ -53,7 +53,7 @@
 | 1173 | 26.06 | Others | Weakly Related | 🤖 | [📎](http://arxiv.org/abs/2606.10927) | AllDayNav: Lifelong Navigation via Real-World Reinforcement Learning | 0 |
 | 1150 | 26.06 | Others | Not Related | 🤖 | [📎](http://arxiv.org/abs/2606.00447) | GeoSAM-3D: Geodesic Prompt Propagation for Open-Vocabulary 3D Scene Segmentation from Monocular Video | 0 |
 | 1147 | 26.05 | Others | Other Applications | 🤖 | [📎](http://arxiv.org/abs/2605.30318) | Before the Shutter: Aesthetic and Actionable Portrait Photography Planning in 3D Scenes | 0 |
-| 1144 | 26.05 | Others | Other Applications | 🤖 | [📎](http://arxiv.org/abs/2605.27590) | ForestHG-Trace: Traceable Long-Horizon Ecological Reasoning over Large-Scale Forest Scenes | 0 |
+| 1144 | 26.05 | Others | Other Applications | 🤖 | [📎](http://arxiv.org/abs/2605.27590) | ~~ForestHG-Trace: Traceable Long-Horizon Ecological Reasoning over Large-Scale Forest Scenes~~ | 0 |
 | 1140 | 26.05 | Others | Autonomous Vehicles | 🤖 | [📎](http://arxiv.org/abs/2605.23176) | DRIVESPATIAL: A Benchmark for Spatiotemporal Intelligence in VLMs for Autonomous Driving | 0 |
 | 1131 | 26.05 | Others | Medical | 🤖 | [📎](http://arxiv.org/abs/2605.16530) | SWoMo: Neuro-Symbolic World Model for Cataract Surgery Simulation | 0 |
 | 1127 | 26.05 | Others | Weakly Related | 🤖 | [📎](http://arxiv.org/abs/2605.14393) | Analogical Trajectory Transfer | 0 |
@@ -100,7 +100,7 @@
 | 940 | 25.10 | Others | Other Applications | 👤 | [📎](http://arxiv.org/abs/2510.23190) | Evaluation of Vision-LLMs in Surveillance Video | 0 |
 | 939 | 25.10 | Others | Weakly Related | 👤 | [📎](http://arxiv.org/abs/2510.22897) | Charting the Design Space of Neural Graph Representations for Subgraph Matching | 0 |
 | 938 | 25.10 | Others | Weakly Related | 👤 | [📎](http://arxiv.org/abs/2510.22538) | Iteratively Refined Early Interaction Alignment for Subgraph Matching based Graph Retrieval | 0 |
-| 937 | 25.10 | Others | Other Applications | 👤 | [📎](http://arxiv.org/abs/2510.22204) | Human-Inspired Neuro-Symbolic World Modeling and Logic Reasoning for Interpretable Safe UAV Landing Site Assessment | 0 |
+| 937 | 25.10 | Others | Other Applications | 👤 | [📎](http://arxiv.org/abs/2510.22204) | ~~Human-Inspired Neuro-Symbolic World Modeling and Logic Reasoning for Interpretable Safe UAV Landing Site Assessment~~ | 0 |
 | 933 | 25.10 | Others | Weakly Related | 👤 | [📎](http://arxiv.org/abs/2510.17363) | M2H: Multi-Task Learning with Efficient Window-Based Cross-Task Attention for Monocular Spatial Perception | 0 |
 | 924 | 25.10 | Others | Weakly Related | 👤 | [📎](http://arxiv.org/abs/2510.08512) | Have We Scene It All? Scene Graph-Aware Deep Point Cloud Compression | 3 |
 | 923 | 25.10 | Others | Weakly Related | 👤 | [📎](http://arxiv.org/abs/2510.07053) | Introspection in Learned Semantic Scene Graph Localisation | 0 |
@@ -154,7 +154,7 @@
 | 625 | 24.07 | Others | Not Related | 🤖 | [📎](http://arxiv.org/abs/2407.12667) | SG-NeRF: Neural Surface Reconstruction with Scene Graph Optimization | 0 |
 | 621 | 24.07 | Others | Autonomous Vehicles | 🤖 | [📎](http://arxiv.org/abs/2407.05910) | Enhancing Vision-Language Models with Scene Graphs for Traffic Accident Understanding | 7 |
 | 620 | 24.07 | Others | Not Related | 🤖 | [📎](http://arxiv.org/abs/2407.15852) | BSH for Collision Detection in Point Cloud models | 0 |
-| 614 | 24.06 | Others | Other Applications | 🤖 | [📎](http://arxiv.org/abs/2406.12736) | Beyond Visual Appearances: Privacy-sensitive Objects Identification via Hybrid Graph Reasoning | 0 |
+| 614 | 24.06 | Others | Other Applications | 🤖 | [📎](http://arxiv.org/abs/2406.12736) | ~~Beyond Visual Appearances: Privacy-sensitive Objects Identification via Hybrid Graph Reasoning~~ | 0 |
 | 607 | 24.06 | Others | Other Applications | 🤖 | [📎](http://arxiv.org/abs/2406.03865) | Semantic Similarity Score for Measuring Visual Similarity at Semantic Level | 0 |
 | 602 | 24.06 | Others | Autonomous Vehicles | 🤖 | [📎](http://arxiv.org/abs/2406.01029) | CYCLO: Cyclic Graph Transformer Approach to Multi-Object Relationship Modeling in Aerial Videos | 0 |
 | 601 | 24.05 | Others | Not Related | 🤖 | [📎](http://arxiv.org/abs/2405.19442) | Large-scale DSM registration via motion averaging | 2 |

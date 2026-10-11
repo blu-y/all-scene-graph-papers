@@ -13,7 +13,7 @@
 | 1204 | 26.06 | Others | Other Applications | 🤖 | [📎](http://arxiv.org/abs/2606.29932) | SAGA: Scene-Aware, Goal-Evolving Agents for Long-Horizon CivRealm Strategy Planning | 0 |
 | 1185 | 26.06 | Others | Other Applications | 🤖 | [📎](http://arxiv.org/abs/2606.20844) | Relational Gaze Transitions During Encoding Predict Episodic Recall of Naturalistic Scenes | 0 |
 | 1147 | 26.05 | Others | Other Applications | 🤖 | [📎](http://arxiv.org/abs/2605.30318) | Before the Shutter: Aesthetic and Actionable Portrait Photography Planning in 3D Scenes | 0 |
-| 1144 | 26.05 | Others | Other Applications | 🤖 | [📎](http://arxiv.org/abs/2605.27590) | ForestHG-Trace: Traceable Long-Horizon Ecological Reasoning over Large-Scale Forest Scenes | 0 |
+| 1144 | 26.05 | Others | Other Applications | 🤖 | [📎](http://arxiv.org/abs/2605.27590) | ~~ForestHG-Trace: Traceable Long-Horizon Ecological Reasoning over Large-Scale Forest Scenes~~ | 0 |
 | 1118 | 26.05 | Others | Other Applications | 🤖 | [📎](http://arxiv.org/abs/2605.08831) | AssemPlanner: A Multi-Agent Based Task Planning Framework for Flexible Assembly System | 0 |
 | 1108 | 26.04 | Others | Other Applications | 🤖 | [📎](http://arxiv.org/abs/2604.23095) | INSIGHT: Indoor Scene Intelligence from Geometric-Semantic Hierarchy Transfer for Public~Safety | 0 |
 | 1104 | 26.04 | Others | Other Applications | 🤖 | [📎](http://arxiv.org/abs/2604.19192) | Empowering NPC Dialogue with Environmental Context Using LLMs and Panoramic Images | 0 |
@@ -25,7 +25,7 @@
 | 954 | 25.11 | Others | Other Applications | 👤 | [📎](http://arxiv.org/abs/2511.12676) | BridgeEQA: Virtual Embodied Agents for Real Bridge Inspections | 0 |
 | 944 | 25.11 | Others | Other Applications | 👤 | [📎](http://arxiv.org/abs/2511.03819) | SILVI: Simple Interface for Labeling Video Interactions | 0 |
 | 940 | 25.10 | Others | Other Applications | 👤 | [📎](http://arxiv.org/abs/2510.23190) | Evaluation of Vision-LLMs in Surveillance Video | 0 |
-| 937 | 25.10 | Others | Other Applications | 👤 | [📎](http://arxiv.org/abs/2510.22204) | Human-Inspired Neuro-Symbolic World Modeling and Logic Reasoning for Interpretable Safe UAV Landing Site Assessment | 0 |
+| 937 | 25.10 | Others | Other Applications | 👤 | [📎](http://arxiv.org/abs/2510.22204) | ~~Human-Inspired Neuro-Symbolic World Modeling and Logic Reasoning for Interpretable Safe UAV Landing Site Assessment~~ | 0 |
 | 896 | 25.09 | Others | Other Applications | 👤 | [📎](http://arxiv.org/abs/2509.12901) | MSGFusion: Multimodal Scene Graph-Guided Infrared and Visible Image Fusion | 1 |
 | 892 | 25.09 | Others | Other Applications | 👤 | [📎](http://arxiv.org/abs/2509.11796) | FineQuest: Adaptive Knowledge-Assisted Sports Video Understanding via Agent-of-Thoughts Reasoning | 0 |
 | 867 | 25.07 | Others | Other Applications | 🤖 | [📎](http://arxiv.org/abs/2507.18562) | GIIFT: Graph-guided Inductive Image-free Multimodal Machine Translation | 0 |
@@ -38,7 +38,7 @@
 | 711 | 24.12 | Others | Other Applications | 🤖 | [📎](http://arxiv.org/abs/2412.13646) | Transmit What You Need: Task-Adaptive Semantic Communications for Visual Information | 10 |
 | 688 | 24.12 | Others | Other Applications | 🤖 | [📎](http://arxiv.org/abs/2412.00067) | Targeted Therapy in Data Removal: Object Unlearning Based on Scene Graphs | 0 |
 | 666 | 24.10 | Others | Other Applications | 🤖 | [📎](http://arxiv.org/abs/2410.15517) | SceneGraMMi: Scene Graph-boosted Hybrid-fusion for Multi-Modal Misinformation Veracity Prediction | 0 |
-| 614 | 24.06 | Others | Other Applications | 🤖 | [📎](http://arxiv.org/abs/2406.12736) | Beyond Visual Appearances: Privacy-sensitive Objects Identification via Hybrid Graph Reasoning | 0 |
+| 614 | 24.06 | Others | Other Applications | 🤖 | [📎](http://arxiv.org/abs/2406.12736) | ~~Beyond Visual Appearances: Privacy-sensitive Objects Identification via Hybrid Graph Reasoning~~ | 0 |
 | 607 | 24.06 | Others | Other Applications | 🤖 | [📎](http://arxiv.org/abs/2406.03865) | Semantic Similarity Score for Measuring Visual Similarity at Semantic Level | 0 |
 | 434 | 23.06 | Others | Other Applications | 🤖 | [📎](http://arxiv.org/abs/2306.17469) | Manga109Dialog: A Large-scale Dialogue Dataset for Comics Speaker Detection | 6 |
 | 424 | 23.05 | Others | Other Applications | 🤖 | [📎](http://arxiv.org/abs/2305.18391) | MemeGraphs: Linking Memes to Knowledge Graphs | 0 |

@@ -60,7 +60,7 @@
 | 588 | 24.05 | Scene Graph | Synthesis | 🤖 | [📎](http://arxiv.org/abs/2405.03650) | Generated Contents Enrichment | 0 |
 | 586 | 24.05 | Scene Graph | Synthesis | 🤖 | [📎](http://arxiv.org/abs/2405.00915) | EchoScene: Indoor Scene Generation via Information Echo over Scene Graph Diffusion | 1 |
 | 571 | 24.04 | Scene Graph | Synthesis | 🤖 | [📎](http://arxiv.org/abs/2404.02838) | I-Design: Personalized LLM Interior Designer | 27 |
-| 568 | 24.04 | Scene Graph | Synthesis | 🤖 | [📎](http://arxiv.org/abs/2404.01887) | 3D scene generation from scene graphs and self-attention | 0 |
+| 568 | 24.04 | Scene Graph | Synthesis | 🤖 | [📎](http://arxiv.org/abs/2404.01887) | ~~3D scene generation from scene graphs and self-attention~~ | 0 |
 | 556 | 24.03 | Scene Graph | Synthesis | 🤖 | [📎](http://arxiv.org/abs/2403.12848) | Planner3D: LLM-enhanced graph prior meets 3D indoor scene explicit regularization | 5 |
 | 545 | 24.03 | Scene Graph | Synthesis | 🤖 | [📎](http://arxiv.org/abs/2403.01248) | SceneCraft: An LLM Agent for Synthesizing 3D Scene as Blender Code | 2 |
 | 533 | 24.01 | Scene Graph | Synthesis | 🤖 | [📎](http://arxiv.org/abs/2401.14111) | Image Synthesis with Graph Conditioning: CLIP-Guided Diffusion Models for Scene Graphs | 1 |
