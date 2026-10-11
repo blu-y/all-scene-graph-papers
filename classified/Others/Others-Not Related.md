@@ -1,6 +1,6 @@
 # Others - Not Related
 
-34 Papers.
+35 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
@@ -18,6 +18,7 @@
 | 601 | 24.05 | Others | Not Related | 🤖 | [📎](http://arxiv.org/abs/2405.19442) | Large-scale DSM registration via motion averaging | 2 |
 | 587 | 24.05 | Others | Not Related | 🤖 | [📎](http://arxiv.org/abs/2405.02826) | Nip in the Bud: Forecasting and Interpreting Post-exploitation Attacks in Real-time through Cyber Threat Intelligence Reports | 0 |
 | 553 | 24.03 | Others | Not Related | 🤖 | [📎](http://arxiv.org/abs/2403.10119) | URS-NeRF: Unordered Rolling Shutter Bundle Adjustment for Neural Radiance Fields | 0 |
+| 499 | 23.10 | Others | Not Related | 🤖 | [📎](http://arxiv.org/abs/2310.16737) | Translating Universal Scene Descriptions into Knowledge Graphs for Robotic Environment | 0 |
 | 473 | 23.09 | Others | Not Related | 🤖 | [📎](http://arxiv.org/abs/2309.09311) | Towards Debiasing Frame Length Bias in Text-Video Retrieval via Causal Intervention | 0 |
 | 441 | 23.07 | Others | Not Related | 🤖 | [📎](http://arxiv.org/abs/2307.15377) | Co-attention Graph Pooling for Efficient Pairwise Graph Interaction Learning | 4 |
 | 369 | 23.02 | Others | Not Related | 🤖 | [📎](http://arxiv.org/abs/2302.07691) | Project Elements: A computational entity-component-system in a scene-graph pythonic framework, for a neural, geometric computer graphics curriculum | 0 |

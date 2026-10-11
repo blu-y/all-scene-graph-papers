@@ -1,6 +1,6 @@
 # Others - Weakly Related
 
-50 Papers.
+57 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
@@ -8,6 +8,9 @@
 | 1340 | 26.08 | Others | Weakly Related | 🤖 | [📎](http://arxiv.org/abs/2608.17129) | MG-VQA: Manipulation Grounded Visual Question Answering with VLMs | 0 |
 | 1329 | 26.09 | Others | Weakly Related | 🤖 | [📎](http://arxiv.org/abs/2609.33855) | Program-Verified Self-Evolution for Vision-Language Models | 0 |
 | 1305 | 26.09 | Others | Weakly Related | 🤖 | [📎](http://arxiv.org/abs/2609.27895) | Electromagnetic Twin: From Sparse Measurements to Persistent Wireless Intelligence | 0 |
+| 1297 | 26.09 | Others | Weakly Related | 🤖 | [📎](http://arxiv.org/abs/2609.15895) | Goal-Oriented Communications for Physical AI: Design and Testbed | 0 |
+| 1289 | 26.09 | Others | Weakly Related | 🤖 | [📎](http://arxiv.org/abs/2609.08292) | EvoNav-Bench: Benchmarking Lifelong Navigation in Evolving Environments | 0 |
+| 1280 | 26.09 | Others | Weakly Related | 🤖 | [📎](http://arxiv.org/abs/2609.03891) | A hybrid pipeline for dynamic ontology-based semantic mapping | 0 |
 | 1255 | 26.08 | Others | Weakly Related | 🤖 | [📎](http://arxiv.org/abs/2608.12290) | Beyond Trial-and-Error: Agentic Optimization for Image-to-Video Adherence | 0 |
 | 1238 | 26.07 | Others | Weakly Related | 🤖 | [📎](http://arxiv.org/abs/2607.25236) | VisualPatchWorld: Code World Models as Latent Structured Representations for Planning | 0 |
 | 1231 | 26.07 | Others | Weakly Related | 🤖 | [📎](http://arxiv.org/abs/2607.17938) | MuViSeg: Multi-View Segment Correspondences from Dense Geometry Priors | 0 |
@@ -15,7 +18,9 @@
 | 1173 | 26.06 | Others | Weakly Related | 🤖 | [📎](http://arxiv.org/abs/2606.10927) | AllDayNav: Lifelong Navigation via Real-World Reinforcement Learning | 0 |
 | 1127 | 26.05 | Others | Weakly Related | 🤖 | [📎](http://arxiv.org/abs/2605.14393) | Analogical Trajectory Transfer | 0 |
 | 1114 | 26.04 | Others | Weakly Related | 🤖 | [📎](http://arxiv.org/abs/2604.28001) | A Pattern Language for Resilient Visual Agents | 0 |
+| 1099 | 26.04 | Others | Weakly Related | 🤖 | [📎](http://arxiv.org/abs/2604.16482) | A Survey of Spatial Memory Representations for Efficient Robot Navigation | 0 |
 | 1098 | 26.04 | Others | Weakly Related | 🤖 | [📎](http://arxiv.org/abs/2604.15951) | Integrating Graphs, Large Language Models, and Agents: Reasoning and Retrieval | 0 |
+| 1094 | 26.04 | Others | Weakly Related | 🤖 | [📎](http://arxiv.org/abs/2604.09326) | Multimodal Anomaly Detection for Human-Robot Interaction | 0 |
 | 1069 | 26.03 | Others | Weakly Related | 🤖 | [📎](http://arxiv.org/abs/2603.20530) | Memory Over Maps: 3D Object Localization Without Reconstruction | 0 |
 | 1035 | 26.02 | Others | Weakly Related | 👤 | [📎](http://arxiv.org/abs/2602.19974) | RL-RIG: A Generative Spatial Reasoner via Intrinsic Reflection | 0 |
 | 1009 | 26.01 | Others | Weakly Related | 👤 | [📎](http://arxiv.org/abs/2601.16093) | SAMTok: Representing Any Mask with Two Words | 0 |
@@ -27,8 +32,10 @@
 | 923 | 25.10 | Others | Weakly Related | 👤 | [📎](http://arxiv.org/abs/2510.07053) | Introspection in Learned Semantic Scene Graph Localisation | 0 |
 | 917 | 25.10 | Others | Weakly Related | 👤 | [📎](http://arxiv.org/abs/2510.03727) | Bridging the Gap Between Multimodal Foundation Models and World Models | 0 |
 | 877 | 25.08 | Others | Weakly Related | 👤 | [📎](http://arxiv.org/abs/2508.06125) | SC-Captioner: Improving Image Captioning with Self-Correction by Reinforcement Learning | 3 |
+| 856 | 25.07 | Others | Weakly Related | 🤖 | [📎](http://arxiv.org/abs/2507.02029) | RoboBrain 2.0 Technical Report | 0 |
 | 814 | 25.05 | Others | Weakly Related | 🤖 | [📎](http://arxiv.org/abs/2505.16237) | Align-GRAG: Anchor and Rationale Guided Dual Alignment for Graph Retrieval-Augmented Generation | 0 |
 | 801 | 25.04 | Others | Weakly Related | 🤖 | [📎](http://arxiv.org/abs/2504.15785) | WALL-E 2.0: World Alignment by NeuroSymbolic Learning improves World Model-based LLM Agents | 0 |
+| 686 | 24.11 | Others | Weakly Related | 🤖 | [📎](http://arxiv.org/abs/2411.17735) | 3D-Mem: 3D Scene Memory for Embodied Exploration and Reasoning | 0 |
 | 640 | 24.08 | Others | Weakly Related | 🤖 | [📎](http://arxiv.org/abs/2408.14941) | BOX3D: Lightweight Camera-LiDAR Fusion for 3D Object Detection and Localization | 0 |
 | 590 | 24.05 | Others | Weakly Related | 🤖 | [📎](http://arxiv.org/abs/2405.04732) | Is the House Ready For Sleeptime? Generating and Evaluating Situational Queries for Embodied Question Answering | 0 |
 | 555 | 24.03 | Others | Weakly Related | 🤖 | [📎](http://arxiv.org/abs/2403.12488) | DetToolChain: A New Prompting Paradigm to Unleash Detection Ability of MLLM | 0 |

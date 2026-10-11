@@ -1,10 +1,11 @@
 # Others - Other Applications
 
-42 Papers.
+43 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
 | 1330 | 26.09 | Others | Other Applications | 🤖 | [📎](http://arxiv.org/abs/2609.34730) | Action Sequence Transfer via LLMs for Heterogeneous Environments | 0 |
+| 1279 | 26.09 | Others | Other Applications | 🤖 | [📎](http://arxiv.org/abs/2609.01579) | SG-AMP: Scene-Graph-Guided Active Perception and Semantics-Aware Motion Planning for Pepper Plants | 0 |
 | 1267 | 26.08 | Others | Other Applications | 🤖 | [📎](http://arxiv.org/abs/2608.24103) | ACE: A Self-Correcting Agentic Canvas Editor for Multi-Slide Presentation Automation | 0 |
 | 1248 | 26.08 | Others | Other Applications | 🤖 | [📎](http://arxiv.org/abs/2608.08110) | Dependency-Aware Reliability Allocation for Open-Vocabulary Scene-Graph Semantic Packets over Latency- and Energy-Constrained Wireless Visual Uplinks | 0 |
 | 1219 | 26.07 | Others | Other Applications | 🤖 | [📎](http://arxiv.org/abs/2607.07105) | CompoVista: A Composition-Graph-Based Visual Analytics System for Compositional Analysis of Traditional Chinese Paintings | 0 |

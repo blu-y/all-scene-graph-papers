@@ -1,6 +1,6 @@
 # Robotics - Task-planning
 
-50 Papers.
+47 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
@@ -23,29 +23,26 @@
 | 904 | 25.09 | Robotics | Task-planning | 👤 | [📎](http://arxiv.org/abs/2509.20077) | Queryable 3D Scene Representation: A Multi-Modal Framework for Semantic Reasoning and Robotic Task Planning | 2 |
 | 881 | 25.08 | Robotics | Task-planning | 👤 | [📎](http://arxiv.org/abs/2508.11286) | Scene Graph-Guided Proactive Replanning for Failure-Resilient Embodied Agent | - |
 | 866 | 25.07 | Robotics | Task-planning | 🤖 | [📎](http://arxiv.org/abs/2507.15782) | Interleaved LLM and Motion Planning for Generalized Multi-Object Collection in Large Scene Graphs | - |
+| 864 | 25.07 | Robotics | Task-planning | 🤖 | [📎](http://arxiv.org/abs/2507.12846) | Enter the Mind Palace: Reasoning and Planning for Long-term Active Embodied Question Answering | 0 |
 | 851 | 25.06 | Robotics | Task-planning | 🤖 | [📎](http://arxiv.org/abs/2506.20394) | SPARK: Graph-Based Online Semantic Integration System for Robot Task Planning | 0 |
 | 846 | 25.06 | Robotics | Task-planning | 🤖 | [📎](http://arxiv.org/abs/2506.15828) | Context Matters! Relaxing Goals with LLMs for Feasible 3D Scene Planning | 0 |
 | 835 | 25.06 | Robotics | Task-planning | 🤖 | [📎](http://arxiv.org/abs/2506.07454) | Language-Grounded Hierarchical Planning and Execution with Multi-Robot 3D Scene Graphs | 0 |
-| 823 | 25.06 | Robotics | Task-planning | 🤖 | [📎](http://arxiv.org/abs/2506.00083) | Hi-Dyna Graph: Hierarchical Dynamic Scene Graph for Robotic Autonomy in Human-Centric Environments | 0 |
 | 791 | 25.04 | Robotics | Task-planning | 🤖 | [📎](http://arxiv.org/abs/2504.06661) | Domain-Conditioned Scene Graphs for State-Grounded Task Planning | 0 |
 | 785 | 25.04 | Robotics | Task-planning | 🤖 | [📎](http://arxiv.org/abs/2504.00775) | Visual Environment-Interactive Planning for Embodied Complex-Question Answering | 4 |
 | 775 | 25.03 | Robotics | Task-planning | 🤖 | [📎](http://arxiv.org/abs/2503.15202) | A Unified Framework for Real-Time Failure Handling in Robotics Using Vision-Language Models, Reactive Planner and Behavior Trees | 1 |
 | 768 | 25.03 | Robotics | Task-planning | 🤖 | [📎](http://arxiv.org/abs/2503.12974) | Exploring 3D Reasoning-Driven Planning: From Implicit Human Intentions to Route-Aware Activity Planning | 0 |
+| 713 | 24.12 | Robotics | Task-planning | 🤖 | [📎](http://arxiv.org/abs/2412.14480) | GraphEQA: Using 3D Semantic Scene Graphs for Real-time Embodied Question Answering | 0 |
 | 684 | 24.11 | Robotics | Task-planning | 🤖 | [📎](http://arxiv.org/abs/2411.15027) | Time is on my sight: scene graph filtering for dynamic environment perception in an LLM-driven robot | 0 |
 | 680 | 24.11 | Robotics | Task-planning | 🤖 | [📎](http://arxiv.org/abs/2411.12837) | Anticipatory Planning for Performant Long-Lived Robot in Large-Scale Home-Like Environments | 0 |
 | 677 | 24.11 | Robotics | Task-planning | 🤖 | [📎](http://arxiv.org/abs/2411.10446) | VeriGraph: Scene Graphs for Execution Verifiable Robot Planning | 0 |
 | 671 | 24.10 | Robotics | Task-planning | 🤖 | [📎](http://arxiv.org/abs/2410.23968) | EmbodiedRAG: Dynamic 3D Scene Graph Retrieval for Efficient and Scalable Robot Task Planning | 0 |
-| 670 | 24.10 | Robotics | Task-planning | 🤖 | [📎](http://arxiv.org/abs/2410.23963) | Exploiting Information Theory for Intuitive Robot Programming of Manual Activities | 9 |
 | 652 | 24.09 | Robotics | Task-planning | 🤖 | [📎](http://arxiv.org/abs/2409.14908) | KARMA: Augmenting Embodied AI Agents with Long-and-short Term Memory Systems | 2 |
 | 645 | 24.09 | Robotics | Task-planning | 🤖 | [📎](http://arxiv.org/abs/2409.05392) | Leveraging Computation of Expectation Models for Commonsense Affordance Estimation on 3D Scene Graphs | 2 |
 | 637 | 24.08 | Robotics | Task-planning | 🤖 | [📎](http://arxiv.org/abs/2408.12093) | LLM-enhanced Scene Graph Learning for Household Rearrangement | 10 |
-| 600 | 24.05 | Robotics | Task-planning | 🤖 | [📎](http://arxiv.org/abs/2405.18948) | Learning to Recover from Plan Execution Errors during Robot Manipulation: A Neuro-symbolic Approach | 0 |
 | 581 | 24.04 | Robotics | Task-planning | 🤖 | [📎](http://arxiv.org/abs/2404.14285) | LLM-Personalize: Aligning LLM Planners with Human Preferences via Reinforced Self-Training for Housekeeping Robots | 4 |
 | 579 | 24.04 | Robotics | Task-planning | 🤖 | [📎](http://arxiv.org/abs/2404.11267) | Towards Human Awareness in Robot Task Planning with Large Language Models | 0 |
 | 572 | 24.04 | Robotics | Task-planning | 🤖 | [📎](http://arxiv.org/abs/2404.03275) | DELTA: Decomposed Efficient Long-Term Robot Task Planning using Large Language Models | 5 |
 | 551 | 24.03 | Robotics | Task-planning | 🤖 | [📎](http://arxiv.org/abs/2403.08094) | Task and Motion Planning in Hierarchical 3D Scene Graphs | 1 |
-| 535 | 24.02 | Robotics | Task-planning | 🤖 | [📎](http://arxiv.org/abs/2402.03840) | Belief Scene Graphs: Expanding Partial Scenes with Objects through Computation of Expectation | 4 |
-| 483 | 23.09 | Robotics | Task-planning | 🤖 | [📎](http://arxiv.org/abs/2309.16650) | ConceptGraphs: Open-Vocabulary 3D Scene Graphs for Perception and Planning | 263 |
 | 472 | 23.09 | Robotics | Task-planning | 🤖 | [📎](http://arxiv.org/abs/2309.09182) | Optimal Scene Graph Planning with Large Language Model Guidance | 19 |
 | 469 | 23.09 | Robotics | Task-planning | 🤖 | [📎](http://arxiv.org/abs/2309.07726) | GRID: Scene-Graph-based Instruction-driven Robotic Task Planning | 21 |
 | 437 | 23.07 | Robotics | Task-planning | 🤖 | [📎](http://arxiv.org/abs/2307.06135) | SayPlan: Grounding Large Language Models using 3D Scene Graphs for Scalable Robot Task Planning | 29 |

@@ -1,6 +1,6 @@
 # Reasoning - Reasoning
 
-46 Papers.
+49 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
@@ -16,6 +16,7 @@
 | 1165 | 26.06 | Reasoning | Reasoning | 🤖 | [📎](http://arxiv.org/abs/2606.07529) | CAPruner: Conceptual-Adjacent Scene Graph Pruner for Enhancing 3D Spatial Reasoning of Large Language Models | 0 |
 | 1162 | 26.06 | Reasoning | Reasoning | 🤖 | [📎](http://arxiv.org/abs/2606.06100) | HyperVis: Continuous Latent Visual Relational Graphs on the Lorentz Hyperboloid for Compositional Reasoning | 0 |
 | 1096 | 26.04 | Reasoning | Reasoning | 🤖 | [📎](http://arxiv.org/abs/2604.12102) | Spatial Atlas: Compute-Grounded Reasoning for Spatial-Aware Research Agent Benchmarks | 0 |
+| 1092 | 26.04 | Reasoning | Reasoning | 🤖 | [📎](http://arxiv.org/abs/2604.08645) | 3D-VCD: Hallucination Mitigation in 3D-LLM Embodied Agents through Visual Contrastive Decoding | 0 |
 | 1087 | 26.04 | Reasoning | Reasoning | 🤖 | [📎](http://arxiv.org/abs/2604.03318) | EgoMind: Activating Spatial Cognition through Linguistic Reasoning in MLLMs | 0 |
 | 1085 | 26.04 | Reasoning | Reasoning | 🤖 | [📎](http://arxiv.org/abs/2604.01460) | Reinforcing Consistency in Video MLLMs with Structured Rewards | 0 |
 | 1083 | 26.03 | Reasoning | Reasoning | 🤖 | [📎](http://arxiv.org/abs/2603.27349) | Inference-Time Structural Reasoning for Compositional Vision-Language Understanding | 0 |
@@ -29,9 +30,11 @@
 | 949 | 25.11 | Reasoning | Reasoning | 👤 | [📎](http://arxiv.org/abs/2511.07403) | SpatialThinker: Reinforcing 3D Reasoning in Multimodal LLMs via Spatial Rewards | 0 |
 | 858 | 25.07 | Reasoning | Reasoning | 🤖 | [📎](http://arxiv.org/abs/2507.13362) | Enhancing Spatial Reasoning in Vision-Language Models via Chain-of-Thought Prompting and Reinforcement Learning | 0 |
 | 812 | 25.05 | Reasoning | Reasoning | 🤖 | [📎](http://arxiv.org/abs/2505.09118) | Seeing Beyond the Scene: Enhancing Vision-Language Models with Interactional Reasoning | 0 |
+| 762 | 25.03 | Reasoning | Reasoning | 🤖 | [📎](http://arxiv.org/abs/2503.11089) | EmbodiedVSR: Dynamic Scene Graph-Guided Chain-of-Thought Reasoning for Visual Spatial Tasks | 0 |
 | 750 | 25.03 | Reasoning | Reasoning | 🤖 | [📎](http://arxiv.org/abs/2503.03340) | EnigmaToM: Improve LLMs' Theory-of-Mind Reasoning Capabilities with Neural Knowledge Base of Entity States | 0 |
 | 734 | 25.02 | Reasoning | Reasoning | 🤖 | [📎](http://arxiv.org/abs/2502.03450) | Schema-Guided Scene-Graph Reasoning based on Multi-Agent Large Language Model System | 1 |
 | 695 | 24.12 | Reasoning | Reasoning | 🤖 | [📎](http://arxiv.org/abs/2412.00161) | STEP: Enhancing Video-LLMs' Compositional Reasoning by Spatio-Temporal Graph-guided Self-Training | 0 |
+| 692 | 24.11 | Reasoning | Reasoning | 🤖 | [📎](http://arxiv.org/abs/2411.18666) | 3D Scene Graph Guided Vision-Language Pre-training | 0 |
 | 615 | 24.06 | Reasoning | Reasoning | 🤖 | [📎](http://arxiv.org/abs/2406.13302) | SituationalLLM: Proactive language models with scene awareness for dynamic, contextual task guidance | 2 |
 | 603 | 24.06 | Reasoning | Reasoning | 🤖 | [📎](http://arxiv.org/abs/2406.01584) | SpatialRGPT: Grounded Spatial Reasoning in Vision Language Models | 1 |
 | 513 | 23.11 | Reasoning | Reasoning | 🤖 | [📎](http://arxiv.org/abs/2311.17076) | Compositional Chain-of-Thought Prompting for Large Multimodal Models | 4 |

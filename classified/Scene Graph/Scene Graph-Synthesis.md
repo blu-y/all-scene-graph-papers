@@ -1,6 +1,6 @@
 # Scene Graph - Synthesis
 
-94 Papers.
+95 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
@@ -37,6 +37,7 @@
 | 883 | 25.08 | Scene Graph | Synthesis | 👤 | [📎](http://arxiv.org/abs/2508.14502) | SATURN: Autoregressive Image Generation Guided by Scene Graphs | 2 |
 | 871 | 25.08 | Scene Graph | Synthesis | 🤖 | [📎](http://arxiv.org/abs/2508.03691) | La La LiDAR: Large-Scale Layout Generation from LiDAR Data | 0 |
 | 870 | 25.07 | Scene Graph | Synthesis | 🤖 | [📎](http://arxiv.org/abs/2507.21893) | Aether Weaver: Multimodal Affective Narrative Co-Generation with Dynamic Scene Graphs | 0 |
+| 857 | 25.07 | Scene Graph | Synthesis | 🤖 | [📎](http://arxiv.org/abs/2507.02861) | LiteReality: Graphics-Ready 3D Scene Reconstruction from RGB-D Scans | 0 |
 | 854 | 25.06 | Scene Graph | Synthesis | 🤖 | [📎](http://arxiv.org/abs/2506.21839) | GenEscape: Hierarchical Multi-Agent Generation of Escape Room Puzzles | 0 |
 | 826 | 25.06 | Scene Graph | Synthesis | 🤖 | [📎](http://arxiv.org/abs/2506.02781) | FreeScene: Mixed Graph Diffusion for 3D Scene Synthesis from Free Prompts | 0 |
 | 800 | 25.04 | Scene Graph | Synthesis | 🤖 | [📎](http://arxiv.org/abs/2504.15049) | ScanEdit: Hierarchically-Guided Functional 3D Scan Editing | 0 |

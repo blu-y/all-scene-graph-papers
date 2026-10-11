@@ -1,6 +1,6 @@
 # Reasoning
 
-237 Papers.
+245 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
@@ -17,11 +17,13 @@
 | 1261 | 26.08 | Reasoning | Grounding | 🤖 | [📎](http://arxiv.org/abs/2608.17535) | GroupForward: Building Referable 3D Scenes via Instance-Grouped Feed-Forward Gaussian Splatting | 0 |
 | 1253 | 26.08 | Reasoning | Reasoning | 🤖 | [📎](http://arxiv.org/abs/2608.11150) | CausalSplat: Towards Comprehensive Hierarchical Reasoning in 3D Gaussian Splatting | 0 |
 | 1252 | 26.08 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2608.11017) | R4DSG: Relative 4D Scene Graph Memory for Object-Centric Question Answering in Long Egocentric Video | 0 |
+| 1250 | 26.08 | Reasoning | Scene Understanding | 🤖 | [📎](http://arxiv.org/abs/2608.10057) | LEGO: Leveled Language Gaussian Splatting | 0 |
 | 1243 | 26.08 | Reasoning | Grounding | 🤖 | [📎](http://arxiv.org/abs/2608.03763) | TDVR: Joint Text Disambiguation and Viewpoint Reasoning for Zero-Shot 3D Visual Grounding | 0 |
 | 1241 | 26.08 | Reasoning | Retrieval | 🤖 | [📎](http://arxiv.org/abs/2608.02056) | TBSG-Net: Temporal Bipartite Scene Graph Network for Fine-Grained Video Moment Retrieval | 0 |
 | 1229 | 26.07 | Reasoning | Reasoning | 🤖 | [📎](http://arxiv.org/abs/2607.16727) | Constraint-Anchored Reasoning Traces | 0 |
 | 1221 | 26.07 | Reasoning | Reasoning | 🤖 | [📎](http://arxiv.org/abs/2607.09059) | ARCANA: A Reflective Multi-Agent Program Synthesis Framework for ARC-AGI-2 Reasoning | 0 |
 | 1217 | 26.07 | Reasoning | Reasoning | 🤖 | [📎](http://arxiv.org/abs/2607.05716) | Scene Graph Thinking: Reinforcing Structured Visual Reasoning for Multimodal Large Language Models | 0 |
+| 1216 | 26.07 | Reasoning | Scene Understanding | 🤖 | [📎](http://arxiv.org/abs/2607.05348) | Beyond Isolated Objects: Relationship-aware Open Vocabulary Scene Understanding via 3D Scene Graph Analysis | 0 |
 | 1194 | 26.06 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2606.25842) | Graph it first! Enabling Reasoning on Long-form Egocentric Videos through Scene Graphs | 0 |
 | 1179 | 26.06 | Reasoning | Retrieval | 🤖 | [📎](http://arxiv.org/abs/2606.15476) | FARM: Find Anything using Relational Spatial Memory | 0 |
 | 1174 | 26.06 | Reasoning | Reasoning | 🤖 | [📎](http://arxiv.org/abs/2606.11838) | Plan-and-Verify Video Reward Reasoning with Spatio-Temporal Scene Graph Grounding | 0 |
@@ -34,6 +36,7 @@
 | 1116 | 26.05 | Reasoning | Others | 🤖 | [📎](http://arxiv.org/abs/2605.07575) | Response-G1: Explicit Scene Graph Modeling for Proactive Streaming Video Understanding | 0 |
 | 1102 | 26.04 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2604.17889) | AeroRAG: Structured Multimodal Retrieval-Augmented LLM for Fine-Grained Aerial Visual Reasoning | 0 |
 | 1096 | 26.04 | Reasoning | Reasoning | 🤖 | [📎](http://arxiv.org/abs/2604.12102) | Spatial Atlas: Compute-Grounded Reasoning for Spatial-Aware Research Agent Benchmarks | 0 |
+| 1092 | 26.04 | Reasoning | Reasoning | 🤖 | [📎](http://arxiv.org/abs/2604.08645) | 3D-VCD: Hallucination Mitigation in 3D-LLM Embodied Agents through Visual Contrastive Decoding | 0 |
 | 1087 | 26.04 | Reasoning | Reasoning | 🤖 | [📎](http://arxiv.org/abs/2604.03318) | EgoMind: Activating Spatial Cognition through Linguistic Reasoning in MLLMs | 0 |
 | 1085 | 26.04 | Reasoning | Reasoning | 🤖 | [📎](http://arxiv.org/abs/2604.01460) | Reinforcing Consistency in Video MLLMs with Structured Rewards | 0 |
 | 1083 | 26.03 | Reasoning | Reasoning | 🤖 | [📎](http://arxiv.org/abs/2603.27349) | Inference-Time Structural Reasoning for Compositional Vision-Language Understanding | 0 |
@@ -78,6 +81,7 @@
 | 869 | 25.07 | Reasoning | Retrieval | 🤖 | [📎](http://arxiv.org/abs/2507.20804) | MMGraphRAG: Bridging Vision and Language with Interpretable Multimodal Knowledge Graphs | 0 |
 | 863 | 25.07 | Reasoning | Grounding | 🤖 | [📎](http://arxiv.org/abs/2507.12123) | Open-Vocabulary Indoor Object Grounding with 3D Hierarchical Scene Graph | 1 |
 | 858 | 25.07 | Reasoning | Reasoning | 🤖 | [📎](http://arxiv.org/abs/2507.13362) | Enhancing Spatial Reasoning in Vision-Language Models via Chain-of-Thought Prompting and Reinforcement Learning | 0 |
+| 842 | 25.06 | Reasoning | Scene Understanding | 🤖 | [📎](http://arxiv.org/abs/2506.13629) | FreeQ-Graph: Free-form Querying with Semantic Consistent Scene Graph for 3D Scene Understanding | 0 |
 | 838 | 25.06 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2506.08553) | From Pixels to Graphs: using Scene and Knowledge Graphs for HD-EPIC VQA Challenge | 0 |
 | 824 | 25.06 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2506.01174) | GraphPad: Inference-Time 3D Scene Graph Updates for Embodied Question Answering | 0 |
 | 813 | 25.05 | Reasoning | Retrieval | 🤖 | [📎](http://arxiv.org/abs/2505.15867) | SCENIR: Visual Semantic Clarity through Unsupervised Scene Graph Retrieval | 0 |
@@ -92,6 +96,7 @@
 | 789 | 25.04 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2504.05463) | REVEAL: Relation-based Video Representation Learning for Video-Question-Answering | 0 |
 | 784 | 25.03 | Reasoning | Captioning | 🤖 | [📎](http://arxiv.org/abs/2503.23679) | The Devil is in the Distributions: Explicit Modeling of Scene Content is Key in Zero-Shot Video Captioning | 0 |
 | 782 | 25.03 | Reasoning | Relationship | 🤖 | [📎](http://arxiv.org/abs/2503.18988) | SG-Tailor: Inter-Object Commonsense Relationship Reasoning for Scene Graph Manipulation | 0 |
+| 762 | 25.03 | Reasoning | Reasoning | 🤖 | [📎](http://arxiv.org/abs/2503.11089) | EmbodiedVSR: Dynamic Scene Graph-Guided Chain-of-Thought Reasoning for Visual Spatial Tasks | 0 |
 | 754 | 25.03 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2503.06820) | Towards Fine-Grained Video Question Answering | 0 |
 | 753 | 25.03 | Reasoning | Prediction | 🤖 | [📎](http://arxiv.org/abs/2503.06182) | FORESCENE: FOREcasting human activity via latent SCENE graphs diffusion | 0 |
 | 750 | 25.03 | Reasoning | Reasoning | 🤖 | [📎](http://arxiv.org/abs/2503.03340) | EnigmaToM: Improve LLMs' Theory-of-Mind Reasoning Capabilities with Neural Knowledge Base of Entity States | 0 |
@@ -107,6 +112,7 @@
 | 709 | 24.12 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2412.11396) | Leveraging Retrieval-Augmented Tags for Large Vision-Language Understanding in Complex Scenes | 0 |
 | 702 | 24.12 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2412.07012) | ProVision: Programmatically Scaling Vision-centric Instruction Data for Multimodal Language Models | 0 |
 | 695 | 24.12 | Reasoning | Reasoning | 🤖 | [📎](http://arxiv.org/abs/2412.00161) | STEP: Enhancing Video-LLMs' Compositional Reasoning by Spatio-Temporal Graph-guided Self-Training | 0 |
+| 692 | 24.11 | Reasoning | Reasoning | 🤖 | [📎](http://arxiv.org/abs/2411.18666) | 3D Scene Graph Guided Vision-Language Pre-training | 0 |
 | 687 | 24.11 | Reasoning | Scene Understanding | 🤖 | [📎](http://arxiv.org/abs/2411.15714) | ROOT: VLM based System for Indoor Scene Understanding and Beyond | 1 |
 | 673 | 24.11 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2411.02452) | Goal-Oriented Semantic Communication for Wireless Visual Question Answering | 0 |
 | 641 | 24.08 | Reasoning | Scene Understanding | 🤖 | [📎](http://arxiv.org/abs/2408.16224) | LLaVA-SG: Leveraging Scene Graphs as Visual Semantic Expression in Vision-Language Models | 0 |
@@ -142,6 +148,7 @@
 | 482 | 23.09 | Reasoning | Grounding | 🤖 | [📎](http://arxiv.org/abs/2309.15940) | Context-Aware Entity Grounding with Open-Vocabulary 3D Scene Graphs | 4 |
 | 480 | 23.11 | Reasoning | Reasoning | 🤖 | [📎](http://arxiv.org/abs/2311.12820) | MSG-BART: Multi-granularity Scene Graph-Enhanced Encoder-Decoder Language Model for Video-grounded Dialogue Generation | 4 |
 | 461 | 23.08 | Reasoning | Relationship | 🤖 | [📎](http://arxiv.org/abs/2308.12910) | SCoRD: Subject-Conditional Relation Detection with Text-Augmented Data | 2 |
+| 423 | 23.05 | Reasoning | Prediction | 🤖 | [📎](http://arxiv.org/abs/2305.17537) | Modeling Dynamic Environments with Scene Graph Memory | 2 |
 | 417 | 23.05 | Reasoning | Relationship | 🤖 | [📎](http://arxiv.org/abs/2305.14281) | Weakly-Supervised Learning of Visual Relations in Multimodal Pretraining | 1 |
 | 416 | 23.05 | Reasoning | Relationship | 🤖 | [📎](http://arxiv.org/abs/2305.13812) | Coarse-to-Fine Contrastive Learning in Image-Text-Graph Space for Improved Vision-Language Compositionality | 13 |
 | 415 | 23.05 | Reasoning | Captioning | 🤖 | [📎](http://arxiv.org/abs/2305.12260) | Cross2StrA: Unpaired Cross-lingual Image Captioning with Cross-lingual Cross-modal Structure-pivoted Alignment | 44 |
@@ -160,6 +167,7 @@
 | 351 | 22.12 | Reasoning | Prediction | 🤖 | [📎](http://arxiv.org/abs/2212.02875) | Multi-Task Edge Prediction in Temporally-Dynamic Video Graphs | 0 |
 | 341 | 22.11 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2211.08086) | Visually Grounded VQA by Lattice-based Retrieval | 2 |
 | 335 | 22.11 | Reasoning | Grounding | 🤖 | [📎](http://arxiv.org/abs/2211.01969) | Grounding Scene Graphs on Natural Images via Visio-Lingual Message Passing | 2 |
+| 333 | 22.11 | Reasoning | Prediction | 🤖 | [📎](http://arxiv.org/abs/2211.00562) | Leveraging commonsense for object localisation in partial scenes | 4 |
 | 330 | 22.10 | Reasoning | Reasoning | 👤 | [📎](http://arxiv.org/abs/2210.14162) | Commonsense Knowledge from Scene Graphs for Textual Environments | 2 |
 | 327 | 22.10 | Reasoning | Retrieval | 👤 | [📎](http://arxiv.org/abs/2210.08908) | Cross-modal Semantic Enhanced Interaction for Image-Sentence Retrieval | 48 |
 | 323 | 22.10 | Reasoning | Prediction | 👤 | [📎](http://arxiv.org/abs/2210.02735) | What Should the System Do Next?: Operative Action Captioning for Estimating System Actions | 0 |
