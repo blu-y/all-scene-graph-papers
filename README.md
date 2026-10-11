@@ -14,7 +14,6 @@ Classified 37.9%(511/1347)
   - [Dataset/Benchmark](./classified/Scene%20Graph/Scene%20Graph-Dataset_Benchmark.md)
   - [Dynamic Scene Graph](./classified/Scene%20Graph/Scene%20Graph-Dynamic%20Scene%20Graph.md)
   - [General](./classified/Scene%20Graph/Scene%20Graph-General.md)
-  - [Grounding](./classified/Scene%20Graph/Scene%20Graph-Grounding.md)
   - [Representation](./classified/Scene%20Graph/Scene%20Graph-Representation.md)
   - [Scene Graph Generation](./classified/Scene%20Graph/Scene%20Graph-Scene%20Graph%20Generation.md)
   - [Scene Graph Parsing](./classified/Scene%20Graph/Scene%20Graph-Scene%20Graph%20Parsing.md)
@@ -44,7 +43,6 @@ Classified 37.9%(511/1347)
   - [Other Applications](./classified/Others/Others-Other%20Applications.md)
   - [Weakly Related](./classified/Others/Others-Weakly%20Related.md)
   - [Not Related](./classified/Others/Others-Not%20Related.md)
-  - [Uncategorized](./classified/Others/Others-Uncategorized.md)
 
 
 ---

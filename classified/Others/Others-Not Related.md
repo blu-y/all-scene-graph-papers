@@ -1,13 +1,26 @@
 # Others - Not Related
 
-21 Papers.
+34 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1188 | 26.06 | Others | Not Related | 🤖 | [📎](http://arxiv.org/abs/2606.22856) | G-MASt3R-SfM: Graph-based View Pruning and Multi-stage Optimization for Robust SfM | 0 |
+| 1150 | 26.06 | Others | Not Related | 🤖 | [📎](http://arxiv.org/abs/2606.00447) | GeoSAM-3D: Geodesic Prompt Propagation for Open-Vocabulary 3D Scene Segmentation from Monocular Video | 0 |
+| 1065 | 26.03 | Others | Not Related | 🤖 | [📎](http://arxiv.org/abs/2603.17625) | S-VGGT: Structure-Aware Subscene Decomposition for Scalable 3D Foundation Models | 0 |
 | 1028 | 26.02 | Others | Not Related | 👤 | [📎](http://arxiv.org/abs/2602.07541) | Differentiate-and-Inject: Enhancing VLAs via Functional Differentiation Induced by In-Parameter Structural Reasoning | 0 |
 | 1027 | 26.02 | Others | Not Related | 👤 | [📎](http://arxiv.org/abs/2602.06090) | SVRepair: Structured Visual Reasoning for Automated Program Repair | 0 |
 | 997 | 26.01 | Others | Not Related | 👤 | [📎](http://arxiv.org/abs/2601.02792) | Textile IR: A Bidirectional Intermediate Representation for Physics-Aware Fashion CAD | 0 |
 | 945 | 25.11 | Others | Not Related | 👤 | [📎](http://arxiv.org/abs/2511.08609) | Case Study: Transformer-Based Solution for the Automatic Digitization of Gas Plants | 0 |
+| 731 | 25.01 | Others | Not Related | 🤖 | [📎](http://arxiv.org/abs/2501.14914) | Light3R-SfM: Towards Feed-forward Structure-from-Motion | 0 |
+| 683 | 24.11 | Others | Not Related | 🤖 | [📎](http://arxiv.org/abs/2411.13620) | Robust SG-NeRF: Robust Scene Graph Aided Neural Surface Reconstruction | 0 |
+| 625 | 24.07 | Others | Not Related | 🤖 | [📎](http://arxiv.org/abs/2407.12667) | SG-NeRF: Neural Surface Reconstruction with Scene Graph Optimization | 0 |
+| 620 | 24.07 | Others | Not Related | 🤖 | [📎](http://arxiv.org/abs/2407.15852) | BSH for Collision Detection in Point Cloud models | 0 |
+| 601 | 24.05 | Others | Not Related | 🤖 | [📎](http://arxiv.org/abs/2405.19442) | Large-scale DSM registration via motion averaging | 2 |
+| 587 | 24.05 | Others | Not Related | 🤖 | [📎](http://arxiv.org/abs/2405.02826) | Nip in the Bud: Forecasting and Interpreting Post-exploitation Attacks in Real-time through Cyber Threat Intelligence Reports | 0 |
+| 553 | 24.03 | Others | Not Related | 🤖 | [📎](http://arxiv.org/abs/2403.10119) | URS-NeRF: Unordered Rolling Shutter Bundle Adjustment for Neural Radiance Fields | 0 |
+| 473 | 23.09 | Others | Not Related | 🤖 | [📎](http://arxiv.org/abs/2309.09311) | Towards Debiasing Frame Length Bias in Text-Video Retrieval via Causal Intervention | 0 |
+| 441 | 23.07 | Others | Not Related | 🤖 | [📎](http://arxiv.org/abs/2307.15377) | Co-attention Graph Pooling for Efficient Pairwise Graph Interaction Learning | 4 |
+| 369 | 23.02 | Others | Not Related | 🤖 | [📎](http://arxiv.org/abs/2302.07691) | Project Elements: A computational entity-component-system in a scene-graph pythonic framework, for a neural, geometric computer graphics curriculum | 0 |
 | 324 | 22.10 | Others | Not Related | 👤 | [📎](http://arxiv.org/abs/2210.04127) | Towards Efficient Neural Scene Graphs by Learning Consistency Fields | 2 |
 | 320 | 22.09 | Others | Not Related | 👤 | [📎](http://arxiv.org/abs/2209.12274) | Personalized Saliency in Task-Oriented Semantic Communications: Image Transmission and Performance Analysis | 186 |
 | 313 | 22.09 | Others | Not Related | 👤 | [📎](http://arxiv.org/abs/2209.02567) | Capsule Networks as Generative Models | 0 |
