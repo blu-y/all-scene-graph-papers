@@ -10,6 +10,7 @@ from pathlib import Path
 import json
 import csv
 import urllib.request
+import urllib.parse
 import urllib.error
 import xml.etree.ElementTree as ET
 import shutil
@@ -193,16 +194,19 @@ def get_openalex_citations(arxiv_id: str):
 
 
 def translate_abstract(text: str):
-    """Translate abstract to Korean using deep-translator or placeholder"""
+    """Translate abstract to Korean using Google Translate (gtx endpoint)"""
     try:
-        from deep_translator import GoogleTranslator
-
-        return GoogleTranslator(source="en", target="ko").translate(text)
-    except ImportError:
-        print(
-            "Warning: deep-translator not installed. Please run 'pip install deep-translator'"
+        data = urllib.parse.urlencode(
+            {"client": "gtx", "sl": "en", "tl": "ko", "dt": "t", "q": text}
+        ).encode()
+        req = urllib.request.Request(
+            "https://translate.googleapis.com/translate_a/single",
+            data=data,
+            headers={"User-Agent": "Mozilla/5.0"},
         )
-        return "SEOUL (번역 대기 중): " + text[:100] + "..."
+        with urllib.request.urlopen(req, timeout=30) as response:
+            segments = json.loads(response.read())[0]
+            return "".join(seg[0] for seg in segments if seg[0])
     except Exception as e:
         print(f"Translation error: {e}")
         return ""
@@ -597,7 +601,7 @@ async def get_stats():
     """Get classification statistics from cache"""
     total_papers = len(papers_cache)
     manually_classified_list = [
-        c for c in classifications_cache.values() if c.get("source") != "ai_generated"
+        c for c in classifications_cache.values() if c.get("source") == "manual"
     ]
     manually_classified_count = len(manually_classified_list)
     remaining = total_papers - manually_classified_count

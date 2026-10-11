@@ -1,4 +1,5 @@
 import urllib.request
+import urllib.parse
 import urllib.error
 import re
 import csv
@@ -7,7 +8,6 @@ import json
 import xml.etree.ElementTree as ET
 from pathlib import Path
 from bs4 import BeautifulSoup
-from deep_translator import GoogleTranslator
 import time
 import subprocess
 import shutil
@@ -70,7 +70,10 @@ def get_openalex_citations(arxiv_id: str):
     """Fetch citation count from OpenAlex API (copied from main.py)"""
     url = f"https://api.openalex.org/works/https://doi.org/10.48550/arXiv.{arxiv_id}"
     try:
-        req = urllib.request.Request(url, headers={'User-Agent': 'mailto:user@example.com'})
+        headers = {'User-Agent': 'mailto:user@example.com'}
+        if os.environ.get("OPENALEX_API_KEY"):
+            headers["Authorization"] = f"Bearer {os.environ['OPENALEX_API_KEY']}"
+        req = urllib.request.Request(url, headers=headers)
         with urllib.request.urlopen(req, timeout=10) as response:
             data = json.loads(response.read())
             return data.get("cited_by_count", 0)
@@ -85,9 +88,19 @@ def get_openalex_citations(arxiv_id: str):
         return 0
 
 def translate_abstract(text: str):
-    """Translate abstract to Korean using GoogleTranslator (copied from main.py)"""
+    """Translate abstract to Korean using Google Translate (gtx endpoint)"""
     try:
-        return GoogleTranslator(source="en", target="ko").translate(text)
+        data = urllib.parse.urlencode(
+            {"client": "gtx", "sl": "en", "tl": "ko", "dt": "t", "q": text}
+        ).encode()
+        req = urllib.request.Request(
+            "https://translate.googleapis.com/translate_a/single",
+            data=data,
+            headers={"User-Agent": "Mozilla/5.0"},
+        )
+        with urllib.request.urlopen(req, timeout=30) as response:
+            segments = json.loads(response.read())[0]
+            return "".join(seg[0] for seg in segments if seg[0])
     except Exception as e:
         print(f"Translation error: {e}")
         return ""

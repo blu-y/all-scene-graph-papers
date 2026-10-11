@@ -22,10 +22,12 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install pandas bs4 deep-translator requests
+          pip install pandas bs4 requests
 
       - name: Run Crawler
         run: python scripts/daily_arxiv_crawler.py
+        env:
+          OPENALEX_API_KEY: ${{ secrets.OPENALEX_API_KEY }}
 
       - name: Check for changes
         id: git-check

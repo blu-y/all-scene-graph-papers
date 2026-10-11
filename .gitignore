@@ -41,5 +41,4 @@ paper_classifier/frontend/build/
 # Data & Temp
 scripts/tmp/*
 !scripts/tmp/.gitignore
-translation_progress.json
 *.bak

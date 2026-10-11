@@ -84,7 +84,6 @@ npm install
 
 ### 한국어 번역이 안 돼요
 
-- `deep-translator` 라이브러리가 설치되어 있는지 확인하세요. (`npm run setup` 시 자동 설치됨)
 - 인터넷 연결 상태를 확인하세요.
 
 ---
