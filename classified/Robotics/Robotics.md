@@ -1,10 +1,9 @@
 # Robotics
 
-187 Papers.
+186 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
-| 1347 | 26.10 | Robotics | Manipulation | 🤖 | [📎](http://arxiv.org/abs/2610.12470) | Dex-One2Many: Learning Dexterous Manipulation from a Single Human Demonstration | 0 |
 | 1344 | 26.10 | Robotics | General | 🤖 | [📎](http://arxiv.org/abs/2610.08800) | A Review Of Robotic World Models For Dynamic Environments Based On Factor And Scene Graphs | 0 |
 | 1339 | 26.10 | Robotics | Navigation | 🤖 | [📎](http://arxiv.org/abs/2610.03622) | CORNAV: Construction-Aware Reasoning for Robot Navigation on Active Worksites | 0 |
 | 1338 | 26.10 | Robotics | Navigation | 🤖 | [📎](http://arxiv.org/abs/2610.02803) | LOCUS: Landmark-Oriented Container Discrimination Using Spatial Graphs | 0 |

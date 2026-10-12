@@ -1,10 +1,9 @@
 # Robotics - Manipulation
 
-42 Papers.
+41 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
-| 1347 | 26.10 | Robotics | Manipulation | 🤖 | [📎](http://arxiv.org/abs/2610.12470) | Dex-One2Many: Learning Dexterous Manipulation from a Single Human Demonstration | 0 |
 | 1336 | 26.09 | Robotics | Manipulation | 🤖 | [📎](http://arxiv.org/abs/2609.39670) | From Local Whole-Body VLA Behaviors to Scene-Scale Aerial Manipulation | 0 |
 | 1303 | 26.09 | Robotics | Manipulation | 🤖 | [📎](http://arxiv.org/abs/2609.19413) | From Rollout to Reset: A Graph-Based Harness for Autonomous Long-Horizon Manipulation Evaluation | 0 |
 | 1298 | 26.09 | Robotics | Manipulation | 🤖 | [📎](http://arxiv.org/abs/2609.15976) | MessyMem: Learning-from-Doing Memory for Mobile Manipulation | 0 |
