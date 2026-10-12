@@ -1,9 +1,10 @@
 # Reasoning - Reasoning
 
-49 Papers.
+50 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1350 | 26.10 | Reasoning | Reasoning | 🤖 | [📎](http://arxiv.org/abs/2610.13910) | When VLMs Destroy What They Know: Spatial Representations Fall Below Lexical Priors | 0 |
 | 1302 | 26.09 | Reasoning | Reasoning | 🤖 | [📎](http://arxiv.org/abs/2609.18328) | Visual Compliance via Executable Safety Rule Entailment | 0 |
 | 1288 | 26.09 | Reasoning | Reasoning | 🤖 | [📎](http://arxiv.org/abs/2609.08242) | CS-CLIP: Compositional Scene Graph-guided CLIP for Robust Compositional Reasoning | 0 |
 | 1283 | 26.09 | Reasoning | Reasoning | 🤖 | [📎](http://arxiv.org/abs/2609.05257) | Commonsense Reasoning in Computer Vision: Foundations, Recent Advancements, and Future Directions | 0 |

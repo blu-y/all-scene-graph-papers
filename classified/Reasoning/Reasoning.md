@@ -1,9 +1,11 @@
 # Reasoning
 
-245 Papers.
+247 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1350 | 26.10 | Reasoning | Reasoning | 🤖 | [📎](http://arxiv.org/abs/2610.13910) | When VLMs Destroy What They Know: Spatial Representations Fall Below Lexical Priors | 0 |
+| 1348 | 26.10 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2610.12517) | TerraAgent: Demonstration-Grounded Multi-Agent Reasoning for Long-Context Remote Sensing Visual Question Answering | 0 |
 | 1320 | 26.09 | Reasoning | Grounding | 🤖 | [📎](http://arxiv.org/abs/2609.27890) | RelCheck: Dual-Evidence Spatial Grounding for VLM Hallucination Correction | 0 |
 | 1308 | 26.09 | Reasoning | Grounding | 🤖 | [📎](http://arxiv.org/abs/2609.18058) | Finder: Agentic Closed-Loop Object Finding for Embodied Grounding | 0 |
 | 1302 | 26.09 | Reasoning | Reasoning | 🤖 | [📎](http://arxiv.org/abs/2609.18328) | Visual Compliance via Executable Safety Rule Entailment | 0 |

@@ -1,5 +1,8 @@
 no,category,subcategory,arxiv_url,title,citations,source,additional_doi
-1347,Others,Uncategorized,http://arxiv.org/abs/2610.12470 ,Dex-One2Many: Learning Dexterous Manipulation from a Single Human Demonstration,0,uncategorized,
+1350,Reasoning,Reasoning,http://arxiv.org/abs/2610.13910 ,When VLMs Destroy What They Know: Spatial Representations Fall Below Lexical Priors,0,laya,
+1349,Robotics,General,http://arxiv.org/abs/2610.12561 ,What Should Embodied Agents Remember? Benchmarking and Evaluating Memory Modality for Embodied Agents,0,laya,
+1348,Reasoning,VQA,http://arxiv.org/abs/2610.12517 ,TerraAgent: Demonstration-Grounded Multi-Agent Reasoning for Long-Context Remote Sensing Visual Question Answering,0,laya,
+1347,Robotics,Manipulation,http://arxiv.org/abs/2610.12470 ,Dex-One2Many: Learning Dexterous Manipulation from a Single Human Demonstration,0,laya,
 1346,Others,Weakly Related,http://arxiv.org/abs/2610.10782 ,VICO: Visual Environments Co-Evolving for Vision-Language Model Reasoning,0,ai_generated,
 1345,Scene Graph,Dataset/Benchmark,http://arxiv.org/abs/2610.09488 ,SiGNgapore - An Interactive Dataset for Sign-based Visual Navigation,0,ai_generated,
 1344,Robotics,General,http://arxiv.org/abs/2610.08800 ,A Review Of Robotic World Models For Dynamic Environments Based On Factor And Scene Graphs,0,ai_generated,

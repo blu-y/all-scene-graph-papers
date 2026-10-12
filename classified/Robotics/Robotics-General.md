@@ -1,9 +1,10 @@
 # Robotics - General
 
-11 Papers.
+12 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1349 | 26.10 | Robotics | General | 🤖 | [📎](http://arxiv.org/abs/2610.12561) | What Should Embodied Agents Remember? Benchmarking and Evaluating Memory Modality for Embodied Agents | 0 |
 | 1344 | 26.10 | Robotics | General | 🤖 | [📎](http://arxiv.org/abs/2610.08800) | A Review Of Robotic World Models For Dynamic Environments Based On Factor And Scene Graphs | 0 |
 | 1254 | 26.08 | Robotics | General | 🤖 | [📎](http://arxiv.org/abs/2608.11246) | Towards the Harness of Embodied Agents | 0 |
 | 1166 | 26.06 | Robotics | General | 🤖 | [📎](http://arxiv.org/abs/2606.08277) | Remember with Confidence: Uncertainty Quantification for Spatio-temporal Memory with Probabilistic Guarantees | 0 |
