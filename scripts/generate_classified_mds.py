@@ -98,11 +98,12 @@ def main():
     df = pd.read_csv(CSV_PATH)
     withdrawn_nos = load_withdrawn_nos()
     
-    # Calculate classification statistics (source == 'manual' only)
+    # Calculate classification statistics (manual + AI-aided)
     total_count = len(df)
     classified_count = len(df[df['source'] == 'manual'])
-    percent = (classified_count / total_count * 100) if total_count > 0 else 0
-    stats_msg = f"Classified {percent:.1f}%({classified_count}/{total_count})"
+    ai_count = len(df[df['source'].isin(['ai_generated', 'laya'])])
+    percent = ((classified_count + ai_count) / total_count * 100) if total_count > 0 else 0
+    stats_msg = f"Classified {percent:.1f}%({classified_count}+{ai_count}/{total_count})"
 
     # Remove existing classified directory to start fresh
     if os.path.exists(OUTPUT_DIR):
