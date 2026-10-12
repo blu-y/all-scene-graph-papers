@@ -16,7 +16,7 @@ def get_source_emoji(source):
     source = str(source).lower().strip()
     if source == 'manual':
         return '👤'
-    elif 'ai' in source:
+    elif 'ai' in source or source == 'laya':
         return '🤖'
     else:
         return '❌'

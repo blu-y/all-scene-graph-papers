@@ -42,3 +42,4 @@ paper_classifier/frontend/build/
 scripts/tmp/*
 !scripts/tmp/.gitignore
 *.bak
+/tmp/

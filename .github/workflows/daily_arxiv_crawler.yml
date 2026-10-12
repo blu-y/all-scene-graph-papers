@@ -29,6 +29,25 @@ jobs:
         env:
           OPENALEX_API_KEY: ${{ secrets.OPENALEX_API_KEY }}
 
+      - name: Check for uncategorized papers
+        id: uncategorized
+        run: echo "count=$(grep -c ',uncategorized' csvs/scene_graph_papers_minimal.csv || true)" >> $GITHUB_OUTPUT
+
+      - name: Cache laya model
+        if: steps.uncategorized.outputs.count != '0'
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/huggingface
+          key: hf-${{ hashFiles('scripts/classify_with_laya.py') }}
+
+      - name: Classify new papers with laya
+        if: steps.uncategorized.outputs.count != '0'
+        continue-on-error: true
+        run: |
+          pip install torch --index-url https://download.pytorch.org/whl/cpu
+          pip install laya==0.4.2
+          python scripts/classify_with_laya.py
+
       - name: Check for changes
         id: git-check
         run: |

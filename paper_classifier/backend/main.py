@@ -386,7 +386,7 @@ async def get_paper_classification(no: int):
 @app.get("/api/papers/{no}/next")
 async def get_next_paper(no: int):
     """Get next unclassified or AI-classified paper"""
-    target_sources = {"ai_generated", "uncategorized"}
+    target_sources = {"ai_generated", "laya", "uncategorized"}
 
     unclassified_nos = {
         paper_no
@@ -410,7 +410,7 @@ async def get_next_paper(no: int):
 
 @app.get("/api/papers/{no}/next-asc")
 async def get_next_paper_ascending(no: int):
-    target_sources = {"ai_generated", "uncategorized"}
+    target_sources = {"ai_generated", "laya", "uncategorized"}
 
     unclassified_nos = {
         paper_no

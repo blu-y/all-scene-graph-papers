@@ -76,7 +76,7 @@ function CategoryTree({
           <div>
             {selectedCategory} → {selectedSubcategory}
           </div>
-          {currentClassification && currentClassification.source === 'ai_generated' && (
+          {currentClassification && (currentClassification.source === 'ai_generated' || currentClassification.source === 'laya') && (
             <div className="ai-classification-note">
               <span className="ai-badge" title="AI-generated classification">AI Classification</span>
             </div>
