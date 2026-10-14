@@ -1,4 +1,8 @@
 no,category,subcategory,arxiv_url,title,citations,source,additional_doi
+1354,Scene Graph,3D Scene Graph,http://arxiv.org/abs/2610.17705 ,A Differentiable 3D Scene Graph Metric via Contextual Hellinger Triplet Geometry,0,laya,
+1353,Scene Graph,3D Scene Graph,http://arxiv.org/abs/2610.17692 ,SWORD: Scene-Grounded Wasserstein Object-Relation Distance for 3D Scene Graph Prediction,0,laya,
+1352,Robotics,Navigation,http://arxiv.org/abs/2610.17555 ,ATOM: Abstract Transition and Option Modeling - Experience-Informed Hierarchical Navigation,0,laya,
+1351,Scene Graph,3D Scene Graph,http://arxiv.org/abs/2610.16455 ,GHOST: Geometry-Constrained Hybrid Diffusion for Open-Vocabulary 3D Scene Graph Generation,0,laya,
 1350,Reasoning,Reasoning,http://arxiv.org/abs/2610.13910 ,When VLMs Destroy What They Know: Spatial Representations Fall Below Lexical Priors,0,laya,
 1349,Robotics,General,http://arxiv.org/abs/2610.12561 ,What Should Embodied Agents Remember? Benchmarking and Evaluating Memory Modality for Embodied Agents,0,laya,
 1348,Reasoning,VQA,http://arxiv.org/abs/2610.12517 ,TerraAgent: Demonstration-Grounded Multi-Agent Reasoning for Long-Context Remote Sensing Visual Question Answering,0,laya,

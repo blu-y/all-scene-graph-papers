@@ -1,9 +1,10 @@
 # Robotics
 
-188 Papers.
+189 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1352 | 26.10 | Robotics | Navigation | 🤖 | [📎](http://arxiv.org/abs/2610.17555) | ATOM: Abstract Transition and Option Modeling - Experience-Informed Hierarchical Navigation | 0 |
 | 1349 | 26.10 | Robotics | General | 🤖 | [📎](http://arxiv.org/abs/2610.12561) | What Should Embodied Agents Remember? Benchmarking and Evaluating Memory Modality for Embodied Agents | 0 |
 | 1347 | 26.10 | Robotics | Manipulation | 🤖 | [📎](http://arxiv.org/abs/2610.12470) | Dex-One2Many: Learning Dexterous Manipulation from a Single Human Demonstration | 0 |
 | 1344 | 26.10 | Robotics | General | 🤖 | [📎](http://arxiv.org/abs/2610.08800) | A Review Of Robotic World Models For Dynamic Environments Based On Factor And Scene Graphs | 0 |

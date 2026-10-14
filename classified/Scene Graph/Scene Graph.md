@@ -1,9 +1,12 @@
 # Scene Graph
 
-660 Papers.
+663 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1354 | 26.10 | Scene Graph | 3D Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2610.17705) | A Differentiable 3D Scene Graph Metric via Contextual Hellinger Triplet Geometry | 0 |
+| 1353 | 26.10 | Scene Graph | 3D Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2610.17692) | SWORD: Scene-Grounded Wasserstein Object-Relation Distance for 3D Scene Graph Prediction | 0 |
+| 1351 | 26.10 | Scene Graph | 3D Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2610.16455) | GHOST: Geometry-Constrained Hybrid Diffusion for Open-Vocabulary 3D Scene Graph Generation | 0 |
 | 1345 | 26.10 | Scene Graph | Dataset/Benchmark | 🤖 | [📎](http://arxiv.org/abs/2610.09488) | SiGNgapore - An Interactive Dataset for Sign-based Visual Navigation | 0 |
 | 1343 | 26.10 | Scene Graph | 3D Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2610.07569) | OpenSplatGraph: From Dense Semantic Maps to Structured Scene Graphs for Open-Vocabulary Robot Perception | 0 |
 | 1342 | 26.10 | Scene Graph | Dataset/Benchmark | 🤖 | [📎](http://arxiv.org/abs/2610.06413) | SpatialChain: A Benchmark for Auditing Spatial Reasoning Faithfulness in VLMs | 0 |
