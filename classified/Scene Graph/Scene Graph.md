@@ -1,9 +1,10 @@
 # Scene Graph
 
-663 Papers.
+664 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1355 | 26.10 | Scene Graph | Dynamic Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2610.20091) | RTAformer: Relation-Transition-Aware Transformer for Video Scene Graph Generation | 0 |
 | 1354 | 26.10 | Scene Graph | 3D Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2610.17705) | A Differentiable 3D Scene Graph Metric via Contextual Hellinger Triplet Geometry | 0 |
 | 1353 | 26.10 | Scene Graph | 3D Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2610.17692) | SWORD: Scene-Grounded Wasserstein Object-Relation Distance for 3D Scene Graph Prediction | 0 |
 | 1351 | 26.10 | Scene Graph | 3D Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2610.16455) | GHOST: Geometry-Constrained Hybrid Diffusion for Open-Vocabulary 3D Scene Graph Generation | 0 |

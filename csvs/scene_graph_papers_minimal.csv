@@ -1,4 +1,5 @@
 no,category,subcategory,arxiv_url,title,citations,source,additional_doi
+1355,Scene Graph,Dynamic Scene Graph,http://arxiv.org/abs/2610.20091 ,RTAformer: Relation-Transition-Aware Transformer for Video Scene Graph Generation,0,laya,
 1354,Scene Graph,3D Scene Graph,http://arxiv.org/abs/2610.17705 ,A Differentiable 3D Scene Graph Metric via Contextual Hellinger Triplet Geometry,0,laya,
 1353,Scene Graph,3D Scene Graph,http://arxiv.org/abs/2610.17692 ,SWORD: Scene-Grounded Wasserstein Object-Relation Distance for 3D Scene Graph Prediction,0,laya,
 1352,Robotics,Navigation,http://arxiv.org/abs/2610.17555 ,ATOM: Abstract Transition and Option Modeling - Experience-Informed Hierarchical Navigation,0,laya,
