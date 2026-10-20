@@ -1,9 +1,10 @@
 # Scene Graph - Dataset/Benchmark
 
-88 Papers.
+89 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1357 | 26.10 | Scene Graph | Dataset/Benchmark | 🤖 | [📎](http://arxiv.org/abs/2610.26247) | Bridging In-Situ Visualization to Game Engines: From ParaView Catalyst via ANARI to Unreal Engine | 0 |
 | 1345 | 26.10 | Scene Graph | Dataset/Benchmark | 🤖 | [📎](http://arxiv.org/abs/2610.09488) | SiGNgapore - An Interactive Dataset for Sign-based Visual Navigation | 0 |
 | 1342 | 26.10 | Scene Graph | Dataset/Benchmark | 🤖 | [📎](http://arxiv.org/abs/2610.06413) | SpatialChain: A Benchmark for Auditing Spatial Reasoning Faithfulness in VLMs | 0 |
 | 1321 | 26.09 | Scene Graph | Dataset/Benchmark | 🤖 | [📎](http://arxiv.org/abs/2609.29541) | ~~GeoRefer-Bench: A Benchmark from Referring Pixels to Verifiable Geospatial Reasoning~~ | 0 |

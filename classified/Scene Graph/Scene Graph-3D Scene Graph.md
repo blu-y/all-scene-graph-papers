@@ -1,9 +1,10 @@
 # Scene Graph - 3D Scene Graph
 
-171 Papers.
+172 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1356 | 26.10 | Scene Graph | 3D Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2610.23622) | Foundation-Model-Driven 3D Scene Graphs for Mobile Manipulation | 0 |
 | 1354 | 26.10 | Scene Graph | 3D Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2610.17705) | A Differentiable 3D Scene Graph Metric via Contextual Hellinger Triplet Geometry | 0 |
 | 1353 | 26.10 | Scene Graph | 3D Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2610.17692) | SWORD: Scene-Grounded Wasserstein Object-Relation Distance for 3D Scene Graph Prediction | 0 |
 | 1351 | 26.10 | Scene Graph | 3D Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2610.16455) | GHOST: Geometry-Constrained Hybrid Diffusion for Open-Vocabulary 3D Scene Graph Generation | 0 |
