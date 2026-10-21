@@ -1,9 +1,10 @@
 # Reasoning - VQA
 
-60 Papers.
+61 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1358 | 26.10 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2610.27104) | LVMem: Image-Augmented Memory for Long-Horizon Question Answering | 0 |
 | 1348 | 26.10 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2610.12517) | TerraAgent: Demonstration-Grounded Multi-Agent Reasoning for Long-Context Remote Sensing Visual Question Answering | 0 |
 | 1291 | 26.09 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2609.09184) | Evidence-Order Calibration for Selective Visual Reasoning under Progressive Loss of Question-Critical Evidence | 0 |
 | 1269 | 26.08 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2608.25422) | ~~Towards Faithful and Efficient Semantic Communication: An Ontological Approach~~ | 0 |

@@ -1,4 +1,8 @@
 no,category,subcategory,arxiv_url,title,citations,source,additional_doi
+1361,Scene Graph,Scene Graph Generation,http://arxiv.org/abs/2610.28033 ,Spherical Geometry-Aware Panoptic Scene Graph Generation for Equirectangular Panoramas,0,laya,
+1360,Scene Graph,3D Scene Graph,http://arxiv.org/abs/2610.27696 ,PanoGraphGS: Unifying Panoptic Segmentation and Hierarchical 3D Scene Graphs with Gaussian Splatting,0,laya,
+1359,Scene Graph,3D Scene Graph,http://arxiv.org/abs/2610.27505 ,Cross-Visibility-Gap Identity Persistence for 4D Scene Graphs,0,laya,
+1358,Reasoning,VQA,http://arxiv.org/abs/2610.27104 ,LVMem: Image-Augmented Memory for Long-Horizon Question Answering,0,laya,
 1357,Scene Graph,Dataset/Benchmark,http://arxiv.org/abs/2610.26247 ,Bridging In-Situ Visualization to Game Engines: From ParaView Catalyst via ANARI to Unreal Engine,0,laya,
 1356,Scene Graph,3D Scene Graph,http://arxiv.org/abs/2610.23622 ,Foundation-Model-Driven 3D Scene Graphs for Mobile Manipulation,0,laya,
 1355,Scene Graph,Dynamic Scene Graph,http://arxiv.org/abs/2610.20091 ,RTAformer: Relation-Transition-Aware Transformer for Video Scene Graph Generation,0,laya,

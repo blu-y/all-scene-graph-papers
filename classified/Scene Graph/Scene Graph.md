@@ -1,9 +1,12 @@
 # Scene Graph
 
-666 Papers.
+669 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1361 | 26.10 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2610.28033) | Spherical Geometry-Aware Panoptic Scene Graph Generation for Equirectangular Panoramas | 0 |
+| 1360 | 26.10 | Scene Graph | 3D Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2610.27696) | PanoGraphGS: Unifying Panoptic Segmentation and Hierarchical 3D Scene Graphs with Gaussian Splatting | 0 |
+| 1359 | 26.10 | Scene Graph | 3D Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2610.27505) | Cross-Visibility-Gap Identity Persistence for 4D Scene Graphs | 0 |
 | 1357 | 26.10 | Scene Graph | Dataset/Benchmark | 🤖 | [📎](http://arxiv.org/abs/2610.26247) | Bridging In-Situ Visualization to Game Engines: From ParaView Catalyst via ANARI to Unreal Engine | 0 |
 | 1356 | 26.10 | Scene Graph | 3D Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2610.23622) | Foundation-Model-Driven 3D Scene Graphs for Mobile Manipulation | 0 |
 | 1355 | 26.10 | Scene Graph | Dynamic Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2610.20091) | RTAformer: Relation-Transition-Aware Transformer for Video Scene Graph Generation | 0 |

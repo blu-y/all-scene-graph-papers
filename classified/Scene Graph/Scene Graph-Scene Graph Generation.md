@@ -1,9 +1,10 @@
 # Scene Graph - Scene Graph Generation
 
-213 Papers.
+214 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1361 | 26.10 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2610.28033) | Spherical Geometry-Aware Panoptic Scene Graph Generation for Equirectangular Panoramas | 0 |
 | 1293 | 26.09 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2609.12552) | RelateAnything: Real-Time Open-Vocabulary Relation Prediction From Any Inputs | 0 |
 | 1235 | 26.07 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2607.22325) | Geometric 2D Scene Graph Generation | 0 |
 | 1218 | 26.07 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2607.06176) | Revisiting Scene Graph Generation from the Perspective of Detector-Conditioned Reachability | 0 |
