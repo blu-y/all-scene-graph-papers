@@ -1,9 +1,10 @@
 # Others
 
-255 Papers.
+256 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1362 | 26.10 | Others | Weakly Related | 🤖 | [📎](http://arxiv.org/abs/2610.29761) | OMAR: Open-World Multi-Attribute Reasoning for Scene-Conditioned Shelf Organization | 0 |
 | 1346 | 26.10 | Others | Weakly Related | 🤖 | [📎](http://arxiv.org/abs/2610.10782) | VICO: Visual Environments Co-Evolving for Vision-Language Model Reasoning | 0 |
 | 1340 | 26.08 | Others | Weakly Related | 🤖 | [📎](http://arxiv.org/abs/2608.17129) | MG-VQA: Manipulation Grounded Visual Question Answering with VLMs | 0 |
 | 1337 | 26.09 | Others | Autonomous Vehicles | 🤖 | [📎](http://arxiv.org/abs/2609.39969) | TACTIC: Temporal and Context-Aware LLM Tactical Planning for Roadside LiDAR Attacks | 0 |

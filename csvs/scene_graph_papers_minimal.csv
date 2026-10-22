@@ -1,4 +1,5 @@
 no,category,subcategory,arxiv_url,title,citations,source,additional_doi
+1362,Others,Weakly Related,http://arxiv.org/abs/2610.29761 ,OMAR: Open-World Multi-Attribute Reasoning for Scene-Conditioned Shelf Organization,0,laya,
 1361,Scene Graph,Scene Graph Generation,http://arxiv.org/abs/2610.28033 ,Spherical Geometry-Aware Panoptic Scene Graph Generation for Equirectangular Panoramas,0,laya,
 1360,Scene Graph,3D Scene Graph,http://arxiv.org/abs/2610.27696 ,PanoGraphGS: Unifying Panoptic Segmentation and Hierarchical 3D Scene Graphs with Gaussian Splatting,0,laya,
 1359,Scene Graph,3D Scene Graph,http://arxiv.org/abs/2610.27505 ,Cross-Visibility-Gap Identity Persistence for 4D Scene Graphs,0,laya,
