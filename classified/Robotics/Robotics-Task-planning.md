@@ -1,9 +1,10 @@
 # Robotics - Task-planning
 
-47 Papers.
+48 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1365 | 26.10 | Robotics | Task-planning | 🤖 | [📎](http://arxiv.org/abs/2610.31518) | SCOPE: Scene-graph Construction Optimized by Plan Error-correction for Robot Long-term Planning Datasets | 0 |
 | 1333 | 26.09 | Robotics | Task-planning | 🤖 | [📎](http://arxiv.org/abs/2609.39153) | Concurrent Semantic Search and Mission Execution for LTL Missions in Unknown Environments | 0 |
 | 1307 | 26.09 | Robotics | Task-planning | 🤖 | [📎](http://arxiv.org/abs/2609.17771) | HINT-Plan: Human Intention-Aware Robot Task Planning in Context-Rich Environments using Vision Language Models | 0 |
 | 1296 | 26.09 | Robotics | Task-planning | 🤖 | [📎](http://arxiv.org/abs/2609.15587) | An Information-Space Perspective to Scene Graph Sufficiency for Robotic Task Planning | 0 |

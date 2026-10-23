@@ -1,9 +1,10 @@
 # Scene Graph
 
-669 Papers.
+670 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1364 | 26.10 | Scene Graph | Synthesis | 🤖 | [📎](http://arxiv.org/abs/2610.31121) | RGraph-Eval: Task-Grounded Scene Graphs for Evaluating Robot Video Generation | 0 |
 | 1361 | 26.10 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2610.28033) | Spherical Geometry-Aware Panoptic Scene Graph Generation for Equirectangular Panoramas | 0 |
 | 1360 | 26.10 | Scene Graph | 3D Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2610.27696) | PanoGraphGS: Unifying Panoptic Segmentation and Hierarchical 3D Scene Graphs with Gaussian Splatting | 0 |
 | 1359 | 26.10 | Scene Graph | 3D Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2610.27505) | Cross-Visibility-Gap Identity Persistence for 4D Scene Graphs | 0 |

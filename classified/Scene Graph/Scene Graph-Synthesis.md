@@ -1,9 +1,10 @@
 # Scene Graph - Synthesis
 
-95 Papers.
+96 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1364 | 26.10 | Scene Graph | Synthesis | 🤖 | [📎](http://arxiv.org/abs/2610.31121) | RGraph-Eval: Task-Grounded Scene Graphs for Evaluating Robot Video Generation | 0 |
 | 1341 | 26.10 | Scene Graph | Synthesis | 🤖 | [📎](http://arxiv.org/abs/2610.04301) | EnvDreamer: Large-Scale Multimodal-to-Environment Generation for Embodied AI | 0 |
 | 1334 | 26.09 | Scene Graph | Synthesis | 🤖 | [📎](http://arxiv.org/abs/2609.39441) | CAST: Causal Advantage-Structured Training with Spatially Grounded Compositional Rewards for Diffusion Models | 0 |
 | 1295 | 26.09 | Scene Graph | Synthesis | 🤖 | [📎](http://arxiv.org/abs/2609.15392) | ESG: Generating Physically Consistent Dynamic 3D Scenes from Text Descriptions | 0 |

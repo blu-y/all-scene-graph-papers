@@ -1,4 +1,7 @@
 no,category,subcategory,arxiv_url,title,citations,source,additional_doi
+1365,Robotics,Task-planning,http://arxiv.org/abs/2610.31518 ,SCOPE: Scene-graph Construction Optimized by Plan Error-correction for Robot Long-term Planning Datasets,0,laya,
+1364,Scene Graph,Synthesis,http://arxiv.org/abs/2610.31121 ,RGraph-Eval: Task-Grounded Scene Graphs for Evaluating Robot Video Generation,0,laya,
+1363,Reasoning,Others,http://arxiv.org/abs/2610.30606 ,CMAR-search: Commonsense and Memory Augmented Reasoning for Object Search in Dynamic Interactive Environments,0,laya,
 1362,Others,Weakly Related,http://arxiv.org/abs/2610.29761 ,OMAR: Open-World Multi-Attribute Reasoning for Scene-Conditioned Shelf Organization,0,laya,
 1361,Scene Graph,Scene Graph Generation,http://arxiv.org/abs/2610.28033 ,Spherical Geometry-Aware Panoptic Scene Graph Generation for Equirectangular Panoramas,0,laya,
 1360,Scene Graph,3D Scene Graph,http://arxiv.org/abs/2610.27696 ,PanoGraphGS: Unifying Panoptic Segmentation and Hierarchical 3D Scene Graphs with Gaussian Splatting,0,laya,

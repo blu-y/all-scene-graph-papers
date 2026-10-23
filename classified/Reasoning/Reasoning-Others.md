@@ -1,9 +1,10 @@
 # Reasoning - Others
 
-11 Papers.
+12 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1363 | 26.10 | Reasoning | Others | 🤖 | [📎](http://arxiv.org/abs/2610.30606) | CMAR-search: Commonsense and Memory Augmented Reasoning for Object Search in Dynamic Interactive Environments | 0 |
 | 1116 | 26.05 | Reasoning | Others | 🤖 | [📎](http://arxiv.org/abs/2605.07575) | Response-G1: Explicit Scene Graph Modeling for Proactive Streaming Video Understanding | 0 |
 | 987 | 25.12 | Reasoning | Others | 👤 | [📎](http://arxiv.org/abs/2512.18613) | Text2Graph VPR: A Text-to-Graph Expert System for Explainable Place Recognition in Changing Environments | 0 |
 | 972 | 25.12 | Reasoning | Others | 👤 | [📎](http://arxiv.org/abs/2512.03474) | Procedural Mistake Detection via Action Effect Modeling | 0 |

@@ -1,9 +1,10 @@
 # Robotics
 
-189 Papers.
+190 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1365 | 26.10 | Robotics | Task-planning | 🤖 | [📎](http://arxiv.org/abs/2610.31518) | SCOPE: Scene-graph Construction Optimized by Plan Error-correction for Robot Long-term Planning Datasets | 0 |
 | 1352 | 26.10 | Robotics | Navigation | 🤖 | [📎](http://arxiv.org/abs/2610.17555) | ATOM: Abstract Transition and Option Modeling - Experience-Informed Hierarchical Navigation | 0 |
 | 1349 | 26.10 | Robotics | General | 🤖 | [📎](http://arxiv.org/abs/2610.12561) | What Should Embodied Agents Remember? Benchmarking and Evaluating Memory Modality for Embodied Agents | 0 |
 | 1347 | 26.10 | Robotics | Manipulation | 🤖 | [📎](http://arxiv.org/abs/2610.12470) | Dex-One2Many: Learning Dexterous Manipulation from a Single Human Demonstration | 0 |
