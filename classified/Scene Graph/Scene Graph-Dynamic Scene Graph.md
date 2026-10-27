@@ -1,9 +1,10 @@
 # Scene Graph - Dynamic Scene Graph
 
-56 Papers.
+57 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1366 | 26.10 | Scene Graph | Dynamic Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2610.34041) | T-ConSG: A LiDAR-Based Real-Time Temporal Construction Scene Graph for Dynamic and Evolving Environments | 0 |
 | 1355 | 26.10 | Scene Graph | Dynamic Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2610.20091) | RTAformer: Relation-Transition-Aware Transformer for Video Scene Graph Generation | 0 |
 | 1263 | 26.08 | Scene Graph | Dynamic Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2608.20157) | G3Ego: Gaze-Guided Graphs for Egocentric Action Understanding | 0 |
 | 1257 | 26.08 | Scene Graph | Dynamic Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2608.14835) | OvDSGG: End-to-End Open-Vocabulary Dynamic Scene Graph Generation | 0 |

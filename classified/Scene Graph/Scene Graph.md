@@ -1,9 +1,10 @@
 # Scene Graph
 
-670 Papers.
+671 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1366 | 26.10 | Scene Graph | Dynamic Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2610.34041) | T-ConSG: A LiDAR-Based Real-Time Temporal Construction Scene Graph for Dynamic and Evolving Environments | 0 |
 | 1364 | 26.10 | Scene Graph | Synthesis | 🤖 | [📎](http://arxiv.org/abs/2610.31121) | RGraph-Eval: Task-Grounded Scene Graphs for Evaluating Robot Video Generation | 0 |
 | 1361 | 26.10 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2610.28033) | Spherical Geometry-Aware Panoptic Scene Graph Generation for Equirectangular Panoramas | 0 |
 | 1360 | 26.10 | Scene Graph | 3D Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2610.27696) | PanoGraphGS: Unifying Panoptic Segmentation and Hierarchical 3D Scene Graphs with Gaussian Splatting | 0 |
