@@ -1,4 +1,7 @@
 no,category,subcategory,arxiv_url,title,citations,source,additional_doi
+1370,Robotics,General,http://arxiv.org/abs/2611.02056 ,Do Embodied VLMs Actually Use Their Scene-Graph Memory?,0,laya,
+1369,Others,Weakly Related,http://arxiv.org/abs/2611.01939 ,VLSplat: Vision-Language Guided Object-Centric 3D Gaussian Splatting via Scene Graph,0,laya,
+1368,Others,Not Related,http://arxiv.org/abs/2611.00685 ,Text-to-music Generation via Structured Captions AND Interpretable Evaluation,0,laya,
 1367,Scene Graph,Synthesis,http://arxiv.org/abs/2610.36146 ,From Structural Feedback to Prompt Policies: Learning Faithful Text-to-Image Prompt Editors,0,laya,
 1366,Scene Graph,Dynamic Scene Graph,http://arxiv.org/abs/2610.34041 ,T-ConSG: A LiDAR-Based Real-Time Temporal Construction Scene Graph for Dynamic and Evolving Environments,0,laya,
 1365,Robotics,Task-planning,http://arxiv.org/abs/2610.31518 ,SCOPE: Scene-graph Construction Optimized by Plan Error-correction for Robot Long-term Planning Datasets,0,laya,
