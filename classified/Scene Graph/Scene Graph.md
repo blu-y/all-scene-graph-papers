@@ -1,9 +1,11 @@
 # Scene Graph
 
-672 Papers.
+674 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1372 | 26.11 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2611.04379) | Understanding Backdoor Attacks in Scene Graph Generation via Global Context Pathway | 0 |
+| 1371 | 26.11 | Scene Graph | Synthesis | 🤖 | [📎](http://arxiv.org/abs/2611.04244) | CounterSketch: Physics-Grounded Counterfactual Reasoning for Sketch-to-Video Generation | 0 |
 | 1367 | 26.10 | Scene Graph | Synthesis | 🤖 | [📎](http://arxiv.org/abs/2610.36146) | From Structural Feedback to Prompt Policies: Learning Faithful Text-to-Image Prompt Editors | 0 |
 | 1366 | 26.10 | Scene Graph | Dynamic Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2610.34041) | T-ConSG: A LiDAR-Based Real-Time Temporal Construction Scene Graph for Dynamic and Evolving Environments | 0 |
 | 1364 | 26.10 | Scene Graph | Synthesis | 🤖 | [📎](http://arxiv.org/abs/2610.31121) | RGraph-Eval: Task-Grounded Scene Graphs for Evaluating Robot Video Generation | 0 |

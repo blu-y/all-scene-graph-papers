@@ -1,9 +1,10 @@
 # Scene Graph - Synthesis
 
-97 Papers.
+98 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1371 | 26.11 | Scene Graph | Synthesis | 🤖 | [📎](http://arxiv.org/abs/2611.04244) | CounterSketch: Physics-Grounded Counterfactual Reasoning for Sketch-to-Video Generation | 0 |
 | 1367 | 26.10 | Scene Graph | Synthesis | 🤖 | [📎](http://arxiv.org/abs/2610.36146) | From Structural Feedback to Prompt Policies: Learning Faithful Text-to-Image Prompt Editors | 0 |
 | 1364 | 26.10 | Scene Graph | Synthesis | 🤖 | [📎](http://arxiv.org/abs/2610.31121) | RGraph-Eval: Task-Grounded Scene Graphs for Evaluating Robot Video Generation | 0 |
 | 1341 | 26.10 | Scene Graph | Synthesis | 🤖 | [📎](http://arxiv.org/abs/2610.04301) | EnvDreamer: Large-Scale Multimodal-to-Environment Generation for Embodied AI | 0 |
