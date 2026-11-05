@@ -1,9 +1,10 @@
 # Reasoning - Prediction
 
-12 Papers.
+13 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1373 | 26.11 | Reasoning | Prediction | 🤖 | [📎](http://arxiv.org/abs/2611.06738) | Coupled Scene Graph Anticipation: When With-Constraint Recall Hides Structural Inconsistency | 0 |
 | 981 | 25.12 | Reasoning | Prediction | 👤 | [📎](http://arxiv.org/abs/2512.15957) | Seeing is Believing (and Predicting): Context-Aware Multi-Human Behavior Prediction with Vision Language Models | 0 |
 | 887 | 25.09 | Reasoning | Prediction | 👤 | [📎](http://arxiv.org/abs/2509.05661) | Language-Driven Object-Oriented Two-Stage Method for Scene Graph Anticipation | 0 |
 | 806 | 25.05 | Reasoning | Prediction | 🤖 | [📎](http://arxiv.org/abs/2505.02405) | Estimating Commonsense Scene Composition on Belief Scene Graphs | 1 |

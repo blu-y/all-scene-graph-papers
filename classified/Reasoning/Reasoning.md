@@ -1,9 +1,10 @@
 # Reasoning
 
-249 Papers.
+250 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1373 | 26.11 | Reasoning | Prediction | 🤖 | [📎](http://arxiv.org/abs/2611.06738) | Coupled Scene Graph Anticipation: When With-Constraint Recall Hides Structural Inconsistency | 0 |
 | 1363 | 26.10 | Reasoning | Others | 🤖 | [📎](http://arxiv.org/abs/2610.30606) | CMAR-search: Commonsense and Memory Augmented Reasoning for Object Search in Dynamic Interactive Environments | 0 |
 | 1358 | 26.10 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2610.27104) | LVMem: Image-Augmented Memory for Long-Horizon Question Answering | 0 |
 | 1350 | 26.10 | Reasoning | Reasoning | 🤖 | [📎](http://arxiv.org/abs/2610.13910) | When VLMs Destroy What They Know: Spatial Representations Fall Below Lexical Priors | 0 |

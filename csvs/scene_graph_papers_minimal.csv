@@ -1,4 +1,5 @@
 no,category,subcategory,arxiv_url,title,citations,source,additional_doi
+1373,Reasoning,Prediction,http://arxiv.org/abs/2611.06738 ,Coupled Scene Graph Anticipation: When With-Constraint Recall Hides Structural Inconsistency,0,laya,
 1372,Scene Graph,Scene Graph Generation,http://arxiv.org/abs/2611.04379 ,Understanding Backdoor Attacks in Scene Graph Generation via Global Context Pathway,0,laya,
 1371,Scene Graph,Synthesis,http://arxiv.org/abs/2611.04244 ,CounterSketch: Physics-Grounded Counterfactual Reasoning for Sketch-to-Video Generation,0,laya,
 1370,Robotics,General,http://arxiv.org/abs/2611.02056 ,Do Embodied VLMs Actually Use Their Scene-Graph Memory?,0,laya,
