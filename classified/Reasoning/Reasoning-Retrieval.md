@@ -1,9 +1,10 @@
 # Reasoning - Retrieval
 
-29 Papers.
+30 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1375 | 26.11 | Reasoning | Retrieval | 🤖 | [📎](http://arxiv.org/abs/2611.07517) | Embodied RAG++: Retrieval-Augmented Generation From What Exists to What Works in Embodied Scenes | 0 |
 | 1241 | 26.08 | Reasoning | Retrieval | 🤖 | [📎](http://arxiv.org/abs/2608.02056) | TBSG-Net: Temporal Bipartite Scene Graph Network for Fine-Grained Video Moment Retrieval | 0 |
 | 1179 | 26.06 | Reasoning | Retrieval | 🤖 | [📎](http://arxiv.org/abs/2606.15476) | FARM: Find Anything using Relational Spatial Memory | 0 |
 | 1043 | 26.03 | Reasoning | Retrieval | 👤 | [📎](http://arxiv.org/abs/2603.04614) | SGR3 Model: Scene Graph Retrieval-Reasoning Model in 3D | 0 |

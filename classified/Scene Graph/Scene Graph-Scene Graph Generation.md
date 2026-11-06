@@ -1,9 +1,10 @@
 # Scene Graph - Scene Graph Generation
 
-215 Papers.
+216 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1374 | 26.11 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2611.07408) | PSGAgent: Enhancing MLLMs' Dynamic Visual Perception for Panoptic Scene Graph Generation via Agentic Reasoning | 0 |
 | 1372 | 26.11 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2611.04379) | Understanding Backdoor Attacks in Scene Graph Generation via Global Context Pathway | 0 |
 | 1361 | 26.10 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2610.28033) | Spherical Geometry-Aware Panoptic Scene Graph Generation for Equirectangular Panoramas | 0 |
 | 1293 | 26.09 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2609.12552) | RelateAnything: Real-Time Open-Vocabulary Relation Prediction From Any Inputs | 0 |

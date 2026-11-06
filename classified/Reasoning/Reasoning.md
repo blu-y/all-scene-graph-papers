@@ -1,9 +1,10 @@
 # Reasoning
 
-250 Papers.
+251 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1375 | 26.11 | Reasoning | Retrieval | 🤖 | [📎](http://arxiv.org/abs/2611.07517) | Embodied RAG++: Retrieval-Augmented Generation From What Exists to What Works in Embodied Scenes | 0 |
 | 1373 | 26.11 | Reasoning | Prediction | 🤖 | [📎](http://arxiv.org/abs/2611.06738) | Coupled Scene Graph Anticipation: When With-Constraint Recall Hides Structural Inconsistency | 0 |
 | 1363 | 26.10 | Reasoning | Others | 🤖 | [📎](http://arxiv.org/abs/2610.30606) | CMAR-search: Commonsense and Memory Augmented Reasoning for Object Search in Dynamic Interactive Environments | 0 |
 | 1358 | 26.10 | Reasoning | VQA | 🤖 | [📎](http://arxiv.org/abs/2610.27104) | LVMem: Image-Augmented Memory for Long-Horizon Question Answering | 0 |
