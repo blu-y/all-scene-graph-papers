@@ -1,9 +1,10 @@
 # Others - Medical
 
-41 Papers.
+42 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1378 | 26.11 | Others | Medical | 🤖 | [📎](http://arxiv.org/abs/2611.09866) | GRAC: Graph-Based Retrieval-Augmented Captioning for Surgical Scene Description | 0 |
 | 1327 | 26.09 | Others | Medical | 🤖 | [📎](http://arxiv.org/abs/2609.32837) | Scanning While Imagining: A Scene-Graph World Model for Robotic Ultrasound Navigation | 0 |
 | 1323 | 26.09 | Others | Medical | 🤖 | [📎](http://arxiv.org/abs/2609.31524) | Structured Reasoning Agentic Framework for Interpretable Critical View of Safety Assessment | 0 |
 | 1318 | 26.09 | Others | Medical | 🤖 | [📎](http://arxiv.org/abs/2609.25651) | SurgGraph: Quantitative Laparoscopic Video Understanding via Geometry-Grounded Scene Graphs | 0 |

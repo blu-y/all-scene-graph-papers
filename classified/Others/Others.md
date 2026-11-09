@@ -1,9 +1,10 @@
 # Others
 
-258 Papers.
+259 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1378 | 26.11 | Others | Medical | 🤖 | [📎](http://arxiv.org/abs/2611.09866) | GRAC: Graph-Based Retrieval-Augmented Captioning for Surgical Scene Description | 0 |
 | 1369 | 26.11 | Others | Weakly Related | 🤖 | [📎](http://arxiv.org/abs/2611.01939) | VLSplat: Vision-Language Guided Object-Centric 3D Gaussian Splatting via Scene Graph | 0 |
 | 1368 | 26.11 | Others | Not Related | 🤖 | [📎](http://arxiv.org/abs/2611.00685) | Text-to-music Generation via Structured Captions AND Interpretable Evaluation | 0 |
 | 1362 | 26.10 | Others | Weakly Related | 🤖 | [📎](http://arxiv.org/abs/2610.29761) | OMAR: Open-World Multi-Attribute Reasoning for Scene-Conditioned Shelf Organization | 0 |
