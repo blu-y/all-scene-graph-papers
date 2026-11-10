@@ -1,9 +1,10 @@
 # Robotics - Navigation
 
-75 Papers.
+76 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1379 | 26.11 | Robotics | Navigation | 🤖 | [📎](http://arxiv.org/abs/2611.10547) | HSGNav: Hypothesis Scene Graphs for Multi-Scale Lifelong Navigation under Object Relocation | 0 |
 | 1352 | 26.10 | Robotics | Navigation | 🤖 | [📎](http://arxiv.org/abs/2610.17555) | ATOM: Abstract Transition and Option Modeling - Experience-Informed Hierarchical Navigation | 0 |
 | 1339 | 26.10 | Robotics | Navigation | 🤖 | [📎](http://arxiv.org/abs/2610.03622) | CORNAV: Construction-Aware Reasoning for Robot Navigation on Active Worksites | 0 |
 | 1338 | 26.10 | Robotics | Navigation | 🤖 | [📎](http://arxiv.org/abs/2610.02803) | LOCUS: Landmark-Oriented Container Discrimination Using Spatial Graphs | 0 |

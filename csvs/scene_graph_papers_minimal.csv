@@ -1,4 +1,5 @@
 no,category,subcategory,arxiv_url,title,citations,source,additional_doi
+1379,Robotics,Navigation,http://arxiv.org/abs/2611.10547 ,HSGNav: Hypothesis Scene Graphs for Multi-Scale Lifelong Navigation under Object Relocation,0,laya,
 1378,Others,Medical,http://arxiv.org/abs/2611.09866 ,GRAC: Graph-Based Retrieval-Augmented Captioning for Surgical Scene Description,0,laya,
 1377,Scene Graph,Dataset/Benchmark,http://arxiv.org/abs/2611.09511 ,V-STORM: A Structure-Aware Grounded Chain of Thought Dataset for Faithful and Fine-Grained Spatio-Temporal Video Reasoning,0,laya,
 1376,Scene Graph,Synthesis,http://arxiv.org/abs/2611.08861 ,Align3D: Image-Structure Co-Aligned 3D Scene Generation with Observability-Aware Fidelity-Preserving Guidance,0,laya,

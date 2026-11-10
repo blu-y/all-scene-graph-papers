@@ -1,9 +1,10 @@
 # Robotics
 
-191 Papers.
+192 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1379 | 26.11 | Robotics | Navigation | 🤖 | [📎](http://arxiv.org/abs/2611.10547) | HSGNav: Hypothesis Scene Graphs for Multi-Scale Lifelong Navigation under Object Relocation | 0 |
 | 1370 | 26.11 | Robotics | General | 🤖 | [📎](http://arxiv.org/abs/2611.02056) | Do Embodied VLMs Actually Use Their Scene-Graph Memory? | 0 |
 | 1365 | 26.10 | Robotics | Task-planning | 🤖 | [📎](http://arxiv.org/abs/2610.31518) | SCOPE: Scene-graph Construction Optimized by Plan Error-correction for Robot Long-term Planning Datasets | 0 |
 | 1352 | 26.10 | Robotics | Navigation | 🤖 | [📎](http://arxiv.org/abs/2610.17555) | ATOM: Abstract Transition and Option Modeling - Experience-Informed Hierarchical Navigation | 0 |
