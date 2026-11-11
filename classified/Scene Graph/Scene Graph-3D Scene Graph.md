@@ -1,9 +1,10 @@
 # Scene Graph - 3D Scene Graph
 
-174 Papers.
+175 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1382 | 26.11 | Scene Graph | 3D Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2611.13903) | Persistent Metric-Semantic Maritime Scene Memory from Open-Vocabulary 3D Scene Graphs | 0 |
 | 1360 | 26.10 | Scene Graph | 3D Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2610.27696) | PanoGraphGS: Unifying Panoptic Segmentation and Hierarchical 3D Scene Graphs with Gaussian Splatting | 0 |
 | 1359 | 26.10 | Scene Graph | 3D Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2610.27505) | Cross-Visibility-Gap Identity Persistence for 4D Scene Graphs | 0 |
 | 1356 | 26.10 | Scene Graph | 3D Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2610.23622) | Foundation-Model-Driven 3D Scene Graphs for Mobile Manipulation | 0 |

@@ -1,4 +1,7 @@
 no,category,subcategory,arxiv_url,title,citations,source,additional_doi
+1382,Scene Graph,3D Scene Graph,http://arxiv.org/abs/2611.13903 ,Persistent Metric-Semantic Maritime Scene Memory from Open-Vocabulary 3D Scene Graphs,0,laya,
+1381,Scene Graph,Scene Graph Generation,http://arxiv.org/abs/2611.13496 ,Reasoning-Aware Relational Representation Learning for Open-Vocabulary Scene Graph Generation,0,laya,
+1380,Others,Autonomous Vehicles,http://arxiv.org/abs/2611.12932 ,URL-Sim: Unified and Regulated LiDAR Simulation for High-Fidelity Reconstruction of Dynamic Driving Scenes,0,laya,
 1379,Robotics,Navigation,http://arxiv.org/abs/2611.10547 ,HSGNav: Hypothesis Scene Graphs for Multi-Scale Lifelong Navigation under Object Relocation,0,laya,
 1378,Others,Medical,http://arxiv.org/abs/2611.09866 ,GRAC: Graph-Based Retrieval-Augmented Captioning for Surgical Scene Description,0,laya,
 1377,Scene Graph,Dataset/Benchmark,http://arxiv.org/abs/2611.09511 ,V-STORM: A Structure-Aware Grounded Chain of Thought Dataset for Faithful and Fine-Grained Spatio-Temporal Video Reasoning,0,laya,

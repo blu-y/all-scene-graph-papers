@@ -1,9 +1,10 @@
 # Others
 
-259 Papers.
+260 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1380 | 26.11 | Others | Autonomous Vehicles | 🤖 | [📎](http://arxiv.org/abs/2611.12932) | URL-Sim: Unified and Regulated LiDAR Simulation for High-Fidelity Reconstruction of Dynamic Driving Scenes | 0 |
 | 1378 | 26.11 | Others | Medical | 🤖 | [📎](http://arxiv.org/abs/2611.09866) | GRAC: Graph-Based Retrieval-Augmented Captioning for Surgical Scene Description | 0 |
 | 1369 | 26.11 | Others | Weakly Related | 🤖 | [📎](http://arxiv.org/abs/2611.01939) | VLSplat: Vision-Language Guided Object-Centric 3D Gaussian Splatting via Scene Graph | 0 |
 | 1368 | 26.11 | Others | Not Related | 🤖 | [📎](http://arxiv.org/abs/2611.00685) | Text-to-music Generation via Structured Captions AND Interpretable Evaluation | 0 |

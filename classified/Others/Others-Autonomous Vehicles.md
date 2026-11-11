@@ -1,9 +1,10 @@
 # Others - Autonomous Vehicles
 
-68 Papers.
+69 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1380 | 26.11 | Others | Autonomous Vehicles | 🤖 | [📎](http://arxiv.org/abs/2611.12932) | URL-Sim: Unified and Regulated LiDAR Simulation for High-Fidelity Reconstruction of Dynamic Driving Scenes | 0 |
 | 1337 | 26.09 | Others | Autonomous Vehicles | 🤖 | [📎](http://arxiv.org/abs/2609.39969) | TACTIC: Temporal and Context-Aware LLM Tactical Planning for Roadside LiDAR Attacks | 0 |
 | 1326 | 26.09 | Others | Autonomous Vehicles | 🤖 | [📎](http://arxiv.org/abs/2609.32645) | From Scene Graphs to Answers: Selective Neuro-Symbolic Reasoning for Autonomous Driving | 0 |
 | 1325 | 26.09 | Others | Autonomous Vehicles | 🤖 | [📎](http://arxiv.org/abs/2609.32157) | CausalDriveBench: Evaluating Causal Reasoning in Vision-Language-Action Models for Autonomous Driving | 0 |

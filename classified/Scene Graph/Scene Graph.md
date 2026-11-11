@@ -1,9 +1,11 @@
 # Scene Graph
 
-677 Papers.
+679 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1382 | 26.11 | Scene Graph | 3D Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2611.13903) | Persistent Metric-Semantic Maritime Scene Memory from Open-Vocabulary 3D Scene Graphs | 0 |
+| 1381 | 26.11 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2611.13496) | Reasoning-Aware Relational Representation Learning for Open-Vocabulary Scene Graph Generation | 0 |
 | 1377 | 26.11 | Scene Graph | Dataset/Benchmark | 🤖 | [📎](http://arxiv.org/abs/2611.09511) | V-STORM: A Structure-Aware Grounded Chain of Thought Dataset for Faithful and Fine-Grained Spatio-Temporal Video Reasoning | 0 |
 | 1376 | 26.11 | Scene Graph | Synthesis | 🤖 | [📎](http://arxiv.org/abs/2611.08861) | Align3D: Image-Structure Co-Aligned 3D Scene Generation with Observability-Aware Fidelity-Preserving Guidance | 0 |
 | 1374 | 26.11 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2611.07408) | PSGAgent: Enhancing MLLMs' Dynamic Visual Perception for Panoptic Scene Graph Generation via Agentic Reasoning | 0 |
