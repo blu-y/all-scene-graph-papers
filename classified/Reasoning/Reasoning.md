@@ -1,9 +1,10 @@
 # Reasoning
 
-251 Papers.
+252 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1385 | 26.11 | Reasoning | Reasoning | 🤖 | [📎](http://arxiv.org/abs/2611.15680) | SpaceMCP: Vision Language Model Spatial Reasoning via Model Context Protocol | 0 |
 | 1375 | 26.11 | Reasoning | Retrieval | 🤖 | [📎](http://arxiv.org/abs/2611.07517) | Embodied RAG++: Retrieval-Augmented Generation From What Exists to What Works in Embodied Scenes | 0 |
 | 1373 | 26.11 | Reasoning | Prediction | 🤖 | [📎](http://arxiv.org/abs/2611.06738) | Coupled Scene Graph Anticipation: When With-Constraint Recall Hides Structural Inconsistency | 0 |
 | 1363 | 26.10 | Reasoning | Others | 🤖 | [📎](http://arxiv.org/abs/2610.30606) | CMAR-search: Commonsense and Memory Augmented Reasoning for Object Search in Dynamic Interactive Environments | 0 |
