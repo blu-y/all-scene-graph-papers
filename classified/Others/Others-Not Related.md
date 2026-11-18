@@ -1,9 +1,10 @@
 # Others - Not Related
 
-36 Papers.
+37 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1386 | 26.11 | Others | Not Related | 🤖 | [📎](http://arxiv.org/abs/2611.21996) | Beyond Appearance: Where Forest Visual Place Recognition Actually Fails | 0 |
 | 1368 | 26.11 | Others | Not Related | 🤖 | [📎](http://arxiv.org/abs/2611.00685) | Text-to-music Generation via Structured Captions AND Interpretable Evaluation | 0 |
 | 1188 | 26.06 | Others | Not Related | 🤖 | [📎](http://arxiv.org/abs/2606.22856) | G-MASt3R-SfM: Graph-based View Pruning and Multi-stage Optimization for Robust SfM | 0 |
 | 1150 | 26.06 | Others | Not Related | 🤖 | [📎](http://arxiv.org/abs/2606.00447) | GeoSAM-3D: Geodesic Prompt Propagation for Open-Vocabulary 3D Scene Segmentation from Monocular Video | 0 |

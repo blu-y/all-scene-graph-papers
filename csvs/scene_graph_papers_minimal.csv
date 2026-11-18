@@ -1,4 +1,6 @@
 no,category,subcategory,arxiv_url,title,citations,source,additional_doi
+1387,Others,Weakly Related,http://arxiv.org/abs/2611.22543 ,JointGV: Structure-Aware Correction of Visual World Models with Parallel Graph Dynamics for Long-Horizon Modeling,0,laya,
+1386,Others,Not Related,http://arxiv.org/abs/2611.21996 ,Beyond Appearance: Where Forest Visual Place Recognition Actually Fails,0,laya,
 1385,Reasoning,Reasoning,http://arxiv.org/abs/2611.15680 ,SpaceMCP: Vision Language Model Spatial Reasoning via Model Context Protocol,0,laya,
 1384,Scene Graph,3D Scene Graph,http://arxiv.org/abs/2611.15429 ,IncR-3DSGG: Incremental Posed RGB Image Based 3D Scene Graph Generation via Privileged Depth Supervision,0,laya,
 1383,Scene Graph,Dataset/Benchmark,http://arxiv.org/abs/2611.15418 ,ChartGalaxy++: A Richly Annotated Dataset for Chart Understanding and Generation,0,laya,
