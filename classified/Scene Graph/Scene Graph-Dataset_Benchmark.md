@@ -1,9 +1,10 @@
 # Scene Graph - Dataset/Benchmark
 
-91 Papers.
+92 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1388 | 26.11 | Scene Graph | Dataset/Benchmark | 🤖 | [📎](http://arxiv.org/abs/2611.25408) | FG-GraphBench: Benchmarking and Enhancing Fine-Grained Visual Understanding with Multimodal Scene Graphs | 0 |
 | 1383 | 26.11 | Scene Graph | Dataset/Benchmark | 🤖 | [📎](http://arxiv.org/abs/2611.15418) | ChartGalaxy++: A Richly Annotated Dataset for Chart Understanding and Generation | 0 |
 | 1377 | 26.11 | Scene Graph | Dataset/Benchmark | 🤖 | [📎](http://arxiv.org/abs/2611.09511) | V-STORM: A Structure-Aware Grounded Chain of Thought Dataset for Faithful and Fine-Grained Spatio-Temporal Video Reasoning | 0 |
 | 1357 | 26.10 | Scene Graph | Dataset/Benchmark | 🤖 | [📎](http://arxiv.org/abs/2610.26247) | Bridging In-Situ Visualization to Game Engines: From ParaView Catalyst via ANARI to Unreal Engine | 0 |

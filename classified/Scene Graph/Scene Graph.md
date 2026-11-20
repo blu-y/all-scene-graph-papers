@@ -1,9 +1,10 @@
 # Scene Graph
 
-681 Papers.
+682 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1388 | 26.11 | Scene Graph | Dataset/Benchmark | 🤖 | [📎](http://arxiv.org/abs/2611.25408) | FG-GraphBench: Benchmarking and Enhancing Fine-Grained Visual Understanding with Multimodal Scene Graphs | 0 |
 | 1384 | 26.11 | Scene Graph | 3D Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2611.15429) | IncR-3DSGG: Incremental Posed RGB Image Based 3D Scene Graph Generation via Privileged Depth Supervision | 0 |
 | 1383 | 26.11 | Scene Graph | Dataset/Benchmark | 🤖 | [📎](http://arxiv.org/abs/2611.15418) | ChartGalaxy++: A Richly Annotated Dataset for Chart Understanding and Generation | 0 |
 | 1382 | 26.11 | Scene Graph | 3D Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2611.13903) | Persistent Metric-Semantic Maritime Scene Memory from Open-Vocabulary 3D Scene Graphs | 0 |
