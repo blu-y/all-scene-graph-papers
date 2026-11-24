@@ -1,9 +1,10 @@
 # Scene Graph - Scene Graph Generation
 
-217 Papers.
+218 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1389 | 26.11 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2611.27529) | Fix Where It Fails: Root-Cause-Guided Agentic Harness Optimization for Scene Graph Generation | 0 |
 | 1381 | 26.11 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2611.13496) | Reasoning-Aware Relational Representation Learning for Open-Vocabulary Scene Graph Generation | 0 |
 | 1374 | 26.11 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2611.07408) | PSGAgent: Enhancing MLLMs' Dynamic Visual Perception for Panoptic Scene Graph Generation via Agentic Reasoning | 0 |
 | 1372 | 26.11 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2611.04379) | Understanding Backdoor Attacks in Scene Graph Generation via Global Context Pathway | 0 |
