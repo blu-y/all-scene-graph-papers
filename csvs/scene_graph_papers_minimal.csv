@@ -1,4 +1,11 @@
 no,category,subcategory,arxiv_url,title,citations,source,additional_doi
+1396,Scene Graph,Synthesis,http://arxiv.org/abs/2611.30964 ,Graph2Scene: Relation-Aware Text-to-Image Generation with Graph-Guided Diffusion Model,0,laya,
+1395,Scene Graph,Synthesis,http://arxiv.org/abs/2611.30613 ,"CineAct: Interaction-State Agents for Playable, Branching Film Generation",0,laya,
+1394,Scene Graph,Synthesis,http://arxiv.org/abs/2611.30241 ,SonicRender: Structured and Time-Grounded Rendering of Multi-Event Audio Scene Generation,0,laya,
+1393,Robotics,Navigation,http://arxiv.org/abs/2611.29912 ,SuperNav-1.5: Structured Spatial Memory For Agentic Navigation Systems,0,laya,
+1392,Others,Medical,http://arxiv.org/abs/2611.28901 ,Gaze Graphs: A Scene-Level Representation of Visual Attention in the Operating Room,0,laya,
+1391,Reasoning,Scene Understanding,http://arxiv.org/abs/2611.28673 ,ViewAgent3D: A Training-Free Multi-View Pipeline for 3D Scene Understanding,0,laya,
+1390,Others,Autonomous Vehicles,http://arxiv.org/abs/2611.28129 ,"Urban State Representation for Autonomous Mobility: A Survey of Multimodal Perception, Architectures, Datasets, and Benchmarks",0,laya,
 1389,Scene Graph,Scene Graph Generation,http://arxiv.org/abs/2611.27529 ,Fix Where It Fails: Root-Cause-Guided Agentic Harness Optimization for Scene Graph Generation,0,laya,
 1388,Scene Graph,Dataset/Benchmark,http://arxiv.org/abs/2611.25408 ,FG-GraphBench: Benchmarking and Enhancing Fine-Grained Visual Understanding with Multimodal Scene Graphs,0,laya,
 1387,Others,Weakly Related,http://arxiv.org/abs/2611.22543 ,JointGV: Structure-Aware Correction of Visual World Models with Parallel Graph Dynamics for Long-Horizon Modeling,0,laya,

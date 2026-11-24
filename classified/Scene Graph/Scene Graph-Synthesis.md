@@ -1,9 +1,12 @@
 # Scene Graph - Synthesis
 
-99 Papers.
+102 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1396 | 26.11 | Scene Graph | Synthesis | 🤖 | [📎](http://arxiv.org/abs/2611.30964) | Graph2Scene: Relation-Aware Text-to-Image Generation with Graph-Guided Diffusion Model | 0 |
+| 1395 | 26.11 | Scene Graph | Synthesis | 🤖 | [📎](http://arxiv.org/abs/2611.30613) | CineAct: Interaction-State Agents for Playable, Branching Film Generation | 0 |
+| 1394 | 26.11 | Scene Graph | Synthesis | 🤖 | [📎](http://arxiv.org/abs/2611.30241) | SonicRender: Structured and Time-Grounded Rendering of Multi-Event Audio Scene Generation | 0 |
 | 1376 | 26.11 | Scene Graph | Synthesis | 🤖 | [📎](http://arxiv.org/abs/2611.08861) | Align3D: Image-Structure Co-Aligned 3D Scene Generation with Observability-Aware Fidelity-Preserving Guidance | 0 |
 | 1371 | 26.11 | Scene Graph | Synthesis | 🤖 | [📎](http://arxiv.org/abs/2611.04244) | CounterSketch: Physics-Grounded Counterfactual Reasoning for Sketch-to-Video Generation | 0 |
 | 1367 | 26.10 | Scene Graph | Synthesis | 🤖 | [📎](http://arxiv.org/abs/2610.36146) | From Structural Feedback to Prompt Policies: Learning Faithful Text-to-Image Prompt Editors | 0 |

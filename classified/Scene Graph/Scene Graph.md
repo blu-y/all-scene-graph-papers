@@ -1,9 +1,12 @@
 # Scene Graph
 
-683 Papers.
+686 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1396 | 26.11 | Scene Graph | Synthesis | 🤖 | [📎](http://arxiv.org/abs/2611.30964) | Graph2Scene: Relation-Aware Text-to-Image Generation with Graph-Guided Diffusion Model | 0 |
+| 1395 | 26.11 | Scene Graph | Synthesis | 🤖 | [📎](http://arxiv.org/abs/2611.30613) | CineAct: Interaction-State Agents for Playable, Branching Film Generation | 0 |
+| 1394 | 26.11 | Scene Graph | Synthesis | 🤖 | [📎](http://arxiv.org/abs/2611.30241) | SonicRender: Structured and Time-Grounded Rendering of Multi-Event Audio Scene Generation | 0 |
 | 1389 | 26.11 | Scene Graph | Scene Graph Generation | 🤖 | [📎](http://arxiv.org/abs/2611.27529) | Fix Where It Fails: Root-Cause-Guided Agentic Harness Optimization for Scene Graph Generation | 0 |
 | 1388 | 26.11 | Scene Graph | Dataset/Benchmark | 🤖 | [📎](http://arxiv.org/abs/2611.25408) | FG-GraphBench: Benchmarking and Enhancing Fine-Grained Visual Understanding with Multimodal Scene Graphs | 0 |
 | 1384 | 26.11 | Scene Graph | 3D Scene Graph | 🤖 | [📎](http://arxiv.org/abs/2611.15429) | IncR-3DSGG: Incremental Posed RGB Image Based 3D Scene Graph Generation via Privileged Depth Supervision | 0 |

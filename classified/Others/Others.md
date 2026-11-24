@@ -1,9 +1,11 @@
 # Others
 
-262 Papers.
+264 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1392 | 26.11 | Others | Medical | 🤖 | [📎](http://arxiv.org/abs/2611.28901) | Gaze Graphs: A Scene-Level Representation of Visual Attention in the Operating Room | 0 |
+| 1390 | 26.11 | Others | Autonomous Vehicles | 🤖 | [📎](http://arxiv.org/abs/2611.28129) | Urban State Representation for Autonomous Mobility: A Survey of Multimodal Perception, Architectures, Datasets, and Benchmarks | 0 |
 | 1387 | 26.11 | Others | Weakly Related | 🤖 | [📎](http://arxiv.org/abs/2611.22543) | JointGV: Structure-Aware Correction of Visual World Models with Parallel Graph Dynamics for Long-Horizon Modeling | 0 |
 | 1386 | 26.11 | Others | Not Related | 🤖 | [📎](http://arxiv.org/abs/2611.21996) | Beyond Appearance: Where Forest Visual Place Recognition Actually Fails | 0 |
 | 1380 | 26.11 | Others | Autonomous Vehicles | 🤖 | [📎](http://arxiv.org/abs/2611.12932) | URL-Sim: Unified and Regulated LiDAR Simulation for High-Fidelity Reconstruction of Dynamic Driving Scenes | 0 |
