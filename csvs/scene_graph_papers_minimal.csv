@@ -1,4 +1,6 @@
 no,category,subcategory,arxiv_url,title,citations,source,additional_doi
+1398,Others,Weakly Related,http://arxiv.org/abs/2611.32369 ,Visual-State Graph Memory for Streaming Video Understanding,0,laya,
+1397,Others,Weakly Related,http://arxiv.org/abs/2611.32022 ,Beyond Before-and-After Images: Evaluating Temporal Grounding in a Lightweight VLM for Disaster Assessment,0,laya,
 1396,Scene Graph,Synthesis,http://arxiv.org/abs/2611.30964 ,Graph2Scene: Relation-Aware Text-to-Image Generation with Graph-Guided Diffusion Model,0,laya,
 1395,Scene Graph,Synthesis,http://arxiv.org/abs/2611.30613 ,"CineAct: Interaction-State Agents for Playable, Branching Film Generation",0,laya,
 1394,Scene Graph,Synthesis,http://arxiv.org/abs/2611.30241 ,SonicRender: Structured and Time-Grounded Rendering of Multi-Event Audio Scene Generation,0,laya,

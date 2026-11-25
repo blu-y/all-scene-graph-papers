@@ -1,9 +1,11 @@
 # Others - Weakly Related
 
-60 Papers.
+62 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1398 | 26.11 | Others | Weakly Related | 🤖 | [📎](http://arxiv.org/abs/2611.32369) | Visual-State Graph Memory for Streaming Video Understanding | 0 |
+| 1397 | 26.11 | Others | Weakly Related | 🤖 | [📎](http://arxiv.org/abs/2611.32022) | Beyond Before-and-After Images: Evaluating Temporal Grounding in a Lightweight VLM for Disaster Assessment | 0 |
 | 1387 | 26.11 | Others | Weakly Related | 🤖 | [📎](http://arxiv.org/abs/2611.22543) | JointGV: Structure-Aware Correction of Visual World Models with Parallel Graph Dynamics for Long-Horizon Modeling | 0 |
 | 1369 | 26.11 | Others | Weakly Related | 🤖 | [📎](http://arxiv.org/abs/2611.01939) | VLSplat: Vision-Language Guided Object-Centric 3D Gaussian Splatting via Scene Graph | 0 |
 | 1362 | 26.10 | Others | Weakly Related | 🤖 | [📎](http://arxiv.org/abs/2610.29761) | OMAR: Open-World Multi-Attribute Reasoning for Scene-Conditioned Shelf Organization | 0 |
