@@ -1,9 +1,10 @@
 # Others
 
-266 Papers.
+267 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1400 | 26.11 | Others | Autonomous Vehicles | 🤖 | [📎](http://arxiv.org/abs/2611.33878) | Off the Driven Path: Transferable Road Understanding in Driving VLAs | 0 |
 | 1398 | 26.11 | Others | Weakly Related | 🤖 | [📎](http://arxiv.org/abs/2611.32369) | Visual-State Graph Memory for Streaming Video Understanding | 0 |
 | 1397 | 26.11 | Others | Weakly Related | 🤖 | [📎](http://arxiv.org/abs/2611.32022) | Beyond Before-and-After Images: Evaluating Temporal Grounding in a Lightweight VLM for Disaster Assessment | 0 |
 | 1392 | 26.11 | Others | Medical | 🤖 | [📎](http://arxiv.org/abs/2611.28901) | Gaze Graphs: A Scene-Level Representation of Visual Attention in the Operating Room | 0 |

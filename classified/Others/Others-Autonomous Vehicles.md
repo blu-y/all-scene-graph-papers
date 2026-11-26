@@ -1,9 +1,10 @@
 # Others - Autonomous Vehicles
 
-70 Papers.
+71 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1400 | 26.11 | Others | Autonomous Vehicles | 🤖 | [📎](http://arxiv.org/abs/2611.33878) | Off the Driven Path: Transferable Road Understanding in Driving VLAs | 0 |
 | 1390 | 26.11 | Others | Autonomous Vehicles | 🤖 | [📎](http://arxiv.org/abs/2611.28129) | Urban State Representation for Autonomous Mobility: A Survey of Multimodal Perception, Architectures, Datasets, and Benchmarks | 0 |
 | 1380 | 26.11 | Others | Autonomous Vehicles | 🤖 | [📎](http://arxiv.org/abs/2611.12932) | URL-Sim: Unified and Regulated LiDAR Simulation for High-Fidelity Reconstruction of Dynamic Driving Scenes | 0 |
 | 1337 | 26.09 | Others | Autonomous Vehicles | 🤖 | [📎](http://arxiv.org/abs/2609.39969) | TACTIC: Temporal and Context-Aware LLM Tactical Planning for Roadside LiDAR Attacks | 0 |

@@ -1,9 +1,10 @@
 # Scene Graph - Representation
 
-24 Papers.
+25 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1399 | 26.11 | Scene Graph | Representation | 🤖 | [📎](http://arxiv.org/abs/2611.33835) | 3D CoCa v3: Contrastive Learners with Scene Graphs for Urban Scene Understanding | 0 |
 | 1332 | 26.09 | Scene Graph | Representation | 🤖 | [📎](http://arxiv.org/abs/2609.38640) | Yggdrasil: a Layer-First 3D Scene Graph for Real-Time Querying | 0 |
 | 1130 | 26.05 | Scene Graph | Representation | 🤖 | [📎](http://arxiv.org/abs/2605.16456) | Multi-hop Relational Contrastive Learning: Extending Spatial Contrastive Pre-training Beyond Pairwise Relations | 0 |
 | 1101 | 26.04 | Scene Graph | Representation | 🤖 | [📎](http://arxiv.org/abs/2604.17454) | HSG: Hyperbolic Scene Graph | 0 |

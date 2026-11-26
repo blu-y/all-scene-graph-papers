@@ -1,4 +1,7 @@
 no,category,subcategory,arxiv_url,title,citations,source,additional_doi
+1401,Reasoning,VQA,http://arxiv.org/abs/2611.34745 ,How Well Do Vision-Language Scene Graphs Serve as Memory for Embodied Question Answering?,0,laya,
+1400,Others,Autonomous Vehicles,http://arxiv.org/abs/2611.33878 ,Off the Driven Path: Transferable Road Understanding in Driving VLAs,0,laya,
+1399,Scene Graph,Representation,http://arxiv.org/abs/2611.33835 ,3D CoCa v3: Contrastive Learners with Scene Graphs for Urban Scene Understanding,0,laya,
 1398,Others,Weakly Related,http://arxiv.org/abs/2611.32369 ,Visual-State Graph Memory for Streaming Video Understanding,0,laya,
 1397,Others,Weakly Related,http://arxiv.org/abs/2611.32022 ,Beyond Before-and-After Images: Evaluating Temporal Grounding in a Lightweight VLM for Disaster Assessment,0,laya,
 1396,Scene Graph,Synthesis,http://arxiv.org/abs/2611.30964 ,Graph2Scene: Relation-Aware Text-to-Image Generation with Graph-Guided Diffusion Model,0,laya,

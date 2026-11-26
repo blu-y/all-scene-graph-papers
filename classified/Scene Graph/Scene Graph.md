@@ -1,9 +1,10 @@
 # Scene Graph
 
-686 Papers.
+687 Papers.
 
 | no | date | category | subcategory | sorted by | arXiv | title | citation |
 |---:|:---:|:---|:---|:---:|:---:|:---|---:|
+| 1399 | 26.11 | Scene Graph | Representation | 🤖 | [📎](http://arxiv.org/abs/2611.33835) | 3D CoCa v3: Contrastive Learners with Scene Graphs for Urban Scene Understanding | 0 |
 | 1396 | 26.11 | Scene Graph | Synthesis | 🤖 | [📎](http://arxiv.org/abs/2611.30964) | Graph2Scene: Relation-Aware Text-to-Image Generation with Graph-Guided Diffusion Model | 0 |
 | 1395 | 26.11 | Scene Graph | Synthesis | 🤖 | [📎](http://arxiv.org/abs/2611.30613) | CineAct: Interaction-State Agents for Playable, Branching Film Generation | 0 |
 | 1394 | 26.11 | Scene Graph | Synthesis | 🤖 | [📎](http://arxiv.org/abs/2611.30241) | SonicRender: Structured and Time-Grounded Rendering of Multi-Event Audio Scene Generation | 0 |
